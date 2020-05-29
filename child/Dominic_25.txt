@@ -53,10 +53,12 @@
 ^^ there darling $$
 ^^ that a Daddy $$
 ^^ that Daddy $$
+^^ xxx $$
 ^^ d Daddy $$
 ^^ Daddy $$
 ^^ Daddy $$
-^^  Daddy $$
+^^ Dad Daddy $$
+^^ xxx $$
 ^^ Daddy $$
 ^^ tissue $$
 ^^ tissue $$
@@ -69,6 +71,7 @@
 ^^ g grape $$
 ^^ juice $$
 ^^ orange $$
+^^ xxx $$
 ^^ f $$
 ^^ f finger $$
 ^^ here $$
@@ -98,10 +101,13 @@
 ^^ l $$
 ^^ kite $$
 ^^ just there $$
+^^ xxx $$
 ^^ s $$
 ^^ s $$
+^^ xxx $$
 ^^ parrot $$
 ^^ parrot $$
+^^ xxx $$
 ^^ Gordon $$
 ^^ mhm $$
 ^^ sorry $$
@@ -109,9 +115,13 @@
 ^^ sorry $$
 ^^ sorry $$
 ^^ not $$
+^^ xxx $$
+^^ xxx $$
 ^^ x $$
 ^^ go just there $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ house $$
 ^^ oh $$
 ^^ oh $$
@@ -121,13 +131,15 @@
 ^^ just there $$
 ^^ just there Gordon $$
 ^^ there $$
-^^  ambulance $$
+^^ xxx $$
+^^ um ambulance $$
 ^^ upstairs $$
 ^^ upstairs $$
 ^^ upstairs $$
 ^^ ambulance upstairs $$
 ^^ upstairs $$
 ^^ dig $$
+^^ xxx $$
 ^^ no $$
 ^^ police car $$
 ^^ here $$
@@ -135,6 +147,7 @@
 ^^ lift $$
 ^^ lift $$
 ^^ police car $$
+^^ xxx $$
 ^^ police car $$
 ^^ police car $$
 ^^ police car $$
@@ -142,6 +155,7 @@
 ^^ what be that $$
 ^^ car $$
 ^^ police car $$
+^^ xxx $$
 ^^ Gordon $$
 ^^ what be this one $$
 ^^ car $$
@@ -154,6 +168,7 @@
 ^^ might do $$
 ^^ might do $$
 ^^ might do $$
+^^ xxx $$
 ^^ might do $$
 ^^ might do $$
 ^^ might do $$
@@ -162,6 +177,7 @@
 ^^ bus $$
 ^^ dig $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ car $$
 ^^ this $$
@@ -170,11 +186,13 @@
 ^^ mhm $$
 ^^ fit on $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ you fit it Mummy $$
 ^^ that one $$
 ^^ that one $$
-^^  that one $$
+^^ xxx that one $$
 ^^ that be it $$
 ^^ lorry $$
 ^^ what $$
@@ -189,6 +207,7 @@
 ^^ no $$
 ^^ here $$
 ^^ Ribena $$
+^^ xxx $$
 ^^ what be that $$
 ^^ Pooh_Bear $$
 ^^ rabbit $$
@@ -199,8 +218,10 @@
 ^^ mhm $$
 ^^ petrol $$
 ^^ petrol $$
+^^ xxx $$
+^^ xxx $$
 ^^ fix it $$
-^^ I  fix it $$
+^^ I xxx fix it $$
 ^^ mhm $$
 ^^ I fix it $$
 ^^ oh $$
@@ -209,6 +230,7 @@
 ^^ cat $$
 ^^ hey $$
 ^^ oh $$
+^^ xxx $$
 ^^ car $$
 ^^ red car $$
 ^^ mhm $$
@@ -242,6 +264,7 @@
 ^^ I want biscuit $$
 ^^ I want $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
@@ -253,7 +276,8 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^ no  smack bottom $$
+^^ no xxx smack bottom $$
+^^ xxx $$
 ^^ what $$
 ^^ that $$
 ^^ no $$
@@ -272,10 +296,11 @@
 ^^ naughty $$
 ^^ naughty $$
 ^^ look $$
+^^ xxx $$
 ^^ no $$
 ^^ no cat $$
 ^^ cat outside $$
-^^ cat  outside $$
+^^ cat outside outside $$
 ^^ not cat outside $$
 ^^ cat outside $$
 ^^ cat outside $$
@@ -302,9 +327,10 @@
 ^^ sick Gordon $$
 ^^ sick Gordon $$
 ^^ no $$
+^^ xxx $$
 ^^ grape $$
 ^^ Mummy grape $$
-^^  today $$
+^^ xxx today $$
 ^^ later $$
 ^^ Mummy grape $$
 ^^ mhm $$
@@ -321,12 +347,13 @@
 ^^ what be that $$
 ^^ what be that $$
 ^^ nose $$
-^^ that  $$
+^^ that xxx $$
 ^^ head $$
 ^^ that $$
 ^^ hot $$
+^^ xxx $$
 ^^ rain $$
-^^ these  $$
+^^ these xxx $$
 ^^ what be that $$
 ^^ girl $$
 ^^ two $$
@@ -338,6 +365,8 @@
 ^^ that outside $$
 ^^ Dominic outside $$
 ^^ later $$
+^^ xxx $$
+^^ xxx $$
 ^^ drum $$
 ^^ hand $$
 ^^ little girl $$
@@ -346,12 +375,14 @@
 ^^ swan $$
 ^^ that $$
 ^^ duck $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ no $$
 ^^ not $$
 ^^ no $$
 ^^ no no $$
+^^ xxx $$
 ^^ that $$
 ^^ open $$
 ^^ away $$
@@ -366,14 +397,18 @@
 ^^ mhm $$
 ^^ cow $$
 ^^ dog $$
+^^ xxx $$
 ^^ rabbit $$
 ^^ horse $$
 ^^ no $$
 ^^ lid back on $$
+^^ xxx $$
+^^ xxx $$
 ^^ what $$
 ^^ not $$
 ^^ train $$
 ^^ it be not $$
+^^ xxx $$
 ^^ it be not $$
 ^^ mhm $$
 ^^ what $$
@@ -405,21 +440,30 @@
 ^^ off $$
 ^^ on $$
 ^^ on $$
+^^ xxx $$
 ^^ front $$
 ^^ man $$
 ^^ man $$
+^^ xxx $$
+^^ xxx $$
 ^^ nothing $$
 ^^ Mummy $$
 ^^ foot $$
+^^ xxx $$
 ^^ shoe $$
+^^ xxx $$
 ^^ shoe $$
 ^^ mhm $$
 ^^ shoe $$
 ^^ shoe $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ do $$
 ^^ that do $$
 ^^ that one do $$
 ^^ that alright $$
+^^ xxx $$
 ^^ do $$
 ^^ do $$
 ^^ that be it $$
@@ -440,11 +484,13 @@
 ^^ I will $$
 ^^ away $$
 ^^ mhm $$
+^^ xxx $$
 ^^ doll $$
 ^^ hat $$
 ^^ head $$
 ^^ oh $$
 ^^ ribbon $$
+^^ xxx $$
 ^^ doll $$
 ^^ lady $$
 ^^ doll asleep $$
@@ -454,13 +500,16 @@
 ^^ not $$
 ^^ no $$
 ^^ hat off $$
+^^ xxx $$
 ^^ do $$
 ^^ do $$
 ^^ oh $$
 ^^ now $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ cat outside $$
 ^^ oh $$
+^^ xxx $$
 ^^ cat there $$
 ^^ cat outside $$
 ^^ bed $$
@@ -470,12 +519,15 @@
 ^^ cat outside $$
 ^^ in garden $$
 ^^ garden $$
+^^ xxx $$
 ^^ oh $$
 ^^ monkey $$
 ^^ monkey $$
 ^^ what be this $$
 ^^ what be that $$
+^^ xxx $$
 ^^ tyre $$
+^^ xxx $$
 ^^ tyre $$
 ^^ monkey all_gone $$
 ^^ oh dear $$
@@ -484,8 +536,10 @@
 ^^ no $$
 ^^ no $$
 ^^ on there $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ no no $$
@@ -494,12 +548,15 @@
 ^^ inside $$
 ^^ what $$
 ^^ break $$
-^^  Gordon break $$
+^^ a Gordon break $$
 ^^ oh dear brick $$
 ^^ Mum $$
 ^^ not you $$
 ^^ you $$
+^^ xxx $$
+^^ a $$
 ^^ look at this $$
+^^ xxx $$
 ^^ no $$
 ^^ not $$
 ^^ sick $$
@@ -507,6 +564,7 @@
 ^^ sick $$
 ^^ Gordon $$
 ^^ Gordon $$
+^^ xxx $$
 ^^ Gordon $$
 ^^ Gordon $$
 ^^ I find him $$
@@ -517,9 +575,10 @@
 ^^ Gordon $$
 ^^ Gordon $$
 ^^ Gordon $$
+^^ xxx $$
 ^^ not there $$
 ^^ he be not there $$
-^^  not there $$
+^^ not not there $$
 ^^ not there $$
 ^^ what Mummy get $$
 ^^ get Gordon $$
@@ -544,6 +603,7 @@
 ^^ no away $$
 ^^ not away $$
 ^^ no away $$
+^^ xxx $$
 ^^ mhm $$
 ^^ brick train $$
 ^^ mhm $$
@@ -565,6 +625,7 @@
 ^^ fence $$
 ^^ blue fence $$
 ^^ brick $$
+^^ xxx $$
 ^^ red fence $$
 ^^ more fence all_gone $$
 ^^ shush $$
@@ -588,6 +649,7 @@
 ^^ ready $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
 ^^ this $$
 ^^ this $$
 ^^ this $$
@@ -596,7 +658,7 @@
 ^^ there bridge $$
 ^^ mhm $$
 ^^ bridge $$
-^^  bridge $$
+^^ xxx bridge $$
 ^^ train bridge $$
 ^^ train bridge $$
 ^^ train bridge $$
@@ -608,7 +670,7 @@
 ^^ bridge $$
 ^^ Gordon bridge $$
 ^^ Gordon bridge $$
-^^  bridge $$
+^^ xxx bridge $$
 ^^ Gordon $$
 ^^ Gordon $$
 ^^ oh $$
@@ -653,9 +715,13 @@
 ^^ need one $$
 ^^ other house $$
 ^^ house $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ like train $$
 ^^ oh $$
 ^^ this morning $$
+^^ xxx $$
 ^^ that orange $$
 ^^ Ribena $$
 ^^ that Ribena be $$
@@ -677,6 +743,8 @@
 ^^ bike $$
 ^^ here $$
 ^^ bike green $$
+^^ xxx $$
+^^ xxx $$
 ^^ sister noise $$
 ^^ what be this $$
 ^^ yes $$
@@ -687,11 +755,12 @@
 ^^ ear $$
 ^^ roof ear $$
 ^^ oh $$
+^^ xxx $$
 ^^ not $$
 ^^ no $$
 ^^ no $$
 ^^ those $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ that $$
 ^^ that fire $$
 ^^ truck $$
@@ -700,11 +769,12 @@
 ^^ truck away $$
 ^^ truck away $$
 ^^ truck $$
-^^  downstairs $$
+^^ xxx downstairs $$
+^^ xxx $$
 ^^ truck $$
 ^^ upstairs $$
 ^^ these car $$
-^^  ambulance $$
+^^ am ambulance $$
 ^^ truck $$
 ^^ this one ambulance $$
 ^^ that bus $$
@@ -722,7 +792,7 @@
 ^^ what be this $$
 ^^ go now $$
 ^^ motor $$
-^^  get petrol $$
+^^ get get petrol $$
 ^^ get petrol $$
 ^^ petrol in it $$
 ^^ car $$
@@ -733,11 +803,13 @@
 ^^ vroom $$
 ^^ car $$
 ^^ mhm $$
+^^ xxx $$
 ^^ stick know $$
+^^ xxx $$
 ^^ man $$
 ^^ oh look $$
 ^^ hat $$
-^^ hat  $$
+^^ hat xxx $$
 ^^ mhm $$
 ^^ oh $$
 ^^ hat $$
@@ -750,9 +822,10 @@
 ^^ no man back $$
 ^^ bike $$
 ^^ man $$
-^^  man $$
+^^ xxx man $$
 ^^ man bike $$
 ^^ man bike $$
+^^ xxx $$
 ^^ hand $$
 ^^ hand $$
 ^^ oh $$
@@ -776,19 +849,21 @@
 ^^ leave $$
 ^^ mhm $$
 ^^ Gordon garden $$
+^^ xxx $$
 ^^ outside $$
 ^^ I do $$
 ^^ I do $$
 ^^ do not I $$
 ^^ do not I $$
 ^^ parrot $$
-^^ Gordon  $$
+^^ Gordon xxx $$
 ^^ mhm $$
+^^ xxx $$
 ^^ crayon that $$
 ^^ crayon $$
 ^^ Gordon outside $$
 ^^ Gordon outside $$
-^^  outside $$
+^^ out outside $$
 ^^ what $$
 ^^ outside $$
 ^^ mhm $$
@@ -796,7 +871,8 @@
 ^^ car as_well $$
 ^^ car as_well $$
 ^^ that Gordon outside $$
-^^ car  $$
+^^ car xxx $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ crash $$
 ^^ that crash $$
@@ -806,10 +882,11 @@
 ^^ fix $$
 ^^ oh $$
 ^^ bridge $$
+^^ xxx $$
 ^^ bridge $$
 ^^ that $$
 ^^ I fix it $$
-^^  Gordon fix it $$
+^^ Gordon Gordon fix it $$
 ^^ that be Gordon outside $$
 ^^ Gordon fix $$
 ^^ Gordon fix it $$
@@ -818,13 +895,16 @@
 ^^ well do $$
 ^^ choo $$
 ^^ that bridge $$
+^^ xxx $$
 ^^ that $$
 ^^ that sneeze $$
-^^ sister  sneeze $$
+^^ sister sneeze sneeze $$
 ^^ sneeze $$
+^^ xxx $$
 ^^ not that sneeze $$
 ^^ that sneeze $$
 ^^ that sneeze $$
+^^ xxx $$
 ^^ that $$
 ^^ oh dear $$
 ^^ sneeze $$
@@ -840,15 +920,19 @@
 ^^ round $$
 ^^ that car $$
 ^^ fix it $$
+^^ xxx $$
+^^ xxx $$
 ^^ that sit down $$
 ^^ that sit down $$
+^^ xxx $$
 ^^ track $$
 ^^ those $$
 ^^ off $$
 ^^ that bus off $$
 ^^ bus $$
 ^^ just bus $$
-^^ that  $$
+^^ xxx $$
+^^ that xxx $$
 ^^ that fix it $$
 ^^ that fix it $$
 ^^ off $$
@@ -870,6 +954,7 @@
 ^^ oh $$
 ^^ fix it $$
 ^^ oh $$
+^^ xxx $$
 ^^ fix it will it $$
 ^^ that be it $$
 ^^ I fix it $$
@@ -877,7 +962,7 @@
 ^^ that $$
 ^^ bike go $$
 ^^ mhm $$
-^^ that  $$
+^^ that xxx $$
 ^^ grrr $$
 ^^ train go now $$
 ^^ train go now $$
@@ -890,6 +975,7 @@
 ^^ get wheel $$
 ^^ get wheel $$
 ^^ get wheel $$
+^^ xxx $$
 ^^ that up there $$
 ^^ go now $$
 ^^ yes $$
@@ -907,6 +993,8 @@
 ^^ Mummy $$
 ^^ these away $$
 ^^ Mummy away $$
+^^ xxx $$
+^^ xxx $$
 ^^ away $$
 ^^ away $$
 ^^ go now $$
@@ -918,14 +1006,17 @@
 ^^ there be $$
 ^^ go now $$
 ^^ go now $$
-^^ plane  $$
+^^ plane xxx $$
+^^ xxx $$
 ^^ go now $$
 ^^ mhm $$
 ^^ go now $$
+^^ xxx $$
 ^^ oh $$
 ^^ go now $$
 ^^ that $$
 ^^ oh $$
+^^ xxx $$
 ^^ that $$
 ^^ I play it $$
 ^^ that play there $$
@@ -933,6 +1024,8 @@
 ^^ off $$
 ^^ that off $$
 ^^ that off $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ away $$
 ^^ grrr $$
@@ -942,6 +1035,7 @@
 ^^ mhm $$
 ^^ that fix it $$
 ^^ wheel $$
+^^ xxx $$
 ^^ get car $$
 ^^ squidgy car $$
 ^^ car car $$
@@ -957,7 +1051,9 @@
 ^^ that $$
 ^^ hm $$
 ^^ this $$
+^^ xxx $$
 ^^ no man $$
+^^ xxx $$
 ^^ that $$
 ^^ this $$
 ^^ mhm $$
@@ -967,11 +1063,13 @@
 ^^ not alright $$
 ^^ mhm $$
 ^^ please $$
+^^ xxx $$
 ^^ there $$
 ^^ that fix it $$
 ^^ fix it $$
 ^^ fix it $$
 ^^ fix it please $$
+^^ xxx $$
 ^^ oh $$
 ^^ fix it $$
 ^^ fix it please $$
@@ -982,8 +1080,9 @@
 ^^ that bridge $$
 ^^ through there $$
 ^^ through that $$
+^^ xxx $$
 ^^ fix it $$
-^^  that be it $$
+^^ that that be it $$
 ^^ Mummy break it $$
 ^^ that fix it $$
 ^^ fix it again please $$
@@ -1001,6 +1100,7 @@
 ^^ mhm $$
 ^^ mhm $$
 ^^ oh $$
+^^ xxx $$
 ^^ I want more chocolate $$
 ^^ Mummy $$
 ^^ chocolate $$
@@ -1028,6 +1128,7 @@
 ^^ train $$
 ^^ this $$
 ^^ mhm $$
+^^ xxx $$
 ^^ off $$
 ^^ bite $$
 ^^ bite $$
@@ -1039,23 +1140,29 @@
 ^^ go $$
 ^^ chocolate $$
 ^^ chocolate $$
+^^ xxx $$
 ^^ Ribena $$
 ^^ want Ribena $$
 ^^ want Ribena $$
 ^^ that $$
 ^^ eat $$
 ^^ all $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ mhm $$
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ shush $$
+^^ xxx $$
 ^^ that Mummy $$
 ^^ tomato $$
 ^^ oh dear $$
 ^^ box out $$
 ^^ clothes $$
 ^^ doll be clothes $$
-^^  doll be clothes $$
+^^ um doll be clothes $$
 ^^ hat on $$
 ^^ hat on $$
 ^^ that hat there $$
@@ -1069,6 +1176,7 @@
 ^^ that Dominic $$
 ^^ that $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ that fix it $$
 ^^ that fix it $$
 ^^ that fix it please $$
@@ -1088,6 +1196,7 @@
 ^^ oh_goodness $$
 ^^ oh_goodness $$
 ^^ oh_goodness $$
+^^ xxx $$
 ^^ bridge down $$
 ^^ make other one $$
 ^^ mhm $$
@@ -1105,11 +1214,13 @@
 ^^ crash car $$
 ^^ crash car $$
 ^^ oh $$
-^^ that  $$
+^^ that xxx $$
 ^^ this $$
+^^ xxx $$
 ^^ down $$
 ^^ Mummy $$
 ^^ bang head $$
+^^ xxx $$
 ^^ sign $$
 ^^ big head $$
 ^^ oh $$
@@ -1119,6 +1230,7 @@
 ^^ fix $$
 ^^ fix it $$
 ^^ please $$
+^^ xxx $$
 ^^ I stick $$
 ^^ stick $$
 ^^ stick $$
@@ -1134,6 +1246,8 @@
 ^^ truck $$
 ^^ floor $$
 ^^ train $$
+^^ xxx $$
+^^ xxx $$
 ^^ that fix it $$
 ^^ train $$
 ^^ not car $$
@@ -1141,18 +1255,20 @@
 ^^ not car $$
 ^^ get it all out $$
 ^^ that Thomas $$
-^^  Thomas $$
+^^ xxx Thomas $$
 ^^ bridge $$
 ^^ that train $$
 ^^ get train $$
+^^ xxx $$
 ^^ not train $$
 ^^ no $$
 ^^ not train $$
-^^ I  fix it $$
+^^ I fix fix it $$
 ^^ Thomas like that $$
-^^ Thomas  that $$
+^^ Thomas xxx that $$
 ^^ that $$
 ^^ off $$
+^^ xxx $$
 ^^ that one $$
 ^^ track big $$
 ^^ Thomas on $$
@@ -1171,7 +1287,7 @@
 ^^ oh $$
 ^^ fix it $$
 ^^ fix $$
-^^ Daddy  $$
+^^ Daddy xxx $$
 ^^ oh $$
 ^^ fix it $$
 ^^ please Mummy $$
@@ -1180,14 +1296,16 @@
 ^^ good $$
 ^^ that good $$
 ^^ good $$
-^^  track $$
+^^ xxx track $$
 ^^ over bridge $$
 ^^ Thomas over bridge $$
 ^^ need not bridge $$
 ^^ mhm $$
 ^^ mhm $$
+^^ xxx $$
 ^^ Suzie $$
 ^^ mhm $$
+^^ xxx $$
 ^^ Grandad $$
 ^^ Nana $$
 ^^ mhm $$
@@ -1198,16 +1316,21 @@
 ^^ that track $$
 ^^ other track $$
 ^^ Jaffa as_well $$
-^^  Jaffa as_well $$
+^^ xxx Jaffa as_well $$
 ^^ mhm $$
+^^ xxx $$
+^^ xxx $$
 ^^ this $$
 ^^ not train track $$
 ^^ not train track please $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah $$
 ^^ that one $$
 ^^ mean for that one $$
+^^ xxx $$
+^^ xxx $$
 ^^ that $$
 ^^ Thomas $$
 ^^ that $$
@@ -1222,8 +1345,10 @@
 ^^ that Thomas $$
 ^^ lose Edward though $$
 ^^ mhm $$
+^^ xxx $$
 ^^ oh $$
 ^^ fix it $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ alright $$
@@ -1231,18 +1356,22 @@
 ^^ fix it $$
 ^^ oh $$
 ^^ fix it $$
+^^ xxx $$
 ^^ oh $$
 ^^ fix it $$
 ^^ good $$
 ^^ that alright $$
 ^^ Thomas $$
 ^^ than Gordon $$
+^^ xxx $$
+^^ xxx $$
 ^^ follow Thomas $$
 ^^ mhm $$
 ^^ Mummy fix it $$
 ^^ Caroline fix it $$
 ^^ oh $$
 ^^ fix it $$
+^^ xxx $$
 ^^ oh $$
 ^^ that be it $$
 ^^ oh $$
@@ -1257,10 +1386,13 @@
 ^^ train $$
 ^^ on it $$
 ^^ yeah $$
+^^ xxx $$
 ^^ not Thomas $$
 ^^ that Thomas $$
 ^^ other truck $$
+^^ xxx $$
 ^^ choo $$
+^^ xxx $$
 ^^ whoops $$
 ^^ not Thomas $$
 ^^ Thomas track $$
@@ -1285,11 +1417,15 @@
 ^^ I fix it $$
 ^^ track $$
 ^^ I fix it $$
+^^ xxx $$
+^^ xxx $$
 ^^ that be it $$
 ^^ that round $$
 ^^ this one round $$
 ^^ that more $$
 ^^ do more $$
+^^ xxx $$
+^^ xxx $$
 ^^ I fix it $$
 ^^ I fix it Thomas $$
 ^^ Caroline fix it $$
@@ -1334,7 +1470,9 @@
 ^^ glass $$
 ^^ mhm $$
 ^^ have Gordon $$
-^^  Caroline fix glass $$
+^^ xxx $$
+^^ um Caroline fix glass $$
+^^ xxx $$
 ^^ red $$
 ^^ that red $$
 ^^ yellow $$
@@ -1344,7 +1482,7 @@
 ^^ not red $$
 ^^ Gordon five $$
 ^^ Gordon four $$
-^^  Henry five $$
+^^ Henry Henry five $$
 ^^ Henry $$
 ^^ Henry be three $$
 ^^ Henry not six $$
@@ -1354,6 +1492,7 @@
 ^^ four $$
 ^^ Edward $$
 ^^ Percy six $$
+^^ xxx $$
 ^^ Thomas five $$
 ^^ Thomas five $$
 ^^ James six $$
@@ -1374,6 +1513,7 @@
 ^^ not that $$
 ^^ choo $$
 ^^ choo $$
+^^ xxx $$
 ^^ Thomas $$
 ^^ that dig $$
 ^^ that fall off $$
@@ -1399,8 +1539,10 @@
 ^^ jeep $$
 ^^ that lorry $$
 ^^ lorry blue $$
+^^ xxx $$
 ^^ that $$
 ^^ tanker $$
+^^ xxx $$
 ^^ oh $$
 ^^ red car $$
 ^^ stick $$
@@ -1424,15 +1566,16 @@
 ^^ not lorry $$
 ^^ oh $$
 ^^ James $$
+^^ xxx $$
 ^^ oh $$
 ^^ fix it mum $$
 ^^ choo $$
 ^^ oh $$
-^^  do it $$
+^^ xxx do it $$
 ^^ yeah $$
 ^^ that that $$
 ^^ that on $$
-^^  elephant $$
+^^ xxx elephant $$
 ^^ oh $$
 ^^ elephant $$
 ^^ as_well $$
@@ -1447,14 +1590,17 @@
 ^^ train $$
 ^^ on train on $$
 ^^ no way $$
+^^ xxx $$
 ^^ what be that $$
 ^^ red car out $$
 ^^ that red car $$
 ^^ in $$
 ^^ panda $$
 ^^ put it car $$
+^^ xxx $$
 ^^ drive $$
 ^^ oh $$
+^^ xxx $$
 ^^ not that one $$
 ^^ Thomas bridge $$
 ^^ Thomas bridge $$
@@ -1471,13 +1617,15 @@
 ^^ oh $$
 ^^ down $$
 ^^ oh no $$
-^^ that  $$
+^^ xxx $$
+^^ that xxx $$
 ^^ not fit now $$
 ^^ fit now $$
 ^^ Thomas $$
 ^^ oh $$
 ^^ want Thomas $$
 ^^ where be Thomas $$
+^^ xxx $$
 ^^ Thomas $$
 ^^ I get it $$
 ^^ Thomas $$
@@ -1486,12 +1634,14 @@
 ^^ Thomas $$
 ^^ I find Thomas $$
 ^^ that Thomas $$
+^^ xxx $$
 ^^ ow $$
 ^^ ow $$
+^^ xxx $$
 ^^ that Thomas $$
 ^^ Thomas away $$
 ^^ Thomas there $$
-^^ that  $$
+^^ that xxx $$
 ^^ choo $$
 ^^ choo $$
 ^^ choo $$
@@ -1500,7 +1650,7 @@
 ^^ Thomas there $$
 ^^ James $$
 ^^ James $$
-^^  now $$
+^^ xxx now $$
 ^^ there $$
 ^^ that James $$
 ^^ there $$
@@ -1517,12 +1667,14 @@
 ^^ oh dear $$
 ^^ oh dear Thomas $$
 ^^ mhm $$
+^^ xxx $$
 ^^ dirt $$
 ^^ tar $$
+^^ xxx $$
 ^^ oh $$
 ^^ look $$
 ^^ Thomas $$
-^^ Thomas  $$
+^^ Thomas xxx $$
 ^^ no $$
 ^^ no brick $$
 ^^ mhm $$
@@ -1560,7 +1712,7 @@
 ^^ mhm $$
 ^^ mhm $$
 ^^ nice bread roll $$
-^^ that  $$
+^^ that xxx $$
 ^^ oh $$
 ^^ that cheese $$
 ^^ like that $$
@@ -1580,20 +1732,23 @@
 ^^ mhm $$
 ^^ no $$
 ^^ mhm $$
-^^  that grape $$
+^^ that that grape $$
 ^^ mhm $$
-^^  that grape $$
+^^ that that grape $$
 ^^ mhm $$
 ^^ nice $$
 ^^ that nice $$
 ^^ no $$
-^^ that  $$
+^^ that xxx $$
+^^ xxx $$
 ^^ bite fence thing $$
+^^ xxx $$
 ^^ that in $$
-^^ get more  $$
+^^ get more xxx $$
 ^^ that blue one $$
 ^^ more $$
 ^^ just there $$
+^^ xxx $$
 ^^ that red $$
 ^^ that red $$
 ^^ more $$
@@ -1605,22 +1760,28 @@
 ^^ fence all_gone now $$
 ^^ that fence $$
 ^^ two fence $$
-^^ what be  that $$
+^^ what be this that $$
+^^ mm $$
 ^^ it hot $$
 ^^ that hot $$
 ^^ hot $$
 ^^ hot too $$
+^^ mm $$
 ^^ nice $$
 ^^ nice $$
 ^^ nice $$
 ^^ mhm $$
 ^^ that be roll $$
 ^^ bread roll $$
-^^  like that $$
+^^ that like that $$
+^^ mm $$
 ^^ that that $$
 ^^ peach $$
 ^^ peach $$
+^^ xxx $$
+^^ xxx $$
 ^^ crash $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ Caroline $$
@@ -1655,7 +1816,7 @@
 ^^ what be that $$
 ^^ ball $$
 ^^ ball $$
-^^ that  $$
+^^ that xxx $$
 ^^ that ball $$
 ^^ that ball $$
 ^^ tomato as_well $$
@@ -1666,11 +1827,17 @@
 ^^ banana $$
 ^^ mhm $$
 ^^ that banana $$
+^^ xxx $$
+^^ xxx $$
 ^^ that chip $$
+^^ xxx $$
+^^ xxx $$
 ^^ that $$
+^^ mm $$
 ^^ daddy chip $$
 ^^ mum $$
 ^^ that $$
+^^ xxx $$
 ^^ Yolanda $$
 ^^ Yolanda chip $$
 ^^ like chip $$
@@ -1679,9 +1846,11 @@
 ^^ burger $$
 ^^ cheese sandwich $$
 ^^ cheese $$
+^^ mm $$
 ^^ that $$
 ^^ yum $$
 ^^ yum $$
+^^ xxx $$
 ^^ this $$
 ^^ crash $$
 ^^ crash $$
@@ -1689,11 +1858,18 @@
 ^^ oh dear $$
 ^^ oh dear train $$
 ^^ oh dear train $$
+^^ mm $$
+^^ mm $$
+^^ mm $$
+^^ xxx $$
+^^ mm $$
 ^^ nice $$
 ^^ yum $$
 ^^ oh dear $$
 ^^ oh $$
+^^ mm $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ good now that $$
 ^^ oh dear $$
 ^^ oh dear $$
@@ -1701,15 +1877,19 @@
 ^^ oh $$
 ^^ brick $$
 ^^ train $$
+^^ xxx $$
 ^^ other one train $$
+^^ xxx $$
+^^ xxx $$
 ^^ other one $$
+^^ xxx $$
 ^^ Dominic $$
 ^^ oh $$
 ^^ fix it mum $$
 ^^ choo $$
 ^^ Thomas $$
 ^^ Thomas $$
-^^  Thomas fix $$
+^^ Thomas Thomas fix $$
 ^^ this out $$
 ^^ mhm $$
 ^^ mhm $$
@@ -1719,6 +1899,8 @@
 ^^ orange $$
 ^^ mhm $$
 ^^ I see that $$
+^^ xxx $$
+^^ xxx $$
 ^^ look for red $$
 ^^ that red $$
 ^^ that two red $$
@@ -1743,7 +1925,7 @@
 ^^ do noise $$
 ^^ daddy do $$
 ^^ more $$
-^^ more  $$
+^^ more xxx $$
 ^^ oh $$
 ^^ that more $$
 ^^ more in there $$

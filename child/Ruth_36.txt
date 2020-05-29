@@ -5,10 +5,11 @@
 ^^ you put me out door $$
 ^^ yeah $$
 ^^ I naughty $$
-^^  no $$
+^^ no no $$
 ^^ go play hide and seek $$
 ^^ Mummy $$
 ^^ go go go go go go go $$
+^^ xxx $$
 ^^ yeah $$
 ^^ I be a baby $$
 ^^ I be a baby $$
@@ -23,6 +24,7 @@
 ^^ you make my tea $$
 ^^ yeah $$
 ^^ cheese $$
+^^ xxx $$
 ^^ this be my dodie $$
 ^^ where my dodie Mummy $$
 ^^ my dodie $$
@@ -31,11 +33,11 @@
 ^^ yeah $$
 ^^ cheese $$
 ^^ cheese $$
-^^  no $$
+^^ no no $$
 ^^ chocolate for pudding $$
 ^^ chocolate ice $$
 ^^ me $$
-^^  I get a chair $$
+^^ I I get a chair $$
 ^^ me eat it $$
 ^^ you eat a bit $$
 ^^ what $$
@@ -47,10 +49,10 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ you eat a bit $$
-^^  do not Mummy $$
+^^ don't do not Mummy $$
 ^^ no $$
 ^^ I like it $$
-^^   I be a baby $$
+^^ I'm a I be a baby $$
 ^^ me bring you some flower $$
 ^^ Mummy bring them home $$
 ^^ Mummy $$
@@ -72,7 +74,8 @@
 ^^ somebody break it $$
 ^^ somebody have it $$
 ^^ Mummy $$
-^^ I get big  $$
+^^ I get big xxx $$
+^^ xxx $$
 ^^ mhm $$
 ^^ you get the button you hand $$
 ^^ you button $$
@@ -89,7 +92,7 @@
 ^^ yeah $$
 ^^ picnic $$
 ^^ picnic $$
-^^  you want to bake my cake $$
+^^ you you want to bake my cake $$
 ^^ yeah $$
 ^^ chocolate $$
 ^^ one two three four five six $$
@@ -100,20 +103,21 @@
 ^^ when it my birth $$
 ^^ me do not want to wear nappie $$
 ^^ Anna $$
-^^  no my friend $$
+^^ nobody no my friend $$
 ^^ yeah $$
-^^  Aunt_Gwen $$
-^^  Anna $$
-^^  baby $$
-^^  baby can not talk $$
+^^ um Aunt_Gwen $$
+^^ er Anna $$
+^^ er baby $$
+^^ er baby can not talk $$
 ^^ no $$
-^^   I want to have my bath $$
-^^     let me go in that little bath $$
+^^ I want I want to have my bath $$
+^^ I want I want let me go in that little bath $$
 ^^ yeah $$
 ^^ bath $$
 ^^ oh $$
 ^^ that my bath $$
 ^^ this one $$
+^^ xxx $$
 ^^ do not be silly $$
 ^^ do not be silly Mummy $$
 ^^ take off all my clothes $$
@@ -127,39 +131,40 @@
 ^^ I already get my tap on $$
 ^^ hot $$
 ^^ here you be baby $$
-^^   lot $$
+^^ lots lots lot $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ you wash me $$
 ^^ in there $$
-^^ that  in here $$
+^^ that xxx in here $$
 ^^ it live in here $$
 ^^ yeah $$
-^^   it live in there $$
+^^ it it it live in there $$
 ^^ yeah $$
 ^^ not hair today $$
 ^^ no $$
 ^^ do wee $$
 ^^ cry $$
-^^  that be my towel $$
+^^ that that be my towel $$
 ^^ yeah $$
 ^^ get out $$
 ^^ yeah $$
-^^ I want  $$
+^^ I want xxx $$
 ^^ this be my towel round me $$
 ^^ this towel go round $$
 ^^ you put that towel round me $$
 ^^ like that $$
-^^ you  towel round me $$
+^^ you xxx towel round me $$
 ^^ yeah $$
 ^^ yeah it be $$
 ^^ it go round you big tum $$
 ^^ mhm $$
+^^ xxx $$
 ^^ no $$
 ^^ what $$
 ^^ okay $$
 ^^ in that bed $$
-^^    that be a baby cot $$
+^^ that be my that be a baby cot $$
 ^^ I clean my tooth $$
 ^^ yeah $$
 ^^ baby can do it $$
@@ -172,8 +177,8 @@
 ^^ you be a Mummy $$
 ^^ you a Mummy $$
 ^^ yeah $$
-^^  some water in it $$
-^^ I put  bit more water in it $$
+^^ my some water in it $$
+^^ I put bit bit more water in it $$
 ^^ this get tap on anymore $$
 ^^ yeah $$
 ^^ I ask you I finish $$
@@ -187,7 +192,7 @@
 ^^ me get out $$
 ^^ get out $$
 ^^ go go go go go go $$
-^^  I naughty $$
+^^ I I naughty $$
 ^^ no $$
 ^^ yeah $$
 ^^ I be a baby $$
@@ -212,20 +217,23 @@
 ^^ this break $$
 ^^ it not mean to be in here $$
 ^^ this Anna $$
+^^ xxx $$
 ^^ go in for a little while $$
 ^^ only for little while $$
 ^^ this go in here $$
-^^ this  $$
-^^ this  $$
+^^ this xxx $$
+^^ this xxx $$
 ^^ huh $$
 ^^ a little one $$
 ^^ this ours $$
 ^^ my friend $$
 ^^ my big friend house $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ that for the dog $$
 ^^ no $$
-^^  my friend $$
+^^ um my friend $$
 ^^ yeah $$
 ^^ Sally $$
 ^^ put all those $$
@@ -250,22 +258,22 @@
 ^^ you do not want to $$
 ^^ a dream $$
 ^^ you not do it anymore $$
-^^  I do not want you do it again $$
+^^ I I do not want you do it again $$
 ^^ no $$
-^^   do not  $$
+^^ um um do not xxx $$
 ^^ I go behind you $$
 ^^ I be a baby $$
 ^^ what $$
-^^  yeah $$
+^^ um yeah $$
 ^^ yeah $$
-^^     when me grow up $$
+^^ when me when me when me grow up $$
 ^^ yeah $$
-^^    in a big girl $$
+^^ in a little in a big girl $$
 ^^ this much $$
 ^^ just row a boat $$
 ^^ yeah $$
-^^  and look after myself $$
-^^  this big $$
+^^ and and look after myself $$
+^^ this this big $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
@@ -279,17 +287,17 @@
 ^^ you not old woman $$
 ^^ no $$
 ^^ you Mummy $$
-^^ me  Mummy $$
+^^ me xxx Mummy $$
 ^^ look $$
 ^^ there Grandma in there $$
 ^^ hiya Grandma $$
 ^^ yeah $$
-^^    it Grandma birth today $$
-^^  bit of salt on $$
+^^ it it it it Grandma birth today $$
+^^ bit bit of salt on $$
 ^^ huh $$
 ^^ yeah $$
 ^^ Anna like salt on cake $$
-^^  no $$
+^^ no no $$
 ^^ put a bit this on it $$
 ^^ put bit pepper on it $$
 ^^ huh $$
@@ -307,10 +315,10 @@
 ^^ like tea $$
 ^^ say yeah $$
 ^^ my poor hand $$
-^^ this  off my poor hand $$
+^^ this xxx off my poor hand $$
 ^^ you find the milk for me $$
 ^^ it be good $$
-^^  little bit poor $$
+^^ bit little bit poor $$
 ^^ plaster $$
 ^^ you $$
 ^^ what these do $$
@@ -319,16 +327,16 @@
 ^^ oh I find it $$
 ^^ yeah $$
 ^^ you like this $$
-^^   bit of salt $$
+^^ bit bit bit of salt $$
 ^^ sugar $$
 ^^ bit of sugar $$
-^^ this  some more for you $$
+^^ this for some more for you $$
 ^^ you want some tea $$
-^^   you want cup of tea Mummy $$
-^^ bit of sugar  in you tea $$
+^^ you want you want cup of tea Mummy $$
+^^ bit of sugar in in you tea $$
 ^^ yeah $$
 ^^ a bit hot $$
-^^   you like it hot $$
+^^ you like you like it hot $$
 ^^ yeah $$
 ^^ I put a bit $$
 ^^ Mummy $$
@@ -336,9 +344,11 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ lot one $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ Mummy do not like one $$
+^^ xxx $$
 ^^ want bit salt $$
 ^^ want bit these in $$
 ^^ pepper $$
@@ -346,14 +356,16 @@
 ^^ hot $$
 ^^ me $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
-^^  no $$
+^^ xxx $$
+^^ yeah no $$
 ^^ huh $$
 ^^ on these tomato $$
 ^^ not any tomato $$
 ^^ you not have any tea $$
-^^   tea fall out $$
+^^ tea fall tea fall out $$
 ^^ I be a nice one $$
 ^^ oh the tea $$
+^^ xxx $$
 ^^ there the pepper $$
 ^^ you like cucumber $$
 ^^ here you be $$
@@ -361,16 +373,16 @@
 ^^ you want something $$
 ^^ you want something $$
 ^^ you want you cake $$
-^^  Mummy want one $$
+^^ Daddy Mummy want one $$
 ^^ no $$
 ^^ I good get a sharp knife $$
 ^^ that a Mummy $$
-^^  you a little girl $$
+^^ you you a little girl $$
 ^^ go make you something Anna $$
 ^^ want get salt on it $$
 ^^ okay $$
 ^^ b b b b $$
-^^ I say   b to you $$
+^^ I say b b b to you $$
 ^^ b b b b b $$
 ^^ my baby $$
 ^^ no $$
@@ -380,7 +392,7 @@
 ^^ what $$
 ^^ only you $$
 ^^ what $$
-^^   just take them off and put them back on $$
+^^ taking them just take them off and put them back on $$
 ^^ yeah $$
 ^^ Anna go home now $$
 ^^ Anna go home $$
@@ -391,36 +403,38 @@
 ^^ what $$
 ^^ no $$
 ^^ you be a help $$
-^^   you be a keep $$
+^^ you be you be a keep $$
 ^^ you get all the food $$
 ^^ me take these out please $$
 ^^ a man $$
 ^^ huh $$
 ^^ yeah $$
-^^   no $$
-^^   go be a man without a shop $$
+^^ no no no $$
+^^ going be go be a man without a shop $$
 ^^ yeah $$
 ^^ no $$
 ^^ oh dear $$
 ^^ you want this in $$
+^^ xxx $$
 ^^ you take that out $$
 ^^ just put back in again for you $$
+^^ xxx $$
 ^^ for the shop $$
 ^^ you get you till out $$
 ^^ I not get any food here $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
-^^  for my little girl $$
+^^ for for my little girl $$
 ^^ there my little girl $$
-^^  Mummy $$
+^^ xxx Mummy $$
 ^^ my Daddy come do some shop $$
-^^   bite not $$
+^^ um bit bite not $$
 ^^ I bite not $$
 ^^ I bite not $$
 ^^ no $$
 ^^ put all in bowl and not have any more $$
-^^  just eat a little bit $$
+^^ just just eat a little bit $$
 ^^ yeah $$
 ^^ and throw one on the floor $$
 ^^ yeah $$
@@ -433,7 +447,7 @@
 ^^ sometimes Mummy put out the door $$
 ^^ yeah $$
 ^^ I want in $$
-^^  and me let in $$
+^^ and and me let in $$
 ^^ be good and eat food $$
 ^^ and do not do it again $$
 ^^ no $$
@@ -445,12 +459,12 @@
 ^^ be good now $$
 ^^ yeah $$
 ^^ Ruth $$
-^^  want to sit on your knee $$
+^^ want want to sit on your knee $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ in a dress $$
 ^^ yeah $$
-^^  out  time $$
+^^ xxx out xxx time $$
 ^^ that out light $$
 ^^ not light and I want downstairs and me say no $$
 ^^ and Mummy say no $$
@@ -474,23 +488,23 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^  in there $$
+^^ in in there $$
 ^^ yeah $$
 ^^ just have a wee sleep in there $$
 ^^ sleep $$
 ^^ all friend have wee sleep in there $$
 ^^ yeah $$
 ^^ mhm yeah $$
-^^   I get a bed for her in there $$
+^^ I got I get a bed for her in there $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ not $$
-^^  when my $$
-^^  no $$
+^^ when when my $$
+^^ no no $$
 ^^ have it after tea $$
-^^     and me get  a pretend bottle $$
+^^ and and and I and me get some a pretend bottle $$
 ^^ yeah $$
-^^  bite water $$
+^^ bit bite water $$
 ^^ yeah $$
 ^^ this $$
 ^^ grape for my baby $$
@@ -500,7 +514,7 @@
 ^^ yeah $$
 ^^ I want pepper $$
 ^^ want a bit of juice $$
-^^    want bit of water  $$
+^^ want bit of want bit of water xxx $$
 ^^ this water $$
 ^^ yeah $$
 ^^ I $$
@@ -509,35 +523,37 @@
 ^^ orange $$
 ^^ yeah $$
 ^^ thank_you $$
-^^ little orange go in there and the big orange go   with the big grape $$
+^^ little orange go in there and the big orange go with big with the big grape $$
 ^^ and little orange go in with little grape $$
 ^^ this $$
 ^^ a little tomato $$
 ^^ okay $$
-^^  I want a big tomato $$
+^^ baby I want a big tomato $$
 ^^ I want a big tomato $$
 ^^ a big tomato $$
-^^  that $$
+^^ that that $$
 ^^ this a little tomato $$
 ^^ this a little and that oh $$
 ^^ I like it like that $$
 ^^ this go the big orange $$
-^^  this go in near that $$
+^^ this this go in near that $$
 ^^ go in here $$
 ^^ there $$
 ^^ want a little pepper $$
+^^ xxx $$
+^^ xxx $$
 ^^ will not will not will not will not will not $$
 ^^ alright $$
 ^^ egg $$
-^^   want that one $$
+^^ want that want that one $$
 ^^ egg $$
 ^^ please $$
 ^^ go with little orange $$
 ^^ yeah $$
 ^^ that another big one $$
-^^   I not break it $$
-^^  that go in here $$
-^^     need a little orange $$
+^^ I not I not break it $$
+^^ go that go in here $$
+^^ um need a big need a little orange $$
 ^^ oh $$
 ^^ I want that $$
 ^^ yeah $$
@@ -559,9 +575,10 @@
 ^^ rest for later $$
 ^^ rest in there for later $$
 ^^ yeah $$
-^^  you have a little bit $$
+^^ you you have a little bit $$
 ^^ no $$
-^^ this  the last bit $$
+^^ xxx $$
+^^ this the the last bit $$
 ^^ the rest for later $$
 ^^ no $$
 ^^ rest for later $$
@@ -569,68 +586,72 @@
 ^^ that $$
 ^^ yeah $$
 ^^ me take it $$
-^^  get a dog $$
+^^ xxx get a dog $$
 ^^ me take it $$
-^^  I get a cat too $$
+^^ I I get a cat too $$
 ^^ yeah $$
 ^^ it lose $$
 ^^ there $$
-^^   I get a cat $$
+^^ I got I get a cat $$
 ^^ yeah $$
 ^^ might eat Ruth up walk on her own $$
 ^^ yeah $$
-^^  I get to carry Ruth $$
+^^ I I get to carry Ruth $$
 ^^ yeah $$
 ^^ will not will not will not will not $$
 ^^ put it there $$
-^^ I  I make $$
+^^ I make I make $$
 ^^ my make room for my cake $$
 ^^ oh dear $$
-^^ she want  one these $$
+^^ she want xxx one these $$
 ^^ I want juice $$
 ^^ yeah $$
-^^ but  my dog like it $$
+^^ but my my dog like it $$
 ^^ nice bean $$
 ^^ my baby like bake bean $$
 ^^ yeah $$
 ^^ I like it too $$
 ^^ oh $$
 ^^ no $$
-^^  it stay cold $$
+^^ it it stay cold $$
 ^^ yeah $$
 ^^ that go in there $$
-^^ eat  $$
+^^ eat xxx $$
 ^^ eat little one $$
 ^^ that big one for me $$
 ^^ chicken leg $$
 ^^ look $$
 ^^ that break $$
 ^^ I want $$
+^^ xxx $$
+^^ xxx $$
 ^^ it not break $$
 ^^ cup of tea in here $$
 ^^ I put it right like that last night $$
 ^^ you say store not close $$
 ^^ here you be $$
 ^^ oh dear $$
-^^   put them in here $$
+^^ put them put them in here $$
 ^^ I get two money $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ rest for later $$
-^^   you have a bit my cake then $$
-^^  this get chocolate on it $$
-^^  rest for me $$
+^^ you have you have a bit my cake then $$
+^^ this this get chocolate on it $$
+^^ rest rest for me $$
 ^^ rest for me $$
 ^^ no $$
 ^^ that go on here $$
+^^ xxx $$
 ^^ want bit more chocolate $$
 ^^ rest $$
 ^^ I be alright $$
 ^^ it not melt $$
 ^^ it not melt $$
 ^^ no $$
+^^ xxx $$
 ^^ rest for me $$
 ^^ yeah $$
-^^   I want  bit chip $$
+^^ I want I want bit bit chip $$
 ^^ yeah $$
 ^^ thank_you $$
 ^^ thank_you $$
@@ -640,37 +661,38 @@
 ^^ what $$
 ^^ not lot of change $$
 ^^ bye $$
-^^  you have you card $$
+^^ you you have you card $$
 ^^ you leave you card and me come back $$
 ^^ bye $$
 ^^ hiya Mummy $$
 ^^ hiya Mummy $$
-^^  you Mummy $$
+^^ you you Mummy $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ just go make the table $$
 ^^ table yeah $$
-^^ you  some food $$
+^^ you xxx some food $$
 ^^ you want some food $$
 ^^ okay $$
 ^^ you want sit on the carpet $$
 ^^ why $$
 ^^ you want a bit food $$
 ^^ I bring some ice for Ruth after $$
-^^  and cake for me $$
+^^ and and cake for me $$
 ^^ there my egg $$
 ^^ there my egg $$
 ^^ this $$
 ^^ Mummy go have some juice $$
 ^^ no $$
 ^^ it water $$
-^^ and  this juice $$
+^^ and this this juice $$
 ^^ I have juice $$
 ^^ I have juice $$
 ^^ that for dog $$
-^^  you be my dog $$
+^^ you you be my dog $$
 ^^ here my dog $$
 ^^ go have his food now $$
+^^ xxx $$
 ^^ not need a spoon $$
 ^^ no $$
 ^^ no $$
@@ -678,13 +700,14 @@
 ^^ what $$
 ^^ huh $$
 ^^ rest for later $$
-^^   I good wash my hand $$
+^^ I better I good wash my hand $$
 ^^ you wash sink $$
 ^^ no $$
 ^^ you not a sink $$
+^^ xxx $$
 ^^ this to me $$
 ^^ and this for me too $$
-^^ and that for  me too $$
+^^ and that for um me too $$
 ^^ for Ruth and me $$
 ^^ and that be for cat $$
 ^^ huh $$
@@ -711,7 +734,7 @@
 ^^ that for Ruth $$
 ^^ that for Ruth too $$
 ^^ oh no $$
-^^  money for me $$
+^^ xxx money for me $$
 ^^ count all my money $$
 ^^ you put that on there $$
 ^^ for me $$
@@ -722,7 +745,7 @@
 ^^ I pick her up $$
 ^^ you like you food $$
 ^^ Ruth $$
-^^  I get a chair for Ruth $$
+^^ I I get a chair for Ruth $$
 ^^ yeah $$
 ^^ I get a chair for Ruth $$
 ^^ like this chair $$
@@ -743,13 +766,13 @@
 ^^ yeah $$
 ^^ I blow it $$
 ^^ no $$
-^^    that for Mummy $$
+^^ that that for that for Mummy $$
 ^^ no $$
 ^^ it hot $$
 ^^ no $$
 ^^ no $$
 ^^ that one for Mum $$
-^^    that one for Daddy $$
+^^ that one for that one for Daddy $$
 ^^ might be hot $$
 ^^ move this away $$
 ^^ me get my food on it $$

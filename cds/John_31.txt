@@ -1,4 +1,5 @@
 ^^ that be not a cow $$
+^^ a $$
 ^^ oh yes $$
 ^^ John $$
 ^^ come and show me $$
@@ -7,6 +8,7 @@
 ^^ let us bring the farm over here $$
 ^^ yes $$
 ^^ there be not many brick leave in here John $$
+^^ www $$
 ^^ be it get your nose $$
 ^^ come here John $$
 ^^ John $$
@@ -43,6 +45,7 @@
 ^^ let us get rid of these little bit $$
 ^^ make a animal $$
 ^^ oh yes $$
+^^ a $$
 ^^ oh yes $$
 ^^ make a snail $$
 ^^ curl wurly $$
@@ -88,9 +91,10 @@
 ^^ what do snake eat John $$
 ^^ what do you think snake like to eat $$
 ^^ I see $$
-^^ so   he be not hungry then $$
+^^ so he's not he be not hungry then $$
 ^^ oh $$
 ^^ oh a bottle of milk for the snake $$
+^^ a $$
 ^^ that be what you have when you be tire do not you $$
 ^^ mhm $$
 ^^ mhm $$
@@ -109,7 +113,7 @@
 ^^ oh $$
 ^^ it be not $$
 ^^ that be right $$
-^^ what be this  John hey $$
+^^ what be this gigi John hey $$
 ^^ how about make something with this big lump $$
 ^^ what shall we make with this bit $$
 ^^ bread out_of it like Daddy do $$
@@ -191,7 +195,7 @@
 ^^ you do that while Mummy be on the phone do not you $$
 ^^ come on $$
 ^^ let us go and see that book $$
-^^ see which other one  $$
+^^ see which other one xxx $$
 ^^ will you drive this one $$
 ^^ mhm $$
 ^^ John $$
@@ -202,6 +206,7 @@
 ^^ do you know how you genmod do that $$
 ^^ mhm $$
 ^^ and do you think you genmod have to climb up this bit $$
+^^ a $$
 ^^ which one $$
 ^^ mhm $$
 ^^ this one get a big bucket have not it $$
@@ -234,7 +239,7 @@
 ^^ you can play with it in here with us $$
 ^^ okay $$
 ^^ you can play with it but in here out_of the way of the phone $$
-^^ put it in   your car John $$
+^^ put it in your chair your car John $$
 ^^ as a chair $$
 ^^ see good day this one have not it now $$
 ^^ come and sit in your car $$
@@ -265,6 +270,7 @@
 ^^ perhaps you can pretend about the steer wheel today $$
 ^^ mhm $$
 ^^ put it down then $$
+^^ xxx $$
 ^^ what be this John $$
 ^^ ah $$
 ^^ mhm $$
@@ -284,7 +290,7 @@
 ^^ where be the small grape $$
 ^^ mhm $$
 ^^ pardon $$
-^^  right $$
+^^ a right $$
 ^^ very good $$
 ^^ mhm $$
 ^^ where be the other egg $$
@@ -356,6 +362,7 @@
 ^^ top of the train $$
 ^^ do you want the man to drive it $$
 ^^ where be the carriage $$
+^^ a $$
 ^^ hm $$
 ^^ you have get one in your Duplo have not you $$
 ^^ one of these elephant $$
@@ -397,7 +404,7 @@
 ^^ think they do want to come in $$
 ^^ go go go go go go go go $$
 ^^ and the others $$
-^^  there be the black bull over there John $$
+^^ a there be the black bull over there John $$
 ^^ mhm $$
 ^^ and they be all sleep $$
 ^^ John $$
@@ -464,7 +471,7 @@
 ^^ we will do it another day $$
 ^^ look John $$
 ^^ we can decorate your box $$
-^^ here be  a dolphin $$
+^^ here be a a dolphin $$
 ^^ John $$
 ^^ do you want to put it on your box $$
 ^^ go go go go go go go go go go go go go $$
@@ -541,6 +548,7 @@
 ^^ a big one $$
 ^^ mhm $$
 ^^ a blue car $$
+^^ www $$
 ^^ yesterday we do do not we $$
 ^^ we go to McDonald to have some chip $$
 ^^ mhm $$
@@ -553,6 +561,7 @@
 ^^ do you want me to peel it $$
 ^^ come on here and I will peel the apple $$
 ^^ do you want it peel $$
+^^ mm $$
 ^^ John $$
 ^^ do you want the skin on $$
 ^^ okay $$
@@ -575,6 +584,7 @@
 ^^ what color be tomato $$
 ^^ can you remember $$
 ^^ be they orange $$
+^^ a $$
 ^^ that be what we be look for be not it $$
 ^^ no $$
 ^^ not red $$
@@ -628,7 +638,7 @@
 ^^ whoops $$
 ^^ John $$
 ^^ do you want to eat this apple $$
-^^     no $$
+^^ no no no no no $$
 ^^ the apple be on offer $$
 ^^ not Mummy $$
 ^^ nice $$
@@ -656,6 +666,7 @@
 ^^ right $$
 ^^ can monkey read book $$
 ^^ so what be the story then $$
+^^ www $$
 ^^ so he go to the barn and ask the $$
 ^^ no egg here $$
 ^^ oh dear $$
@@ -732,7 +743,7 @@
 ^^ do you want Mummy to help you $$
 ^^ it be mhm $$
 ^^ do you want some $$
-^^ maybe if you rip  this bit here because that be just the flap $$
+^^ maybe if you rip this this bit here because that be just the flap $$
 ^^ rip the bit that get into the bag $$
 ^^ there we be $$
 ^^ now can you do it $$
@@ -775,6 +786,7 @@
 ^^ shall we do that $$
 ^^ if we can $$
 ^^ there be a_lot_of sticky stuff on it $$
+^^ a $$
 ^^ it be come off slow $$
 ^^ you have have that for about a week now have not you John your cough $$
 ^^ and then Daddy get it $$
@@ -806,6 +818,7 @@
 ^^ you have get to open that eye $$
 ^^ that be it $$
 ^^ hello $$
+^^ www $$
 ^^ there she be $$
 ^^ nice apple $$
 ^^ pardon $$
@@ -825,6 +838,7 @@
 ^^ she be hop $$
 ^^ can you hop $$
 ^^ can you hop on one leg John $$
+^^ mm $$
 ^^ thank_you John $$
 ^^ yeah $$
 ^^ you give her some of the apple do not you $$
@@ -840,6 +854,7 @@
 ^^ thank_you $$
 ^^ that be from your telescope be not it $$
 ^^ or your trumpet $$
+^^ a $$
 ^^ okay $$
 ^^ no $$
 ^^ no $$
@@ -871,7 +886,7 @@
 ^^ mhm $$
 ^^ one day you will go on a train again $$
 ^^ that be nice be not it $$
-^^ be he go to have a ride   in the carriage John $$
+^^ be he go to have a ride in the in the carriage John $$
 ^^ you go and put him in the carriage and give him a ride $$
 ^^ be it go off to Tesco $$
 ^^ John $$
@@ -897,6 +912,7 @@
 ^^ very determine be not you John $$
 ^^ try again and again $$
 ^^ whoops $$
+^^ a $$
 ^^ what will you like me to do with it $$
 ^^ hm $$
 ^^ oh the horse have fall out $$
@@ -912,6 +928,7 @@
 ^^ maybe yes $$
 ^^ try it $$
 ^^ maybe not $$
+^^ xxx $$
 ^^ try take that big tall thing off John $$
 ^^ it might go through then $$
 ^^ good $$
@@ -928,8 +945,8 @@
 ^^ patient up to a point $$
 ^^ well you have mend it $$
 ^^ you have do it very success there $$
-^^ where be the bit of  $$
-^^  as_well $$
+^^ where be the bit of xxx $$
+^^ xxx as_well $$
 ^^ there be a drive $$
 ^^ be it $$
 ^^ mhm $$
@@ -955,7 +972,7 @@
 ^^ off you go $$
 ^^ be your train go to Manchester John $$
 ^^ mhm $$
-^^  well where be your farm $$
+^^ um well where be your farm $$
 ^^ what shall we pretend your farm be today $$
 ^^ mhm $$
 ^^ do you want a tissue John $$
@@ -964,7 +981,7 @@
 ^^ rolly $$
 ^^ hello $$
 ^^ mhm $$
-^^     be this the horse field today $$
+^^ we could pretend this be this the horse field today $$
 ^^ make some tree $$
 ^^ mhm $$
 ^^ yeah $$
@@ -974,7 +991,7 @@
 ^^ okay $$
 ^^ no $$
 ^^ John $$
-^^    no $$
+^^ no no no no $$
 ^^ keep it in your mouth please $$
 ^^ a horrible bit $$
 ^^ all right $$
@@ -983,6 +1000,7 @@
 ^^ be there one in the bag $$
 ^^ you have do well with that apple John $$
 ^^ have you finish now $$
+^^ www $$
 ^^ have you finish $$
 ^^ shall we put it in the bin $$
 ^^ okay $$
@@ -1059,6 +1077,7 @@
 ^^ do you put his sand toy away $$
 ^^ his sand toy be here $$
 ^^ oh yes $$
+^^ xxx $$
 ^^ go into the lounge John $$
 ^^ that be it $$
 ^^ you carry them $$
@@ -1069,11 +1088,12 @@
 ^^ I think it be a castle too $$
 ^^ it be a church be it $$
 ^^ John $$
-^^  darling $$
+^^ xxx darling $$
 ^^ do you know what it be call John $$
 ^^ that will do $$
 ^^ John $$
 ^^ go to Mummy $$
+^^ www $$
 ^^ do Grandma and Granddad bring this for you $$
 ^^ no $$
 ^^ that be be in your bed have it $$
@@ -1104,6 +1124,7 @@
 ^^ well you say that doll be frighten $$
 ^^ yeah but it do not make you wet though do it $$
 ^^ just make a_lot_of noise $$
+^^ xxx $$
 ^^ it be a very long nail you have get $$
 ^^ they need cut $$
 ^^ ouch $$
@@ -1118,6 +1139,7 @@
 ^^ look who be in the paddock here $$
 ^^ yeah $$
 ^^ what else can we see on the map $$
+^^ www $$
 ^^ Anna be wear black $$
 ^^ oh John $$
 ^^ yeah $$
@@ -1188,7 +1210,7 @@
 ^^ these be not very clean be they $$
 ^^ look $$
 ^^ they be a bit dirt $$
-^^ you can suck it if you want but you might get sand  in your mouth $$
+^^ you can suck it if you want but you might get sand in in your mouth $$
 ^^ do it taste horrible $$
 ^^ well there you be then $$
 ^^ horrible be it $$
@@ -1278,6 +1300,7 @@
 ^^ good $$
 ^^ do you want to read one of your story $$
 ^^ I have not see this one for a long time $$
+^^ xxx $$
 ^^ do you want to read this one about Kipper $$
 ^^ or maybe this one about the zoo animal $$
 ^^ do Sadie give you this one John $$
@@ -1362,7 +1385,7 @@
 ^^ John $$
 ^^ whoops $$
 ^^ no $$
-^^ this be very hot and I do not want   orange juice in it $$
+^^ this be very hot and I do not want apple juice orange juice in it $$
 ^^ have we finish with this then $$
 ^^ okay $$
 ^^ do you get up very early today John $$
@@ -1413,7 +1436,7 @@
 ^^ John $$
 ^^ you $$
 ^^ you be silly $$
-^^   you $$
+^^ you you you $$
 ^^ John $$
 ^^ do you need tickle $$
 ^^ uhoh $$
@@ -1510,7 +1533,7 @@
 ^^ all right $$
 ^^ yes $$
 ^^ go in the car $$
-^^  he be go shop $$
+^^ er he be go shop $$
 ^^ I be not quite sure where he be go $$
 ^^ maybe to BQ $$
 ^^ he will be back soon John $$
@@ -1529,10 +1552,11 @@
 ^^ yes $$
 ^^ oh what have you get now then $$
 ^^ well your horse be here $$
-^^ and  Anna horse be in here $$
+^^ and Anna Anna horse be in here $$
 ^^ different horse $$
 ^^ oh that be very nice $$
 ^^ oh thank_you $$
+^^ mm $$
 ^^ that be love $$
 ^^ oh thank_you John $$
 ^^ thank_you $$
@@ -1709,6 +1733,7 @@
 ^^ how about put it in your box $$
 ^^ John $$
 ^^ can you put the crayon in your box $$
+^^ xxx $$
 ^^ uhoh $$
 ^^ have you get them all stick $$
 ^^ oh John $$
@@ -1732,6 +1757,7 @@
 ^^ can you find the bottom $$
 ^^ the white bottom for it $$
 ^^ John $$
+^^ eh $$
 ^^ there we be $$
 ^^ that be the last one $$
 ^^ now if you can find the bottom we will put it back on here $$

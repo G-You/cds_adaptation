@@ -1,5 +1,5 @@
 ^^ no $$
-^^  caterpillar $$
+^^ um caterpillar $$
 ^^ no $$
 ^^ yeah $$
 ^^ biscuit $$
@@ -8,7 +8,8 @@
 ^^ Caroline need those $$
 ^^ Caroline $$
 ^^ blow bubble $$
-^^  Caroline get $$
+^^ Caroline Caroline get $$
+^^ xxx $$
 ^^ Caroline blow bubble $$
 ^^ Caroline bubble $$
 ^^ yeah $$
@@ -21,7 +22,7 @@
 ^^ yes $$
 ^^ mhm $$
 ^^ no $$
-^^ blow bubble  $$
+^^ blow bubble xxx $$
 ^^ well do $$
 ^^ oh $$
 ^^ die $$
@@ -44,10 +45,13 @@
 ^^ Mummy $$
 ^^ do there $$
 ^^ oh $$
-^^  big one $$
+^^ xxx $$
+^^ a big one $$
 ^^ big one $$
 ^^ get it in hand $$
+^^ xxx $$
 ^^ do not slip off $$
+^^ xxx $$
 ^^ Caroline be have enough now $$
 ^^ Caroline $$
 ^^ mhm $$
@@ -66,9 +70,11 @@
 ^^ baby Justin $$
 ^^ mhm $$
 ^^ crawl down here $$
+^^ xxx $$
 ^^ Caroline $$
 ^^ peekaboo peekaboo $$
-^^  down $$
+^^ xxx down $$
+^^ xxx $$
 ^^ oh $$
 ^^ fall down $$
 ^^ fall down $$
@@ -78,29 +84,34 @@
 ^^ Daniel Forest $$
 ^^ Krakatoa $$
 ^^ Oasis $$
-^^  Daniel Krakatoa $$
-^^  Krakatoa $$
-^^  Krakatoa $$
+^^ a Daniel Krakatoa $$
+^^ a Krakatoa $$
+^^ a Krakatoa $$
 ^^ yes $$
 ^^ Caroline Leeds $$
 ^^ be to Leeds $$
+^^ xxx $$
 ^^ posh hotel $$
+^^ xxx $$
 ^^ no $$
 ^^ boat $$
+^^ xxx $$
 ^^ Prince $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
 ^^ drop it $$
 ^^ Gail be drop it $$
 ^^ and monkey $$
+^^ xxx $$
 ^^ catch a fish $$
 ^^ frog $$
-^^  go on $$
-^^  go on $$
-^^  go on $$
+^^ a go on $$
+^^ a go on $$
+^^ a go on $$
 ^^ yeah $$
-^^ bus  go round and round $$
+^^ bus go go round and round $$
 ^^ drive it $$
 ^^ mhm $$
 ^^ mhm $$
@@ -113,7 +124,7 @@
 ^^ dog $$
 ^^ mhm $$
 ^^ yes $$
-^^ on  the Noddy tape $$
+^^ on the the Noddy tape $$
 ^^ Postman_Pat $$
 ^^ Fireman_Sam $$
 ^^ Pingu $$
@@ -124,13 +135,16 @@
 ^^ want a poo Caroline $$
 ^^ Daddy loo $$
 ^^ Daddy loo $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Caroline come too $$
 ^^ want a biscuit Caroline $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ Andy own one $$
 ^^ Gail own one $$
 ^^ mhm $$
@@ -151,12 +165,13 @@
 ^^ bird $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ want to see bird $$
 ^^ want to see wing $$
 ^^ yes $$
-^^  take a basket $$
+^^ a take a basket $$
 ^^ yeah $$
-^^  get a carrot $$
+^^ got get a carrot $$
 ^^ no $$
 ^^ no $$
 ^^ Caroline toy $$
@@ -177,12 +192,14 @@
 ^^ not on tellie $$
 ^^ want the Tubbies on the tellie $$
 ^^ want the Tubbies on the tellie $$
+^^ xxx $$
 ^^ want see Duster $$
+^^ xxx $$
 ^^ Noddy party $$
 ^^ book $$
 ^^ no $$
 ^^ Noddy card $$
-^^  Gail birth $$
+^^ a Gail birth $$
 ^^ Gail birth $$
 ^^ no $$
 ^^ Gail $$
@@ -221,9 +238,10 @@
 ^^ hot up there $$
 ^^ hot $$
 ^^ make it hot $$
-^^   want Gail bin $$
+^^ want Gail's want Gail bin $$
 ^^ want Gail bin $$
-^^  nothing $$
+^^ xxx nothing $$
+^^ xxx $$
 ^^ man take it away $$
 ^^ no want it $$
 ^^ man want it $$
@@ -232,7 +250,7 @@
 ^^ smell nappie in it $$
 ^^ bit hot on it $$
 ^^ no lady want it $$
-^^  lady want it $$
+^^ xxx lady want it $$
 ^^ no $$
 ^^ man man man man $$
 ^^ yes $$
@@ -247,19 +265,25 @@
 ^^ can not get up $$
 ^^ can not get up $$
 ^^ can not get up $$
-^^  here $$
+^^ xxx here $$
 ^^ bird $$
 ^^ yeah $$
 ^^ spill Mummy perfume $$
-^^  on floor $$
+^^ on on floor $$
 ^^ bit hot up there $$
 ^^ bit hot $$
 ^^ want to feel it Caroline $$
+^^ xxx $$
+^^ xxx $$
 ^^ that be Fergus $$
 ^^ upside day $$
 ^^ upside day $$
+^^ xxx $$
 ^^ want to feel it $$
+^^ xxx $$
+^^ xxx $$
 ^^ Caroline feel it on there $$
+^^ xxx $$
 ^^ it be not hot $$
 ^^ not hot there $$
 ^^ hot there $$
@@ -270,7 +294,7 @@
 ^^ Caroline hug him $$
 ^^ Caroline hug him $$
 ^^ oh $$
-^^ Mummy  $$
+^^ Mummy xxx $$
 ^^ Caroline finish now $$
 ^^ Gail listen talk $$
 ^^ Caroline toy again $$
@@ -283,31 +307,35 @@
 ^^ there be a motor $$
 ^^ there be a motor $$
 ^^ no $$
+^^ xxx $$
 ^^ horse $$
 ^^ want to get it $$
-^^  Gail get it $$
+^^ Gail Gail get it $$
 ^^ talk in here first $$
 ^^ the big horse $$
 ^^ mhm $$
 ^^ no $$
 ^^ at Gail $$
-^^ Gail  $$
+^^ Gail xxx $$
 ^^ stay horse house $$
 ^^ no $$
 ^^ we take Grandpa horse grass $$
+^^ xxx $$
 ^^ walk $$
 ^^ walk $$
 ^^ Mummy see it too $$
 ^^ Gail come too $$
 ^^ Gail walk $$
-^^ Gail  $$
-^^ horse and  grass $$
+^^ xxx $$
+^^ Gail xxx $$
+^^ horse and xxx grass $$
 ^^ give horse some grass $$
 ^^ yes $$
 ^^ and train come $$
 ^^ the light on $$
-^^ no  want the light  $$
+^^ no wanted want the light xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ want some toast $$
@@ -316,11 +344,12 @@
 ^^ Sugar $$
 ^^ Sugar $$
 ^^ mhm $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ bite dark out $$
 ^^ bite dark $$
 ^^ turn light off $$
-^^  Gail $$
+^^ xxx Gail $$
 ^^ again $$
 ^^ again Mummy $$
 ^^ yeah $$
@@ -328,14 +357,17 @@
 ^^ sky $$
 ^^ up in sky $$
 ^^ it be come back now $$
+^^ xxx $$
 ^^ that be Gail $$
-^^  that there $$
-^^  that Gail $$
+^^ that that there $$
+^^ that that Gail $$
 ^^ that $$
 ^^ yeah $$
+^^ xxx $$
 ^^ this Gail $$
 ^^ yeah $$
 ^^ Caroline $$
+^^ xxx $$
 ^^ yeah $$
 ^^ eat carrot $$
 ^^ no $$
@@ -348,11 +380,13 @@
 ^^ that a little one $$
 ^^ chip $$
 ^^ MacDonalds $$
+^^ xxx $$
 ^^ play $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
 ^^ Alice eat those $$
+^^ xxx $$
 ^^ no $$
 ^^ Gail eat them $$
 ^^ yeah $$
@@ -365,8 +399,10 @@
 ^^ yeah $$
 ^^ oh $$
 ^^ yeah $$
+^^ xxx $$
 ^^ mhm $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ be that Gail $$
@@ -375,14 +411,15 @@
 ^^ be that Gail $$
 ^^ that be Gail $$
 ^^ oh $$
+^^ xxx $$
 ^^ be that Gail $$
 ^^ be that Gail $$
 ^^ Caroline $$
-^^  that one Caroline $$
+^^ that's that one Caroline $$
 ^^ oh $$
 ^^ oh $$
 ^^ eat this one $$
-^^  eat that $$
+^^ eating eat that $$
 ^^ no $$
 ^^ eat this $$
 ^^ no $$
@@ -412,9 +449,10 @@
 ^^ a windmill $$
 ^^ make a windmill $$
 ^^ oh $$
+^^ xxx $$
 ^^ that $$
 ^^ that smoke $$
-^^ that  $$
+^^ that xxx $$
 ^^ yeah $$
 ^^ yes $$
 ^^ what be that $$
@@ -427,7 +465,7 @@
 ^^ it be Gail squash it $$
 ^^ oh $$
 ^^ wrong way $$
-^^  wrong way $$
+^^ xxx wrong way $$
 ^^ Sonia $$
 ^^ just see her $$
 ^^ mhm $$
@@ -448,6 +486,7 @@
 ^^ it be orange $$
 ^^ foot in $$
 ^^ get foot in $$
+^^ xxx $$
 ^^ yes $$
 ^^ yeah $$
 ^^ orange $$
@@ -456,23 +495,27 @@
 ^^ want to get in $$
 ^^ want to get in $$
 ^^ it be roll over $$
+^^ xxx $$
 ^^ no $$
 ^^ Gail sit down $$
 ^^ no $$
 ^^ yeah $$
-^^ want to go in  blue box $$
-^^ go in  blue box $$
+^^ want to go in green blue box $$
+^^ go in blue blue box $$
 ^^ go in blue box $$
 ^^ go in blue box $$
+^^ xxx $$
 ^^ go in blue box $$
 ^^ blue $$
 ^^ this one blue $$
 ^^ jump in $$
 ^^ Caroline see train $$
+^^ xxx $$
 ^^ yeah $$
 ^^ get that horse $$
 ^^ Mummy $$
 ^^ get that horse $$
+^^ xxx $$
 ^^ horse in there $$
 ^^ upstairs $$
 ^^ yes $$
@@ -532,12 +575,14 @@
 ^^ yeah $$
 ^^ oh look $$
 ^^ what be this $$
+^^ xxx $$
 ^^ look $$
 ^^ cow $$
 ^^ who be that the head of $$
 ^^ there it be $$
 ^^ yeah $$
 ^^ I get it $$
+^^ xxx $$
 ^^ what be this one $$
 ^^ what be this $$
 ^^ oh $$
@@ -584,7 +629,7 @@
 ^^ Jonathan $$
 ^^ what be that $$
 ^^ what be that $$
-^^  what be that $$
+^^ what what be that $$
 ^^ yeah $$
 ^^ what be that $$
 ^^ what be that $$
@@ -648,7 +693,7 @@
 ^^ what be that $$
 ^^ torch $$
 ^^ what be that $$
-^^  do not know $$
+^^ um do not know $$
 ^^ that be a water can $$
 ^^ want out in garden $$
 ^^ want out in garden $$
@@ -721,6 +766,7 @@
 ^^ oh $$
 ^^ that be orange $$
 ^^ that hole $$
+^^ xxx $$
 ^^ this $$
 ^^ Gail knee $$
 ^^ Gail knee that $$
@@ -728,7 +774,7 @@
 ^^ caterpillar $$
 ^^ yeah $$
 ^^ what be this $$
-^^  that be red $$
+^^ that's that be red $$
 ^^ that be red $$
 ^^ that be red $$
 ^^ that $$
@@ -748,7 +794,7 @@
 ^^ Caroline toy $$
 ^^ Caroline toy $$
 ^^ Caroline toy $$
-^^ stand on  $$
+^^ stand on xxx $$
 ^^ on swing $$
 ^^ oh $$
 ^^ a seesaw $$
@@ -759,6 +805,7 @@
 ^^ elephant knee $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ three $$
 ^^ four $$
 ^^ oh dear $$
@@ -797,7 +844,7 @@
 ^^ I get this one $$
 ^^ picnic $$
 ^^ picnic $$
-^^  Mummy read it $$
+^^ um Mummy read it $$
 ^^ Mummy sit there $$
 ^^ no $$
 ^^ Gail $$
@@ -821,56 +868,60 @@
 ^^ yeah $$
 ^^ that be Mummy one $$
 ^^ that be Mummy one $$
-^^ that be Mummy  $$
+^^ that be Mummy xxx $$
 ^^ sound like motor $$
 ^^ no $$
 ^^ bounce $$
 ^^ no $$
 ^^ no $$
 ^^ Caroline toy now $$
-^^  foot $$
-^^  foot $$
+^^ a foot $$
+^^ a foot $$
 ^^ yeah $$
 ^^ no $$
 ^^ let me go $$
 ^^ no $$
 ^^ no Mummy $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
-^^  put this one on $$
+^^ a put this one on $$
 ^^ oh no $$
 ^^ put this on $$
-^^ that  $$
+^^ that xxx $$
 ^^ put a hat on $$
-^^  put a hat on $$
-^^  do hat on $$
+^^ a put a hat on $$
+^^ xxx do hat on $$
 ^^ thank_you $$
 ^^ Caroline craze toy $$
 ^^ Caroline craze toy $$
 ^^ craze toy $$
 ^^ no $$
-^^  get a bag $$
+^^ got get a bag $$
 ^^ get a bag $$
 ^^ not today $$
 ^^ need potato $$
 ^^ need potato $$
 ^^ need potato $$
 ^^ yeah $$
-^^ Daddy  need potato $$
+^^ Daddy xxx need potato $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ it be mine be $$
 ^^ want it $$
 ^^ I want it $$
-^^  peep out $$
+^^ xxx $$
+^^ xxx peep out $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
-^^  put it in $$
+^^ xxx put it in $$
 ^^ can not put it in $$
 ^^ come on $$
 ^^ doll do a bof $$
@@ -886,7 +937,7 @@
 ^^ sit on it $$
 ^^ yeah $$
 ^^ mhm $$
-^^  put horse up here $$
+^^ um put horse up here $$
 ^^ put horse up here $$
 ^^ want to push it down $$
 ^^ push it $$
@@ -906,6 +957,7 @@
 ^^ snake come out_of mouse hole $$
 ^^ yeah $$
 ^^ dingdong $$
+^^ xxx $$
 ^^ oh $$
 ^^ there be bubble $$
 ^^ like Gail bubble $$
@@ -928,20 +980,22 @@
 ^^ want to pick up Olwin $$
 ^^ yeah $$
 ^^ Gail be look it $$
-^^    put a lion on $$
+^^ put a put put a lion on $$
 ^^ want put a lion on $$
 ^^ yeah $$
 ^^ yeah $$
-^^  Diana $$
+^^ um Diana $$
 ^^ Diana $$
 ^^ get in bath $$
 ^^ get in bath $$
 ^^ get bubble $$
 ^^ yeah $$
 ^^ sorry $$
+^^ xxx $$
 ^^ be that a bubble $$
 ^^ be that a bubble $$
 ^^ oh no $$
+^^ xxx $$
 ^^ no $$
 ^^ I want to stay in $$
 ^^ yeah $$
@@ -950,7 +1004,7 @@
 ^^ have a bath now $$
 ^^ yeah $$
 ^^ sit $$
-^^  go France $$
+^^ um go France $$
 ^^ France $$
 ^^ Centre_Parcs $$
 ^^ and Gail have a trolley $$
@@ -960,20 +1014,21 @@
 ^^ Centre_Parcs $$
 ^^ Centre_Parcs $$
 ^^ yeah $$
-^^  Gail want a trolley $$
-^^  buy sweet $$
+^^ a Gail want a trolley $$
+^^ buy buy sweet $$
 ^^ and put it in trolley $$
 ^^ want a bag $$
 ^^ the lady $$
 ^^ kick $$
 ^^ kick $$
-^^ want a swim  Mark $$
+^^ want a swim xxx Mark $$
 ^^ yeah $$
 ^^ dingdong $$
 ^^ ticktock $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ round and round $$
+^^ xxx $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ yeah $$
@@ -988,13 +1043,13 @@
 ^^ no $$
 ^^ yeah $$
 ^^ Gail get some toy in Chris house $$
-^^  lady toy $$
+^^ lady lady toy $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ and Gail hug it $$
 ^^ Paddington_Bear $$
 ^^ look Chris bed $$
-^^  look at Chris bed Mummy $$
+^^ a look at Chris bed Mummy $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ mhm $$
@@ -1016,23 +1071,24 @@
 ^^ yes $$
 ^^ yeah $$
 ^^ Gail $$
-^^  come Gail home $$
+^^ Gail come Gail home $$
 ^^ Caroline come $$
 ^^ come next week $$
 ^^ oh $$
 ^^ drop it $$
 ^^ pretend eat $$
-^^   want to do this one $$
+^^ wanna do want to do this one $$
 ^^ want to do that $$
 ^^ no can mend it $$
 ^^ Becky $$
 ^^ Becky come Gail house $$
 ^^ come Gail house $$
 ^^ mhm $$
+^^ xxx $$
 ^^ come Gail house $$
 ^^ come Gail house $$
 ^^ yeah $$
-^^  down there $$
+^^ xxx down there $$
 ^^ want to go in there $$
 ^^ want to get in $$
 ^^ squash it $$
@@ -1058,26 +1114,30 @@
 ^^ egg $$
 ^^ chicken $$
 ^^ yeah $$
+^^ xxx $$
 ^^ mhm $$
+^^ xxx $$
 ^^ chicken $$
 ^^ lick on Andy $$
 ^^ no $$
-^^  tip it out toy $$
+^^ um tip it out toy $$
 ^^ tip toy out $$
 ^^ tip toy out $$
 ^^ oh $$
 ^^ Gail open lid $$
 ^^ oh $$
 ^^ Caroline do it $$
+^^ xxx $$
 ^^ put it on Caroline $$
+^^ xxx $$
 ^^ no $$
 ^^ can not do it $$
 ^^ mhm $$
 ^^ fence $$
 ^^ fence $$
-^^ car go  over fence $$
-^^ car go fence  $$
-^^ car go fence  $$
+^^ car go over over fence $$
+^^ car go fence xxx $$
+^^ car go fence xxx $$
 ^^ yeah $$
 ^^ car $$
 ^^ squeeze through $$
@@ -1096,8 +1156,9 @@
 ^^ Caroline do it $$
 ^^ where be the truck $$
 ^^ where be the truck go to $$
+^^ xxx $$
 ^^ this be truck $$
-^^  there it be $$
+^^ where's there it be $$
 ^^ I can not put it on $$
 ^^ oh $$
 ^^ yeah $$
@@ -1109,12 +1170,14 @@
 ^^ I can not do it $$
 ^^ Caroline $$
 ^^ here you be $$
-^^ put it  on track $$
+^^ put it on on track $$
 ^^ truck $$
 ^^ I be break it $$
 ^^ there we be $$
 ^^ break it $$
+^^ xxx $$
 ^^ thank_you $$
+^^ xxx $$
 ^^ mhm $$
-^^  drive $$
+^^ xxx drive $$
 ^^ there it be $$

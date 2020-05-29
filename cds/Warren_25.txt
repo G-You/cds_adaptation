@@ -39,7 +39,7 @@
 ^^ those be Thomas and Henry buffer at the front $$
 ^^ I think they go like that $$
 ^^ it be hard to tell $$
-^^  I think the bridge do go somewhere here $$
+^^ um I think the bridge do go somewhere here $$
 ^^ I think it might go there $$
 ^^ it be hard do it upside down $$
 ^^ and the bird go there $$
@@ -60,7 +60,7 @@
 ^^ there we be $$
 ^^ that be it $$
 ^^ and where do the last piece go $$
-^^  no picture on that side $$
+^^ er no picture on that side $$
 ^^ whoops $$
 ^^ I do not think it be that one $$
 ^^ I think it be the other bit of picture $$
@@ -110,7 +110,7 @@
 ^^ who be go $$
 ^^ who be go $$
 ^^ that one there $$
-^^  wrong way round I think sweet $$
+^^ um wrong way round I think sweet $$
 ^^ where be Henry face $$
 ^^ Henry face go next to Thomas face do not it $$
 ^^ that bit go that way round $$
@@ -157,7 +157,7 @@
 ^^ what be happen to Henry $$
 ^^ we have get just Thomas and the Fat_Controller here $$
 ^^ Henry be go yes $$
-^^  that be what you be say before $$
+^^ a that be what you be say before $$
 ^^ Henry $$
 ^^ shall we get Henry back $$
 ^^ you genmod like Henry back $$
@@ -324,7 +324,7 @@
 ^^ Mummy be sit on a chair too $$
 ^^ and drink wine $$
 ^^ those be the day on holiday $$
-^^  look at Warren little smile $$
+^^ a look at Warren little smile $$
 ^^ happy boy there $$
 ^^ with your fair hair as_well $$
 ^^ holiday boy with fair hair $$
@@ -404,7 +404,7 @@
 ^^ call a bowl $$
 ^^ look at the water $$
 ^^ oh look at that $$
-^^ it be a   baby horse $$
+^^ it be a little horse baby horse $$
 ^^ look at all those bird $$
 ^^ oh what be that $$
 ^^ yeah $$
@@ -422,6 +422,7 @@
 ^^ yes $$
 ^^ tum be sore I think $$
 ^^ your tum be sore like that when you be a very little baby $$
+^^ a $$
 ^^ look at that little baby $$
 ^^ what be that baby do $$
 ^^ what be that baby do $$
@@ -450,7 +451,7 @@
 ^^ shall we wipe your nose anyway $$
 ^^ which one $$
 ^^ that one $$
-^^  well shall we look at a book with picture in $$
+^^ um well shall we look at a book with picture in $$
 ^^ a book with picture $$
 ^^ why do not you go and choose a book with picture in from over there $$
 ^^ why do not you go and choose one of your book $$
@@ -491,7 +492,7 @@
 ^^ and what be that $$
 ^^ that be a very special plane Warren $$
 ^^ because that plane take off and land on water $$
-^^ not   on the ground $$
+^^ not on ground on the ground $$
 ^^ it be call a sea $$
 ^^ what be it call $$
 ^^ sea $$
@@ -508,6 +509,7 @@
 ^^ look at it $$
 ^^ it be Warren medicine $$
 ^^ gross $$
+^^ www $$
 ^^ do it smell gross Warren $$
 ^^ just do not spit it out if it taste gross $$
 ^^ do that taste nice $$
@@ -555,7 +557,7 @@
 ^^ right $$
 ^^ be you go to peel off the bit from round the edge $$
 ^^ what be stick $$
-^^  wrong pot $$
+^^ um wrong pot $$
 ^^ thank_you $$
 ^^ next to the bus $$
 ^^ okay $$
@@ -616,7 +618,7 @@
 ^^ what do you sound like $$
 ^^ okay $$
 ^^ let us peel off the bit from round the edge $$
-^^ and  do I put it in there $$
+^^ and where do I put it in there $$
 ^^ do we put the bit from round the edge in there $$
 ^^ it go in there $$
 ^^ that be right $$
@@ -735,7 +737,7 @@
 ^^ be there a little alien in it $$
 ^^ be there a alien in it or be there a monkey in it $$
 ^^ yes $$
-^^   that be a different van be not it $$
+^^ that's another that be a different van be not it $$
 ^^ oh you be use the prod bite now $$
 ^^ prod little round hole in it $$
 ^^ that be nice be not it $$
@@ -746,8 +748,8 @@
 ^^ what be Mummy do $$
 ^^ what be I do $$
 ^^ be I prod $$
-^^     prod $$
-^^    prod $$
+^^ prod prod prod prod prod $$
+^^ prod prod prod prod $$
 ^^ that be not a van $$
 ^^ that be the tractor $$
 ^^ that will be a fun old tractor $$
@@ -855,7 +857,7 @@
 ^^ sorry $$
 ^^ be that all right $$
 ^^ no $$
-^^    I be not make monkey noise $$
+^^ I'm not going I be not make monkey noise $$
 ^^ I be not go oooo $$
 ^^ I be go $$
 ^^ who say oooo $$
@@ -875,7 +877,7 @@
 ^^ there $$
 ^^ you can make a monkey with that bit $$
 ^^ shall we push the van out $$
-^^   prod $$
+^^ prod prod prod $$
 ^^ oh there it be $$
 ^^ shall we put the yellow van next to the blue van $$
 ^^ shall we make a monkey $$
@@ -899,7 +901,7 @@
 ^^ prod there $$
 ^^ that be it $$
 ^^ another yellow van $$
-^^ shall we roll out so you can make  I suppose it be the truck of some description $$
+^^ shall we roll out so you can make the I suppose it be the truck of some description $$
 ^^ be you go to make the truck $$
 ^^ make another another $$
 ^^ how many van will we have $$
@@ -925,11 +927,11 @@
 ^^ oh yes $$
 ^^ it look like the train be pull the van $$
 ^^ excuse me $$
-^^  off the carpet $$
+^^ er off the carpet $$
 ^^ you might $$
 ^^ no $$
 ^^ no no no $$
-^^   not on the carpet $$
+^^ not on not on the carpet $$
 ^^ you might just put your foot on it and grind it in $$
 ^^ not on the carpet $$
 ^^ that be it $$
@@ -942,7 +944,7 @@
 ^^ there it be $$
 ^^ right at the back $$
 ^^ all these vehicle $$
-^^  not on the carpet please $$
+^^ er not on the carpet please $$
 ^^ apart from anything else it will pick up bit $$
 ^^ I have not vacuum this morning $$
 ^^ not on the carpet Warren $$
@@ -958,7 +960,7 @@
 ^^ how many van now $$
 ^^ good boy $$
 ^^ how many van $$
-^^  where do the smoke come from $$
+^^ where's where do the smoke come from $$
 ^^ do it blow up in the sky $$
 ^^ what be Warren squash $$
 ^^ which bit of the train $$
@@ -1011,9 +1013,9 @@
 ^^ at the bottom $$
 ^^ and that one go next to that one $$
 ^^ that be it $$
-^^      that one go that way up $$
+^^ that one goes at the that one go that way up $$
 ^^ somewhere at the top $$
-^^   can you put the man wave in there $$
+^^ shall we can you put the man wave in there $$
 ^^ look $$
 ^^ look for the picture of the man wave $$
 ^^ and that go in there $$
@@ -1023,11 +1025,11 @@
 ^^ can you see a picture with Thomas funnel $$
 ^^ with steam come out $$
 ^^ a black $$
-^^  that be Percy funnel $$
+^^ er that be Percy funnel $$
 ^^ Thomas funnel be big $$
 ^^ that be it $$
 ^^ and that go there $$
-^^  look $$
+^^ er look $$
 ^^ it go that way round $$
 ^^ can you put Percy funnel in $$
 ^^ the top of his funnel $$
@@ -1295,8 +1297,8 @@
 ^^ and $$
 ^^ yeah $$
 ^^ you have a very full cot do not you $$
-^^ teddy and rabbit  and Warren $$
-^^  over there $$
+^^ teddy and rabbit and and Warren $$
+^^ xxx over there $$
 ^^ shall we cut out a man $$
 ^^ the man with the tie on $$
 ^^ I think this be suppose to be a Daddy $$
@@ -1307,7 +1309,7 @@
 ^^ oh right $$
 ^^ look $$
 ^^ there be a man $$
-^^ he be get   hair with side part and he be wear a tie $$
+^^ he be get a hair hair with side part and he be wear a tie $$
 ^^ and a shirt and trouser $$
 ^^ Warren squash it $$
 ^^ oh $$
@@ -1316,13 +1318,13 @@
 ^^ a little man $$
 ^^ oh shall I look after him $$
 ^^ oh he be get a nice tie on have not he $$
-^^  I will get them later $$
+^^ um I will get them later $$
 ^^ you get some of your toy out $$
 ^^ you could get out your track and your vehicle $$
 ^^ shall we put away your cut sweet $$
 ^^ if you be play with vehicle $$
 ^^ shall we put them in the box $$
-^^ put your cut away because     you be start to get your vehicle out $$
+^^ put your cut away because you've got your vehicles you be start to get your vehicle out $$
 ^^ thank_you $$
 ^^ byebye man $$
 ^^ squash $$
@@ -1351,7 +1353,7 @@
 ^^ we could send it shoot across could not we $$
 ^^ that be it $$
 ^^ yeah $$
-^^  well make sure the fire in proper first $$
+^^ close well make sure the fire in proper first $$
 ^^ you can not close the door if the fire half out $$
 ^^ so push it in proper $$
 ^^ now you can close the door $$
@@ -1403,14 +1405,14 @@
 ^^ Warren do it then $$
 ^^ shall we swap drive $$
 ^^ oh $$
-^^ you want  that one to stay in there do you $$
+^^ you want it that one to stay in there do you $$
 ^^ be she drive the breakdown truck $$
 ^^ right $$
 ^^ no $$
 ^^ that be not Percy $$
 ^^ that be James $$
 ^^ it be James $$
-^^ shall we lift  that out $$
+^^ shall we lift that that out $$
 ^^ let us get some brick $$
 ^^ and then you can stick them on can not you $$
 ^^ car be not go $$
@@ -1452,7 +1454,7 @@
 ^^ what a relief $$
 ^^ be that a weight off your mind that they be not stick $$
 ^^ Warren $$
-^^ how many man be    on the trailer $$
+^^ how many man be on the car on the trailer $$
 ^^ one off $$
 ^^ and one on $$
 ^^ how many man be there $$
@@ -1497,7 +1499,7 @@
 ^^ do not bash it like that $$
 ^^ no $$
 ^^ shall we break it up and put it in the box $$
-^^   can Mummy make a tower please $$
+^^ can Mummy can Mummy make a tower please $$
 ^^ okay $$
 ^^ Warren make a tower $$
 ^^ Mummy be go to make a tower as_well $$
@@ -1618,7 +1620,7 @@
 ^^ I do not think orange juice want any milk to drink $$
 ^^ no $$
 ^^ you put the milk on a mat and the orange juice on a mat $$
-^^ or you could put the orange juice in the  in the basket $$
+^^ or you could put the orange juice in the box in the basket $$
 ^^ not the milk $$
 ^^ shall we put the milk on your table here $$
 ^^ that be not a fish $$
@@ -1632,18 +1634,20 @@
 ^^ what be those $$
 ^^ chip $$
 ^^ oh thank_you sweet $$
+^^ mm $$
 ^^ thank_you $$
 ^^ be they nice chip $$
 ^^ oh yes $$
 ^^ be that your badge from when you be two $$
 ^^ do not post it through $$
 ^^ shall I put it on the fire $$
+^^ www $$
 ^^ put him on there $$
 ^^ there we go $$
 ^^ peeppeep $$
 ^^ and where be the plane go $$
 ^^ yeah $$
-^^     no $$
+^^ no no no no no $$
 ^^ yes $$
 ^^ the hot bottle $$
 ^^ be that your hot bottle $$
@@ -1663,13 +1667,14 @@
 ^^ I have get shoe on but I be not go to the airport $$
 ^^ Anna could go to the airport if she want $$
 ^^ but she do not want to $$
+^^ www $$
 ^^ well do not you think we ought to tidy these up a bit $$
 ^^ if you be go to $$
 ^^ you have just have all that box full of toy out though pet $$
 ^^ have you get a shop basket full of shop $$
 ^^ I think that might have break your egg sweet $$
 ^^ oh dear $$
-^^ they will not be  please if you do that in Safeway will they $$
+^^ they will not be pleased please if you do that in Safeway will they $$
 ^^ can you put them all back in the basket $$
 ^^ that be it $$
 ^^ just pick up a couple of thing at a time sweet $$
@@ -1677,7 +1682,7 @@
 ^^ if you tip everything out $$
 ^^ start tidy up and then tip it back again $$
 ^^ oh $$
-^^ empty shop  basket $$
+^^ empty shop bag basket $$
 ^^ be you go to go and buy some thing $$
 ^^ just mind my glass $$
 ^^ what be you go to buy $$
@@ -1685,21 +1690,22 @@
 ^^ you go and find the orange juice then $$
 ^^ be it hide $$
 ^^ no no no $$
-^^    we do not take drink of milk into the market $$
+^^ we leave the we do not take drink of milk into the market $$
 ^^ no $$
 ^^ I be okay $$
 ^^ no thank_you $$
 ^^ you put that in your basket because Warren $$
 ^^ you have not pay for it yet so you should not real be drink it should you pet $$
-^^  go and put it in your basket $$
+^^ go go and put it in your basket $$
 ^^ hooray $$
 ^^ some bean in $$
 ^^ and sausage in a tin $$
 ^^ a aubergine $$
 ^^ can you say aubergine $$
 ^^ egg $$
-^^  pear I think $$
+^^ um pear I think $$
 ^^ some bread $$
+^^ xxx $$
 ^^ something green $$
 ^^ cabbage $$
 ^^ chip $$
@@ -1710,7 +1716,7 @@
 ^^ hot $$
 ^^ roast chicken $$
 ^^ you be buy a_lot_of stuff sweet $$
-^^  grape $$
+^^ er grape $$
 ^^ purple thing $$
 ^^ half a something $$
 ^^ bagel or doughnut $$
@@ -1776,7 +1782,7 @@
 ^^ oh it be just mend by itself have it $$
 ^^ let us put it in the garage $$
 ^^ there it go $$
-^^ well we can not hook  this one up pet $$
+^^ well we can not hook this this one up pet $$
 ^^ it do not hook on because can you see underneath $$
 ^^ there be nowhere to put the hook $$
 ^^ it might go in there but $$
@@ -1787,7 +1793,7 @@
 ^^ shall we get somebody out who can mend it $$
 ^^ oh she be go to mend it $$
 ^^ here she come $$
-^^ she be go to come   in her little red car $$
+^^ she be go to come in her in her little red car $$
 ^^ she be go to come and mend it $$
 ^^ fire out_of the garage please $$
 ^^ so she can mend it $$
@@ -1825,11 +1831,12 @@
 ^^ there be a police $$
 ^^ I wonder where the other man be that fit in the car $$
 ^^ here he be $$
+^^ xxx $$
 ^^ so we have get a policecar and a fire out $$
-^^  neenaw $$
+^^ nee neenaw $$
 ^^ neenaw $$
 ^^ that be quite right $$
-^^ vehicle drive    on the floor do not they $$
+^^ vehicle drive on the ground on the floor do not they $$
 ^^ not on person $$
 ^^ poor breakdown truck $$
 ^^ it be tow the lorry $$
@@ -1918,7 +1925,7 @@
 ^^ with wing $$
 ^^ it be a angel $$
 ^^ that be a snow $$
-^^ that be   a skate $$
+^^ that be a skier a skate $$
 ^^ what be it $$
 ^^ yeah $$
 ^^ who be this $$
@@ -1926,7 +1933,7 @@
 ^^ yeah $$
 ^^ and what be this $$
 ^^ it be a sort of soldier $$
-^^ a  $$
+^^ a xxx $$
 ^^ where be the snow $$
 ^^ do not touch it $$
 ^^ do not touch $$
@@ -2077,6 +2084,7 @@
 ^^ what be you do now $$
 ^^ put the key in $$
 ^^ can Mummy have the key please $$
+^^ a $$
 ^^ your engine $$
 ^^ pardon $$
 ^^ your engine $$
@@ -2106,7 +2114,7 @@
 ^^ you come and help to put your vehicle away $$
 ^^ pardon $$
 ^^ no $$
-^^ well you    can not have your neenaw neenaw then $$
+^^ well you can't get your can not have your neenaw neenaw then $$
 ^^ there be not space for the neenaw neenaw with all your vehicle on the floor $$
 ^^ so you will have to put some away $$
 ^^ can you go and get your engine and put it in here please $$
@@ -2138,7 +2146,7 @@
 ^^ just move it $$
 ^^ that be it $$
 ^^ look $$
-^^ now   he go near the back $$
+^^ now he goes he go near the back $$
 ^^ can you see a piece $$
 ^^ where do that piece go $$
 ^^ no $$
@@ -2180,7 +2188,7 @@
 ^^ excuse you $$
 ^^ that be it $$
 ^^ now where do this piece go $$
-^^ that be the hat but  where be the face to go under the hat $$
+^^ that be the hat but where where be the face to go under the hat $$
 ^^ that be it $$
 ^^ brilliant $$
 ^^ finish $$
@@ -2195,7 +2203,7 @@
 ^^ a floodlight in fact $$
 ^^ and when they switch that on so if they have to go to a fire in the dark they can see what be go on when they have stop the fire $$
 ^^ and they can see where all the hose be $$
-^^ and they can see  where to put the key in to lock these slide door $$
+^^ and they can see how where to put the key in to lock these slide door $$
 ^^ so they can see what they be do $$
 ^^ where be you go $$
 ^^ what on earth be you do wild boy $$
@@ -2213,7 +2221,7 @@
 ^^ you genmod good check whether Anna like salt and vinegar or red sauce on her chip $$
 ^^ oh what be these $$
 ^^ more chip $$
-^^    what have they get on them $$
+^^ have they got what have they get on them $$
 ^^ red sauce $$
 ^^ I hope it be not brown sauce $$
 ^^ cake $$
@@ -2283,7 +2291,7 @@
 ^^ poor cat $$
 ^^ right $$
 ^^ let us sort out which jig go where $$
-^^  do not eat it $$
+^^ don't do not eat it $$
 ^^ they will go straight back if you eat them $$
 ^^ there $$
 ^^ that be one $$
@@ -2372,7 +2380,7 @@
 ^^ there it be $$
 ^^ right $$
 ^^ can you put them together $$
-^^ be the dog body    under his face $$
+^^ be the dog body next to his under his face $$
 ^^ sweetheart $$
 ^^ when you count you only count each thing once $$
 ^^ why do not you sing the song instead of just sing sense $$
@@ -2397,11 +2405,12 @@
 ^^ fall off I say $$
 ^^ should have put your slipper on $$
 ^^ who put Thomas in $$
-^^  it be a bit difficult to get him out actual $$
+^^ um it be a bit difficult to get him out actual $$
 ^^ it involve dismantle the fire $$
 ^^ so no $$
 ^^ I be not go to $$
 ^^ no $$
+^^ um $$
 ^^ if you get me the windmill $$
 ^^ see the windmill that be next to your vehicle box $$
 ^^ windmill on the floor $$
@@ -2482,7 +2491,7 @@
 ^^ you have push it $$
 ^^ move your finger $$
 ^^ move your finger $$
-^^ well you do such a good job of get him   shall Mummy help $$
+^^ well you do such a good job of get him then Mummy shall Mummy help $$
 ^^ Warren $$
 ^^ you do near get him out last time $$
 ^^ shall Mummy get him now $$
@@ -2490,7 +2499,7 @@
 ^^ it be just that your little finger push instead of pull $$
 ^^ well you will have to get him out all by yourself $$
 ^^ move your hand because I be go to drop the fire $$
-^^ do you know you be a great fester  you $$
+^^ do you know you be a great fester xxx you $$
 ^^ right $$
 ^^ now pull it $$
 ^^ Warren $$
@@ -2516,7 +2525,7 @@
 ^^ Warren do it now $$
 ^^ Warren do it $$
 ^^ no $$
-^^  we be not lift it now $$
+^^ you we be not lift it now $$
 ^^ well hold it further down here $$
 ^^ hold it here $$
 ^^ that be it $$
@@ -2550,10 +2559,10 @@
 ^^ put this one up here $$
 ^^ be that good with all the piece in $$
 ^^ I will build $$
-^^  Warren $$
+^^ er Warren $$
 ^^ the train be suppose to go on the track $$
 ^^ shall we put some carriage together $$
-^^   how many carriage shall we put on $$
+^^ how many how many carriage shall we put on $$
 ^^ just keep it in the track $$
 ^^ it be much ease $$
 ^^ say she now derail it $$
@@ -2579,11 +2588,11 @@
 ^^ I think we be make Henry tunnel pet $$
 ^^ here be Henry tunnel $$
 ^^ the problem be you see $$
-^^ we have not get enough track to do  two track so this train be go to get stick in Henry tunnel $$
+^^ we have not get enough track to do two two track so this train be go to get stick in Henry tunnel $$
 ^^ it go round $$
 ^^ he will get into Henry tunnel $$
 ^^ and he can not come out $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ oh yes it can $$
 ^^ never mind $$
 ^^ we can make that a decoration for the top of the tunnel $$
@@ -2593,7 +2602,7 @@
 ^^ oh $$
 ^^ that be a alternative use of my tunnel $$
 ^^ see $$
-^^ we will put  the bit across the top $$
+^^ we will put the the bit across the top $$
 ^^ the big bit $$
 ^^ no $$
 ^^ that bit be not go on there $$
@@ -2607,6 +2616,7 @@
 ^^ the wrong wheel $$
 ^^ no $$
 ^^ they be the right wheel $$
+^^ er $$
 ^^ I think you have lose some of your coach $$
 ^^ Warren $$
 ^^ yeah $$
@@ -2618,13 +2628,13 @@
 ^^ no $$
 ^^ Warren make it $$
 ^^ no $$
-^^  you make Henry tunnel $$
+^^ you you make Henry tunnel $$
 ^^ I will watch $$
 ^^ let us put those two close together then you can make Henry $$
 ^^ no $$
 ^^ put it the other way round $$
 ^^ no $$
-^^    put it crossways like that $$
+^^ put it long put it crossways like that $$
 ^^ that one can go up there yes $$
 ^^ be that a decoration for Henry tunnel $$
 ^^ well this be go to be a wild tunnel be not it $$
@@ -2724,12 +2734,13 @@
 ^^ get the tunnel build in time for the train when it come past $$
 ^^ oh $$
 ^^ that be fun because it stand on the other one $$
+^^ xxx $$
 ^^ you have real get too many coach $$
 ^^ Warren $$
 ^^ if you have three coach $$
 ^^ oh sorry $$
 ^^ one engine and two coach $$
-^^ that be    just right $$
+^^ that be just the right just right $$
 ^^ we can have two train on here $$
 ^^ Mummy train and Warren train $$
 ^^ oh $$
@@ -2788,7 +2799,7 @@
 ^^ you put the wheel on there $$
 ^^ here we go $$
 ^^ but these vehicle do not fit on here $$
-^^  they be not the right size be they $$
+^^ they're they be not the right size be they $$
 ^^ that be too big $$
 ^^ no $$
 ^^ that be too big $$
@@ -2828,7 +2839,7 @@
 ^^ well move the vehicle then $$
 ^^ move the vehicle then $$
 ^^ sorry $$
-^^  no $$
+^^ er no $$
 ^^ no $$
 ^^ Warren $$
 ^^ come here $$
@@ -2857,7 +2868,7 @@
 ^^ oh $$
 ^^ who be underneath the blanket $$
 ^^ all the girl and boy $$
-^^ have you leave any  carriage in the tunnel $$
+^^ have you leave any truck carriage in the tunnel $$
 ^^ have you leave anything in the tunnel $$
 ^^ good $$
 ^^ be they cold Warren $$
@@ -2865,7 +2876,7 @@
 ^^ it be cold be not it $$
 ^^ two man $$
 ^^ I do not know that there be two man in here be there $$
-^^  one man $$
+^^ er one man $$
 ^^ where be the other man $$
 ^^ be there another man $$
 ^^ there be a little green man $$
@@ -2873,7 +2884,7 @@
 ^^ be they $$
 ^^ two cold man $$
 ^^ I be not sure that be a man actual $$
-^^ I do not know if a man will have a little ribbon with a bow tie round his neck but  $$
+^^ I do not know if a man will have a little ribbon with a bow tie round his neck but er $$
 ^^ well it do not real matter what they be $$
 ^^ you want to put him on the elephant $$
 ^^ there look $$
@@ -2920,7 +2931,7 @@
 ^^ can you hold that $$
 ^^ stick it onto there $$
 ^^ that be it $$
-^^  who be good at climb up ladder $$
+^^ who's who be good at climb up ladder $$
 ^^ you be $$
 ^^ monkey be good at climb up ladder as_well $$
 ^^ what be in that bag $$
@@ -2956,7 +2967,7 @@
 ^^ we can have salmon sandwich for tea $$
 ^^ no $$
 ^^ Warren help $$
-^^    you be do the shop today $$
+^^ you do the you be do the shop today $$
 ^^ more salmon $$
 ^^ we have get pink salmon and red salmon $$
 ^^ and cat food $$
@@ -2984,7 +2995,7 @@
 ^^ look $$
 ^^ and a big tomato $$
 ^^ right $$
-^^   shall I work out how much it all cost $$
+^^ shall Mummy shall I work out how much it all cost $$
 ^^ two pound fifty please $$
 ^^ thank_you $$
 ^^ that be three pound $$
@@ -3056,7 +3067,7 @@
 ^^ all the money be away safe $$
 ^^ go shop again $$
 ^^ all right $$
-^^      what be you go to buy today $$
+^^ what're you going to have what be you go to buy today $$
 ^^ okay $$
 ^^ buy some orange juice then $$
 ^^ it be in here Warren $$
@@ -3132,7 +3143,8 @@
 ^^ it be a bit small this field $$
 ^^ I will just give up on that $$
 ^^ balance them somehow $$
-^^    oh there it be $$
+^^ I don't think oh there it be $$
+^^ a $$
 ^^ that be it $$
 ^^ I be not very good with these be I Warren $$
 ^^ shall we put the baby tiger on top of the little tower $$
@@ -3222,7 +3234,7 @@
 ^^ those do not go in there $$
 ^^ those go in the green box $$
 ^^ the green box with the big penguin in it $$
-^^ the food go in this  bag $$
+^^ the food go in this box bag $$
 ^^ in fact the food go in the basket first $$
 ^^ and then the basket go in the bag $$
 ^^ no $$

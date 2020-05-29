@@ -61,13 +61,14 @@
 ^^ yeah $$
 ^^ no $$
 ^^ stay on the floor $$
+^^ xxx $$
 ^^ okay $$
 ^^ and Pete here on my knee $$
 ^^ me pick up Pete $$
-^^   me sit on Mama knee too $$
+^^ me pick me sit on Mama knee too $$
 ^^ yeah $$
 ^^ oh there $$
-^^ a  man there $$
+^^ a xxx man there $$
 ^^ little man put that on that $$
 ^^ yeah $$
 ^^ yeah $$
@@ -113,11 +114,12 @@
 ^^ Bambi $$
 ^^ and the big Daddy deer save Bambi $$
 ^^ yeah $$
+^^ a $$
 ^^ that tea $$
 ^^ yeah $$
 ^^ not eat that $$
 ^^ not have that $$
-^^   two little man have that $$
+^^ a man two little man have that $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -126,7 +128,7 @@
 ^^ no $$
 ^^ yeah $$
 ^^ water $$
-^^  that not the water $$
+^^ that that not the water $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ that one carry that one $$
@@ -155,7 +157,7 @@
 ^^ yeah $$
 ^^ me not big Mummy $$
 ^^ no $$
-^^  big a Anna $$
+^^ big big a Anna $$
 ^^ me big Anna $$
 ^^ yeah $$
 ^^ yeah $$
@@ -186,12 +188,14 @@
 ^^ me help that $$
 ^^ she out $$
 ^^ go here Mummy $$
+^^ xxx $$
 ^^ back Mummy again $$
+^^ xxx $$
 ^^ me here again $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ what that $$
-^^  what there $$
+^^ what what there $$
 ^^ banana $$
 ^^ yeah $$
 ^^ why $$
@@ -228,7 +232,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^ get  $$
+^^ get xxx $$
 ^^ that one $$
 ^^ yeah $$
 ^^ it not $$
@@ -285,6 +289,7 @@
 ^^ that blue $$
 ^^ that blue $$
 ^^ that red $$
+^^ xxx $$
 ^^ oh what that $$
 ^^ me read that $$
 ^^ me want a read that $$
@@ -305,9 +310,9 @@
 ^^ yeah $$
 ^^ what there $$
 ^^ it be $$
-^^ and that a  $$
-^^ not a  $$
-^^ a  $$
+^^ and that a xxx $$
+^^ not a xxx $$
+^^ a xxx $$
 ^^ yeah $$
 ^^ tiger $$
 ^^ oh talk the cat $$
@@ -321,7 +326,7 @@
 ^^ yeah $$
 ^^ some man work $$
 ^^ yeah $$
-^^ some  $$
+^^ some xxx $$
 ^^ see other car $$
 ^^ yeah $$
 ^^ yeah $$
@@ -336,7 +341,7 @@
 ^^ yeah $$
 ^^ park $$
 ^^ yeah $$
-^^  yeah $$
+^^ er yeah $$
 ^^ and me sleep $$
 ^^ and Ruth was tire $$
 ^^ yeah $$
@@ -355,12 +360,12 @@
 ^^ yeah $$
 ^^ that $$
 ^^ no $$
-^^   another pram for that little girl $$
+^^ another pram another pram for that little girl $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
-^^   not talk me $$
+^^ not to not talk me $$
 ^^ no $$
 ^^ yeah $$
 ^^ why $$
@@ -405,7 +410,7 @@
 ^^ yeah $$
 ^^ Daddy $$
 ^^ yeah $$
-^^  that go outside $$
+^^ that that go outside $$
 ^^ why $$
 ^^ yeah $$
 ^^ yeah $$
@@ -439,7 +444,8 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^   me not talk the phone $$
+^^ xxx $$
+^^ me not me not talk the phone $$
 ^^ no $$
 ^^ me not talk the phone no $$
 ^^ me not talk the phone $$
@@ -486,7 +492,8 @@
 ^^ want that on $$
 ^^ put that on $$
 ^^ please $$
-^^  on $$
+^^ xxx $$
+^^ xxx on $$
 ^^ Heidi $$
 ^^ go look for Heidi $$
 ^^ what $$
@@ -497,7 +504,7 @@
 ^^ yeah $$
 ^^ on the fire $$
 ^^ yeah $$
-^^ I   like that too $$
+^^ I put that like that too $$
 ^^ put that on that baby $$
 ^^ oh Heidi fit $$
 ^^ look $$
@@ -527,6 +534,7 @@
 ^^ not like that $$
 ^^ that look $$
 ^^ put that on Heidi $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ one yeah $$
@@ -536,6 +544,7 @@
 ^^ oh look that $$
 ^^ put that on that train $$
 ^^ oh $$
+^^ a $$
 ^^ Anna leave that there $$
 ^^ me take that out that $$
 ^^ out the box $$
@@ -544,6 +553,7 @@
 ^^ that get a brick on it $$
 ^^ a house $$
 ^^ yellow one $$
+^^ xxx $$
 ^^ Anna do not like door $$
 ^^ oh what that $$
 ^^ where panda $$
@@ -559,8 +569,9 @@
 ^^ look bump bump $$
 ^^ what monkey do $$
 ^^ take me brick away $$
-^^ that one me  $$
+^^ that one me xxx $$
 ^^ take the house away $$
+^^ xxx $$
 ^^ yeah $$
 ^^ put it there $$
 ^^ need that right $$
@@ -570,7 +581,7 @@
 ^^ thank_you $$
 ^^ panda sit on there $$
 ^^ oh car go away $$
-^^  that my house $$
+^^ a that my house $$
 ^^ there panda house $$
 ^^ panda lie there $$
 ^^ panda lie in the house $$
@@ -610,7 +621,7 @@
 ^^ yeah $$
 ^^ panda not upset $$
 ^^ panda not $$
-^^   panda not upset $$
+^^ panda not panda not upset $$
 ^^ look panda new house $$
 ^^ one more piece $$
 ^^ one more go there $$
@@ -693,13 +704,13 @@
 ^^ me want that one $$
 ^^ and one down there $$
 ^^ there $$
-^^   be no room put that there $$
+^^ no room be no room put that there $$
 ^^ be no room put that there no $$
 ^^ leave that there $$
 ^^ no room put that there no $$
 ^^ yeah $$
 ^^ yeah $$
-^^  no tiger $$
+^^ no no tiger $$
 ^^ go on there $$
 ^^ go on there $$
 ^^ go on there $$
@@ -707,6 +718,7 @@
 ^^ monkey poor $$
 ^^ Mummy do that $$
 ^^ put that on the house $$
+^^ xxx $$
 ^^ tiger $$
 ^^ hippo $$
 ^^ hippo $$
@@ -720,11 +732,11 @@
 ^^ I go $$
 ^^ me go and get my brick $$
 ^^ and Mummy go $$
-^^  Mummy horse $$
-^^  Mummy horse in there $$
+^^ Mummy Mummy horse $$
+^^ Mummy Mummy horse in there $$
 ^^ no $$
 ^^ go on mine $$
-^^  me get the brick go on that $$
+^^ me me get the brick go on that $$
 ^^ yeah $$
 ^^ Anna not take my brick away $$
 ^^ no $$
@@ -743,7 +755,7 @@
 ^^ huh $$
 ^^ yeah $$
 ^^ Mummy $$
-^^ do not  $$
+^^ do not xxx $$
 ^^ do not talk $$
 ^^ yeah $$
 ^^ me do not know $$
@@ -751,9 +763,9 @@
 ^^ yeah $$
 ^^ blue $$
 ^^ blue $$
-^^  white $$
+^^ er white $$
 ^^ mhm $$
-^^  another blue one $$
+^^ er another blue one $$
 ^^ I want another green one $$
 ^^ another blue one $$
 ^^ another blue one on that $$
@@ -764,7 +776,7 @@
 ^^ another yellow one $$
 ^^ a yellow one $$
 ^^ yeah $$
-^^  down there $$
+^^ um down there $$
 ^^ another yellow one $$
 ^^ there one $$
 ^^ another white one $$
@@ -773,7 +785,7 @@
 ^^ another yellow one $$
 ^^ another yellow one $$
 ^^ another one $$
-^^    another yellow one $$
+^^ er another er another yellow one $$
 ^^ there please $$
 ^^ another blue one $$
 ^^ no $$
@@ -793,7 +805,7 @@
 ^^ another yellow one $$
 ^^ get a big one $$
 ^^ I want another baby $$
-^^  red $$
+^^ blue red $$
 ^^ red $$
 ^^ another white one $$
 ^^ another white one $$
@@ -802,7 +814,7 @@
 ^^ another one $$
 ^^ another white one $$
 ^^ oh one more $$
-^^  blue one $$
+^^ er blue one $$
 ^^ oh a baby one $$
 ^^ baby blue one $$
 ^^ oh yeah $$
@@ -824,7 +836,7 @@
 ^^ yeah $$
 ^^ want my baby $$
 ^^ yeah $$
-^^  the baby $$
+^^ xxx the baby $$
 ^^ happy Mummy $$
 ^^ she knock Mummy over $$
 ^^ yeah $$
@@ -835,7 +847,7 @@
 ^^ yeah $$
 ^^ a man down there $$
 ^^ no $$
-^^ he go in  $$
+^^ he go in xxx $$
 ^^ huh $$
 ^^ no $$
 ^^ that $$
@@ -850,7 +862,7 @@
 ^^ me get that for the baby $$
 ^^ yeah $$
 ^^ and me go find another baby one $$
-^^   another baby one $$
+^^ another baby another baby one $$
 ^^ two baby one $$
 ^^ yeah $$
 ^^ green $$
@@ -891,8 +903,10 @@
 ^^ only get one $$
 ^^ one toy $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ do not do that $$
 ^^ do not talk $$
 ^^ no $$
@@ -902,7 +916,7 @@
 ^^ yeah $$
 ^^ no $$
 ^^ yeah $$
-^^     me skip too $$
+^^ me skip me skip me skip too $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -920,7 +934,7 @@
 ^^ Grandma $$
 ^^ Grandma house $$
 ^^ yeah $$
-^^ at   my house $$
+^^ at my house my house $$
 ^^ my house $$
 ^^ my house $$
 ^^ yeah $$
@@ -932,7 +946,7 @@
 ^^ Anna not get one $$
 ^^ at Dave $$
 ^^ yeah $$
-^^  Mummy $$
+^^ er Mummy $$
 ^^ Daddy $$
 ^^ yeah $$
 ^^ Anna $$
@@ -969,16 +983,17 @@
 ^^ yeah $$
 ^^ the beast run away $$
 ^^ yeah $$
-^^  and come back eat it $$
+^^ and and come back eat it $$
 ^^ me throw some more $$
 ^^ and again $$
 ^^ another one $$
-^^  me $$
+^^ um me $$
 ^^ no $$
-^^  Sally do $$
+^^ er Sally do $$
 ^^ big Sally $$
 ^^ Fiona $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ Mandy $$
 ^^ no $$
 ^^ at school $$
@@ -993,9 +1008,11 @@
 ^^ yeah $$
 ^^ Sally all alone there $$
 ^^ yeah $$
-^^ not  the other $$
+^^ xxx $$
+^^ not xxx the other $$
 ^^ yeah $$
-^^  that house $$
+^^ xxx $$
+^^ that that house $$
 ^^ read it again $$
 ^^ yeah $$
 ^^ please $$
@@ -1022,7 +1039,7 @@
 ^^ me lick $$
 ^^ Dada like that $$
 ^^ yeah $$
-^^   when Daddy come home $$
+^^ when Daddy when Daddy come home $$
 ^^ yeah $$
 ^^ where Daddy $$
 ^^ at work $$
@@ -1034,7 +1051,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^  Mummy say no $$
+^^ Dad Mummy say no $$
 ^^ why $$
 ^^ Daddy say no $$
 ^^ why $$
@@ -1058,13 +1075,13 @@
 ^^ my car $$
 ^^ yeah $$
 ^^ why $$
-^^ not go away  $$
-^^    not run away $$
+^^ not go away xxx $$
+^^ not not running not run away $$
 ^^ why $$
 ^^ why $$
 ^^ yeah $$
 ^^ why $$
-^^  it get lose $$
+^^ get it get lose $$
 ^^ yeah $$
 ^^ that crash the workman $$
 ^^ yeah $$
@@ -1073,13 +1090,13 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^  road have muck $$
+^^ road road have muck $$
 ^^ road want muck $$
 ^^ yeah $$
 ^^ why $$
 ^^ what $$
 ^^ why $$
-^^  me jump on Mummy $$
+^^ me me jump on Mummy $$
 ^^ me jump on Mummy $$
 ^^ yeah $$
 ^^ no $$
@@ -1094,7 +1111,7 @@
 ^^ why $$
 ^^ me like to $$
 ^^ yeah $$
-^^ me  $$
+^^ me xxx $$
 ^^ me jump on Mummy again $$
 ^^ yeah $$
 ^^ make Mummy happy $$
@@ -1121,8 +1138,8 @@
 ^^ face $$
 ^^ yeah $$
 ^^ me do not like my hair wash $$
-^^  Daddy $$
-^^  Daddy $$
+^^ Daddy Daddy $$
+^^ Daddy Daddy $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ do not like my hair wash $$
@@ -1135,14 +1152,14 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ what $$
-^^ me go  $$
+^^ me go xxx $$
 ^^ me go a hide $$
 ^^ no $$
 ^^ what $$
 ^^ what Mummy $$
 ^^ why $$
 ^^ why $$
-^^  me have it $$
+^^ me me have it $$
 ^^ have that too $$
 ^^ and that down there $$
 ^^ that too $$
@@ -1170,13 +1187,13 @@
 ^^ what baby tiger do $$
 ^^ not fight with me $$
 ^^ not fight with me $$
-^^ knock  $$
+^^ knock xxx $$
 ^^ knock me $$
 ^^ knock me $$
 ^^ yeah $$
 ^^ down $$
 ^^ like that $$
-^^  that $$
+^^ xxx that $$
 ^^ baby do that $$
 ^^ why $$
 ^^ where $$
@@ -1184,7 +1201,7 @@
 ^^ me have it back $$
 ^^ me have that $$
 ^^ that $$
-^^  and that $$
+^^ and and that $$
 ^^ yeah $$
 ^^ my want it $$
 ^^ no $$
@@ -1192,7 +1209,7 @@
 ^^ yeah $$
 ^^ no $$
 ^^ my do not want baby tiger $$
-^^    no $$
+^^ no no no no $$
 ^^ not that $$
 ^^ baby say $$
 ^^ no $$
@@ -1202,11 +1219,12 @@
 ^^ go there $$
 ^^ not that $$
 ^^ not that $$
+^^ xxx $$
 ^^ what do $$
 ^^ no $$
 ^^ baby in there $$
 ^^ no $$
-^^  my want them $$
+^^ me my want them $$
 ^^ my want them $$
 ^^ I want them $$
 ^^ baby need say sorry $$
@@ -1233,6 +1251,7 @@
 ^^ four $$
 ^^ five $$
 ^^ seven $$
+^^ xxx $$
 ^^ five $$
 ^^ number five $$
 ^^ number four $$
@@ -1245,7 +1264,7 @@
 ^^ three flower $$
 ^^ oh $$
 ^^ you do that $$
-^^ number  ten $$
+^^ number eight ten $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ why $$
@@ -1272,7 +1291,7 @@
 ^^ yeah $$
 ^^ one more my brick $$
 ^^ two my brick $$
-^^     me put them in there $$
+^^ me take me taking me put them in there $$
 ^^ Mama $$
 ^^ huh $$
 ^^ yellow $$
@@ -1284,7 +1303,7 @@
 ^^ can not do it $$
 ^^ why $$
 ^^ why $$
-^^ me not  big much see Santa $$
+^^ me not bigger big much see Santa $$
 ^^ what $$
 ^^ later on $$
 ^^ yeah $$
@@ -1329,7 +1348,7 @@
 ^^ be nice a me $$
 ^^ be nice a me $$
 ^^ no $$
-^^ me  $$
+^^ me xxx $$
 ^^ that one $$
 ^^ that one $$
 ^^ that one $$
@@ -1345,8 +1364,8 @@
 ^^ yellow one $$
 ^^ want a yellow one $$
 ^^ why $$
-^^  me find green $$
-^^   me have yellow $$
+^^ um me find green $$
+^^ me have me have yellow $$
 ^^ yeah $$
 ^^ me put that there $$
 ^^ me have yellow $$
@@ -1358,12 +1377,13 @@
 ^^ yeah $$
 ^^ there baby $$
 ^^ me get $$
-^^  Anna bring the baby again $$
+^^ Anna Anna bring the baby again $$
 ^^ why $$
 ^^ me make a house for the baby $$
 ^^ baby go in there $$
 ^^ big one $$
 ^^ little one for me $$
+^^ xxx $$
 ^^ that be doctor house $$
 ^^ yeah $$
 ^^ me go build the doctor house $$
@@ -1413,8 +1433,9 @@
 ^^ oh little $$
 ^^ do not put my baby in $$
 ^^ oh no $$
+^^ xxx $$
 ^^ do not put a baby in $$
-^^ I     put another baby brick on $$
+^^ I putting another baby brick put another baby brick on $$
 ^^ yeah $$
 ^^ oh there $$
 ^^ little baby one $$
@@ -1446,7 +1467,7 @@
 ^^ no room $$
 ^^ no $$
 ^^ back that $$
-^^ good  that on there $$
+^^ good xxx that on there $$
 ^^ yeah $$
 ^^ my do not want that there $$
 ^^ yeah $$
@@ -1459,21 +1480,21 @@
 ^^ why $$
 ^^ one more $$
 ^^ oh that down there $$
-^^ oh    that go on top $$
-^^  me look for another one $$
+^^ oh that go on that go on top $$
+^^ me me look for another one $$
 ^^ I look for another one $$
 ^^ yeah $$
 ^^ no $$
 ^^ later on $$
 ^^ later $$
 ^^ Mummy not doctor $$
-^^  I get the doctor thing out $$
+^^ er I get the doctor thing out $$
 ^^ I want get that $$
 ^^ not in there $$
 ^^ yes $$
 ^^ here the doctor thing $$
 ^^ and that for doctor $$
-^^ I put that on  $$
+^^ I put that on xxx $$
 ^^ there $$
 ^^ that for the doctor too $$
 ^^ that for the doctor too $$
@@ -1489,12 +1510,12 @@
 ^^ there $$
 ^^ there stethoscope $$
 ^^ wear that one $$
-^^   me too  $$
+^^ me wear me too xxx $$
 ^^ be two doctor $$
 ^^ yeah $$
 ^^ there $$
 ^^ yeah $$
-^^    and Mo sick $$
+^^ and my and and Mo sick $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ two $$
@@ -1507,14 +1528,14 @@
 ^^ not near the fire $$
 ^^ no $$
 ^^ fire $$
-^^ oh    make that baby good $$
+^^ oh make that baby make that baby good $$
 ^^ get sick $$
 ^^ yeah $$
 ^^ wear that one $$
 ^^ that Mummy one $$
 ^^ tum $$
 ^^ yeah $$
-^^   get out $$
+^^ getting getting get out $$
 ^^ yeah $$
 ^^ down there $$
 ^^ yeah $$
@@ -1524,7 +1545,7 @@
 ^^ Mummy make that one good $$
 ^^ me build the doctor house $$
 ^^ yeah $$
-^^ oh  me go a make that baby good $$
+^^ oh me me go a make that baby good $$
 ^^ yeah $$
 ^^ me go make that baby good $$
 ^^ get a sore tum $$
@@ -1543,21 +1564,21 @@
 ^^ Anna the Mummy $$
 ^^ you Mummy $$
 ^^ okay $$
-^^  me a Mummy no $$
-^^  me  Mummy $$
-^^ me a Mummy  $$
+^^ me me a Mummy no $$
+^^ me me xxx Mummy $$
+^^ me a Mummy xxx $$
 ^^ here you be $$
-^^   that Mummy get  two $$
-^^   that Mummy get two baby $$
+^^ Anna got that Mummy get two two $$
+^^ that got that Mummy get two baby $$
 ^^ why $$
 ^^ why $$
 ^^ what $$
 ^^ the watch $$
 ^^ yeah $$
-^^   no $$
+^^ no no no $$
 ^^ me only play that $$
 ^^ yeah $$
-^^  put that on there $$
+^^ er put that on there $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ not get two watch $$
@@ -1571,7 +1592,7 @@
 ^^ yeah $$
 ^^ bath $$
 ^^ no $$
-^^  night $$
+^^ er night $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
@@ -1579,7 +1600,7 @@
 ^^ it not time for bath $$
 ^^ time go a bed no $$
 ^^ yeah $$
-^^ that   time go a bed $$
+^^ that time go time go a bed $$
 ^^ why $$
 ^^ why $$
 ^^ yeah $$
@@ -1591,14 +1612,16 @@
 ^^ Ruth $$
 ^^ Ruth $$
 ^^ Mary_Lastname $$
-^^ put that  $$
+^^ put that xxx $$
 ^^ put that through a hole $$
 ^^ yeah $$
 ^^ tie a knot $$
 ^^ yeah $$
+^^ xxx $$
 ^^ and a tiny bit come out $$
 ^^ huh $$
 ^^ yeah $$
+^^ xxx $$
 ^^ one Anna doll $$
 ^^ oh dear $$
 ^^ me pick up my watch $$
@@ -1609,6 +1632,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ what $$
+^^ xxx $$
 ^^ where another one $$
 ^^ another big one $$
 ^^ another little one $$
@@ -1626,7 +1650,7 @@
 ^^ oh $$
 ^^ Anna get a brick $$
 ^^ Anna get a big bit $$
-^^  where little white one $$
+^^ where where little white one $$
 ^^ okay $$
 ^^ that go there $$
 ^^ huh $$
@@ -1652,7 +1676,7 @@
 ^^ not anymore $$
 ^^ that make my nice warm $$
 ^^ me nice and warm too $$
-^^ and Anna   nice warm $$
+^^ and Anna nice warm nice warm $$
 ^^ make Anna nice warm too $$
 ^^ why $$
 ^^ yeah $$
@@ -1679,6 +1703,7 @@
 ^^ that for the white baby $$
 ^^ oh no room in there $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ why $$
 ^^ why $$
@@ -1691,12 +1716,13 @@
 ^^ yeah $$
 ^^ me do not want one there $$
 ^^ no $$
-^^  that $$
+^^ that that $$
 ^^ why $$
 ^^ yeah $$
 ^^ my do not want a brick here $$
 ^^ why $$
-^^ me  put on that house $$
+^^ a $$
+^^ me having put on that house $$
 ^^ me take the wall off $$
 ^^ yeah $$
 ^^ I do not want a wall there $$
@@ -1704,19 +1730,20 @@
 ^^ here $$
 ^^ yeah $$
 ^^ no $$
-^^ me build   the  wee $$
+^^ me build the wee the wee wee $$
 ^^ the wee house $$
 ^^ yeah $$
 ^^ for the Dutch_baby $$
-^^   me get that baby out $$
+^^ get it me get that baby out $$
+^^ xxx $$
 ^^ brick not want me take it wall away $$
 ^^ yeah $$
 ^^ yeah $$
-^^  me leave house there $$
+^^ me me leave house there $$
 ^^ no $$
 ^^ me want put a brick on it $$
 ^^ on it $$
-^^  house $$
+^^ xxx house $$
 ^^ me want to put another brick on it $$
 ^^ yeah $$
 ^^ and my want a brick on it $$
@@ -1737,11 +1764,11 @@
 ^^ why $$
 ^^ why $$
 ^^ yeah $$
-^^  Anna not get a roof $$
+^^ not Anna not get a roof $$
 ^^ Anna get a roof $$
 ^^ no $$
 ^^ no $$
-^^  the rain $$
+^^ xxx the rain $$
 ^^ Anna want the rain come down $$
 ^^ why $$
 ^^ why $$
@@ -1751,8 +1778,8 @@
 ^^ no $$
 ^^ a man $$
 ^^ yeah $$
-^^  the man $$
-^^ Daddy  $$
+^^ xxx the man $$
+^^ Daddy xxx $$
 ^^ a bad man take my toy $$
 ^^ no $$
 ^^ yeah $$
@@ -1765,7 +1792,7 @@
 ^^ birth $$
 ^^ birth $$
 ^^ birth $$
-^^  birth $$
+^^ b birth $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1780,6 +1807,9 @@
 ^^ it blow me away $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ four $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1835,11 +1865,11 @@
 ^^ a big not $$
 ^^ big $$
 ^^ yeah $$
-^^ sometimes not get  $$
+^^ sometimes not get xxx $$
 ^^ some night $$
 ^^ some night $$
 ^^ yeah $$
-^^  some Tuesday $$
+^^ um some Tuesday $$
 ^^ yeah $$
 ^^ me go home Tuesday $$
 ^^ yeah $$
@@ -1884,6 +1914,7 @@
 ^^ what Mummy rabbit do there $$
 ^^ that one $$
 ^^ no $$
+^^ xxx $$
 ^^ there monster $$
 ^^ what $$
 ^^ yeah $$
@@ -1964,7 +1995,7 @@
 ^^ where Mummy bear $$
 ^^ door $$
 ^^ window $$
-^^  doctor $$
+^^ xxx doctor $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1982,7 +2013,7 @@
 ^^ two $$
 ^^ yeah $$
 ^^ yeah $$
-^^ me  $$
+^^ me xxx $$
 ^^ yeah $$
 ^^ Sophie and Daddy $$
 ^^ yeah $$
@@ -2005,7 +2036,7 @@
 ^^ why $$
 ^^ yeah $$
 ^^ no $$
-^^  read another one $$
+^^ read read another one $$
 ^^ yeah $$
 ^^ bear one $$
 ^^ why $$
@@ -2089,11 +2120,11 @@
 ^^ why $$
 ^^ make some paint $$
 ^^ why $$
-^^   what that lady do $$
+^^ what this what that lady do $$
 ^^ spill the juice $$
 ^^ why $$
 ^^ want paint $$
-^^  paint $$
+^^ paint paint $$
 ^^ why $$
 ^^ why $$
 ^^ it was me $$
@@ -2141,7 +2172,7 @@
 ^^ yeah $$
 ^^ why $$
 ^^ with teach $$
-^^  that Joy $$
+^^ that that Joy $$
 ^^ it Lisa $$
 ^^ yeah $$
 ^^ Lisa get long long hair $$
@@ -2166,6 +2197,7 @@
 ^^ yeah $$
 ^^ what $$
 ^^ car $$
+^^ xxx $$
 ^^ toy $$
 ^^ it be a rabbit $$
 ^^ yeah $$
@@ -2184,7 +2216,7 @@
 ^^ yeah $$
 ^^ eat it $$
 ^^ put it in Mummy one $$
-^^   baby rabbit go in one Mummy $$
+^^ he going baby rabbit go in one Mummy $$
 ^^ yeah $$
 ^^ why $$
 ^^ why $$
@@ -2192,7 +2224,7 @@
 ^^ why $$
 ^^ want to $$
 ^^ yeah $$
-^^  that another rabbit $$
+^^ that that another rabbit $$
 ^^ why $$
 ^^ huh $$
 ^^ why $$
@@ -2209,7 +2241,7 @@
 ^^ Sophie $$
 ^^ yeah $$
 ^^ yeah $$
-^^   what that Mummy get $$
+^^ what that what that Mummy get $$
 ^^ baby $$
 ^^ why $$
 ^^ yeah $$
@@ -2219,7 +2251,7 @@
 ^^ do not talk Anna doll $$
 ^^ do not talk Anna doll $$
 ^^ no $$
-^^ she  does not like you talk at her $$
+^^ she like does not like you talk at her $$
 ^^ no $$
 ^^ do not talk at her $$
 ^^ not to her $$
@@ -2232,8 +2264,8 @@
 ^^ why $$
 ^^ why $$
 ^^ yeah $$
-^^  there some for you $$
-^^  me go and get them $$
+^^ some there some for you $$
+^^ me me go and get them $$
 ^^ I get Mummy white one $$
 ^^ Anna not get a Mummy white one $$
 ^^ why $$
@@ -2251,9 +2283,9 @@
 ^^ do not break my house Mummy $$
 ^^ what $$
 ^^ my yellow $$
-^^   no $$
+^^ no no no $$
 ^^ that my yellow one $$
-^^  no $$
+^^ no no $$
 ^^ that my blue one $$
 ^^ do not play it again $$
 ^^ do not play anymore $$
@@ -2264,6 +2296,7 @@
 ^^ green $$
 ^^ it mine $$
 ^^ do not play it again $$
+^^ a $$
 ^^ do not be a spider Mummy $$
 ^^ no $$
 ^^ play with me $$
@@ -2276,10 +2309,11 @@
 ^^ no $$
 ^^ build one house $$
 ^^ yeah $$
+^^ xxx $$
 ^^ put the brick in there $$
 ^^ what you do $$
 ^^ no $$
-^^ you  there $$
+^^ you xxx there $$
 ^^ trip me up $$
 ^^ get me out my way $$
 ^^ not let me do my work $$
@@ -2295,7 +2329,7 @@
 ^^ no $$
 ^^ for Daddy $$
 ^^ yeah $$
-^^ Daddy not let  you have one $$
+^^ Daddy not let me you have one $$
 ^^ no $$
 ^^ Daddy be tough that one $$
 ^^ tough to get one $$
@@ -2310,7 +2344,7 @@
 ^^ Mummy can not have mine $$
 ^^ no $$
 ^^ no $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ do not let it $$
 ^^ what $$
 ^^ there $$
@@ -2337,9 +2371,9 @@
 ^^ I get it $$
 ^^ what $$
 ^^ hide $$
-^^  do not know where it be $$
+^^ um do not know where it be $$
 ^^ no $$
-^^   no $$
+^^ no no no $$
 ^^ not be my door $$
 ^^ no $$
 ^^ I do not want a door $$
@@ -2351,7 +2385,7 @@
 ^^ nobody in me house $$
 ^^ no $$
 ^^ no $$
-^^  that one $$
+^^ xxx that one $$
 ^^ not your house $$
 ^^ not my house $$
 ^^ not Anna house $$
@@ -2363,10 +2397,10 @@
 ^^ oh me make a door $$
 ^^ yeah $$
 ^^ yeah $$
-^^  do not do that $$
-^^ do not  me $$
+^^ don't do not do that $$
+^^ do not xxx me $$
 ^^ do not play with me $$
-^^   me make my wall $$
+^^ me making me make my wall $$
 ^^ wall $$
 ^^ yeah $$
 ^^ Mummy no $$
@@ -2390,7 +2424,7 @@
 ^^ and elephant go in there $$
 ^^ too $$
 ^^ Anna get elephant $$
-^^  Anna $$
+^^ er Anna $$
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
@@ -2428,7 +2462,7 @@
 ^^ elephant go in there $$
 ^^ why $$
 ^^ what Mummy do $$
-^^  baby lion go in there $$
+^^ lion baby lion go in there $$
 ^^ and a big lion $$
 ^^ yeah $$
 ^^ big lion not very nice $$
@@ -2501,11 +2535,11 @@
 ^^ go her $$
 ^^ go in her pajamas $$
 ^^ why $$
-^^  pajamas $$
+^^ xxx pajamas $$
 ^^ come here $$
 ^^ come sleep on my knee $$
 ^^ put her hand down $$
-^^  what do $$
+^^ what what do $$
 ^^ my doll does not like you $$
 ^^ not like you Mama $$
 ^^ scare $$
@@ -2564,13 +2598,13 @@
 ^^ yeah $$
 ^^ I like that baby too $$
 ^^ yeah $$
-^^  sit here $$
+^^ sit sit here $$
 ^^ sit over here $$
 ^^ no $$
 ^^ sit here $$
 ^^ yeah $$
 ^^ please $$
-^^  come sit beside my doll $$
+^^ come come sit beside my doll $$
 ^^ that baby sit there $$
 ^^ huh $$
 ^^ no $$
@@ -2606,10 +2640,11 @@
 ^^ you can not get in $$
 ^^ Mummy can not get in $$
 ^^ no $$
+^^ xxx $$
 ^^ that Mama chair $$
 ^^ what $$
 ^^ you lock me in $$
-^^ me not  $$
+^^ me not xxx $$
 ^^ you lock me out $$
 ^^ me lock Anna in $$
 ^^ why $$
@@ -2646,34 +2681,35 @@
 ^^ want one apple $$
 ^^ want that $$
 ^^ yeah $$
-^^  want tomato $$
+^^ it want tomato $$
 ^^ okay $$
 ^^ yeah $$
 ^^ that $$
 ^^ want that $$
 ^^ orange $$
-^^  you want that one $$
+^^ that you want that one $$
 ^^ yeah $$
 ^^ what do you want $$
 ^^ okay $$
 ^^ want anymore $$
-^^  want that $$
+^^ want want that $$
 ^^ and have too much $$
 ^^ yeah $$
 ^^ that tea $$
 ^^ yeah $$
 ^^ that chicken leg $$
 ^^ get another juice $$
-^^ that  $$
+^^ that xxx $$
 ^^ that $$
 ^^ me do not know $$
 ^^ that cake $$
 ^^ yeah $$
-^^  what that be $$
+^^ what what that be $$
 ^^ okay $$
 ^^ what that go on $$
 ^^ on there $$
 ^^ go on there $$
+^^ xxx $$
 ^^ it not go $$
 ^^ not go $$
 ^^ what that go on $$

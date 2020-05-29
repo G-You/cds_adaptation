@@ -8,7 +8,7 @@
 ^^ no $$
 ^^ mine dodie $$
 ^^ no $$
-^^  no $$
+^^ no no $$
 ^^ what in there the penny $$
 ^^ oh $$
 ^^ you get there $$
@@ -69,7 +69,7 @@
 ^^ get it off $$
 ^^ yes stick $$
 ^^ I be stick $$
-^^ there be  $$
+^^ there be xxx $$
 ^^ the page Mum $$
 ^^ what be in there $$
 ^^ you a slide $$
@@ -112,10 +112,11 @@
 ^^ what be in there $$
 ^^ what be on other page $$
 ^^ in the water $$
+^^ xxx $$
 ^^ there be fish $$
 ^^ there be a baby fish $$
 ^^ yes $$
-^^  toy $$
+^^ um toy $$
 ^^ fish $$
 ^^ there be a crocodile in the water $$
 ^^ and another Daddy crocodile go under $$
@@ -128,8 +129,8 @@
 ^^ baby cat $$
 ^^ baby cat Mummy $$
 ^^ yes $$
-^^  and Daddy one $$
-^^ that be   a Mummy one $$
+^^ and and Daddy one $$
+^^ that be a D a Mummy one $$
 ^^ Mummy cat $$
 ^^ yes $$
 ^^ and Mummy $$
@@ -154,6 +155,7 @@
 ^^ that Daddy $$
 ^^ no $$
 ^^ I want Daddy window $$
+^^ a $$
 ^^ no $$
 ^^ no want snow draw $$
 ^^ snow draw Mummy $$
@@ -171,13 +173,16 @@
 ^^ draw Tank $$
 ^^ Mummy $$
 ^^ what Carl do Mummy $$
-^^  a snow $$
-^^  and a blue one $$
-^^ and a snow   and hat $$
+^^ um a snow $$
+^^ um and a blue one $$
+^^ and a snow and and and hat $$
+^^ um um $$
+^^ xxx $$
 ^^ draw Carl $$
 ^^ yeah $$
 ^^ and a red one $$
 ^^ yes $$
+^^ um $$
 ^^ that mine $$
 ^^ no $$
 ^^ no $$
@@ -185,6 +190,8 @@
 ^^ mine Carl Mummy $$
 ^^ Mummy $$
 ^^ this for Mummy $$
+^^ um $$
+^^ um $$
 ^^ come on $$
 ^^ and James well $$
 ^^ no $$
@@ -206,6 +213,7 @@
 ^^ a big Gordon $$
 ^^ yeah $$
 ^^ I draw Gordon $$
+^^ um $$
 ^^ do truck for Gordon $$
 ^^ truck for Gordon $$
 ^^ draw truck for Gordon $$
@@ -217,11 +225,11 @@
 ^^ Gordon ear $$
 ^^ and eye $$
 ^^ and nose $$
-^^  and a mouth $$
+^^ and and a mouth $$
 ^^ Gordon $$
 ^^ peeppeep $$
 ^^ peep Gordon $$
-^^   and $$
+^^ and and and $$
 ^^ Edward $$
 ^^ Edward truck $$
 ^^ Edward truck $$
@@ -237,11 +245,11 @@
 ^^ draw dog $$
 ^^ yeah $$
 ^^ all right $$
-^^  that Bert $$
+^^ um that Bert $$
 ^^ that dog $$
 ^^ Bert a dog $$
 ^^ yes $$
-^^ and  Granddad Nana $$
+^^ and um Granddad Nana $$
 ^^ and Nana $$
 ^^ I be nice $$
 ^^ be nice $$
@@ -263,6 +271,8 @@
 ^^ no $$
 ^^ Mummy $$
 ^^ trouser on $$
+^^ a $$
+^^ eh eh eh $$
 ^^ what a naughty boy $$
 ^^ no $$
 ^^ no $$
@@ -270,7 +280,7 @@
 ^^ dear dear Carl $$
 ^^ that Carl be fall over there $$
 ^^ and careful Carl $$
-^^   and $$
+^^ and and and $$
 ^^ oh what you do $$
 ^^ this one $$
 ^^ what you do $$
@@ -281,7 +291,8 @@
 ^^ yeah $$
 ^^ hand draw $$
 ^^ hand draw $$
-^^  Carl draw $$
+^^ um $$
+^^ um Carl draw $$
 ^^ hand draw $$
 ^^ hand draw $$
 ^^ draw $$
@@ -289,6 +300,7 @@
 ^^ hand draw $$
 ^^ Gordon wash $$
 ^^ draw $$
+^^ um um $$
 ^^ draw $$
 ^^ I draw $$
 ^^ a neenaw $$
@@ -306,7 +318,7 @@
 ^^ big plane $$
 ^^ car $$
 ^^ dear dear $$
-^^ the  $$
+^^ the xxx $$
 ^^ dear $$
 ^^ brumm $$
 ^^ oh $$
@@ -317,12 +329,13 @@
 ^^ where be the baby $$
 ^^ there be a bridge $$
 ^^ bridge $$
-^^  there the baby $$
-^^  baby $$
+^^ a there the baby $$
+^^ a baby $$
 ^^ oh find the baby $$
 ^^ where be the whee $$
 ^^ a bridge $$
 ^^ under the bridge $$
+^^ um $$
 ^^ tiger whee $$
 ^^ err no $$
 ^^ where be the tiger $$
@@ -371,7 +384,7 @@
 ^^ jump $$
 ^^ jump $$
 ^^ jump $$
-^^  throw $$
+^^ um throw $$
 ^^ a egg $$
 ^^ oh $$
 ^^ where be it go $$
@@ -383,7 +396,7 @@
 ^^ I see it $$
 ^^ I see it $$
 ^^ catch $$
-^^ that    mine $$
+^^ that mine mine mine mine $$
 ^^ no mine $$
 ^^ mine yours $$
 ^^ mine yours $$
@@ -405,6 +418,7 @@
 ^^ catch $$
 ^^ egg $$
 ^^ please $$
+^^ a $$
 ^^ two $$
 ^^ egg please $$
 ^^ catch $$
@@ -432,7 +446,7 @@
 ^^ I find $$
 ^^ oh $$
 ^^ no $$
-^^   dear $$
+^^ dear dear dear $$
 ^^ this off $$
 ^^ this off $$
 ^^ it the lid $$
@@ -442,6 +456,8 @@
 ^^ no $$
 ^^ it Carl $$
 ^^ off the lid on $$
+^^ mm $$
+^^ mm $$
 ^^ please $$
 ^^ no $$
 ^^ please $$
@@ -450,11 +466,13 @@
 ^^ no $$
 ^^ lid on $$
 ^^ Carl lid $$
-^^ where  $$
+^^ where xxx $$
 ^^ where be the lid go $$
 ^^ thanks $$
+^^ mm $$
 ^^ please $$
 ^^ please $$
+^^ mm $$
 ^^ nice $$
 ^^ nice drink $$
 ^^ dear dear tomato $$
@@ -467,7 +485,7 @@
 ^^ off lid $$
 ^^ dear dear Mummy bite $$
 ^^ Carl $$
-^^  Carl bite $$
+^^ Carl Carl bite $$
 ^^ Mum carry $$
 ^^ oh $$
 ^^ oh dear dear Mum $$
@@ -526,17 +544,17 @@
 ^^ and the number two $$
 ^^ and $$
 ^^ that one $$
-^^  that one $$
-^^  no $$
+^^ that that one $$
+^^ um no $$
 ^^ all down $$
 ^^ that one $$
 ^^ this the one two three four $$
 ^^ where be two $$
-^^  here $$
-^^  there be a blue $$
+^^ um here $$
+^^ a there be a blue $$
 ^^ green $$
 ^^ purple $$
-^^  and green $$
+^^ and and green $$
 ^^ blue $$
 ^^ and red $$
 ^^ that be red $$
@@ -547,6 +565,7 @@
 ^^ like Granddad car $$
 ^^ nana $$
 ^^ there nana $$
+^^ um $$
 ^^ plant be green $$
 ^^ and the plant be green $$
 ^^ where be the bridge $$
@@ -562,6 +581,7 @@
 ^^ dear dear $$
 ^^ Carl carry $$
 ^^ oh $$
+^^ mm $$
 ^^ and the nana Carl $$
 ^^ dear dear Mum $$
 ^^ where $$
@@ -569,7 +589,7 @@
 ^^ no $$
 ^^ dear dear dress $$
 ^^ whose clothes be these $$
-^^  this $$
+^^ this this $$
 ^^ this be tight $$
 ^^ take off Mummy $$
 ^^ take clothes out $$
@@ -592,8 +612,8 @@
 ^^ dear dear dear me $$
 ^^ dear blue one $$
 ^^ make a bridge Thomas $$
-^^  bridge $$
-^^  Thomas under $$
+^^ um bridge $$
+^^ um Thomas under $$
 ^^ Thomas $$
 ^^ that one $$
 ^^ where the bridge $$
@@ -623,16 +643,16 @@
 ^^ this car $$
 ^^ beep $$
 ^^ push the car $$
-^^  to the brumbrum car $$
+^^ xxx to the brumbrum car $$
 ^^ this car $$
 ^^ no $$
 ^^ knee $$
 ^^ here $$
-^^  and brumm $$
+^^ and and brumm $$
 ^^ a car $$
 ^^ and car $$
 ^^ and Carl $$
-^^  crash $$
+^^ a crash $$
 ^^ dear car $$
 ^^ this car $$
 ^^ this car $$
@@ -650,6 +670,8 @@
 ^^ one crash the hill $$
 ^^ under the hill $$
 ^^ no no $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ hey hey $$
 ^^ no $$
@@ -680,6 +702,7 @@
 ^^ green $$
 ^^ yellow one $$
 ^^ yeah $$
+^^ um $$
 ^^ yellow $$
 ^^ Thomas $$
 ^^ green Thomas $$
@@ -690,14 +713,14 @@
 ^^ there you be $$
 ^^ yellow $$
 ^^ that be yellow one $$
-^^   and the pink $$
+^^ and the and the pink $$
 ^^ that $$
 ^^ white $$
 ^^ black $$
 ^^ black cat $$
 ^^ that be a pink one $$
 ^^ there you be $$
-^^   and a pink and yellow in $$
+^^ and a and a pink and yellow in $$
 ^^ snow $$
 ^^ where $$
 ^^ oh $$
@@ -724,7 +747,7 @@
 ^^ that be red $$
 ^^ there be yellow one $$
 ^^ and there be $$
-^^  and that $$
+^^ and and that $$
 ^^ black $$
 ^^ yes $$
 ^^ and what be that $$
@@ -757,6 +780,7 @@
 ^^ and push $$
 ^^ Henry be push the truck $$
 ^^ and Thomas push the truck $$
+^^ xxx $$
 ^^ push $$
 ^^ Thomas $$
 ^^ James $$
@@ -824,7 +848,7 @@
 ^^ get it $$
 ^^ I get it $$
 ^^ brummbrumm $$
-^^  come choo $$
+^^ coming come choo $$
 ^^ choochoo $$
 ^^ choochoo $$
 ^^ this a choo $$
@@ -858,12 +882,13 @@
 ^^ I be fix the truck $$
 ^^ I be fix the truck $$
 ^^ the truck fix $$
-^^   I be fix the truck $$
+^^ the trucks I be fix the truck $$
 ^^ I be fix $$
 ^^ oh dear $$
 ^^ what happen $$
 ^^ oh dear $$
 ^^ no Carl $$
+^^ xxx $$
 ^^ look $$
 ^^ no $$
 ^^ no $$
@@ -914,12 +939,13 @@
 ^^ where be James $$
 ^^ there be James choo train $$
 ^^ what be the matter $$
-^^  choo train $$
+^^ xxx choo train $$
 ^^ what be the matter $$
 ^^ oh the wheel $$
 ^^ that be Daddy wheel $$
 ^^ and Daddy choo train $$
 ^^ choochoo $$
+^^ um $$
 ^^ choochoo $$
 ^^ choochoo $$
 ^^ the choo train $$
@@ -941,6 +967,7 @@
 ^^ naughty truck $$
 ^^ push $$
 ^^ naughty push $$
+^^ um $$
 ^^ what be it call $$
 ^^ oh naughty truck $$
 ^^ choo train $$
@@ -1017,7 +1044,7 @@
 ^^ no no $$
 ^^ not here $$
 ^^ no $$
-^^  not under there $$
+^^ not not under there $$
 ^^ no $$
 ^^ it be not on here $$
 ^^ no $$
@@ -1043,7 +1070,7 @@
 ^^ crash the wheel $$
 ^^ crash $$
 ^^ yes $$
-^^  where be the car $$
+^^ where's where be the car $$
 ^^ find it $$
 ^^ oh dear $$
 ^^ it break the wheel $$
@@ -1189,7 +1216,7 @@
 ^^ poo $$
 ^^ there be one egg $$
 ^^ baby egg $$
-^^  what be in there $$
+^^ what's what be in there $$
 ^^ catch $$
 ^^ catch $$
 ^^ this ice $$
@@ -1200,7 +1227,7 @@
 ^^ ice $$
 ^^ van $$
 ^^ here be a egg $$
-^^ here be  one egg $$
+^^ here be one one egg $$
 ^^ here be one egg $$
 ^^ look $$
 ^^ where $$
@@ -1252,7 +1279,7 @@
 ^^ crash $$
 ^^ crash $$
 ^^ oh too fast $$
-^^  too fast $$
+^^ too too fast $$
 ^^ oh dear $$
 ^^ jump $$
 ^^ crash $$
@@ -1274,7 +1301,7 @@
 ^^ it be empty $$
 ^^ all_gone $$
 ^^ this one $$
-^^  this one $$
+^^ this this one $$
 ^^ yes $$
 ^^ what in here $$
 ^^ and yellow $$
@@ -1288,7 +1315,7 @@
 ^^ this one white $$
 ^^ that be a white $$
 ^^ that be a white $$
-^^     that be a white $$
+^^ that's a that's a that be a white $$
 ^^ that be a white one $$
 ^^ it be cake and other egg $$
 ^^ a egg $$
@@ -1325,15 +1352,15 @@
 ^^ it be a right one $$
 ^^ not a right one $$
 ^^ there you be $$
-^^   there you be $$
+^^ there you there you be $$
 ^^ there be a right $$
 ^^ that be a right one $$
 ^^ that be a right one $$
 ^^ that be a right one $$
 ^^ that be a right one $$
 ^^ and that be a right one $$
-^^    no $$
-^^   that be a right one $$
+^^ no no no no $$
+^^ that's a that be a right one $$
 ^^ that be a blue one $$
 ^^ that be a right one $$
 ^^ oh this $$
@@ -1408,11 +1435,12 @@
 ^^ Daddy $$
 ^^ hello Daddy $$
 ^^ oh there fish $$
-^^   there fish $$
+^^ there there there fish $$
 ^^ baby $$
 ^^ where the Daddy fish $$
 ^^ it be the Mummy fish $$
 ^^ carry $$
+^^ a $$
 ^^ elephant $$
 ^^ one $$
 ^^ and two $$
@@ -1420,8 +1448,8 @@
 ^^ one two three four $$
 ^^ go up there $$
 ^^ get $$
-^^ where be the  go $$
-^^ where the  $$
+^^ where be the xxx go $$
+^^ where the xxx $$
 ^^ oh $$
 ^^ look $$
 ^^ oh find it $$
@@ -1440,7 +1468,7 @@
 ^^ sit $$
 ^^ sit mine $$
 ^^ this be $$
-^^ this  $$
+^^ this xxx $$
 ^^ this mine $$
 ^^ it be my pen $$
 ^^ where my pen $$
@@ -1481,10 +1509,10 @@
 ^^ and baby $$
 ^^ hey $$
 ^^ where the baby duck $$
-^^  and two $$
+^^ and and two $$
 ^^ and two $$
 ^^ and two $$
-^^ that be a  red car $$
+^^ that be a blue red car $$
 ^^ blue lollipop $$
 ^^ red blue $$
 ^^ red and blue $$
@@ -1495,14 +1523,14 @@
 ^^ again $$
 ^^ again $$
 ^^ no $$
-^^     no $$
+^^ no no no no no $$
 ^^ I get a blue red car $$
 ^^ blue wheel $$
 ^^ brumm $$
 ^^ brumm $$
 ^^ push $$
 ^^ where go $$
-^^ where be the  car go $$
+^^ where be the car car go $$
 ^^ where be car go $$
 ^^ beepbeep $$
 ^^ where be it go $$
@@ -1542,7 +1570,7 @@
 ^^ peep $$
 ^^ peep $$
 ^^ peep $$
-^^   peep $$
+^^ peep peep peep $$
 ^^ catch it $$
 ^^ peekaboo peekaboo $$
 ^^ oh $$
@@ -1568,7 +1596,7 @@
 ^^ oh no $$
 ^^ be it on the chair $$
 ^^ oh no $$
-^^  under truck $$
+^^ under under truck $$
 ^^ not under truck $$
 ^^ under here $$
 ^^ no $$
@@ -1586,6 +1614,7 @@
 ^^ ouch $$
 ^^ oh $$
 ^^ whoops $$
+^^ xxx $$
 ^^ Toby drop $$
 ^^ not break $$
 ^^ no $$
@@ -1618,7 +1647,7 @@
 ^^ no $$
 ^^ no under here $$
 ^^ no under here $$
-^^ no  under $$
+^^ no under under $$
 ^^ no under here $$
 ^^ no under here $$
 ^^ no under here $$
@@ -1651,7 +1680,7 @@
 ^^ Toby $$
 ^^ that be James and Thomas $$
 ^^ and James $$
-^^  and that be Toby $$
+^^ and and that be Toby $$
 ^^ and Thomas James Toby $$
 ^^ that Thomas $$
 ^^ a press $$
@@ -1698,6 +1727,7 @@
 ^^ play car $$
 ^^ Daddy car $$
 ^^ Daddy car $$
+^^ xxx $$
 ^^ there $$
 ^^ hello little car $$
 ^^ little car $$
@@ -1733,6 +1763,7 @@
 ^^ bus $$
 ^^ other car $$
 ^^ not the that $$
+^^ xxx $$
 ^^ that car fast $$
 ^^ Carl find it $$
 ^^ and there be car $$
@@ -1742,7 +1773,7 @@
 ^^ brumm $$
 ^^ get those $$
 ^^ car $$
-^^ where the  $$
+^^ where the xxx $$
 ^^ go to the seaside car $$
 ^^ the seaside $$
 ^^ Daddy car $$
@@ -1756,8 +1787,8 @@
 ^^ no $$
 ^^ not go that way $$
 ^^ that Daddy car $$
-^^ that   a red car $$
-^^ take a  $$
+^^ that a blue a red car $$
+^^ take a xxx $$
 ^^ take a Daddy car $$
 ^^ yes $$
 ^^ there be one seaside car $$
@@ -1769,7 +1800,7 @@
 ^^ there car $$
 ^^ there the car $$
 ^^ the car $$
-^^   and the $$
+^^ and the and the $$
 ^^ oh $$
 ^^ oh crash $$
 ^^ be you stick $$
@@ -1809,14 +1840,14 @@
 ^^ car $$
 ^^ tut $$
 ^^ bang $$
-^^   bang $$
-^^    bang $$
+^^ bang bang bang $$
+^^ bang bang bang bang $$
 ^^ tut $$
 ^^ the car $$
 ^^ no $$
 ^^ no under here $$
 ^^ find it $$
-^^  no car $$
+^^ no no car $$
 ^^ dog walk $$
 ^^ there dog in the water $$
 ^^ silly $$
@@ -1872,6 +1903,7 @@
 ^^ that yellow $$
 ^^ that yellow ball $$
 ^^ oh no $$
+^^ a $$
 ^^ tut $$
 ^^ stop $$
 ^^ atop it Mummy $$
@@ -1882,6 +1914,7 @@
 ^^ stop it Mummy $$
 ^^ stop it $$
 ^^ what be that $$
+^^ mm $$
 ^^ what be that $$
 ^^ water $$
 ^^ that be a drink $$
@@ -1910,11 +1943,11 @@
 ^^ mum $$
 ^^ that be Daddy $$
 ^^ what happen to Mummy $$
-^^ what  what happen to Mummy $$
+^^ what ha what happen to Mummy $$
 ^^ what be happen to Mummy $$
 ^^ Mummy be away $$
-^^ what be the matter Mummy  $$
-^^ what be the matter Mummy  $$
+^^ what be the matter Mummy xxx $$
+^^ what be the matter Mummy xxx $$
 ^^ what be the matter to Mummy $$
 ^^ Mummy flower trump $$
 ^^ oh no $$
@@ -2010,12 +2043,14 @@
 ^^ hello $$
 ^^ that a nana $$
 ^^ where be $$
+^^ er $$
 ^^ there be one $$
 ^^ two $$
 ^^ there two $$
 ^^ two $$
 ^^ one two three five six $$
 ^^ seven eight nine $$
+^^ a $$
 ^^ oh $$
 ^^ all down $$
 ^^ one $$
@@ -2024,6 +2059,7 @@
 ^^ six $$
 ^^ seven $$
 ^^ eight $$
+^^ a $$
 ^^ one two three five six $$
 ^^ seven eight nine six $$
 ^^ seven eight nine $$
@@ -2044,7 +2080,9 @@
 ^^ not right $$
 ^^ again $$
 ^^ this one make it $$
+^^ a $$
 ^^ all fall down $$
+^^ a $$
 ^^ the one $$
 ^^ two $$
 ^^ no $$
@@ -2082,7 +2120,7 @@
 ^^ no yellow $$
 ^^ right $$
 ^^ no $$
-^^   on a  $$
+^^ on a on a xxx $$
 ^^ no $$
 ^^ purple $$
 ^^ right $$
@@ -2106,6 +2144,7 @@
 ^^ open $$
 ^^ open the lid Mummy $$
 ^^ please $$
+^^ a $$
 ^^ find it fish $$
 ^^ and the doll $$
 ^^ that be mine $$
@@ -2117,8 +2156,11 @@
 ^^ no $$
 ^^ where be the $$
 ^^ find it $$
+^^ a $$
 ^^ one $$
+^^ a $$
 ^^ not $$
+^^ a $$
 ^^ no $$
 ^^ no a head $$
 ^^ stand on floor $$
@@ -2129,7 +2171,9 @@
 ^^ and a tiger $$
 ^^ and here be giraffe $$
 ^^ no $$
+^^ a $$
 ^^ there be the giraffe $$
+^^ a $$
 ^^ the baby $$
 ^^ baby $$
 ^^ Daddy $$
@@ -2155,7 +2199,9 @@
 ^^ not $$
 ^^ not look again $$
 ^^ not again $$
+^^ a $$
 ^^ Mum $$
+^^ a $$
 ^^ tiger fall $$
 ^^ on $$
 ^^ tut $$
@@ -2194,6 +2240,7 @@
 ^^ poor Daddy $$
 ^^ poor Daddy $$
 ^^ poor Daddy $$
+^^ a $$
 ^^ Daddy on the Daddy wheel $$
 ^^ on the Daddy wheel $$
 ^^ poor Daddy wheel $$
@@ -2212,6 +2259,7 @@
 ^^ bang on the Daddy $$
 ^^ Daddy crash $$
 ^^ bash on the truck $$
+^^ a $$
 ^^ tut $$
 ^^ on the car truck $$
 ^^ on the $$
@@ -2237,6 +2285,7 @@
 ^^ find it truck $$
 ^^ no $$
 ^^ no here $$
+^^ um $$
 ^^ find it $$
 ^^ no $$
 ^^ not find it $$

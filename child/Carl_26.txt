@@ -47,7 +47,7 @@
 ^^ in the wash $$
 ^^ it be come out $$
 ^^ want wash $$
-^^ no  anymore $$
+^^ no xxx anymore $$
 ^^ in $$
 ^^ it be in the wash $$
 ^^ truck $$
@@ -152,7 +152,7 @@
 ^^ peeppeep $$
 ^^ Thomas go too fast $$
 ^^ Thomas go round and round $$
-^^  come out $$
+^^ xxx come out $$
 ^^ break $$
 ^^ I do not $$
 ^^ Percy on the top $$
@@ -204,7 +204,7 @@
 ^^ crash $$
 ^^ he crash $$
 ^^ come quick Percy $$
-^^  crane $$
+^^ xxx crane $$
 ^^ Percy back $$
 ^^ train wheel $$
 ^^ no $$
@@ -254,7 +254,7 @@
 ^^ want round $$
 ^^ past $$
 ^^ no off $$
-^^ pass  $$
+^^ pass xxx $$
 ^^ Bertie cross $$
 ^^ it be break $$
 ^^ Percy put on $$
@@ -283,7 +283,7 @@
 ^^ he be back $$
 ^^ Fat_Controller break $$
 ^^ I do not know Fat_Controller $$
-^^  gate $$
+^^ xxx gate $$
 ^^ he cross $$
 ^^ what be in there $$
 ^^ mhm $$
@@ -306,10 +306,11 @@
 ^^ my egg $$
 ^^ there egg $$
 ^^ find another egg $$
-^^     that be a $$
+^^ that's a that's a that be a $$
 ^^ that be ice $$
 ^^ I want a box $$
 ^^ no not go away $$
+^^ mm $$
 ^^ Carl have egg $$
 ^^ catch $$
 ^^ get it $$
@@ -339,6 +340,7 @@
 ^^ nana $$
 ^^ and nana $$
 ^^ mhm $$
+^^ mm $$
 ^^ Mummy $$
 ^^ mhm $$
 ^^ mhm $$
@@ -361,7 +363,7 @@
 ^^ I do not not $$
 ^^ in there $$
 ^^ I want a apple $$
-^^   not a apple $$
+^^ not a not a apple $$
 ^^ that one $$
 ^^ naughty toy $$
 ^^ real apple $$
@@ -383,6 +385,7 @@
 ^^ mine $$
 ^^ mhm $$
 ^^ mhm $$
+^^ xxx $$
 ^^ pardon $$
 ^^ I lie down $$
 ^^ I sit there $$
@@ -395,6 +398,8 @@
 ^^ Anna $$
 ^^ beepbeep $$
 ^^ not a car $$
+^^ mm $$
+^^ mm $$
 ^^ peekaboo peekaboo peekaboo $$
 ^^ Anna $$
 ^^ peep $$
@@ -441,11 +446,12 @@
 ^^ Sam a bird $$
 ^^ Bert $$
 ^^ Nana $$
+^^ xxx $$
 ^^ Bert and Granddad $$
 ^^ I play train $$
 ^^ I go to sleep $$
 ^^ to sleep $$
-^^  play car $$
+^^ playing play car $$
 ^^ mhm $$
 ^^ big slide $$
 ^^ rocket $$
@@ -492,7 +498,7 @@
 ^^ my track $$
 ^^ it be break $$
 ^^ I not break my Percy $$
-^^  I not want a break Percy $$
+^^ not I not want a break Percy $$
 ^^ Percy_Engine $$
 ^^ Thomas over $$
 ^^ Duncan $$
@@ -506,6 +512,7 @@
 ^^ move $$
 ^^ want to climb it $$
 ^^ yes $$
+^^ xxx $$
 ^^ it be all_gone $$
 ^^ I see $$
 ^^ he be eat it $$
@@ -519,16 +526,19 @@
 ^^ not swim $$
 ^^ swim $$
 ^^ he be have some more $$
+^^ mm $$
 ^^ he have breakfast $$
 ^^ it be his breakfast $$
 ^^ that breakfast $$
+^^ mm $$
+^^ mm $$
 ^^ want to climb it $$
 ^^ I no no I do not $$
 ^^ oh there be fish $$
 ^^ fish there $$
 ^^ I do not $$
-^^ Carl  $$
-^^ that my  $$
+^^ Carl xxx $$
+^^ that my xxx $$
 ^^ byebye fish $$
 ^^ that be his breakfast $$
 ^^ mhm $$
@@ -586,6 +596,7 @@
 ^^ pink $$
 ^^ that Harold $$
 ^^ that one $$
+^^ um $$
 ^^ Thomas $$
 ^^ two sock $$
 ^^ another two $$
@@ -603,7 +614,7 @@
 ^^ where $$
 ^^ I do not $$
 ^^ there $$
-^^  that be yellow $$
+^^ there's that be yellow $$
 ^^ not red $$
 ^^ good $$
 ^^ no $$
@@ -634,7 +645,7 @@
 ^^ mhm $$
 ^^ yes $$
 ^^ and Thomas $$
-^^  Thomas go $$
+^^ Thomas Thomas go $$
 ^^ and Gordon $$
 ^^ and Henry $$
 ^^ and Thomas $$
@@ -644,7 +655,7 @@
 ^^ I go $$
 ^^ go Percy $$
 ^^ Percy on the turntable $$
-^^ and Gordon  and Duck $$
+^^ and Gordon and and Duck $$
 ^^ and Percy $$
 ^^ wait $$
 ^^ wait $$
@@ -659,10 +670,10 @@
 ^^ and Duck $$
 ^^ Toby $$
 ^^ what $$
-^^ it  $$
+^^ it xxx $$
 ^^ and go $$
 ^^ Daddy be go now $$
-^^  I can not see it $$
+^^ I I can not see it $$
 ^^ oh yes $$
 ^^ oh yes Carl $$
 ^^ this one $$
@@ -700,7 +711,7 @@
 ^^ oh there be a bubble $$
 ^^ see it $$
 ^^ Carl see it $$
-^^  I can not see it $$
+^^ can't I can not see it $$
 ^^ can not see it $$
 ^^ can not see it $$
 ^^ oh Daddy come $$
@@ -726,6 +737,7 @@
 ^^ want a black one $$
 ^^ want a black one $$
 ^^ no $$
+^^ xxx $$
 ^^ I want face $$
 ^^ I want fun face $$
 ^^ fun $$
@@ -743,6 +755,7 @@
 ^^ Mummy drop it $$
 ^^ milk $$
 ^^ some milk $$
+^^ xxx $$
 ^^ tiggy's tire $$
 ^^ awake $$
 ^^ wake $$
@@ -780,6 +793,7 @@
 ^^ Toby be happy $$
 ^^ Henry be happy $$
 ^^ where be Mummy $$
+^^ xxx $$
 ^^ I drop it $$
 ^^ my neck $$
 ^^ oh dear $$
@@ -802,7 +816,7 @@
 ^^ my neck $$
 ^^ I want down $$
 ^^ yes $$
-^^  on $$
+^^ xxx on $$
 ^^ I finish $$
 ^^ Mummy finish $$
 ^^ and Carl $$
@@ -845,7 +859,7 @@
 ^^ oh $$
 ^^ there be a dog $$
 ^^ that be a horse $$
-^^ it  $$
+^^ it xxx $$
 ^^ go go go go $$
 ^^ that be a draw $$
 ^^ bouncer $$
@@ -872,7 +886,7 @@
 ^^ it be black $$
 ^^ it be fun face $$
 ^^ this be blue fun face it $$
-^^  that be a blue fun face it $$
+^^ it's that be a blue fun face it $$
 ^^ it be get wheel $$
 ^^ this be Carl color in $$
 ^^ whistle $$
@@ -910,8 +924,8 @@
 ^^ another one $$
 ^^ another one $$
 ^^ another one $$
-^^ I  draw $$
-^^ I  draw my c o n $$
+^^ I xxx draw $$
+^^ I draw draw my c o n $$
 ^^ it be black $$
 ^^ it be orange $$
 ^^ no $$
@@ -932,7 +946,7 @@
 ^^ that be dog $$
 ^^ the dog my not draw $$
 ^^ draw a c $$
-^^ want  $$
+^^ want xxx $$
 ^^ draw on paper $$
 ^^ yes $$
 ^^ do Thomas $$
@@ -973,11 +987,11 @@
 ^^ ice $$
 ^^ ice $$
 ^^ Mummy I get ice $$
-^^ I   get a egg $$
+^^ I got a get a egg $$
 ^^ there be a egg $$
 ^^ I eat the egg $$
 ^^ ice $$
-^^  and egg $$
+^^ and and egg $$
 ^^ Mummy eat it egg $$
 ^^ it be nice $$
 ^^ it be ice $$
@@ -989,6 +1003,7 @@
 ^^ it be blue $$
 ^^ yellow $$
 ^^ Mummy get $$
+^^ xxx $$
 ^^ Mummy be white $$
 ^^ this one $$
 ^^ my lose it $$
@@ -1018,8 +1033,10 @@
 ^^ come back dog $$
 ^^ fall his face $$
 ^^ there wave $$
+^^ xxx $$
 ^^ it be drink milk $$
 ^^ this red $$
+^^ xxx $$
 ^^ cake $$
 ^^ mhm $$
 ^^ get a $$
@@ -1034,6 +1051,7 @@
 ^^ bring it over $$
 ^^ happy_birthday $$
 ^^ oh orange happen $$
+^^ xxx $$
 ^^ oh $$
 ^^ rain $$
 ^^ he get yellow $$
@@ -1096,6 +1114,7 @@
 ^^ it be all clean now $$
 ^^ yes $$
 ^^ come on dog $$
+^^ xxx $$
 ^^ dog go upstairs the dog $$
 ^^ no Granny $$
 ^^ go upstairs dog $$
@@ -1149,12 +1168,12 @@
 ^^ lose it $$
 ^^ oh sorry $$
 ^^ that be a egg $$
-^^ put this in  $$
-^^ put  $$
+^^ put this in xxx $$
+^^ put xxx $$
 ^^ sausage $$
 ^^ oh sausage $$
 ^^ I can not bite $$
-^^   it be hot $$
+^^ it's it's it be hot $$
 ^^ yes $$
 ^^ cool Mummy $$
 ^^ let it cool $$
@@ -1170,7 +1189,7 @@
 ^^ excuse you $$
 ^^ this be hand $$
 ^^ Mummy hand $$
-^^ do  Carl hand $$
+^^ do Mummy's Carl hand $$
 ^^ again $$
 ^^ no $$
 ^^ ouch $$
@@ -1195,7 +1214,7 @@
 ^^ please $$
 ^^ I get it $$
 ^^ five $$
-^^ do  number two $$
+^^ do number number two $$
 ^^ that be seven $$
 ^^ that be eight $$
 ^^ that be number two $$
@@ -1226,7 +1245,7 @@
 ^^ one two three tail $$
 ^^ one $$
 ^^ baby $$
-^^  color in $$
+^^ color color in $$
 ^^ baby $$
 ^^ want to color Daddy fish $$
 ^^ nice $$
@@ -1239,11 +1258,11 @@
 ^^ that be not snake $$
 ^^ not a snake $$
 ^^ it be baby $$
-^^ be that Mummy  $$
+^^ be that Mummy xxx $$
 ^^ snake $$
 ^^ snake $$
 ^^ yes $$
-^^  it be snake $$
+^^ it it be snake $$
 ^^ want a snake Mummy $$
 ^^ there be snake $$
 ^^ snake $$
@@ -1297,13 +1316,15 @@
 ^^ Daddy milk $$
 ^^ it not Daddy milk $$
 ^^ that the baby milk $$
-^^  that the baby milk $$
+^^ that that the baby milk $$
 ^^ oh glug glug $$
 ^^ make a glug glug $$
 ^^ where be the bottle $$
 ^^ where be the bottle $$
 ^^ where $$
 ^^ there be a cake $$
+^^ a $$
+^^ mm $$
 ^^ in Carl mouth no $$
 ^^ Carl not to draw $$
 ^^ white $$
@@ -1311,6 +1332,7 @@
 ^^ I can not bite $$
 ^^ I can not bite $$
 ^^ I do not $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ I can not stick $$
@@ -1347,7 +1369,7 @@
 ^^ Anna do it $$
 ^^ glug $$
 ^^ glug $$
-^^  Gordon not like it $$
+^^ Gordon Gordon not like it $$
 ^^ glug $$
 ^^ Gordon have it milk $$
 ^^ Thomas turn $$
@@ -1399,14 +1421,14 @@
 ^^ go Thomas engine $$
 ^^ this go Thomas $$
 ^^ and Duck $$
-^^  and Ben $$
+^^ and and Ben $$
 ^^ and Toby $$
 ^^ and come on Percy $$
 ^^ and Duck $$
 ^^ that be Percy $$
 ^^ I get Annie and Clarabell $$
 ^^ I get Annie and Clarabell $$
-^^  it be $$
+^^ it's it be $$
 ^^ no not fit Thomas $$
 ^^ not fit Thomas $$
 ^^ no $$
@@ -1415,16 +1437,16 @@
 ^^ on branch line Gordon $$
 ^^ goodbye Gordon $$
 ^^ yeah $$
-^^  train $$
+^^ um train $$
 ^^ Annie and Clarabel $$
 ^^ Annie and Clarabel $$
 ^^ and Thomas be branch line $$
-^^  Thomas $$
+^^ um Thomas $$
 ^^ oh yeah $$
 ^^ oh $$
 ^^ this be my coach $$
 ^^ there be coach $$
-^^  in there $$
+^^ xxx in there $$
 ^^ go put in there $$
 ^^ there $$
 ^^ put these on Ben $$
@@ -1441,9 +1463,9 @@
 ^^ come on $$
 ^^ oh $$
 ^^ Bertie can not over the road $$
-^^ he can not over  the track $$
+^^ he can not over the the track $$
 ^^ Toby $$
-^^ Bertie  go in the road $$
+^^ Bertie go go in the road $$
 ^^ past the station $$
 ^^ I break the shed $$
 ^^ where be the shed $$
@@ -1460,22 +1482,23 @@
 ^^ crash Toby $$
 ^^ oh $$
 ^^ whoops $$
+^^ xxx $$
 ^^ whee $$
 ^^ it be open $$
 ^^ open $$
 ^^ move out_of the way $$
 ^^ Ben be come back $$
 ^^ Ben be come back $$
-^^  Duck $$
+^^ um Duck $$
 ^^ oh $$
-^^ it be  another one $$
+^^ it be um another one $$
 ^^ it be blue Thomas $$
-^^  I want paper $$
+^^ um I want paper $$
 ^^ a paper go $$
 ^^ here you be $$
-^^    I get some paper $$
+^^ I get some I get some paper $$
 ^^ yeah $$
-^^  yeah $$
+^^ um yeah $$
 ^^ I want the blue Thomas $$
 ^^ another $$
 ^^ no $$
@@ -1485,18 +1508,19 @@
 ^^ think so $$
 ^^ I want make Thomas $$
 ^^ I make Thomas $$
-^^   do Fat_Controller $$
+^^ um um do Fat_Controller $$
 ^^ I do Fat_Controller $$
+^^ um $$
 ^^ oh yeah $$
 ^^ go press in there $$
-^^  that Thomas $$
+^^ um that Thomas $$
 ^^ I want Percy there $$
 ^^ oh $$
 ^^ there be Thomas $$
 ^^ it be get steam $$
 ^^ I go find another one $$
 ^^ I make another one $$
-^^  peeppeep $$
+^^ xxx peeppeep $$
 ^^ and two Thomas $$
 ^^ one $$
 ^^ I make another one $$
@@ -1505,6 +1529,7 @@
 ^^ I make another one $$
 ^^ I make another face Thomas_the_Tank_Engine $$
 ^^ oh $$
+^^ um $$
 ^^ no $$
 ^^ Carl put it in here $$
 ^^ another one $$
@@ -1513,7 +1538,7 @@
 ^^ I make Thomas_well $$
 ^^ there be Thomas $$
 ^^ there be two $$
-^^  no $$
+^^ um no $$
 ^^ I want stick $$
 ^^ there he be $$
 ^^ here I make blue Thomas $$
@@ -1528,16 +1553,16 @@
 ^^ your turn $$
 ^^ your turn $$
 ^^ your turn in here $$
-^^  Fat_Controller $$
+^^ um Fat_Controller $$
 ^^ oh $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ oh my do it $$
 ^^ mhm $$
 ^^ oh my do it $$
 ^^ oh $$
 ^^ over here $$
 ^^ I get my sticker $$
-^^  I   go in here $$
+^^ um I go in go in here $$
 ^^ no $$
 ^^ oh $$
 ^^ uhoh $$
@@ -1552,8 +1577,8 @@
 ^^ oh $$
 ^^ Fat_Controller can not stop $$
 ^^ uhoh $$
-^^   I do Fat_Controller $$
-^^  I make Thomas another one $$
+^^ I do I do Fat_Controller $$
+^^ um I make Thomas another one $$
 ^^ I make Thomas $$
 ^^ I make Thomas $$
 ^^ I make Thomas $$
@@ -1562,17 +1587,18 @@
 ^^ I make it over here $$
 ^^ make it over here $$
 ^^ and Thomas and Gordon and James $$
-^^  no $$
+^^ um no $$
 ^^ I want Gordon sticker $$
 ^^ I want play with sticker $$
 ^^ there be one $$
 ^^ I make a track $$
 ^^ I make another draw $$
 ^^ I make another draw $$
-^^ I make another draw  Anna $$
+^^ I make another draw M Anna $$
 ^^ I make another one $$
+^^ um $$
 ^^ I get my draw and my paper $$
-^^  do Thomas $$
+^^ um do Thomas $$
 ^^ come on $$
 ^^ come on Mummy $$
 ^^ let us color in $$
@@ -1582,8 +1608,9 @@
 ^^ do Thomas $$
 ^^ do Thomas_the_Tank_Engine $$
 ^^ do Thomas $$
-^^ do  Thomas_the_Tank_Engine $$
+^^ do Thomas Thomas_the_Tank_Engine $$
 ^^ be you not color them in $$
+^^ xxx $$
 ^^ there be yellow $$
 ^^ it be get yellow $$
 ^^ it be get yellow on $$
@@ -1599,30 +1626,36 @@
 ^^ there Carl make $$
 ^^ I make blue $$
 ^^ I make blue that $$
-^^   I make blue $$
+^^ I make I make blue $$
 ^^ I go make blue $$
 ^^ there be blue wheel $$
 ^^ he be get blue wheel $$
 ^^ it be get water tank $$
 ^^ it be get water tank $$
-^^ oh oh  draw blue $$
+^^ oh oh draw draw blue $$
 ^^ I can not draw the blue $$
 ^^ I want yellow one $$
 ^^ no $$
+^^ um $$
 ^^ I want a pink one $$
 ^^ I want a pink one $$
 ^^ want off $$
 ^^ oh $$
+^^ xxx $$
 ^^ Anna my take it off $$
+^^ um $$
 ^^ over here $$
 ^^ c $$
+^^ um $$
+^^ um $$
 ^^ c $$
 ^^ o $$
-^^ I make Thomas  $$
+^^ I make Thomas xxx $$
 ^^ oh oh $$
 ^^ I not $$
-^^ I not want make  $$
+^^ I not want make um $$
 ^^ r $$
+^^ um $$
 ^^ o $$
 ^^ r $$
 ^^ Carl $$
@@ -1632,6 +1665,7 @@
 ^^ another one $$
 ^^ another one $$
 ^^ one $$
+^^ um $$
 ^^ Thomas $$
 ^^ do Thomas_the_Tank_Engine $$
 ^^ it be not work $$
@@ -1639,13 +1673,15 @@
 ^^ oh Gordon here $$
 ^^ there Thomas $$
 ^^ another one $$
+^^ xxx $$
+^^ um $$
 ^^ oh oh oh Gordon $$
 ^^ stop $$
 ^^ Gordon everybody $$
 ^^ push $$
 ^^ stop $$
-^^  stop $$
-^^  stop Gordon Annie $$
+^^ xxx stop $$
+^^ xxx stop Gordon Annie $$
 ^^ I want stop $$
 ^^ stop Thomas $$
 ^^ Annie go too fast $$
@@ -1657,6 +1693,7 @@
 ^^ oh $$
 ^^ go Gordon get them $$
 ^^ what you do $$
+^^ xxx $$
 ^^ stop it Gordon $$
 ^^ oh $$
 ^^ get off $$
@@ -1685,6 +1722,7 @@
 ^^ he be go in the turntable $$
 ^^ Edward be go back $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh Diesel $$
 ^^ Gordon be crash James and Thomas $$
 ^^ crash $$
@@ -1697,28 +1735,36 @@
 ^^ Gordon be crash Duck $$
 ^^ watch out $$
 ^^ go go go go go $$
-^^ they  come back $$
+^^ xxx $$
+^^ they come come back $$
 ^^ come out $$
 ^^ it be come out $$
-^^ it be  come back $$
+^^ it be coming come back $$
 ^^ come out $$
 ^^ come out_of the way $$
-^^   this be come out $$
+^^ this this this be come out $$
 ^^ he be come out_of the $$
 ^^ out $$
 ^^ Gordon can not $$
 ^^ Gordon can not $$
-^^ Gordon can not  James $$
-^^  I want see in your bag $$
+^^ Gordon can not xxx James $$
+^^ um I want see in your bag $$
+^^ um $$
 ^^ no $$
 ^^ Christmas $$
 ^^ Carl $$
-^^  a bear $$
+^^ um $$
+^^ um a bear $$
 ^^ a Christmas $$
+^^ xxx $$
 ^^ party $$
 ^^ it be a snow $$
 ^^ it be find and a boy $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
+^^ um $$
+^^ xxx $$
 ^^ where be my Duck $$
 ^^ it be Duck $$
 ^^ uhoh $$
@@ -1729,15 +1775,15 @@
 ^^ Gordon be push James $$
 ^^ I push Gordon $$
 ^^ slow down $$
-^^ make  $$
+^^ make xxx $$
 ^^ look $$
-^^  dog $$
+^^ um dog $$
 ^^ he be push back Duck $$
 ^^ Duck be push back $$
 ^^ oh $$
 ^^ Thomas be branch line $$
 ^^ Thomas be branch line $$
-^^  go past him $$
+^^ xxx go past him $$
 ^^ go to go backwards $$
 ^^ Gordon go $$
 ^^ he be go this way $$
@@ -1746,22 +1792,26 @@
 ^^ this truck push back $$
 ^^ it be push back $$
 ^^ oh $$
+^^ um $$
 ^^ yeah $$
 ^^ yeah $$
+^^ um $$
 ^^ over here $$
 ^^ steam $$
 ^^ the coach Gordon $$
 ^^ no $$
+^^ um $$
 ^^ another one $$
 ^^ Thomas $$
 ^^ it be the engine $$
 ^^ choo $$
 ^^ peeppeep $$
 ^^ oh yeah $$
+^^ um $$
 ^^ I put it on here $$
 ^^ oh $$
-^^ it be  $$
-^^  go in the tunnel $$
+^^ it be xxx $$
+^^ xxx go in the tunnel $$
 ^^ Gordon be stick $$
 ^^ it be dark $$
 ^^ it be dark $$
@@ -1770,13 +1820,13 @@
 ^^ car $$
 ^^ Gordon $$
 ^^ Gordon $$
-^^  about Gordon $$
+^^ xxx about Gordon $$
 ^^ uhoh $$
 ^^ the bridge be fall down $$
 ^^ go go go go go go $$
 ^^ Gordon can not $$
 ^^ Gordon can not work $$
-^^   Gordon stop $$
+^^ Gordon is Gordon stop $$
 ^^ Gordon stop $$
 ^^ Gordon stop $$
 ^^ peeppeep $$
@@ -1827,11 +1877,12 @@
 ^^ peekaboo $$
 ^^ oh he be push Gordon $$
 ^^ he be push Gordon $$
-^^ push Gordon  $$
-^^  naughty engine $$
+^^ push Gordon xxx $$
+^^ um naughty engine $$
 ^^ it be naughty engine $$
-^^  no $$
+^^ um no $$
 ^^ drive naughty engine $$
+^^ xxx $$
 ^^ it be naughty engine $$
 ^^ Gordon speak $$
 ^^ Gordon speak Gordon $$
@@ -1864,21 +1915,21 @@
 ^^ two $$
 ^^ and four $$
 ^^ and five $$
-^^ and  blue $$
+^^ and um blue $$
 ^^ whoops $$
 ^^ whoops $$
-^^  yes $$
+^^ um yes $$
 ^^ sing a song $$
-^^  yeah $$
-^^  Happy Birthday $$
-^^  yeah $$
+^^ um yeah $$
+^^ um Happy Birthday $$
+^^ um yeah $$
 ^^ I put them back $$
 ^^ no no $$
 ^^ no $$
 ^^ oh $$
 ^^ whoops $$
 ^^ uhoh $$
-^^ I go  $$
+^^ I go xxx $$
 ^^ oh no $$
 ^^ no $$
 ^^ I can not go put in there $$
@@ -1914,33 +1965,35 @@
 ^^ oh $$
 ^^ sleep $$
 ^^ this one go $$
-^^ I  this in $$
-^^    let us make a house $$
+^^ I xxx this in $$
+^^ um $$
+^^ let's make a let us make a house $$
 ^^ I want to make a house $$
-^^  the cat house $$
+^^ um the cat house $$
 ^^ I make a house $$
 ^^ I want to make a house $$
 ^^ I want to make a house $$
 ^^ house $$
 ^^ I make a house $$
-^^   I make a house $$
+^^ I make I make a house $$
 ^^ I want to make a house $$
 ^^ I want to make a $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ Mummy $$
-^^  no $$
+^^ um no $$
 ^^ ouch $$
-^^  my finger hurt $$
+^^ er my finger hurt $$
 ^^ oh there be slide $$
 ^^ it be a slide $$
+^^ um $$
 ^^ there be a slide $$
 ^^ there be a blue one slide $$
-^^   I can put $$
-^^  where be another green $$
+^^ I can I can put $$
+^^ where's where be another green $$
 ^^ there it be $$
 ^^ it be not all $$
-^^ find  $$
+^^ find xxx $$
 ^^ find $$
 ^^ I want to make a house $$
 ^^ I want to make a house $$
@@ -1948,23 +2001,24 @@
 ^^ it be brokened $$
 ^^ I break $$
 ^^ go in here $$
-^^  yeah $$
+^^ um yeah $$
 ^^ I want to make a house there $$
 ^^ make a house $$
 ^^ I make a $$
 ^^ whoops $$
 ^^ it be too heavy $$
-^^ I can not  in here $$
+^^ I can not xxx in here $$
 ^^ that $$
-^^   I go make a house $$
+^^ make a I go make a house $$
 ^^ I make a house $$
 ^^ car $$
 ^^ look $$
 ^^ I make a hat $$
 ^^ and I make a $$
 ^^ look $$
+^^ xxx $$
 ^^ oh no $$
-^^ I  $$
+^^ I xxx $$
 ^^ can not go there $$
 ^^ that be good $$
 ^^ oh $$
@@ -1975,8 +2029,9 @@
 ^^ it be not $$
 ^^ she go to sleep $$
 ^^ yeah $$
+^^ um $$
 ^^ doll sleep $$
-^^  egg $$
+^^ xxx egg $$
 ^^ she be get a egg $$
 ^^ get a egg $$
 ^^ too hot $$
@@ -2004,28 +2059,29 @@
 ^^ I can not stick $$
 ^^ tire on $$
 ^^ tire $$
-^^  slipper on $$
+^^ xxx slipper on $$
+^^ xxx $$
 ^^ that be good $$
 ^^ doll be sleep $$
 ^^ this house $$
 ^^ it be on this house $$
 ^^ your house $$
 ^^ yes $$
-^^ she get a  $$
+^^ she get a xxx $$
 ^^ get a teddy bear $$
 ^^ it be get a teddy bear $$
 ^^ get a hat $$
 ^^ oh $$
 ^^ oh $$
-^^ there be  $$
+^^ there be xxx $$
 ^^ another hat $$
 ^^ another hat $$
 ^^ another hat $$
-^^  awake $$
+^^ xxx awake $$
 ^^ I make a white one $$
 ^^ no $$
 ^^ oh $$
-^^ little  Percy $$
+^^ little Perc Percy $$
 ^^ not a man $$
 ^^ oh there be a tiger $$
 ^^ and where be Daddy tiger $$
@@ -2033,6 +2089,7 @@
 ^^ it be splash $$
 ^^ oh $$
 ^^ take it off $$
+^^ a $$
 ^^ ssh $$
 ^^ bump $$
 ^^ bump $$
@@ -2052,7 +2109,7 @@
 ^^ this be doll awake $$
 ^^ hello $$
 ^^ there be asleep $$
-^^   it be get James $$
+^^ it's got it be get James $$
 ^^ and want Gordon $$
 ^^ the doll want Gordon $$
 ^^ the doll want this bridge $$
@@ -2072,6 +2129,7 @@
 ^^ I be boing $$
 ^^ yeah $$
 ^^ I boing $$
+^^ xxx $$
 ^^ see that $$
 ^^ bump $$
 ^^ I bump $$
@@ -2081,7 +2139,7 @@
 ^^ I go bump $$
 ^^ there $$
 ^^ fish get a eye $$
-^^    it be get a car $$
+^^ it's got a it be get a car $$
 ^^ it be get a $$
 ^^ it be fish $$
 ^^ fish get a thank_you $$
@@ -2089,7 +2147,7 @@
 ^^ ssh $$
 ^^ get two car $$
 ^^ thank_you $$
-^^ he be  $$
+^^ he be xxx $$
 ^^ brumm $$
 ^^ brumm $$
 ^^ crash $$
@@ -2100,9 +2158,9 @@
 ^^ brumm $$
 ^^ this be awake $$
 ^^ she be awake $$
-^^ it be brumbrum  $$
+^^ it be brumbrum xxx $$
 ^^ it be awake $$
-^^  tire $$
+^^ xxx tire $$
 ^^ it be tire Carl $$
 ^^ brum be crash $$
 ^^ asleep $$
@@ -2117,6 +2175,7 @@
 ^^ a car $$
 ^^ hippo $$
 ^^ it be a hippo $$
+^^ um $$
 ^^ there be a tiger $$
 ^^ there be a giraffe $$
 ^^ oh $$
@@ -2132,6 +2191,7 @@
 ^^ that be good $$
 ^^ there be a elephant $$
 ^^ elephant stand here $$
+^^ um $$
 ^^ uhoh $$
 ^^ snake $$
 ^^ oh $$
@@ -2143,7 +2203,7 @@
 ^^ it be jump $$
 ^^ oh $$
 ^^ it be lose the baby $$
-^^ he be lose  the baby $$
+^^ he be lose um the baby $$
 ^^ uhoh $$
 ^^ it be lose him $$
 ^^ go go go go go $$
@@ -2162,7 +2222,7 @@
 ^^ he be jump $$
 ^^ he be jump on the edge $$
 ^^ be careful Daddy tiger $$
-^^ he hurt  his head $$
+^^ he hurt his his head $$
 ^^ oh $$
 ^^ it be hurt $$
 ^^ oh $$
@@ -2179,10 +2239,12 @@
 ^^ I go down $$
 ^^ oh $$
 ^^ Daddy $$
-^^ I want to go  $$
+^^ I want to go xxx $$
 ^^ oh $$
 ^^ toy $$
-^^ toy  $$
+^^ toy xxx $$
+^^ um $$
+^^ um $$
 ^^ I want look $$
 ^^ do not know $$
 ^^ it be go tiger $$
@@ -2200,9 +2262,10 @@
 ^^ there be a little baby $$
 ^^ I be bite the orange baby $$
 ^^ orange baby $$
+^^ mm $$
 ^^ it be good $$
 ^^ orange I peel it $$
-^^ I peel it  $$
+^^ I peel it mm $$
 ^^ I want to peel it the apple $$
 ^^ ouch $$
 ^^ the car $$
@@ -2220,12 +2283,13 @@
 ^^ it be stick $$
 ^^ can not work $$
 ^^ I can $$
-^^ I want to put him  on there $$
+^^ I want to put him on on there $$
 ^^ oh $$
 ^^ too heavy $$
 ^^ I can not squeeze it $$
 ^^ I can not squeeze it $$
 ^^ I can not $$
+^^ a $$
 ^^ it too heavy $$
 ^^ I can not do it squeeze it $$
 ^^ a brumm $$

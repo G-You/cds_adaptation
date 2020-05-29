@@ -1,3 +1,4 @@
+^^ xxx $$
 ^^ yellow $$
 ^^ I do not think that will go in there $$
 ^^ you need to put it like that $$
@@ -20,6 +21,7 @@
 ^^ do a big nice picture on Mummy back $$
 ^^ do not paint Becky $$
 ^^ feel a bit tickle $$
+^^ xxx $$
 ^^ my arm $$
 ^^ be I do now $$
 ^^ a green for my tum $$
@@ -53,6 +55,7 @@
 ^^ oh dear $$
 ^^ too late to say that now $$
 ^^ look $$
+^^ www $$
 ^^ no Becky $$
 ^^ yes Becky $$
 ^^ you give him a stroke $$
@@ -66,6 +69,7 @@
 ^^ that be it $$
 ^^ stroke $$
 ^^ that be it $$
+^^ xxx $$
 ^^ there $$
 ^^ no $$
 ^^ I do not think he want to play with his ball $$
@@ -77,8 +81,8 @@
 ^^ please be very very gentle with him $$
 ^^ I know $$
 ^^ do not squeeze him $$
-^^ because   he be just have his tea $$
-^^ tell Caroline  where Sukie come this morning $$
+^^ because he's sick he be just have his tea $$
+^^ tell Caroline where where Sukie come this morning $$
 ^^ can you remember $$
 ^^ where do he come this morning $$
 ^^ he do not go to nursery $$
@@ -94,7 +98,7 @@
 ^^ now then $$
 ^^ do you want to do a puzzle $$
 ^^ or do you want to do your fuzz felt $$
-^^ or    do you want to get  the lego out $$
+^^ or do you wanna do you want to get the the lego out $$
 ^^ get the lego $$
 ^^ can I build you a house $$
 ^^ yes $$
@@ -102,31 +106,37 @@
 ^^ she be $$
 ^^ tip that out $$
 ^^ pardon $$
-^^  do you want the other one $$
+^^ um do you want the other one $$
 ^^ it be there $$
 ^^ in here $$
 ^^ pardon $$
 ^^ a cat $$
+^^ www $$
 ^^ I be just put the train together $$
 ^^ so_that I can see what piece we have get $$
 ^^ right $$
 ^^ so you want a house do you $$
+^^ xxx $$
 ^^ you put the train together $$
+^^ www $$
 ^^ see if you can find your other animal $$
 ^^ pardon $$
 ^^ I be watch $$
 ^^ yes $$
+^^ www $$
 ^^ thank_you $$
 ^^ do you want any bit of your house for the animal $$
 ^^ who have you get there $$
 ^^ who be him $$
 ^^ well $$
 ^^ make sure it be go to be big enough for a train as_well $$
+^^ xxx $$
+^^ www $$
 ^^ hey $$
 ^^ you be take the seal away $$
 ^^ take my seal away $$
 ^^ why $$
-^^  because there be no one there $$
+^^ because because there be no one there $$
 ^^ a bridge $$
 ^^ yes $$
 ^^ I will make a bridge $$
@@ -146,7 +156,7 @@
 ^^ be that what you mean $$
 ^^ and there be a duck and a bear $$
 ^^ be that what you mean $$
-^^   have you wet yourself $$
+^^ can you have you wet yourself $$
 ^^ come on $$
 ^^ have not wet your trouser $$
 ^^ let me see $$
@@ -161,7 +171,7 @@
 ^^ there you go $$
 ^^ you make some tower for the front $$
 ^^ oh $$
-^^  those blue one do not fit together very well Becky $$
+^^ those those blue one do not fit together very well Becky $$
 ^^ just do not $$
 ^^ why do not you make a tower with the small one $$
 ^^ these make good tower look $$
@@ -173,6 +183,7 @@
 ^^ well $$
 ^^ I think we want to make a big bridge $$
 ^^ you do not want to make a big bridge $$
+^^ www $$
 ^^ be not you $$
 ^^ be not you $$
 ^^ oh right $$
@@ -187,9 +198,9 @@
 ^^ why be it too big $$
 ^^ the other whale $$
 ^^ we have only get two whale $$
-^^ shall we put the penguin  cage up there then he can sit in it $$
+^^ shall we put the penguin chair cage up there then he can sit in it $$
 ^^ yeah $$
-^^ shall I put    the seal up there as_well $$
+^^ shall I put the penguin up the seal up there as_well $$
 ^^ yeah $$
 ^^ no $$
 ^^ that be not ice $$
@@ -205,6 +216,7 @@
 ^^ what Becky $$
 ^^ what be you look for $$
 ^^ be you look for these $$
+^^ xxx $$
 ^^ whoops $$
 ^^ I have do it $$
 ^^ oh $$
@@ -221,7 +233,7 @@
 ^^ okay $$
 ^^ like this $$
 ^^ there be no need for that $$
-^^  you ask me to do it $$
+^^ xxx you ask me to do it $$
 ^^ one of these do you want $$
 ^^ okay $$
 ^^ okay $$
@@ -254,7 +266,9 @@
 ^^ whoops $$
 ^^ be you okay $$
 ^^ have you hurt yourself $$
+^^ xxx $$
 ^^ have you hurt yourself $$
+^^ xxx $$
 ^^ do not press on top of it because that be what happen $$
 ^^ mhm $$
 ^^ oh God $$
@@ -268,7 +282,7 @@
 ^^ there you go $$
 ^^ okay $$
 ^^ be that good $$
-^^  little man $$
+^^ xxx little man $$
 ^^ oh $$
 ^^ I see him $$
 ^^ hm $$
@@ -276,7 +290,7 @@
 ^^ you want another bridge $$
 ^^ be this for the train to go in as_well $$
 ^^ oh $$
-^^  a bit wide than that then $$
+^^ xxx a bit wide than that then $$
 ^^ a big one $$
 ^^ will the train fit through there $$
 ^^ I know $$
@@ -291,7 +305,7 @@
 ^^ pardon $$
 ^^ another one $$
 ^^ I can not make another one $$
-^^ I have get nothing to  make the train go under $$
+^^ I have get nothing to make make the train go under $$
 ^^ I suppose I could use these but I do not think it be go to work very well $$
 ^^ be you go to put them together for me $$
 ^^ it be so they can make something else $$
@@ -307,7 +321,7 @@
 ^^ where $$
 ^^ here $$
 ^^ that it $$
-^^ I be go to make  another bridge $$
+^^ I be go to make another another bridge $$
 ^^ oh right $$
 ^^ so what be we go to do with this now then $$
 ^^ shall we put that here $$
@@ -315,13 +329,13 @@
 ^^ you make another one for the other side then $$
 ^^ whoops $$
 ^^ that be it $$
-^^ can you  make it a bit tall $$
+^^ can you put make it a bit tall $$
 ^^ do you want some more brick $$
 ^^ there you be $$
 ^^ there you be $$
 ^^ good $$
 ^^ now $$
-^^ we  real want one in that other corner as_well do not we $$
+^^ we really real want one in that other corner as_well do not we $$
 ^^ oh $$
 ^^ there be one there look $$
 ^^ there be one there $$
@@ -340,6 +354,7 @@
 ^^ just put those on $$
 ^^ you be paint me again be you $$
 ^^ I be not sure I real like frog very much $$
+^^ www $$
 ^^ you have never see a real frog I do not think $$
 ^^ I do not think they bite Becky $$
 ^^ they will not bite your finger $$
@@ -349,8 +364,10 @@
 ^^ they do not eat fish $$
 ^^ they eat fly $$
 ^^ what $$
+^^ www $$
 ^^ do it $$
 ^^ Becky $$
+^^ xxx $$
 ^^ who be this then $$
 ^^ oh no $$
 ^^ that be the Daddy pig $$
@@ -360,10 +377,12 @@
 ^^ move them over here $$
 ^^ then you have get a bit more room at the front to put the others in $$
 ^^ there you be $$
+^^ www $$
 ^^ oh $$
 ^^ oh Becky please $$
 ^^ well do Becky $$
 ^^ you have just sneeze over all those poor animal $$
+^^ www $$
 ^^ blow $$
 ^^ yes $$
 ^^ I be go to wipe it $$
@@ -383,19 +402,20 @@
 ^^ I do not know $$
 ^^ must have get lose at somebody house $$
 ^^ maybe their cat eat it $$
+^^ www $$
 ^^ no $$
 ^^ maybe somebody cat eat it $$
 ^^ what do you think $$
 ^^ I do not think so $$
 ^^ Caroline just being silly $$
-^^ I do not think a cat will  eat a lamb will it $$
+^^ I do not think a cat will eat eat a lamb will it $$
 ^^ no $$
 ^^ I do not think so $$
 ^^ a dog perhaps $$
 ^^ but not a cat $$
 ^^ well $$
 ^^ I do not know any $$
-^^ I have not get  any one I go and see with a dog $$
+^^ I have not get any any one I go and see with a dog $$
 ^^ mhm $$
 ^^ so $$
 ^^ we have not get a dog $$
@@ -412,10 +432,12 @@
 ^^ I think he want to come in actual $$
 ^^ shall I go and see if he want to come in $$
 ^^ you sit there with your animal $$
+^^ www $$
 ^^ there $$
 ^^ we have only get three pig $$
 ^^ I think $$
 ^^ or be there two baby pig before $$
+^^ www $$
 ^^ there be only that one $$
 ^^ there be not any more pig $$
 ^^ we have get a pig though $$
@@ -425,10 +447,11 @@
 ^^ go on then $$
 ^^ I think I know which one be yours $$
 ^^ I know which one be mine anyway $$
+^^ www $$
 ^^ we have get two pig have we $$
 ^^ a Mummy pig and a baby pig $$
 ^^ no $$
-^^ that be your  pig $$
+^^ that be your pig pig $$
 ^^ that live here $$
 ^^ you be watch that story $$
 ^^ which story $$
@@ -438,17 +461,17 @@
 ^^ you be not sit there at the moment though be you $$
 ^^ you be play with your animal $$
 ^^ what be you say $$
-^^  we have a story there do not we before $$
+^^ we we have a story there do not we before $$
 ^^ we sit there and have a story $$
 ^^ be that what you be say $$
 ^^ oh $$
 ^^ you mean you be watch the video here $$
 ^^ oh no $$
-^^  no $$
+^^ um no $$
 ^^ hello $$
 ^^ be you my daddy $$
 ^^ be my daddy here $$
-^^ can you see  his daddy Becky $$
+^^ can you see his his daddy Becky $$
 ^^ can you see his Daddy $$
 ^^ who have to stand on the tub $$
 ^^ the Mummy and Daddy $$
@@ -464,6 +487,7 @@
 ^^ oh right $$
 ^^ so these be both $$
 ^^ these be both Caroline baby pig be not they $$
+^^ www $$
 ^^ be that a Mummy pig down there Becky $$
 ^^ be that your Mummy pig $$
 ^^ right $$
@@ -474,16 +498,18 @@
 ^^ that one $$
 ^^ have they find their Daddy now then $$
 ^^ good $$
+^^ www $$
 ^^ whoops $$
 ^^ mhm $$
+^^ www $$
 ^^ pardon $$
 ^^ oh $$
 ^^ oh $$
 ^^ Sukie like frog $$
 ^^ he like eat them $$
-^^ so  do not give it to Sukie $$
+^^ so don't do not give it to Sukie $$
 ^^ no no $$
-^^ let him have just a  little bit of peace Becky $$
+^^ let him have just a little little bit of peace Becky $$
 ^^ well $$
 ^^ Sukie just want a little big of peace do not he $$
 ^^ what do you think that be $$
@@ -511,8 +537,8 @@
 ^^ no $$
 ^^ he be just have some love now $$
 ^^ no $$
-^^   do not tickle his foot $$
-^^ he be  bite you have he $$
+^^ don't don't do not tickle his foot $$
+^^ he be bite bite you have he $$
 ^^ where $$
 ^^ I do not $$
 ^^ oh $$
@@ -544,6 +570,7 @@
 ^^ mhm $$
 ^^ I do not know where the fur be $$
 ^^ it be not in there $$
+^^ www $$
 ^^ I do not say anything $$
 ^^ no $$
 ^^ the egg do not go in there do it $$
@@ -561,9 +588,11 @@
 ^^ he do not want you $$
 ^^ no $$
 ^^ you come and play with your shop $$
+^^ xxx $$
 ^^ right $$
 ^^ whoops $$
 ^^ no thanks $$
+^^ www $$
 ^^ oh $$
 ^^ you have break it $$
 ^^ have not you $$
@@ -575,8 +604,9 @@
 ^^ it be lose $$
 ^^ I do not know $$
 ^^ maybe one of the other boy or girl have get it $$
-^^ there be also  seem to be a egg miss $$
+^^ there be also a seem to be a egg miss $$
 ^^ have you get a egg Becky $$
+^^ www $$
 ^^ you have mend it $$
 ^^ well $$
 ^^ we could save a egg box could not we $$
@@ -645,6 +675,7 @@
 ^^ be that lose as_well $$
 ^^ the milk $$
 ^^ it be not on the floor by the doll be it $$
+^^ www $$
 ^^ where be that bottle $$
 ^^ be it by the doll $$
 ^^ she be get some thing under her hair $$
@@ -688,6 +719,7 @@
 ^^ thank_you $$
 ^^ thank_you $$
 ^^ grape and a pepper $$
+^^ mm $$
 ^^ can you reach $$
 ^^ bring the whole bag out $$
 ^^ bring the bag $$
@@ -697,20 +729,21 @@
 ^^ yes Becky $$
 ^^ yes $$
 ^^ alright $$
+^^ www $$
 ^^ do you want to play with that $$
 ^^ well $$
 ^^ I need to get the board out $$
 ^^ can you put it on here please Becky $$
 ^^ put it on there $$
 ^^ okay $$
-^^   be that all_gone $$
+^^ is that be that all_gone $$
 ^^ oh $$
 ^^ just finish that drop off Becky $$
 ^^ then I can move that $$
 ^^ come on $$
 ^^ just finish that off $$
 ^^ be it all_gone now $$
-^^  just drink that and then I will take it out $$
+^^ just just drink that and then I will take it out $$
 ^^ yeah $$
 ^^ go on $$
 ^^ have a cup $$
@@ -781,6 +814,7 @@
 ^^ I do $$
 ^^ I do $$
 ^^ it be Becky $$
+^^ www $$
 ^^ I do $$
 ^^ I do $$
 ^^ do you want a green plum $$
@@ -792,7 +826,7 @@
 ^^ where be that go $$
 ^^ oh $$
 ^^ there it be $$
-^^ why do not you  make a crocodile and  a bunny $$
+^^ why do not you make make a crocodile and a a bunny $$
 ^^ where be your rolling $$
 ^^ oh $$
 ^^ it be there $$
@@ -802,9 +836,9 @@
 ^^ oh $$
 ^^ it be a plum be it $$
 ^^ well $$
-^^ make  a crocodile out_of the plum $$
+^^ make a a crocodile out_of the plum $$
 ^^ that will do $$
-^^ I think  that be thin enough to make your  $$
+^^ I think that's that be thin enough to make your xxx $$
 ^^ okay $$
 ^^ you make some biscuit do not you Becky over Easter $$
 ^^ well $$
@@ -820,9 +854,10 @@
 ^^ and do we eat them afterwards $$
 ^^ you do not like them do you $$
 ^^ so we eat them $$
+^^ www $$
 ^^ there you be $$
 ^^ go on $$
-^^  see if the rabbit $$
+^^ make see if the rabbit $$
 ^^ will the rabbit fit there $$
 ^^ go on then $$
 ^^ rabbit be not green $$
@@ -848,7 +883,7 @@
 ^^ that be alright be not it $$
 ^^ no $$
 ^^ not bunny eat rabbit $$
-^^  what do Daddy say $$
+^^ what what do Daddy say $$
 ^^ what eat bunny $$
 ^^ crocodile eat bunny $$
 ^^ oh dear $$
@@ -878,6 +913,7 @@
 ^^ Becky $$
 ^^ that be a crocodile $$
 ^^ ow $$
+^^ www $$
 ^^ ow $$
 ^^ here $$
 ^^ eat this plum instead $$
@@ -899,29 +935,32 @@
 ^^ there you be $$
 ^^ oh yeah $$
 ^^ a crocodile $$
+^^ www $$
 ^^ a crocodile $$
 ^^ what be that $$
 ^^ have they get some play $$
 ^^ yes $$
 ^^ they have $$
 ^^ at home $$
-^^  we make it $$
+^^ um we make it $$
 ^^ what be you look for $$
 ^^ it be in the kitchen $$
 ^^ that be not very good $$
 ^^ it be too hard $$
 ^^ I know $$
-^^ when do you get  this play Becky $$
+^^ when do you get this this play Becky $$
 ^^ you get it yesterday do not you $$
 ^^ pardon $$
 ^^ play $$
 ^^ that be right $$
+^^ www $$
 ^^ no $$
 ^^ they be not ball $$
 ^^ no $$
 ^^ they be not ball Becky $$
 ^^ they be plum $$
 ^^ because that be what they be $$
+^^ xxx $$
 ^^ whoops $$
 ^^ shall I get it $$
 ^^ no $$
@@ -951,6 +990,7 @@
 ^^ can you $$
 ^^ well $$
 ^^ just tell me $$
+^^ xxx $$
 ^^ tell us what happen $$
 ^^ have you hurt yourself in the bath $$
 ^^ where do you hurt yourself $$
@@ -963,7 +1003,7 @@
 ^^ be not it $$
 ^^ well $$
 ^^ I will have a look in a minute $$
-^^ Caroline can have a look    where she go out $$
+^^ Caroline can have a look when she goes where she go out $$
 ^^ yeah $$
 ^^ to the car $$
 ^^ when the tape finish $$
@@ -976,7 +1016,7 @@
 ^^ make a mess $$
 ^^ well $$
 ^^ we normal draw on paper do not we $$
-^^  or sometimes we draw   in the color book and thing $$
+^^ or or sometimes we draw on the in the color book and thing $$
 ^^ do not $$
 ^^ please Becky $$
 ^^ do not throw it about $$
@@ -1009,7 +1049,7 @@
 ^^ yes $$
 ^^ oh $$
 ^^ pea be hot be they $$
-^^  plum with pea $$
+^^ plums plum with pea $$
 ^^ that be nice $$
 ^^ be that your dinner then $$
 ^^ oh $$
@@ -1066,7 +1106,7 @@
 ^^ can I $$
 ^^ oh thank_you $$
 ^^ oh $$
-^^  go everywhere $$
+^^ xxx go everywhere $$
 ^^ pea everywhere $$
 ^^ do you $$
 ^^ I think that be it $$
@@ -1136,7 +1176,7 @@
 ^^ you can not make a house with it $$
 ^^ no $$
 ^^ you can not $$
-^^ do not  $$
+^^ do not xxx $$
 ^^ move it $$
 ^^ so we can see what you be do $$
 ^^ no $$
@@ -1149,7 +1189,8 @@
 ^^ you have get the baby $$
 ^^ I think there be two $$
 ^^ there be $$
-^^ I think we find the other one but  $$
+^^ I think we find the other one but xxx $$
+^^ xxx $$
 ^^ I do not think it be in there $$
 ^^ we will have to get you another one Becky $$
 ^^ you have get baby lamb anyway have not you $$
@@ -1176,6 +1217,7 @@
 ^^ think it be a bit big for Gromit $$
 ^^ I think it be a bit big for him Becky $$
 ^^ it do not real fit very well $$
+^^ www $$
 ^^ a what $$
 ^^ I know you do $$
 ^^ be it fun $$
@@ -1195,18 +1237,21 @@
 ^^ the baby pig $$
 ^^ be they go as_well $$
 ^^ I will have to get some more will not I $$
+^^ xxx $$
 ^^ pardon $$
 ^^ the calf have $$
+^^ www $$
 ^^ yes $$
 ^^ they have $$
 ^^ do not want a whole bunch $$
 ^^ put them on there for me $$
 ^^ mhm $$
 ^^ pardon $$
-^^  yes $$
-^^  because it be age since I have my lunch $$
+^^ um yes $$
+^^ um because it be age since I have my lunch $$
 ^^ yes please $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ he be there $$
 ^^ Caroline just pick him up for you $$
@@ -1216,7 +1261,7 @@
 ^^ do you $$
 ^^ oh right $$
 ^^ will you like me to help you $$
-^^ pull the  handle $$
+^^ pull the handle handle $$
 ^^ that be it $$
 ^^ pull there $$
 ^^ real hard $$
@@ -1237,12 +1282,14 @@
 ^^ there be only one $$
 ^^ be not there $$
 ^^ hm $$
+^^ xxx $$
 ^^ shall we sit him on the elephant again $$
+^^ xxx $$
 ^^ tickle $$
 ^^ hm $$
 ^^ come on then $$
 ^^ you make a train $$
-^^  get the rest of the engine $$
+^^ get get the rest of the engine $$
 ^^ it be behind you $$
 ^^ here you be $$
 ^^ you will need that on $$
@@ -1251,7 +1298,7 @@
 ^^ be he in here Becky look $$
 ^^ can not see him $$
 ^^ that man $$
-^^  where be he $$
+^^ where where be he $$
 ^^ there be the horse $$
 ^^ yes $$
 ^^ can not see him $$
@@ -1263,40 +1310,45 @@
 ^^ there be not $$
 ^^ oh right $$
 ^^ no $$
-^^  that be in our set Becky $$
-^^     there be not another man $$
+^^ that's that be in our set Becky $$
+^^ there isn't another one there be not another man $$
 ^^ this be the only man $$
+^^ www $$
 ^^ these one look $$
 ^^ there be not a little elephant $$
 ^^ there be not a little elephant $$
 ^^ another one what $$
 ^^ pardon $$
 ^^ who be in the jungle $$
-^^  I do not know $$
+^^ um I do not know $$
 ^^ just wait a minute $$
 ^^ I be make a gate there $$
 ^^ oh what be that $$
 ^^ do not say what all the time $$
+^^ www $$
 ^^ oh $$
 ^^ what happen to that piece I have in my hand $$
 ^^ Becky $$
 ^^ it be pardon $$
 ^^ I have a piece in my hand $$
-^^ a piece with  a curve edge to it $$
+^^ a piece with a a curve edge to it $$
 ^^ I wonder what I do with it $$
+^^ www $$
 ^^ yes $$
 ^^ I know $$
-^^  maybe that be what I be think of $$
+^^ that maybe that be what I be think of $$
+^^ xxx $$
 ^^ you confuse me Becky $$
 ^^ do not know $$
 ^^ I confuse ease $$
 ^^ Becky $$
 ^^ please $$
-^^ why be you take off this  $$
+^^ why be you take off this xxx $$
 ^^ pardon $$
 ^^ open the gate $$
 ^^ oh $$
 ^^ that be good $$
+^^ xxx $$
 ^^ pardon $$
 ^^ whoops $$
 ^^ hm $$
@@ -1321,12 +1373,15 @@
 ^^ tiger $$
 ^^ no $$
 ^^ fish fish fish fish fish fish fish fish fish fish fish $$
+^^ www $$
 ^^ do you watch Pingu on the tellie $$
+^^ www $$
 ^^ another one what $$
-^^  that be all of them apart from the horse $$
+^^ um that be all of them apart from the horse $$
 ^^ where be the horse go $$
 ^^ it be in the train $$
 ^^ you could put these animal in $$
+^^ xxx $$
 ^^ shall we shut the gate $$
 ^^ there we be $$
 ^^ do you want to put your animal in do you $$
@@ -1339,13 +1394,16 @@
 ^^ do you mean Caroline $$
 ^^ go but not forget $$
 ^^ whoops $$
+^^ xxx $$
 ^^ I just found that piece I be look for $$
+^^ xxx $$
 ^^ okay $$
 ^^ you hurt yourself $$
 ^^ what have you do $$
 ^^ can I see $$
 ^^ let me see $$
 ^^ where $$
+^^ xxx $$
 ^^ hm $$
 ^^ there you be $$
 ^^ can I get some what $$
@@ -1358,6 +1416,7 @@
 ^^ pardon $$
 ^^ how can we mend it $$
 ^^ Mummy will do it $$
+^^ xxx $$
 ^^ there you be $$
 ^^ that be what you want be not it $$
 ^^ not very strong be it $$
@@ -1441,7 +1500,7 @@
 ^^ I do not know $$
 ^^ what do you think be in it $$
 ^^ no $$
-^^ I do not want it   on my head  $$
+^^ I do not want it in my on my head xxx $$
 ^^ oh $$
 ^^ no no $$
 ^^ do not put it in your mouth $$
@@ -1497,6 +1556,7 @@
 ^^ why $$
 ^^ well $$
 ^^ I feel okay at the moment thank Becky $$
+^^ www $$
 ^^ I be okay $$
 ^^ go go go go go go go go go $$
 ^^ no $$
@@ -1509,22 +1569,23 @@
 ^^ will you stop maul me $$
 ^^ now you have to talk $$
 ^^ yes $$
-^^  that be a thing that listen to you talk $$
-^^ tell Caroline  where you go yesterday $$
+^^ that's that be a thing that listen to you talk $$
+^^ tell Caroline what where you go yesterday $$
 ^^ do you $$
-^^ and  what do we do in the park $$
+^^ and what what do we do in the park $$
 ^^ he be not catch the mouse again $$
 ^^ no $$
-^^ tell Caroline  what you do when we be at the park $$
+^^ tell Caroline what what you do when we be at the park $$
 ^^ we have a picnic do not we $$
 ^^ do you $$
 ^^ be you $$
 ^^ well $$
 ^^ when it be sun again we can get the stuff in the garden $$
 ^^ I can not get this ball open Becky $$
-^^  we do not real need it open do we $$
+^^ don't we do not real need it open do we $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
 ^^ you can not real see $$
 ^^ there be nothing to see $$
@@ -1542,11 +1603,11 @@
 ^^ come on $$
 ^^ let us do a tower first $$
 ^^ do you want me to make the picture $$
-^^   shall we make a tower first $$
+^^ shall we shall we make a tower first $$
 ^^ let us make a tower first and then we can make the picture $$
 ^^ go on $$
 ^^ what $$
-^^  a different one $$
+^^ I a different one $$
 ^^ oh $$
 ^^ have you see mine look $$
 ^^ it be $$
@@ -1564,7 +1625,8 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^  on top then $$
+^^ xxx $$
+^^ xxx on top then $$
 ^^ go on $$
 ^^ oh $$
 ^^ go on $$
@@ -1573,6 +1635,7 @@
 ^^ what $$
 ^^ you want to make the picture do you $$
 ^^ do that go on there $$
+^^ xxx $$
 ^^ it go on there somewhere $$
 ^^ and what about that one $$
 ^^ that one go on there as_well $$
@@ -1586,14 +1649,14 @@
 ^^ a bit more $$
 ^^ we need a bit more of the donkey do not we $$
 ^^ can you see if you can find it $$
-^^   that be the  $$
+^^ that's the that be the xxx $$
 ^^ oh $$
 ^^ hang on a minute $$
 ^^ I know where that go $$
 ^^ it go like this $$
 ^^ there $$
 ^^ see if you can find the donkey face $$
-^^  do this belong to the donkey $$
+^^ is do this belong to the donkey $$
 ^^ where do that go $$
 ^^ that be right $$
 ^^ so where do this go $$
@@ -1618,7 +1681,7 @@
 ^^ this one go here look Becky $$
 ^^ it do $$
 ^^ yeah $$
-^^  that be the wrong one now though $$
+^^ that that be the wrong one now though $$
 ^^ it be that one be not it $$
 ^^ that be it $$
 ^^ it be that one $$
@@ -1629,15 +1692,16 @@
 ^^ be that her leg $$
 ^^ okay $$
 ^^ so that be alright be not it $$
-^^ so let us see if we can  the donkey be other eye $$
+^^ so let us see if we can the the donkey be other eye $$
 ^^ see if you can find it on those $$
 ^^ no $$
 ^^ that be not right $$
 ^^ no $$
 ^^ I do not think that be right Becky $$
+^^ xxx $$
 ^^ hm $$
 ^^ oh $$
-^^  that be right $$
+^^ that that be right $$
 ^^ I think that must go $$
 ^^ it do go there I think but $$
 ^^ oh no $$
@@ -1646,6 +1710,7 @@
 ^^ we need the donkey $$
 ^^ find the rest of the donkey $$
 ^^ be there a piece miss $$
+^^ www $$
 ^^ oh no $$
 ^^ it be here Becky $$
 ^^ here it be $$
@@ -1677,6 +1742,7 @@
 ^^ do you want me to turn it over $$
 ^^ so_that you can see all the other picture $$
 ^^ here you be $$
+^^ xxx $$
 ^^ which one have not we do then $$
 ^^ I have do that one $$
 ^^ and we have do that one because that be this one $$
@@ -1698,7 +1764,7 @@
 ^^ whoops $$
 ^^ just stand up a minute $$
 ^^ you put them back in there $$
-^^ just  put that in there look $$
+^^ just put put that in there look $$
 ^^ that $$
 ^^ like that $$
 ^^ and we put the lid on $$
@@ -1707,14 +1773,17 @@
 ^^ right $$
 ^^ be not it a sun $$
 ^^ it tell the time $$
+^^ xxx $$
 ^^ the time $$
 ^^ the sun $$
+^^ www $$
 ^^ oh $$
 ^^ oh $$
 ^^ and I can not find it again $$
 ^^ no $$
 ^^ it be not on that piece $$
 ^^ think it be on that one $$
+^^ xxx $$
 ^^ I think that be a wheel wheel actual $$
 ^^ I be wrong Becky $$
 ^^ it be not a sun $$
@@ -1724,13 +1793,14 @@
 ^^ in fact you say it be a wheel and I think it be a sun $$
 ^^ oh sorry $$
 ^^ I do not think it be the sun $$
+^^ xxx $$
 ^^ I think it be a wheel $$
 ^^ I think you be right $$
 ^^ yeah $$
 ^^ you be right and I be wrong $$
 ^^ if you look at the picture on here $$
 ^^ just look a the picture $$
-^^ can you see  on one of the picture $$
+^^ can you see on on one of the picture $$
 ^^ yes $$
 ^^ there it be $$
 ^^ see $$
@@ -1740,13 +1810,13 @@
 ^^ can you see that $$
 ^^ perhaps if I wear my glass more often $$
 ^^ silly Caroline $$
-^^ so   it be not a sun after all be it $$
+^^ so it's not it be not a sun after all be it $$
 ^^ I see $$
 ^^ I see $$
 ^^ last one then $$
 ^^ good girl $$
 ^^ shall we do one of your other puzzle now $$
-^^ what about  that alphabet one or that clock one $$
+^^ what about that that alphabet one or that clock one $$
 ^^ which one do you want to do $$
 ^^ alright $$
 ^^ here you be $$
@@ -1758,11 +1828,12 @@
 ^^ today $$
 ^^ do you $$
 ^^ be it $$
-^^  and pick it out now $$
+^^ and and pick it out now $$
 ^^ and where be it now $$
 ^^ have it $$
 ^^ he be go to his friend have he $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ a $$
 ^^ a for apple $$
 ^^ go on $$
@@ -1832,18 +1903,19 @@
 ^^ that be right $$
 ^^ yes Becky $$
 ^^ the zebra $$
-^^  he be hurt be he $$
+^^ they he be hurt be he $$
 ^^ why $$
 ^^ what be happen $$
 ^^ what $$
 ^^ I have have a apple today $$
 ^^ I do not want another one $$
 ^^ I be full up of apple $$
-^^  this be next look $$
+^^ um this be next look $$
 ^^ be that next $$
 ^^ no $$
 ^^ oh no $$
 ^^ it be not $$
+^^ www $$
 ^^ that be not next Becky $$
 ^^ it be that that be next $$
 ^^ no $$
@@ -1861,14 +1933,15 @@
 ^^ no $$
 ^^ not very good at my alphabet upside $$
 ^^ what about try to find the cat $$
-^^ I think that might  $$
+^^ I think that might xxx $$
+^^ xxx $$
 ^^ cat or $$
 ^^ oh no $$
 ^^ it be not cat $$
 ^^ it be cake $$
 ^^ try that one $$
 ^^ now $$
-^^   what do we normal put after the cake $$
+^^ what could what do we normal put after the cake $$
 ^^ can you remember $$
 ^^ be it the dog that come next $$
 ^^ no no $$
@@ -1932,7 +2005,7 @@
 ^^ oh $$
 ^^ you be love and warm be not you $$
 ^^ love and warm $$
-^^  can you get out $$
+^^ um can you get out $$
 ^^ can not you $$
 ^^ go on then $$
 ^^ that be alright Mrs_Monster $$
@@ -2029,7 +2102,7 @@
 ^^ you can not put them in yet $$
 ^^ they do not go in yet do they $$
 ^^ what about the mouse $$
-^^  try and put the mouse in $$
+^^ try try and put the mouse in $$
 ^^ where do you think he go $$
 ^^ right $$
 ^^ underneath the flower $$
@@ -2048,7 +2121,7 @@
 ^^ I might have leave it at home $$
 ^^ think it be at home $$
 ^^ I be sorry $$
-^^ but   I do find it $$
+^^ but I did I do find it $$
 ^^ you have get your goat Becky somewhere $$
 ^^ where be your goat $$
 ^^ it be on the table be not it $$
@@ -2062,6 +2135,7 @@
 ^^ that be all $$
 ^^ oh $$
 ^^ maybe he do not $$
+^^ www $$
 ^^ here you be $$
 ^^ try it in there $$
 ^^ uhhum $$
@@ -2080,7 +2154,7 @@
 ^^ what be you go to do with that fur $$
 ^^ oh $$
 ^^ alright $$
-^^ that be a  good idea $$
+^^ that be a good good idea $$
 ^^ here you be then $$
 ^^ come on $$
 ^^ no $$
@@ -2108,6 +2182,7 @@
 ^^ just leave him on my knee please $$
 ^^ well $$
 ^^ he just want to be left alone $$
+^^ www $$
 ^^ see $$
 ^^ you have disturb him now $$
 ^^ he only want a bit of cuddle $$
@@ -2123,7 +2198,11 @@
 ^^ let us have a look $$
 ^^ there be some pig here $$
 ^^ you mean all ours $$
+^^ xxx $$
+^^ www $$
+^^ www $$
 ^^ just bite me $$
+^^ www $$
 ^^ right $$
 ^^ what be we say $$
 ^^ oh $$
@@ -2137,6 +2216,7 @@
 ^^ you could always use those could not you $$
 ^^ yes Becky $$
 ^^ what be the matter $$
+^^ xxx $$
 ^^ do you want to put it on this table $$
 ^^ okay $$
 ^^ goodness me $$
@@ -2181,6 +2261,7 @@
 ^^ hm $$
 ^^ there be a lemon $$
 ^^ be that what you want $$
+^^ www $$
 ^^ what $$
 ^^ a real real baby one $$
 ^^ there be not one Becky $$
@@ -2189,7 +2270,7 @@
 ^^ if I genmod think I could have save that egg box from yesterday when we have those egg $$
 ^^ and we could have put Caroline egg in it could not we $$
 ^^ but I do not think so silly me $$
-^^ in fact  there be only three egg $$
+^^ in fact there's there be only three egg $$
 ^^ think one of them must have be eat $$
 ^^ one of egg must have be eat $$
 ^^ because there be four be not there $$
@@ -2220,10 +2301,11 @@
 ^^ what be you do $$
 ^^ yeah $$
 ^^ I can see that $$
-^^  well $$
+^^ um well $$
 ^^ I will not mind a sandwich actual if you want to make me one $$
 ^^ there be some cheese look $$
 ^^ I think the rest of the stuff be about $$
+^^ xxx $$
 ^^ well $$
 ^^ there be a bread roll $$
 ^^ oh $$
@@ -2247,6 +2329,7 @@
 ^^ they be $$
 ^^ bite prickle be not they $$
 ^^ I do not think that one prickle be it $$
+^^ xxx $$
 ^^ yes $$
 ^^ it be $$
 ^^ oh $$
@@ -2254,6 +2337,7 @@
 ^^ okay $$
 ^^ not in the rain $$
 ^^ no $$
+^^ www $$
 ^^ do you say piglet then $$
 ^^ that be not piglet be it $$
 ^^ that be panda $$
@@ -2284,11 +2368,11 @@
 ^^ right $$
 ^^ hm $$
 ^^ what be you look for $$
-^^  be it   his t that you have lose $$
+^^ is be it his xxx his t that you have lose $$
 ^^ have you look under the table $$
 ^^ okay $$
 ^^ well $$
-^^ if he be just have his bath he should  real be think about go to bed I suppose should not he $$
+^^ if he be just have his bath he should really real be think about go to bed I suppose should not he $$
 ^^ right $$
 ^^ do you want me to put his trouser on as_well $$
 ^^ oh $$
@@ -2315,6 +2399,7 @@
 ^^ well $$
 ^^ do not put your face in there Becky $$
 ^^ no $$
+^^ www $$
 ^^ be he wash his hand again $$
 ^^ be not he $$
 ^^ he be just have a bath Becky $$
@@ -2428,6 +2513,7 @@
 ^^ put it on the board $$
 ^^ yes $$
 ^^ like that $$
+^^ xxx $$
 ^^ because it make a bit of a mess otherwise $$
 ^^ and I can wash the board more ease then I can wash the table can not I $$
 ^^ do you need to do a wee $$
@@ -2459,8 +2545,10 @@
 ^^ alright $$
 ^^ pardon $$
 ^^ be you go to put him up $$
+^^ xxx $$
 ^^ oh $$
-^^  you want to cut this do you $$
+^^ you you want to cut this do you $$
+^^ a $$
 ^^ not much $$
 ^^ they will not hurt you though $$
 ^^ they will not hurt you $$
@@ -2497,6 +2585,7 @@
 ^^ there you go $$
 ^^ Becky $$
 ^^ do you need to use the pot $$
+^^ www $$
 ^^ okay $$
 ^^ good $$
 ^^ that be it $$
@@ -2504,6 +2593,7 @@
 ^^ me $$
 ^^ I be just look at the little counter go up and down and check they be go up and down $$
 ^^ oh yes $$
+^^ xxx $$
 ^^ no $$
 ^^ can not I $$
 ^^ go on $$
@@ -2529,10 +2619,10 @@
 ^^ you could put your bun in here could not you like this $$
 ^^ I think you be Becky $$
 ^^ yes $$
-^^   that be a very big one $$
+^^ that's a that be a very big one $$
 ^^ I do not think that will fit in here $$
 ^^ you will have to put that in a different tin $$
-^^ you could  put that in there and that could be bread could not it $$
+^^ you could put put that in there and that could be bread could not it $$
 ^^ put a bit more in $$
 ^^ what else have you get $$
 ^^ have you get any other cake in there $$
@@ -2589,6 +2679,7 @@
 ^^ yes $$
 ^^ yes Becky $$
 ^^ I be just a bit worry about these counter $$
+^^ www $$
 ^^ no $$
 ^^ well $$
 ^^ not outside $$
@@ -2646,11 +2737,13 @@
 ^^ oh $$
 ^^ we could leave it in $$
 ^^ think we might need to turn him round a little bit actual $$
+^^ xxx $$
 ^^ there we be $$
 ^^ put the lid on $$
 ^^ who do you think be in there now then $$
 ^^ a horse be it $$
 ^^ I see $$
+^^ xxx $$
 ^^ hm $$
 ^^ oh $$
 ^^ what be it $$
@@ -2666,14 +2759,14 @@
 ^^ they be cook now be they $$
 ^^ do you not have one yourself $$
 ^^ oh dear $$
-^^  maybe you genmod good have a rabbit this time $$
+^^ maybe maybe you genmod good have a rabbit this time $$
 ^^ here you be $$
 ^^ hm $$
 ^^ just one $$
 ^^ I think one enough $$
 ^^ can I have one $$
 ^^ oh $$
-^^ there  be not one for Caroline now $$
+^^ there isn't be not one for Caroline now $$
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ whoops $$
@@ -2689,6 +2782,7 @@
 ^^ you genmod good have that last one $$
 ^^ go go go go go go go go $$
 ^^ they have all_gone $$
+^^ xxx $$
 ^^ yes $$
 ^^ they be all the same $$
 ^^ whoops $$
@@ -2719,7 +2813,9 @@
 ^^ she do not $$
 ^^ no $$
 ^^ you say whoops $$
+^^ xxx $$
 ^^ Mummy say whoops $$
+^^ xxx $$
 ^^ you and me $$
 ^^ we both say it $$
 ^^ oh $$
@@ -2738,6 +2834,7 @@
 ^^ no $$
 ^^ let me get down first $$
 ^^ go on then $$
+^^ xxx $$
 ^^ now $$
 ^^ do not fall of there $$
 ^^ put your leg down $$
@@ -2759,7 +2856,7 @@
 ^^ no $$
 ^^ thank_you $$
 ^^ because you tell me to $$
-^^   I be full $$
+^^ um I'm I be full $$
 ^^ thank_you $$
 ^^ too many hot bun $$
 ^^ too many hot bun $$
@@ -2866,6 +2963,7 @@
 ^^ they like it $$
 ^^ do not you like it $$
 ^^ sorry Becky $$
+^^ xxx $$
 ^^ think it be a rabbit $$
 ^^ do you want me to get your stool $$
 ^^ and then you can sit up at the table $$
@@ -2878,6 +2976,7 @@
 ^^ hm $$
 ^^ what do you want me to do $$
 ^^ you want me to tie the bow again $$
+^^ www $$
 ^^ no $$
 ^^ it be not snow Becky $$
 ^^ you want me to tie this hair up again do you $$
@@ -2889,12 +2988,14 @@
 ^^ I be not sure it go on with this one $$
 ^^ I think it go with that blue dress $$
 ^^ I can not tie this $$
-^^  well $$
-^^ it  do go on $$
+^^ um well $$
+^^ it does do go on $$
 ^^ I can put it on if you want Becky $$
 ^^ come on $$
 ^^ let me put it on $$
 ^^ do not matter $$
+^^ xxx $$
+^^ www $$
 ^^ right $$
 ^^ shall I put this on then $$
 ^^ and then that go round the collar you see $$
@@ -2906,14 +3007,14 @@
 ^^ you do not have blouse do you $$
 ^^ let us put this on then shall we $$
 ^^ pretend snow $$
-^^  I think I will need to put that on $$
+^^ think I think I will need to put that on $$
 ^^ let me have a look $$
 ^^ think her pony real need to go inside the hat $$
 ^^ how old be she $$
-^^  she be probable about four I think $$
-^^  yes $$
+^^ um she be probable about four I think $$
+^^ um yes $$
 ^^ she can be $$
-^^ where be  that collar go then $$
+^^ where be that that collar go then $$
 ^^ oh $$
 ^^ it be there $$
 ^^ will he $$
@@ -2921,6 +3022,7 @@
 ^^ yes $$
 ^^ the egg have fall out I think $$
 ^^ there you be look $$
+^^ www $$
 ^^ think you be play shop at nursery school today $$
 ^^ Becky $$
 ^^ you be play shop be not you at nursery this morning because I see you $$
@@ -2949,7 +3051,7 @@
 ^^ okay $$
 ^^ do not you $$
 ^^ oh $$
-^^  be that a bit big that onion $$
+^^ that be that a bit big that onion $$
 ^^ strawberry fit $$
 ^^ yes $$
 ^^ try the strawberry instead $$
@@ -2962,6 +3064,7 @@
 ^^ be they break now $$
 ^^ be they break $$
 ^^ they be just egg $$
+^^ www $$
 ^^ no $$
 ^^ they be not hatch $$
 ^^ no $$
@@ -2989,6 +3092,7 @@
 ^^ it be from Sukie be it $$
 ^^ right $$
 ^^ we must have a very clever cat if he can cross his finger $$
+^^ www $$
 ^^ yes $$
 ^^ hm $$
 ^^ yes $$
@@ -3015,7 +3119,7 @@
 ^^ do you $$
 ^^ pink paint be it $$
 ^^ I see $$
-^^ so do you wash it off then  off your hand $$
+^^ so do you wash it off then on off your hand $$
 ^^ do you $$
 ^^ sausage $$
 ^^ sausage be it $$
@@ -3029,6 +3133,7 @@
 ^^ mhm $$
 ^^ yes $$
 ^^ it be a bit $$
+^^ xxx $$
 ^^ lot of sausage in there $$
 ^^ lot of sausage be not there $$
 ^^ that be a hot $$
@@ -3036,7 +3141,7 @@
 ^^ hot $$
 ^^ be not it $$
 ^^ oh right $$
-^^  well $$
+^^ um well $$
 ^^ you can call it a hot if it be a sausage in a bread roll $$
 ^^ that be just the name for it $$
 ^^ it be a silly name though be not it $$
@@ -3059,6 +3164,7 @@
 ^^ well $$
 ^^ when do you do this $$
 ^^ I do not know that be in $$
+^^ www $$
 ^^ get your cup and saucer Becky $$
 ^^ there be some in that red bag $$
 ^^ in that red bag $$
@@ -3075,8 +3181,9 @@
 ^^ be that for me $$
 ^^ whoops $$
 ^^ thank_you $$
+^^ www $$
 ^^ oh Becky $$
-^^  back again $$
+^^ xxx back again $$
 ^^ put that on my plate for me $$
 ^^ thank_you $$
 ^^ I drop it $$
@@ -3092,6 +3199,7 @@
 ^^ that be a pear $$
 ^^ there be a couple more thing in there you have not get out look $$
 ^^ there be another tomato there $$
+^^ xxx $$
 ^^ pardon $$
 ^^ yes $$
 ^^ take it into the box and then you will be able to see good $$
@@ -3102,7 +3210,7 @@
 ^^ yes $$
 ^^ I be pretend to eat it $$
 ^^ I pretend to eat my biscuit $$
-^^  yes $$
+^^ um yes $$
 ^^ do you want some milk $$
 ^^ there you go $$
 ^^ what be be in there $$
@@ -3119,7 +3227,7 @@
 ^^ mhm $$
 ^^ do not know $$
 ^^ whoops $$
-^^  think he be in the wrong way round $$
+^^ think think he be in the wrong way round $$
 ^^ oh yes $$
 ^^ he be be not he $$
 ^^ turn it round $$
@@ -3129,7 +3237,7 @@
 ^^ no $$
 ^^ Becky $$
 ^^ oh dear $$
-^^ I think you have  drunk it all though have not you $$
+^^ I think you have drunk drunk it all though have not you $$
 ^^ I think all your tea go be not it $$
 ^^ what do you want me to do $$
 ^^ what be who do $$
@@ -3144,7 +3252,7 @@
 ^^ yes $$
 ^^ there be a bit more play $$
 ^^ Becky $$
-^^   you have get panda trouser stick to your slipper $$
+^^ you've got you have get panda trouser stick to your slipper $$
 ^^ look $$
 ^^ can you see it $$
 ^^ you be get a bit bore $$
@@ -3160,7 +3268,7 @@
 ^^ I will take them off and then you have get to put them on $$
 ^^ go on then $$
 ^^ which one do you think go on first $$
-^^  no $$
+^^ um no $$
 ^^ I do not think that go next $$
 ^^ do it $$
 ^^ do that one $$
@@ -3172,7 +3280,7 @@
 ^^ there $$
 ^^ wobble be not it $$
 ^^ what be it $$
-^^  a stack of ring or something $$
+^^ um a stack of ring or something $$
 ^^ it be call $$
 ^^ I have forget $$
 ^^ it be call stack hoop $$
@@ -3192,6 +3300,8 @@
 ^^ choo $$
 ^^ whoops $$
 ^^ get the truck behind $$
+^^ xxx $$
 ^^ hello $$
 ^^ we should real have a little man drive should not we $$
 ^^ not the monkey $$
+^^ xxx $$

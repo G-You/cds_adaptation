@@ -1,3 +1,4 @@
+^^ xxx $$
 ^^ it lick $$
 ^^ Sophie $$
 ^^ I like it $$
@@ -17,6 +18,7 @@
 ^^ yeah $$
 ^^ Mummy $$
 ^^ yeah $$
+^^ xxx $$
 ^^ white $$
 ^^ blue $$
 ^^ what beautiful girl $$
@@ -46,6 +48,9 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Joan $$
 ^^ Dada $$
 ^^ be quiet $$
@@ -54,6 +59,7 @@
 ^^ eat me up and Daddy $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Joan $$
 ^^ yeah $$
@@ -72,7 +78,7 @@
 ^^ pot $$
 ^^ at Sophie house $$
 ^^ at Grandma little house $$
-^^   at Grandma little house $$
+^^ at Paula at Grandma little house $$
 ^^ yeah $$
 ^^ why $$
 ^^ where my knock my crown $$
@@ -80,14 +86,16 @@
 ^^ you a princess $$
 ^^ yeah $$
 ^^ no $$
-^^   me go be a princess $$
+^^ me go me go be a princess $$
 ^^ Sleeping_Beauty $$
 ^^ the prince come $$
 ^^ thank_you $$
+^^ xxx $$
 ^^ Beauty sit on the prince knee $$
 ^^ big princess sit on your knee $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ that the bad witch $$
 ^^ no $$
 ^^ me frighten $$
@@ -106,7 +114,7 @@
 ^^ no $$
 ^^ bad witch $$
 ^^ yeah $$
-^^ put me a bad spell  princess toy $$
+^^ put me a bad spell Ruth princess toy $$
 ^^ yeah $$
 ^^ spell on the prince $$
 ^^ on the prince $$
@@ -121,13 +129,13 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ there $$
-^^   me prick my finger on there $$
+^^ me me me prick my finger on there $$
 ^^ me prick my finger on spindle $$
 ^^ why $$
 ^^ oh $$
 ^^ princess sleep $$
 ^^ you come here princess $$
-^^  you come here princess $$
+^^ you you come here princess $$
 ^^ no $$
 ^^ you come here princess $$
 ^^ yeah $$
@@ -137,14 +145,15 @@
 ^^ yeah $$
 ^^ why $$
 ^^ no $$
+^^ xxx $$
 ^^ yeah $$
 ^^ sleep $$
-^^  no $$
-^^  be a nice prince $$
+^^ no no $$
+^^ be be a nice prince $$
 ^^ no $$
 ^^ me a prince $$
-^^  no $$
-^^  me a princess $$
+^^ no no $$
+^^ me me a princess $$
 ^^ princess $$
 ^^ my lipstick $$
 ^^ lipstick $$
@@ -164,7 +173,7 @@
 ^^ huh $$
 ^^ no more $$
 ^^ you want some $$
-^^  it lipstick $$
+^^ it it lipstick $$
 ^^ want some $$
 ^^ Anna want some $$
 ^^ Anna get one at home $$
@@ -190,19 +199,23 @@
 ^^ Fay $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ on two train $$
 ^^ why $$
-^^ I  $$
-^^ I  and  yeah $$
-^^ I  $$
+^^ xxx $$
+^^ I xxx $$
+^^ xxx $$
+^^ I xxx and xxx yeah $$
+^^ I xxx $$
 ^^ and you be there $$
 ^^ yeah $$
 ^^ go $$
 ^^ letter $$
 ^^ Postman_Pat $$
-^^ one for  $$
+^^ one for xxx $$
 ^^ one for Robbie $$
 ^^ one for Ruth $$
 ^^ yeah $$
@@ -237,7 +250,7 @@
 ^^ you take it off $$
 ^^ take it off $$
 ^^ please $$
-^^    not big one $$
+^^ not not not not big one $$
 ^^ that one $$
 ^^ why $$
 ^^ my want it to $$
@@ -263,7 +276,7 @@
 ^^ yeah $$
 ^^ put it down $$
 ^^ why $$
-^^  my will be nice $$
+^^ my my will be nice $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ I say do not come in my room $$
@@ -274,7 +287,7 @@
 ^^ you go back work $$
 ^^ that what say my come back $$
 ^^ no $$
-^^  my come back $$
+^^ come my come back $$
 ^^ say my Ruth back $$
 ^^ it my house $$
 ^^ do not want go back work $$
@@ -284,20 +297,20 @@
 ^^ say go back a work $$
 ^^ why $$
 ^^ I do not like Daddy $$
-^^  only a little bit $$
+^^ only only a little bit $$
 ^^ yeah $$
 ^^ no $$
 ^^ like them $$
-^^  like  $$
+^^ xxx like xxx $$
 ^^ what $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
-^^   that be my old one $$
+^^ my my that be my old one $$
 ^^ and another one my old one $$
 ^^ another one you old one $$
 ^^ me $$
-^^   you get another old one $$
+^^ you getting you get another old one $$
 ^^ after me finish $$
 ^^ after me finish mine $$
 ^^ no $$
@@ -329,10 +342,10 @@
 ^^ get two Munching_Mikes $$
 ^^ get another one $$
 ^^ bright yellow $$
-^^   me get orange $$
+^^ me got me get orange $$
 ^^ that $$
 ^^ put two together $$
-^^  pink $$
+^^ um pink $$
 ^^ the Water_witch $$
 ^^ me only get one $$
 ^^ get one $$
@@ -340,22 +353,23 @@
 ^^ me not get any $$
 ^^ purple $$
 ^^ me not get some more $$
-^^  you not get any $$
-^^  me get one that $$
+^^ you you not get any $$
+^^ me me get one that $$
 ^^ me get one that one $$
 ^^ yeah $$
 ^^ me get yellow one $$
-^^ that  not the same color $$
+^^ that not not the same color $$
 ^^ green $$
 ^^ put it together $$
 ^^ I not $$
 ^^ do not know $$
 ^^ that me only get one $$
-^^  it purple like that $$
+^^ it it purple like that $$
 ^^ you get two $$
 ^^ I only get one $$
 ^^ me get two Jumping_Jim $$
 ^^ me give you a yellow one $$
+^^ xxx $$
 ^^ oh me get any $$
 ^^ you get one Robber_Red $$
 ^^ my get one $$
@@ -363,14 +377,14 @@
 ^^ we not finish our letter $$
 ^^ yeah $$
 ^^ yeah $$
-^^   we have not finish $$
+^^ we not we have not finish $$
 ^^ I too tire $$
 ^^ me put all those away $$
 ^^ you put mine all away $$
 ^^ why $$
-^^ me  $$
-^^ do not get  all of it away $$
-^^   no $$
+^^ me xxx $$
+^^ do not get all all of it away $$
+^^ no no no $$
 ^^ you put that one away $$
 ^^ where this be away $$
 ^^ me take this one away $$
@@ -380,15 +394,17 @@
 ^^ what $$
 ^^ mhm $$
 ^^ what a_lot_of food it be $$
+^^ xxx $$
 ^^ do not know what a_lot_of food $$
 ^^ where basket $$
 ^^ oh there it be $$
 ^^ oh there ice for you $$
-^^ there  $$
+^^ there xxx $$
 ^^ it pretend $$
 ^^ pretend one $$
 ^^ eat it $$
 ^^ lick it $$
+^^ xxx $$
 ^^ yeah $$
 ^^ me take it away again $$
 ^^ me take it home $$
@@ -408,19 +424,20 @@
 ^^ why $$
 ^^ why $$
 ^^ why $$
-^^  what about that $$
-^^ what that  that $$
+^^ what what about that $$
+^^ what that xxx that $$
 ^^ there be a apple $$
 ^^ it a apple $$
 ^^ oh and here a big apple $$
 ^^ oh $$
+^^ xxx $$
 ^^ do not know $$
 ^^ yeah $$
 ^^ Mummy $$
 ^^ yeah $$
 ^^ that man $$
 ^^ that man $$
-^^  banana $$
+^^ xxx banana $$
 ^^ yeah $$
 ^^ do not know $$
 ^^ Asda $$
@@ -443,12 +460,14 @@
 ^^ you eat it $$
 ^^ me get a $$
 ^^ me get a burger for your dinner $$
+^^ xxx $$
 ^^ you eat it $$
+^^ mm $$
 ^^ this orange for Anna $$
 ^^ huh $$
 ^^ have cake after your dinner $$
 ^^ yeah $$
-^^   after your dinner $$
+^^ not not after your dinner $$
 ^^ you not have any ice $$
 ^^ yeah $$
 ^^ no $$
@@ -477,7 +496,7 @@
 ^^ yeah $$
 ^^ you like chip $$
 ^^ huh $$
-^^   you take all the food $$
+^^ you you you take all the food $$
 ^^ yeah $$
 ^^ another one these $$
 ^^ egg $$
@@ -511,7 +530,7 @@
 ^^ no $$
 ^^ me $$
 ^^ oh $$
-^^   you me little baby me eat them $$
+^^ you you you me little baby me eat them $$
 ^^ what $$
 ^^ why $$
 ^^ why $$
@@ -519,14 +538,14 @@
 ^^ yeah $$
 ^^ why $$
 ^^ why $$
-^^ you you  get some chip in it $$
+^^ you you xxx get some chip in it $$
 ^^ Anna $$
 ^^ yeah $$
 ^^ no $$
 ^^ that apple $$
 ^^ orange juice $$
 ^^ princess have her milk $$
-^^  princess have her milk $$
+^^ princess princess have her milk $$
 ^^ yeah $$
 ^^ why $$
 ^^ why $$
@@ -535,8 +554,8 @@
 ^^ Mummy $$
 ^^ I like you $$
 ^^ what $$
-^^  you $$
-^^  Mother day $$
+^^ xxx you $$
+^^ xxx Mother day $$
 ^^ Mother day $$
 ^^ mhm $$
 ^^ I love Mum and you love me love you $$
@@ -546,7 +565,8 @@
 ^^ what $$
 ^^ yeah $$
 ^^ oh no $$
-^^   some money in here $$
+^^ xxx $$
+^^ some money some money in here $$
 ^^ you want the money $$
 ^^ me do not want all that money $$
 ^^ me not want all that money $$
@@ -566,6 +586,7 @@
 ^^ two $$
 ^^ yeah $$
 ^^ this two $$
+^^ xxx $$
 ^^ four $$
 ^^ two $$
 ^^ what that $$
@@ -575,6 +596,7 @@
 ^^ me put them in there $$
 ^^ no $$
 ^^ me put them in there $$
+^^ xxx $$
 ^^ me do that $$
 ^^ oh there $$
 ^^ two $$
@@ -606,14 +628,14 @@
 ^^ what in there $$
 ^^ yeah $$
 ^^ yeah $$
-^^ not what  $$
+^^ not what xxx $$
 ^^ yeah $$
 ^^ some more $$
 ^^ it be finish very soon $$
 ^^ this $$
 ^^ yeah $$
 ^^ yeah $$
-^^  that $$
+^^ xxx that $$
 ^^ yeah $$
 ^^ what $$
 ^^ yeah $$
@@ -631,7 +653,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^  when me a baby Mummy make it $$
+^^ me when me a baby Mummy make it $$
 ^^ mhm $$
 ^^ put on there $$
 ^^ yeah $$
@@ -643,11 +665,11 @@
 ^^ no $$
 ^^ down $$
 ^^ in the water $$
-^^ and watch me  on television $$
+^^ and watch me in on television $$
 ^^ me on television $$
 ^^ huh $$
 ^^ it near mine $$
-^^  me $$
+^^ um me $$
 ^^ Sophie $$
 ^^ yeah $$
 ^^ why $$
@@ -656,16 +678,17 @@
 ^^ by boat this time $$
 ^^ in boat $$
 ^^ yeah $$
-^^  far away $$
+^^ um far away $$
 ^^ by boat $$
 ^^ whee $$
-^^  on a boat a bit this time $$
+^^ on on a boat a bit this time $$
 ^^ no $$
 ^^ aeroplane $$
 ^^ me go on aeroplane near the window $$
 ^^ me go on boat this time $$
 ^^ why $$
 ^^ why $$
+^^ xxx $$
 ^^ yeah $$
 ^^ pot $$
 ^^ blue $$
@@ -679,9 +702,10 @@
 ^^ what be the time Mummy $$
 ^^ what the time Mummy $$
 ^^ yeah $$
+^^ a $$
 ^^ it lunch $$
 ^^ clock $$
-^^ what  time be it  $$
+^^ what time time be it xxx $$
 ^^ time $$
 ^^ little elephant $$
 ^^ elephant $$
@@ -711,9 +735,9 @@
 ^^ that what my play $$
 ^^ yeah $$
 ^^ me talk to another one $$
-^^    me talk a little one $$
-^^  me go in the baby house $$
-^^ and   me get a little phone $$
+^^ me talking to me talk a little one $$
+^^ me me go in the baby house $$
+^^ and me got me get a little phone $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ clock $$
@@ -724,7 +748,7 @@
 ^^ why $$
 ^^ park $$
 ^^ fly a kite $$
-^^  play foot $$
+^^ um play foot $$
 ^^ play foot $$
 ^^ yeah $$
 ^^ on the grass $$
@@ -737,9 +761,10 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^    we not walk there today $$
+^^ we not going we not walk there today $$
 ^^ Friday $$
 ^^ Monday $$
+^^ xxx $$
 ^^ Wednesday $$
 ^^ Monday $$
 ^^ Tuesday $$
@@ -747,7 +772,7 @@
 ^^ Tuesday $$
 ^^ Wednesday $$
 ^^ Thursday $$
-^^  Sunday $$
+^^ Fri Sunday $$
 ^^ Friday $$
 ^^ Saturday $$
 ^^ Sunday $$
@@ -766,17 +791,18 @@
 ^^ apple $$
 ^^ there another juice down there $$
 ^^ there monkey juice there $$
-^^  there little elephant $$
+^^ there there little elephant $$
 ^^ juice $$
 ^^ yeah $$
 ^^ not have it today $$
 ^^ not have it today $$
-^^   me put it beside little elephant $$
+^^ me put me put it beside little elephant $$
 ^^ yeah $$
 ^^ shoe $$
 ^^ shoe $$
 ^^ why $$
 ^^ why $$
+^^ xxx $$
 ^^ with his friend $$
 ^^ with his friend $$
 ^^ yeah $$
@@ -795,7 +821,7 @@
 ^^ train $$
 ^^ yeah $$
 ^^ huh $$
-^^  yeah $$
+^^ um yeah $$
 ^^ yeah $$
 ^^ me do not like my hair wash $$
 ^^ no $$
@@ -806,7 +832,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ have my hair wash swim pool $$
-^^   me have my hair wash in the swim pool $$
+^^ like my me have my hair wash in the swim pool $$
 ^^ yeah $$
 ^^ me have my hair wash $$
 ^^ yeah $$
@@ -845,7 +871,7 @@
 ^^ go on your back now $$
 ^^ lie down on you shoulder $$
 ^^ yeah $$
-^^  look Mummy $$
+^^ look look Mummy $$
 ^^ get a fly in our house $$
 ^^ yeah $$
 ^^ no $$
@@ -860,10 +886,10 @@
 ^^ downstairs $$
 ^^ out there $$
 ^^ out the door $$
-^^      my want stay on you shoulder $$
+^^ I my on you I my want stay on you shoulder $$
 ^^ because my like it on you shoulder $$
 ^^ yeah $$
-^^  why you look at Anna for $$
+^^ what why you look at Anna for $$
 ^^ because you mean to be look at me $$
 ^^ me look at you $$
 ^^ why $$
@@ -872,22 +898,24 @@
 ^^ me go on your back $$
 ^^ on you shoulder $$
 ^^ on you shoulder $$
-^^  and with Mummy $$
+^^ xxx $$
+^^ and and with Mummy $$
 ^^ come here $$
 ^^ come here $$
-^^  who draw that $$
-^^  Jeanine a bit $$
+^^ what who draw that $$
+^^ um Jeanine a bit $$
 ^^ why $$
 ^^ teddy $$
 ^^ yeah $$
 ^^ yeah $$
-^^ and  $$
-^^ and  $$
+^^ and xxx $$
+^^ and xxx $$
 ^^ Jeanine drawing television $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ last night when me was tire $$
+^^ xxx $$
 ^^ yeah $$
 ^^ me tire $$
 ^^ me have that one $$
@@ -913,7 +941,7 @@
 ^^ n n $$
 ^^ Mummy $$
 ^^ Nina $$
-^^  look Mummy $$
+^^ look look Mummy $$
 ^^ color in that one $$
 ^^ Dippy_duck $$
 ^^ there Dippy_duck $$
@@ -924,12 +952,13 @@
 ^^ what $$
 ^^ what $$
 ^^ yeah $$
+^^ xxx $$
 ^^ me do not like Sammy_Snake $$
 ^^ no $$
 ^^ my letter $$
 ^^ no $$
-^^ me  Daddy letter $$
-^^  Daddy letter $$
+^^ me xxx Daddy letter $$
+^^ xxx Daddy letter $$
 ^^ that $$
 ^^ two Dippy_duck $$
 ^^ color in all Daddy letter $$
@@ -944,16 +973,17 @@
 ^^ what $$
 ^^ why $$
 ^^ I get one $$
-^^   that what my want yesterday $$
+^^ that what that what my want yesterday $$
 ^^ yeah $$
 ^^ I high on you shoulder $$
 ^^ Anna get a Dippy_duck $$
 ^^ why $$
+^^ xxx $$
 ^^ Anna get a Sammy_Snake $$
 ^^ oh $$
-^^   not like that a $$
+^^ not like not like that a $$
 ^^ yeah $$
-^^  that a Daddy one $$
+^^ not that a Daddy one $$
 ^^ that a baby one $$
 ^^ and a little Robber_Red $$
 ^^ in my book $$
@@ -969,7 +999,7 @@
 ^^ fall off you shoulder $$
 ^^ on you shoulder $$
 ^^ only a little bit $$
-^^  only $$
+^^ only only $$
 ^^ only one more bit $$
 ^^ only one more bit $$
 ^^ you shoulder $$
@@ -978,10 +1008,11 @@
 ^^ me hug you $$
 ^^ me on my stage now $$
 ^^ stage $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ big one $$
-^^ not get any  $$
+^^ not get any xxx $$
 ^^ three bag full $$
 ^^ for the master $$
 ^^ dame $$
@@ -999,21 +1030,22 @@
 ^^ Anna be my doll $$
 ^^ Ruth $$
 ^^ yeah $$
-^^   you want hold doll $$
+^^ you want you want hold doll $$
 ^^ you her Daddy $$
 ^^ yeah $$
 ^^ Mummy $$
 ^^ yeah $$
-^^ you  $$
+^^ you xxx $$
 ^^ you hat on $$
 ^^ me go $$
+^^ xxx $$
 ^^ go go go go go go go $$
 ^^ yeah $$
 ^^ go go go go go go go $$
 ^^ pretend $$
-^^  you be her Mummy $$
+^^ you you be her Mummy $$
 ^^ look after her a little bit $$
-^^  the doll $$
+^^ xxx the doll $$
 ^^ prince want a baby now little bit $$
 ^^ prince build a house $$
 ^^ prince building castle $$
@@ -1063,21 +1095,21 @@
 ^^ stay there $$
 ^^ stay with Anna $$
 ^^ yeah $$
-^^   not come see princess $$
-^^  no $$
+^^ not not not come see princess $$
+^^ no no $$
 ^^ Ruth princess does not like you $$
 ^^ no $$
 ^^ not like you $$
-^^   you stay with Anna $$
+^^ you not you stay with Anna $$
 ^^ Anna $$
-^^ Anna  be my friend $$
+^^ Anna my be my friend $$
 ^^ Anna my friend $$
 ^^ Anna $$
 ^^ huh $$
 ^^ friend $$
-^^   me build a house $$
+^^ I building me build a house $$
 ^^ no $$
-^^  me building castle $$
+^^ me me building castle $$
 ^^ yeah $$
 ^^ no $$
 ^^ this corner too $$
@@ -1090,9 +1122,10 @@
 ^^ yeah $$
 ^^ there door there $$
 ^^ yeah $$
-^^   get two brick to jump over $$
+^^ got two get two brick to jump over $$
 ^^ what $$
 ^^ what you do $$
+^^ xxx $$
 ^^ I put another one there $$
 ^^ what $$
 ^^ we not get another little white one $$
@@ -1100,13 +1133,14 @@
 ^^ now the prince go in there now $$
 ^^ yeah $$
 ^^ huh $$
-^^  no $$
+^^ no no $$
 ^^ this Mummy be a prince $$
 ^^ what $$
 ^^ no $$
 ^^ she fit in there $$
 ^^ yeah $$
 ^^ huh $$
+^^ xxx $$
 ^^ get a big hug $$
 ^^ yeah $$
 ^^ now princess go home $$
@@ -1116,12 +1150,12 @@
 ^^ yeah $$
 ^^ not fit in there $$
 ^^ I go build another one $$
-^^  yes $$
+^^ yes yes $$
 ^^ yeah $$
 ^^ what $$
-^^   not these doll $$
+^^ not not not these doll $$
 ^^ not $$
-^^  not them $$
+^^ not not them $$
 ^^ they go in here $$
 ^^ they go sit down in here $$
 ^^ two door $$
@@ -1133,10 +1167,10 @@
 ^^ no $$
 ^^ sit down each_other $$
 ^^ you get Mummy out $$
-^^   get the Mummy out $$
-^^  the Mummy out $$
-^^  this the Mummy out $$
-^^  that Daddy out $$
+^^ get get get the Mummy out $$
+^^ xxx the Mummy out $$
+^^ this this the Mummy out $$
+^^ that that Daddy out $$
 ^^ that push the Daddy out $$
 ^^ that push the Mummy out $$
 ^^ go and get Daddy out $$
@@ -1162,7 +1196,7 @@
 ^^ not for anybody $$
 ^^ no $$
 ^^ go in $$
-^^ and there   be lots_of little bit $$
+^^ and there be be be lots_of little bit $$
 ^^ yeah $$
 ^^ that one go there $$
 ^^ I go build another castle $$
@@ -1170,16 +1204,18 @@
 ^^ come here $$
 ^^ help me $$
 ^^ help me little bit $$
+^^ xxx $$
 ^^ you help me little bit $$
 ^^ help me little bit $$
+^^ a $$
 ^^ I want them $$
-^^  the wrong way $$
+^^ xxx the wrong way $$
 ^^ that be naughty $$
 ^^ come here $$
 ^^ you help me $$
 ^^ you do some more little brick like me $$
 ^^ yes please $$
-^^  that one $$
+^^ xxx that one $$
 ^^ yeah $$
 ^^ my do along here too $$
 ^^ move princess $$
@@ -1189,14 +1225,14 @@
 ^^ what you do $$
 ^^ why $$
 ^^ what $$
-^^  do not build a house on that one $$
+^^ don't do not build a house on that one $$
 ^^ do not build a house on that $$
 ^^ do not build a house on these $$
-^^ we go  $$
+^^ we go xxx $$
 ^^ silly $$
 ^^ silly $$
 ^^ silly $$
-^^  we go build a house on these bit $$
+^^ we we go build a house on these bit $$
 ^^ silly $$
 ^^ Mummy $$
 ^^ huh $$
@@ -1210,12 +1246,13 @@
 ^^ why $$
 ^^ no $$
 ^^ yeah $$
-^^ the brick  a bit $$
-^^ bite  yeah $$
-^^ bite  $$
+^^ the brick xxx a bit $$
+^^ bite xxx yeah $$
+^^ bite xxx $$
+^^ xxx $$
 ^^ not make lot noise $$
 ^^ yeah $$
-^^   not wake my up again $$
+^^ not wake not wake my up again $$
 ^^ not wake my up when me sleep $$
 ^^ do not wake me up when me sleep no $$
 ^^ sleep $$
@@ -1226,7 +1263,7 @@
 ^^ not do one here $$
 ^^ my not make room $$
 ^^ not for anybody go in $$
-^^  not real $$
+^^ not not real $$
 ^^ it a pretend house $$
 ^^ yeah $$
 ^^ not let anybody in this house $$
@@ -1240,7 +1277,8 @@
 ^^ you do it little one yeah $$
 ^^ want do it little one yeah $$
 ^^ put on top $$
-^^   me build a wall $$
+^^ me me me build a wall $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ I be $$
@@ -1251,7 +1289,7 @@
 ^^ yeah $$
 ^^ huh $$
 ^^ what $$
-^^  what you do $$
+^^ what what you do $$
 ^^ oh $$
 ^^ I go build a big tower you $$
 ^^ yeah $$
@@ -1265,8 +1303,10 @@
 ^^ me want put this right up $$
 ^^ my building my tower $$
 ^^ yeah $$
-^^    my tower break little bit $$
-^^  I go hold it $$
+^^ a $$
+^^ xxx $$
+^^ my tower fall my tower break little bit $$
+^^ I I go hold it $$
 ^^ what $$
 ^^ yeah $$
 ^^ only a little bit good $$
@@ -1279,9 +1319,9 @@
 ^^ yeah $$
 ^^ what $$
 ^^ no $$
-^^  my do not like you anymore $$
+^^ my my do not like you anymore $$
 ^^ you be naughty again $$
-^^  smack me $$
+^^ smack smack me $$
 ^^ my bottom $$
 ^^ I do some bottom $$
 ^^ yeah $$
@@ -1298,19 +1338,19 @@
 ^^ a little bit naughty $$
 ^^ yeah $$
 ^^ what you do $$
-^^  my break my tower now $$
+^^ I my break my tower now $$
 ^^ that my baby $$
-^^  this my baby $$
+^^ that this my baby $$
 ^^ my go build some $$
 ^^ this my baby $$
-^^  on you $$
+^^ xxx on you $$
 ^^ my tower break again $$
 ^^ I do all my hand $$
 ^^ me hold it $$
 ^^ why $$
 ^^ why $$
 ^^ me want hold it too $$
-^^     me build it again $$
+^^ my my build it me build it again $$
 ^^ me build little tower $$
 ^^ what $$
 ^^ I want do it again a bit $$
@@ -1320,7 +1360,7 @@
 ^^ oh $$
 ^^ yeah $$
 ^^ yeah $$
-^^  my friend a bit $$
+^^ xxx my friend a bit $$
 ^^ Anna my friend $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1331,7 +1371,7 @@
 ^^ no more $$
 ^^ and Jeneane my friend too $$
 ^^ and Lauren my friend $$
-^^  sit beside Emma $$
+^^ xxx sit beside Emma $$
 ^^ yeah $$
 ^^ and sit beside Lauren $$
 ^^ yeah $$
@@ -1360,7 +1400,7 @@
 ^^ I go play with these now $$
 ^^ go go go go go go $$
 ^^ you have fromage_frais $$
-^^   you lick ice $$
+^^ you you you lick ice $$
 ^^ you like it $$
 ^^ you eat it all up $$
 ^^ what $$
@@ -1383,7 +1423,7 @@
 ^^ Anna be a shop after finish her book $$
 ^^ Anna be shop after finish her book $$
 ^^ me $$
-^^  look $$
+^^ look look $$
 ^^ that what my like too $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1397,15 +1437,15 @@
 ^^ where the ice $$
 ^^ where you ice $$
 ^^ no $$
-^^   you want to buy it $$
-^^ you want me to  $$
-^^   you want put ice in there $$
+^^ you want you want to buy it $$
+^^ you want me to xxx $$
+^^ you want you want put ice in there $$
 ^^ you buy that $$
 ^^ me drink my juice $$
-^^   me be a shop $$
+^^ me me me be a shop $$
 ^^ me go drink my juice first $$
-^^   when me  finish my do shop $$
+^^ when me when me finish finish my do shop $$
 ^^ there some little bit $$
 ^^ what $$
 ^^ there some more fourteen pound $$
-^^ you need  some more money here $$
+^^ you need some some more money here $$

@@ -20,7 +20,7 @@
 ^^ Warren miss it $$
 ^^ silly Warren $$
 ^^ go $$
-^^  the bridge $$
+^^ xxx the bridge $$
 ^^ no $$
 ^^ Warren make it $$
 ^^ go in the fridge $$
@@ -28,7 +28,7 @@
 ^^ in the fridge $$
 ^^ no $$
 ^^ fridge $$
-^^ oh the car be  get petrol $$
+^^ oh the car be get get petrol $$
 ^^ oh dear dear on the track $$
 ^^ yes $$
 ^^ one two three go $$
@@ -40,6 +40,7 @@
 ^^ in the petrol $$
 ^^ oh it off $$
 ^^ off this $$
+^^ xxx $$
 ^^ the car go $$
 ^^ yeah $$
 ^^ that one $$
@@ -60,6 +61,7 @@
 ^^ go $$
 ^^ Warren bridge $$
 ^^ I get it $$
+^^ xxx $$
 ^^ the road $$
 ^^ oh bump $$
 ^^ make a bump road $$
@@ -86,14 +88,14 @@
 ^^ all day long $$
 ^^ oh the train crash $$
 ^^ oh the train crash $$
-^^  the box $$
+^^ xxx the box $$
 ^^ fire $$
 ^^ engine eat coal $$
 ^^ water $$
 ^^ yes $$
 ^^ Henry have a drink $$
 ^^ drink my cup $$
-^^ this go on  $$
+^^ this go on xxx $$
 ^^ fire $$
 ^^ Henry pull $$
 ^^ that one fit on $$
@@ -104,6 +106,7 @@
 ^^ that $$
 ^^ I find another car $$
 ^^ I find another car $$
+^^ xxx $$
 ^^ find another car $$
 ^^ find another car $$
 ^^ that one go on there $$
@@ -116,10 +119,11 @@
 ^^ too big $$
 ^^ that one $$
 ^^ go that one there $$
+^^ xxx $$
 ^^ pull it again $$
 ^^ car bump $$
 ^^ oh dear dear $$
-^^ oh    dear $$
+^^ oh dear dear dear dear $$
 ^^ Henry pull $$
 ^^ oh dear $$
 ^^ Henry fall down $$
@@ -133,6 +137,7 @@
 ^^ put Henry in $$
 ^^ get Henry in $$
 ^^ Henry be go in $$
+^^ xxx $$
 ^^ get more $$
 ^^ get more $$
 ^^ Henry be go on the pull $$
@@ -176,9 +181,10 @@
 ^^ all the toy $$
 ^^ pick more $$
 ^^ more more more $$
+^^ xxx $$
 ^^ Warren pick it up $$
-^^ lift this  $$
-^^ that  $$
+^^ lift this xxx $$
+^^ that xxx $$
 ^^ I tip it $$
 ^^ put it down $$
 ^^ put it down $$
@@ -196,7 +202,7 @@
 ^^ work Henry $$
 ^^ there $$
 ^^ and there be tender $$
-^^  there be tender there $$
+^^ there's there be tender there $$
 ^^ Gordon cross $$
 ^^ look in the book $$
 ^^ look in book to see Gordon $$
@@ -216,8 +222,9 @@
 ^^ there $$
 ^^ no $$
 ^^ he be cross $$
+^^ xxx $$
 ^^ Gordon cross $$
-^^ he be  in the pond $$
+^^ he be in in the pond $$
 ^^ Thomas $$
 ^^ I find Henry the raindrop $$
 ^^ find Henry the raindrop $$
@@ -272,6 +279,7 @@
 ^^ oh there be Duke there $$
 ^^ this be doll $$
 ^^ this be doll $$
+^^ xxx $$
 ^^ lion sleep in the car $$
 ^^ lion sleep in the car $$
 ^^ fish go in the car $$
@@ -307,7 +315,8 @@
 ^^ that one $$
 ^^ that one $$
 ^^ that one $$
-^^ the lion  $$
+^^ a $$
+^^ the lion xxx $$
 ^^ a kiss $$
 ^^ horrid kiss $$
 ^^ make a tower $$
@@ -343,6 +352,7 @@
 ^^ that one $$
 ^^ that one go on $$
 ^^ turn again $$
+^^ xxx $$
 ^^ that one go on $$
 ^^ that one go on $$
 ^^ that one go on $$
@@ -352,7 +362,7 @@
 ^^ train $$
 ^^ there be a carrot $$
 ^^ strawberry $$
-^^  in there $$
+^^ xxx in there $$
 ^^ put it away $$
 ^^ put away $$
 ^^ put away $$
@@ -381,6 +391,7 @@
 ^^ nana $$
 ^^ yes $$
 ^^ yeah $$
+^^ xxx $$
 ^^ money $$
 ^^ nose run $$
 ^^ Daddy wipe it $$
@@ -402,6 +413,7 @@
 ^^ chip $$
 ^^ chip $$
 ^^ another chip $$
+^^ mm $$
 ^^ cat $$
 ^^ bean $$
 ^^ apple $$
@@ -445,6 +457,7 @@
 ^^ hoop $$
 ^^ I get one $$
 ^^ oh $$
+^^ xxx $$
 ^^ it be stick $$
 ^^ apple $$
 ^^ all this food $$
@@ -454,11 +467,13 @@
 ^^ chicken $$
 ^^ tomato $$
 ^^ more toy $$
+^^ xxx $$
 ^^ these away $$
-^^  there  $$
-^^  put  away $$
+^^ xxx there xxx $$
+^^ xxx $$
+^^ xxx put xxx away $$
 ^^ a little rucksack $$
-^^  go $$
+^^ xxx go $$
 ^^ Warren that $$
 ^^ stick $$
 ^^ hello $$
@@ -473,16 +488,18 @@
 ^^ be silly $$
 ^^ it stick $$
 ^^ Henry truck break down $$
+^^ xxx $$
 ^^ put away $$
 ^^ get on Mummy $$
 ^^ Mummy $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ I climb on it $$
 ^^ no climb on it again $$
 ^^ the dog $$
 ^^ there $$
 ^^ just there $$
-^^   just go there $$
+^^ it go just go there $$
 ^^ that one go just there $$
 ^^ red color $$
 ^^ yeah $$
@@ -490,14 +507,14 @@
 ^^ no $$
 ^^ that must go just there $$
 ^^ and that one go there $$
-^^ and that one go  just there $$
+^^ and that one go just just there $$
 ^^ puppy head $$
 ^^ look at that puppy $$
 ^^ look at that puppy $$
 ^^ eye $$
 ^^ there $$
 ^^ just there $$
-^^ look at that  $$
+^^ look at that xxx $$
 ^^ just go there $$
 ^^ this there $$
 ^^ look at that there $$
@@ -513,9 +530,9 @@
 ^^ that one go there $$
 ^^ look at that dog be back $$
 ^^ look at that back $$
-^^  just there $$
+^^ um just there $$
 ^^ there $$
-^^ look at  there $$
+^^ look at xxx there $$
 ^^ that must go there $$
 ^^ there $$
 ^^ there $$
@@ -523,7 +540,7 @@
 ^^ try that here $$
 ^^ try it here $$
 ^^ Warren try $$
-^^  there $$
+^^ xxx there $$
 ^^ just $$
 ^^ go there $$
 ^^ put it away $$
@@ -552,14 +569,16 @@
 ^^ I see Mummy $$
 ^^ chew that one $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
-^^  just there $$
+^^ just just there $$
 ^^ there $$
-^^  that one $$
+^^ xxx $$
+^^ um that one $$
 ^^ no $$
 ^^ that must go just $$
 ^^ stick it on there $$
-^^  cat be go there $$
+^^ um cat be go there $$
 ^^ there it be $$
 ^^ there $$
 ^^ there one miss $$
@@ -569,13 +588,14 @@
 ^^ in the window $$
 ^^ yeah $$
 ^^ a door there $$
-^^  a cat ear $$
+^^ um a cat ear $$
 ^^ that must go there $$
-^^  a brush $$
+^^ xxx $$
+^^ um a brush $$
 ^^ there $$
-^^  there $$
+^^ um there $$
 ^^ that must go there $$
-^^  go there $$
+^^ xxx go there $$
 ^^ leg go there $$
 ^^ look $$
 ^^ that be pink $$
@@ -610,7 +630,7 @@
 ^^ another cat $$
 ^^ no $$
 ^^ that must go there $$
-^^  look at that go there $$
+^^ um look at that go there $$
 ^^ put away now $$
 ^^ another one now $$
 ^^ another one out $$
@@ -645,7 +665,7 @@
 ^^ there two bird $$
 ^^ ow $$
 ^^ read James $$
-^^   James the red engine $$
+^^ James red James the red engine $$
 ^^ yeah $$
 ^^ sad and he happy $$
 ^^ he sad $$
@@ -695,6 +715,7 @@
 ^^ peeppeep $$
 ^^ Percy stop $$
 ^^ Thomas stop $$
+^^ xxx $$
 ^^ do another one now $$
 ^^ read the red engine $$
 ^^ and the blue red engine $$
@@ -717,6 +738,7 @@
 ^^ Thomas $$
 ^^ no $$
 ^^ it be run $$
+^^ xxx $$
 ^^ the page be stick $$
 ^^ the page be $$
 ^^ Fat_Controller $$
@@ -725,7 +747,7 @@
 ^^ make the side $$
 ^^ make the side Henry $$
 ^^ make Henry tunnel $$
-^^   make the corner $$
+^^ making the make the corner $$
 ^^ make the edge $$
 ^^ make the edge $$
 ^^ all_gone $$
@@ -751,6 +773,7 @@
 ^^ where the two one $$
 ^^ where the two one $$
 ^^ man man man $$
+^^ xxx $$
 ^^ another one $$
 ^^ those $$
 ^^ another green man $$
@@ -759,14 +782,14 @@
 ^^ train trailer $$
 ^^ make Henry $$
 ^^ make a tower $$
-^^  tiger $$
+^^ xxx tiger $$
 ^^ two man $$
 ^^ two man $$
 ^^ that get out $$
-^^ other one  $$
+^^ other one xxx $$
 ^^ horse $$
 ^^ train stick on the brick $$
-^^   stop $$
+^^ stop stop stop $$
 ^^ Warren open it $$
 ^^ open it $$
 ^^ a sun $$
@@ -789,6 +812,7 @@
 ^^ look at that be come off $$
 ^^ I do it again $$
 ^^ smile $$
+^^ xxx $$
 ^^ see his tum $$
 ^^ I see his tum $$
 ^^ see his tum $$
@@ -807,6 +831,7 @@
 ^^ that one $$
 ^^ that one $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ out $$
 ^^ this fit on $$
@@ -815,6 +840,7 @@
 ^^ look at that one go on $$
 ^^ that might be that corner that $$
 ^^ sometimes go on that upstairs $$
+^^ xxx $$
 ^^ that one be go upstairs $$
 ^^ that one go on there $$
 ^^ two one $$
@@ -849,15 +875,15 @@
 ^^ get the person $$
 ^^ get off $$
 ^^ get it off $$
-^^   on the top $$
+^^ on the on the top $$
 ^^ on the top $$
 ^^ other man be do on the floor $$
 ^^ man man man $$
 ^^ man man man $$
-^^  big one go on the top $$
+^^ one's big one go on the top $$
 ^^ this go on $$
 ^^ look that be do $$
-^^  do Henry $$
+^^ xxx do Henry $$
 ^^ two tower $$
 ^^ find another tower $$
 ^^ tiger go on $$
@@ -866,7 +892,7 @@
 ^^ tiger go on $$
 ^^ down $$
 ^^ tiger go on that $$
-^^ oh my  down again $$
+^^ oh my xxx down again $$
 ^^ yeah $$
 ^^ where be train baby tiger $$
 ^^ man go in the train $$
@@ -878,21 +904,21 @@
 ^^ stick $$
 ^^ move the cow $$
 ^^ move it $$
-^^  drive $$
+^^ xxx drive $$
 ^^ take elephant out $$
 ^^ couple the truck $$
 ^^ Warren push $$
 ^^ stick $$
 ^^ it be stick in the cow $$
 ^^ want them lie down $$
-^^ baby horse be  $$
+^^ baby horse be xxx $$
 ^^ pooppoop $$
 ^^ drive the baby horse $$
-^^ Mummy  $$
+^^ Mummy xxx $$
 ^^ Mummy do it again $$
 ^^ do it again $$
 ^^ brumm $$
-^^ this crash the  $$
+^^ this crash the xxx $$
 ^^ Warren have it $$
 ^^ Henry puff out $$
 ^^ train stick $$
@@ -908,7 +934,7 @@
 ^^ go out baby cow $$
 ^^ go out the train $$
 ^^ go out $$
-^^ the  go out $$
+^^ the xxx go out $$
 ^^ very cross $$
 ^^ that cross $$
 ^^ drive the baby horse $$
@@ -926,22 +952,22 @@
 ^^ no no $$
 ^^ man go $$
 ^^ the man go in $$
-^^  there $$
+^^ xxx there $$
 ^^ elephant be go in there $$
 ^^ elephant go in $$
 ^^ no $$
 ^^ my do it $$
 ^^ no $$
 ^^ my do it $$
-^^  just $$
-^^ oh    dear $$
+^^ just just $$
+^^ oh dear dear dear dear $$
 ^^ have a watch $$
 ^^ go $$
 ^^ escape $$
 ^^ no $$
 ^^ my want push the trailer on $$
 ^^ no $$
-^^  other end $$
+^^ xxx other end $$
 ^^ Warren do it $$
 ^^ under Mummy fridge $$
 ^^ no $$
@@ -950,7 +976,7 @@
 ^^ get two man $$
 ^^ I get two man $$
 ^^ on the train $$
-^^ in the side  $$
+^^ in the side xxx $$
 ^^ there it stick on the fridge $$
 ^^ man go on $$
 ^^ put another one in there $$
@@ -968,6 +994,7 @@
 ^^ want the wall back in there $$
 ^^ Mummy put it back in $$
 ^^ Henry want to get out $$
+^^ xxx $$
 ^^ you bring naughty frog $$
 ^^ Henry want to get out $$
 ^^ Henry want get out $$
@@ -984,6 +1011,7 @@
 ^^ want a little bit $$
 ^^ want a little bit $$
 ^^ want a little bit $$
+^^ xxx $$
 ^^ oh $$
 ^^ bang my head $$
 ^^ ow $$
@@ -1046,7 +1074,8 @@
 ^^ no $$
 ^^ person get in $$
 ^^ they get in $$
-^^  in tender $$
+^^ xxx $$
+^^ xxx in tender $$
 ^^ person get in $$
 ^^ person get in $$
 ^^ no $$
@@ -1058,9 +1087,10 @@
 ^^ dear dear $$
 ^^ oh dear $$
 ^^ oh dear $$
-^^  make coach $$
+^^ making make coach $$
+^^ xxx $$
 ^^ back in the tunnel $$
-^^  rain $$
+^^ xxx rain $$
 ^^ it rain $$
 ^^ in the rain $$
 ^^ back in the rain $$
@@ -1073,6 +1103,7 @@
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ station be go $$
 ^^ that station be go there $$
 ^^ station $$
@@ -1086,14 +1117,15 @@
 ^^ oh $$
 ^^ the paint chip off $$
 ^^ Mummy make a tower $$
-^^   Warren make a tower $$
+^^ Warren make Warren make a tower $$
 ^^ no $$
 ^^ Henry $$
 ^^ no $$
 ^^ stay there $$
-^^ Henry train  $$
+^^ Henry train xxx $$
 ^^ oh dear $$
-^^ oh  dear $$
+^^ oh dear dear $$
+^^ xxx $$
 ^^ choochoo $$
 ^^ trouser off $$
 ^^ oh dear dear $$
@@ -1106,7 +1138,7 @@
 ^^ where be Henry tend $$
 ^^ truck $$
 ^^ coal and water $$
-^^     put Henry tunnel $$
+^^ put Henry's tunnel in put Henry tunnel $$
 ^^ more truck $$
 ^^ more train $$
 ^^ more train $$
@@ -1115,8 +1147,10 @@
 ^^ more train $$
 ^^ Warren have train $$
 ^^ brumm $$
-^^   dear $$
+^^ xxx $$
+^^ dear dear dear $$
 ^^ coach fall $$
+^^ xxx $$
 ^^ throw Henry tunnel out this way $$
 ^^ oh $$
 ^^ want that one there $$
@@ -1134,7 +1168,7 @@
 ^^ get that bus $$
 ^^ yes $$
 ^^ play with this $$
-^^ play with  puzzle $$
+^^ play with xxx puzzle $$
 ^^ play with big puzzle $$
 ^^ engine puzzle $$
 ^^ I want engine puzzle $$
@@ -1144,12 +1178,14 @@
 ^^ no $$
 ^^ fire $$
 ^^ find it $$
+^^ xxx $$
 ^^ oh there be the puzzle $$
 ^^ look $$
 ^^ look $$
 ^^ lady $$
 ^^ be gentle $$
 ^^ put in house $$
+^^ xxx $$
 ^^ that one go there $$
 ^^ oh there it be $$
 ^^ no $$
@@ -1161,7 +1197,7 @@
 ^^ that one go there $$
 ^^ go at the top $$
 ^^ there it be $$
-^^  go $$
+^^ xxx go $$
 ^^ where that one $$
 ^^ siren $$
 ^^ neenaw neenaw $$
@@ -1188,6 +1224,7 @@
 ^^ oh there it be the wheel $$
 ^^ there the wheel door $$
 ^^ there a door $$
+^^ xxx $$
 ^^ foot $$
 ^^ trouser $$
 ^^ blue $$
@@ -1206,7 +1243,7 @@
 ^^ this arm off $$
 ^^ pull it $$
 ^^ this arm off $$
-^^   get his pants off $$
+^^ get his get his pants off $$
 ^^ get his $$
 ^^ yeah $$
 ^^ yes $$
@@ -1235,10 +1272,11 @@
 ^^ car fit in there $$
 ^^ there be another car $$
 ^^ there be another car $$
-^^  man $$
+^^ xxx $$
+^^ xxx man $$
 ^^ where be another man $$
 ^^ here be the monkey $$
-^^  the monkey $$
+^^ xxx the monkey $$
 ^^ find the monkey $$
 ^^ that one $$
 ^^ oh that one $$
@@ -1247,7 +1285,7 @@
 ^^ oh look $$
 ^^ there be a man in the track $$
 ^^ yes $$
-^^  go in there $$
+^^ xxx go in there $$
 ^^ oh there be a elephant $$
 ^^ there be a elephant $$
 ^^ in the car $$
@@ -1266,7 +1304,7 @@
 ^^ find another car $$
 ^^ how many have you get $$
 ^^ one three four five car $$
-^^   get another man $$
+^^ find a get another man $$
 ^^ another man $$
 ^^ man man man man $$
 ^^ oh there be another one $$
@@ -1294,6 +1332,7 @@
 ^^ car car car $$
 ^^ oh dear $$
 ^^ this fall down $$
+^^ xxx $$
 ^^ look at that tower $$
 ^^ find another $$
 ^^ I want another man $$
@@ -1305,9 +1344,11 @@
 ^^ that one go on there in the tower $$
 ^^ yes $$
 ^^ two man talk $$
+^^ xxx $$
 ^^ that one go on there $$
 ^^ there the grass $$
 ^^ that go on there $$
+^^ xxx $$
 ^^ go on top $$
 ^^ put it on another $$
 ^^ happy two birth $$
@@ -1321,16 +1362,17 @@
 ^^ fit on $$
 ^^ yes $$
 ^^ man man man man man $$
+^^ xxx $$
 ^^ that one $$
 ^^ that one $$
 ^^ that one $$
 ^^ penguin on now $$
-^^ oh     that one on there $$
-^^ penguin go  on $$
+^^ oh that one that one that one on there $$
+^^ penguin go on on $$
 ^^ there three $$
 ^^ oh dear $$
 ^^ dear dear $$
-^^  man $$
+^^ xxx man $$
 ^^ all_gone $$
 ^^ all_gone $$
 ^^ do it again $$
@@ -1339,6 +1381,7 @@
 ^^ that one go on $$
 ^^ that one go on the trailer $$
 ^^ that one go there $$
+^^ xxx $$
 ^^ fall over $$
 ^^ go over the baby cow $$
 ^^ a Mummy cow $$
@@ -1355,6 +1398,7 @@
 ^^ remember Mummy $$
 ^^ remember $$
 ^^ remember $$
+^^ xxx $$
 ^^ Mummy make $$
 ^^ Mummy make $$
 ^^ look at that one $$
@@ -1368,7 +1412,7 @@
 ^^ Warren make that $$
 ^^ Warren make a tower $$
 ^^ Warren have it $$
-^^   a big bash $$
+^^ a big a big bash $$
 ^^ break it up $$
 ^^ want Mummy break it up $$
 ^^ oh train be come off again $$
@@ -1376,7 +1420,7 @@
 ^^ put the man in there $$
 ^^ Warren put it back on $$
 ^^ Warren put it back on $$
-^^ Warren  $$
+^^ Warren xxx $$
 ^^ that go there $$
 ^^ make a face $$
 ^^ make a face $$
@@ -1403,11 +1447,13 @@
 ^^ that one go on there $$
 ^^ yes $$
 ^^ that go on there $$
+^^ xxx $$
 ^^ cow go there $$
 ^^ the cab $$
 ^^ go that one $$
 ^^ over that thing $$
-^^  off $$
+^^ xxx $$
+^^ xxx off $$
 ^^ do it again $$
 ^^ that go there $$
 ^^ where my dome $$
@@ -1422,5 +1468,6 @@
 ^^ look this the wrong way $$
 ^^ there $$
 ^^ go that way $$
+^^ xxx $$
 ^^ oh there it be $$
 ^^ the right way $$

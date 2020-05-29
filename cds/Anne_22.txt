@@ -49,6 +49,7 @@
 ^^ teddy $$
 ^^ what be it $$
 ^^ a teddy $$
+^^ www $$
 ^^ who be that $$
 ^^ doll $$
 ^^ oh $$
@@ -66,6 +67,7 @@
 ^^ hello $$
 ^^ hello snake $$
 ^^ hello $$
+^^ www $$
 ^^ be it a boat $$
 ^^ oh dear $$
 ^^ will not fit $$
@@ -87,8 +89,8 @@
 ^^ yeah $$
 ^^ that be right $$
 ^^ a sheep say baa $$
-^^  sheep  $$
-^^  box $$
+^^ xxx sheep xxx $$
+^^ xxx box $$
 ^^ be you put them away $$
 ^^ okay $$
 ^^ have you have enough of those have you $$
@@ -103,13 +105,17 @@
 ^^ pardon $$
 ^^ strawberry $$
 ^^ be there some strawberry in there $$
+^^ mm $$
 ^^ I like strawberry $$
 ^^ have you get a strawberry for the snake $$
 ^^ be you go to give him one then $$
 ^^ no $$
+^^ mm $$
+^^ mm $$
 ^^ eat it $$
 ^^ eat that $$
 ^^ what be that then $$
+^^ www $$
 ^^ what be this then $$
 ^^ what be he eat $$
 ^^ be it go in his tum $$
@@ -122,16 +128,20 @@
 ^^ find something else $$
 ^^ the car will not fit in will it $$
 ^^ bang $$
+^^ www $$
 ^^ what do you do with that $$
 ^^ what do you do with it $$
 ^^ mouth $$
 ^^ in mouth $$
+^^ xxx $$
 ^^ more tooth $$
 ^^ be this for your tooth $$
 ^^ Anne $$
 ^^ be this one for you tooth $$
 ^^ that one for your tooth $$
 ^^ be you go to clean teddy tooth $$
+^^ www $$
+^^ www $$
 ^^ be you put them away again $$
 ^^ what be it $$
 ^^ do you know $$
@@ -139,6 +149,7 @@
 ^^ you put them all away in the bag $$
 ^^ thank_you $$
 ^^ drop it $$
+^^ www $$
 ^^ what else $$
 ^^ have I get to find something else new $$
 ^^ oh dear $$
@@ -151,6 +162,8 @@
 ^^ oh Lady_Muck $$
 ^^ you get them out then $$
 ^^ wow $$
+^^ xxx $$
+^^ xxx $$
 ^^ wow $$
 ^^ what be you do $$
 ^^ be you make a big mess $$
@@ -162,8 +175,10 @@
 ^^ whoops $$
 ^^ what a mess $$
 ^^ what a mess $$
+^^ www $$
 ^^ be that on your toe $$
 ^^ be it stick to your toe $$
+^^ www $$
 ^^ pardon $$
 ^^ they be all on the floor $$
 ^^ what be the matter $$
@@ -197,6 +212,7 @@
 ^^ be he $$
 ^^ bite $$
 ^^ fight $$
+^^ www $$
 ^^ pardon $$
 ^^ what be the matter $$
 ^^ I be come to get your toe $$
@@ -241,6 +257,7 @@
 ^^ okay $$
 ^^ you say no a minute ago $$
 ^^ you $$
+^^ xxx $$
 ^^ what be the matter Anne $$
 ^^ what do you want $$
 ^^ what do you want $$
@@ -257,6 +274,7 @@
 ^^ no $$
 ^^ you can have a biscuit if you want one $$
 ^^ will you like a biscuit $$
+^^ xxx $$
 ^^ here $$
 ^^ no $$
 ^^ okay then $$
@@ -358,12 +376,15 @@
 ^^ Caroline might like a currant $$
 ^^ no $$
 ^^ all right then $$
+^^ xxx $$
+^^ um $$
 ^^ be shy and cuddle again $$
 ^^ who else do you think will go to the pub then $$
 ^^ Anne $$
 ^^ shall we go in the car or shall we walk $$
 ^^ what $$
 ^^ and the ball $$
+^^ www $$
 ^^ oh I do not want any more thank_you $$
 ^^ oh_my_goodness $$
 ^^ you stand on Mummy tum and she be not ready to catch you $$
@@ -412,6 +433,7 @@
 ^^ like this $$
 ^^ slide it in $$
 ^^ have to put the back so we do not break them $$
+^^ www $$
 ^^ nothing in there $$
 ^^ they be all empty I be afraid but they have get picture on them $$
 ^^ be you go to put that one inside $$
@@ -421,7 +443,10 @@
 ^^ that be pussy dinner $$
 ^^ I do not think they fit inside each_other $$
 ^^ oh I say $$
+^^ xxx $$
+^^ www $$
 ^^ cake cake $$
+^^ www $$
 ^^ what be $$
 ^^ what be these $$
 ^^ do you know what they be $$
@@ -430,22 +455,25 @@
 ^^ more blue $$
 ^^ more blue $$
 ^^ ball $$
+^^ www $$
 ^^ oh steady $$
 ^^ careful $$
 ^^ where be the cat $$
+^^ xxx $$
+^^ www $$
 ^^ more $$
 ^^ more what $$
 ^^ cat cat cat $$
 ^^ they be not bag $$
 ^^ they be box $$
 ^^ what be this $$
-^^  I think it be a shirt $$
+^^ it's I think it be a shirt $$
 ^^ whose shirt do you think it be $$
 ^^ baby be $$
 ^^ egg $$
 ^^ be that pant $$
 ^^ no $$
-^^ I think  it be a bit like a bib $$
+^^ I think it it be a bit like a bib $$
 ^^ what else have she get $$
 ^^ what be this $$
 ^^ dress $$
@@ -476,6 +504,8 @@
 ^^ it be a hat Anne $$
 ^^ trouser $$
 ^^ that be right $$
+^^ www $$
+^^ www $$
 ^^ stick $$
 ^^ do you want Mummy to do it $$
 ^^ okay $$
@@ -495,6 +525,7 @@
 ^^ do you want to take them off $$
 ^^ clothes off $$
 ^^ it be stick be it $$
+^^ www $$
 ^^ do you want to try and do it $$
 ^^ go go go go go go go go go go go $$
 ^^ okay $$
@@ -504,24 +535,31 @@
 ^^ you can just put her hand in I think $$
 ^^ pardon $$
 ^^ hand $$
-^^  there $$
+^^ xxx there $$
+^^ www $$
 ^^ oh $$
 ^^ you near fall over $$
 ^^ go go go go go go go go $$
 ^^ what be that $$
 ^^ it be a orange $$
 ^^ sit down doll $$
+^^ www $$
 ^^ the button $$
 ^^ it do up like that look $$
-^^  baby $$
+^^ xxx baby $$
+^^ www $$
+^^ www $$
+^^ www $$
 ^^ do you want to know where your juice be Anne $$
-^^ oh you have  $$
+^^ oh you have xxx $$
 ^^ whoops $$
 ^^ they have all fall out $$
 ^^ what be that $$
 ^^ it be baby biscuit $$
+^^ www $$
 ^^ oh no $$
 ^^ what be the matter $$
+^^ www $$
 ^^ whoops $$
 ^^ I bet you could put some shop in the bottom of your push $$
 ^^ like we do when we go shop look $$
@@ -540,6 +578,7 @@
 ^^ whoops $$
 ^^ poor doll $$
 ^^ a pants $$
+^^ www $$
 ^^ yes $$
 ^^ it be a hat $$
 ^^ hooray $$
@@ -555,6 +594,7 @@
 ^^ you do it then $$
 ^^ instead of me take over $$
 ^^ go go go go go go go go go go go go go $$
+^^ xxx $$
 ^^ whoops $$
 ^^ there go a egg $$
 ^^ whoops $$
@@ -566,7 +606,7 @@
 ^^ whose juice be that $$
 ^^ Anne $$
 ^^ Anne $$
-^^  whose drink be this $$
+^^ whose whose drink be this $$
 ^^ whose drink be this $$
 ^^ Caroline $$
 ^^ Caroline $$
@@ -575,6 +615,8 @@
 ^^ what be you do $$
 ^^ it be stick be it $$
 ^^ open it $$
+^^ www $$
+^^ www $$
 ^^ do you want me to put it on her head $$
 ^^ shall we call this baby Jill $$
 ^^ Jill $$
@@ -596,12 +638,13 @@
 ^^ whose shoe be they $$
 ^^ whose shoe be they $$
 ^^ whose shoe be they $$
-^^ and  who be she $$
-^^  what be her name $$
+^^ and who who be she $$
+^^ what what be her name $$
 ^^ do not we say it be Jill $$
 ^^ so whose shoe be they $$
 ^^ good girl $$
 ^^ shoe $$
+^^ www $$
 ^^ James go to nursery with you $$
 ^^ there we go $$
 ^^ she be get one shoe on $$
@@ -610,10 +653,12 @@
 ^^ very trend $$
 ^^ hm $$
 ^^ very old perhaps $$
+^^ www $$
 ^^ there $$
 ^^ it be over there $$
 ^^ go go go go go go go go go $$
 ^^ oh $$
+^^ xxx $$
 ^^ be she tire $$
 ^^ there you go Jill $$
 ^^ that be it $$
@@ -635,7 +680,7 @@
 ^^ lose it $$
 ^^ yeah $$
 ^^ let us have a look and see if we can find her one shall we $$
-^^  I think it might be in your box $$
+^^ I I think it might be in your box $$
 ^^ we do not want to get everything out $$
 ^^ oh $$
 ^^ there be a bib for her $$
@@ -648,13 +693,15 @@
 ^^ let us get that horrible nose $$
 ^^ thank_you $$
 ^^ I have get it $$
+^^ www $$
 ^^ go on $$
-^^  do Jill nose need wipe $$
+^^ does do Jill nose need wipe $$
 ^^ what be the matter $$
 ^^ good now be it $$
 ^^ oh $$
 ^^ thank_you $$
 ^^ you have do Mummy $$
+^^ www $$
 ^^ be there more in the box $$
 ^^ one more then $$
 ^^ oh there be lot there $$
@@ -673,7 +720,7 @@
 ^^ whose nose be you wipe $$
 ^^ and who be she $$
 ^^ what be her name $$
-^^  what be her name $$
+^^ who what be her name $$
 ^^ have you forget $$
 ^^ oh $$
 ^^ what be she get $$
@@ -701,6 +748,8 @@
 ^^ okay $$
 ^^ it be go $$
 ^^ one more $$
+^^ www $$
+^^ www $$
 ^^ more bin $$
 ^^ shall I put it in the bin $$
 ^^ thank_you $$
@@ -711,6 +760,7 @@
 ^^ shall we have a look at the animal in this other box $$
 ^^ yes $$
 ^^ let us have a look what be in there look $$
+^^ www $$
 ^^ be you go to tip it $$
 ^^ oh_my_goodness $$
 ^^ what a_lot_of animal $$
@@ -726,13 +776,13 @@
 ^^ make a house for the animal or we could make $$
 ^^ oh look $$
 ^^ we could make them a $$
-^^ make a  field look for the animal to go in $$
-^^  bit of field $$
+^^ make a er field look for the animal to go in $$
+^^ xxx bit of field $$
 ^^ that be it $$
 ^^ oh love $$
 ^^ whoops $$
 ^^ there we go $$
-^^ oh who be this go to go  in the zoo $$
+^^ oh who be this go to go in in the zoo $$
 ^^ who be that $$
 ^^ tiger $$
 ^^ can he stand there look $$
@@ -746,8 +796,9 @@
 ^^ whoops $$
 ^^ can the penguin stand there $$
 ^^ stand there penguin $$
+^^ xxx $$
 ^^ sit there $$
-^^  be it $$
+^^ xxx be it $$
 ^^ pardon $$
 ^^ who sit there $$
 ^^ tum sit there $$
@@ -785,11 +836,11 @@
 ^^ else you will break our step $$
 ^^ oh $$
 ^^ be you put them away $$
-^^ have you  of the animal have you $$
+^^ have you xxx of the animal have you $$
 ^^ byebye animal $$
 ^^ byebye giraffe $$
 ^^ this be like the story $$
-^^ you know the story   where the  $$
+^^ you know the story where the where the xxx $$
 ^^ pardon say the giraffe $$
 ^^ what be it like up there $$
 ^^ pardon say the giraffe $$
@@ -797,13 +848,14 @@
 ^^ and he jump on the tiger be back $$
 ^^ and he say what be it like up there $$
 ^^ pardon say the giraffe $$
-^^ and    he jump on the elephant be back $$
+^^ and he jumps on he jump on the elephant be back $$
 ^^ pardon say the giraffe $$
-^^ so he jump    on the giraffe nose $$
+^^ so he jump on the elephant on the giraffe nose $$
 ^^ he say what be it like up there $$
 ^^ and giraffe say very very nice but I be go to sneeze $$
 ^^ achoo $$
 ^^ and the giraffe say what be it like down there to the frog $$
+^^ www $$
 ^^ ah $$
 ^^ oh you be do a very good job of tidy up $$
 ^^ oh $$
@@ -814,16 +866,19 @@
 ^^ yeah $$
 ^^ let us take it off $$
 ^^ I be feed up of look at it $$
+^^ eh $$
 ^^ now if you have a wee $$
 ^^ if you want a wee we will have to get your pot $$
 ^^ go go go go go go go go go go go $$
 ^^ what do you think $$
 ^^ whoops $$
+^^ www $$
 ^^ do you fall over $$
 ^^ oh dear $$
 ^^ shall Mummy go and find the pot $$
 ^^ that be the lid to this $$
 ^^ see $$
+^^ www $$
 ^^ do you want to sit on your pot $$
 ^^ no $$
 ^^ shall Mummy get another nappie then $$

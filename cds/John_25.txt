@@ -1,5 +1,6 @@
 ^^ yeah I will get that later for you $$
 ^^ yeah $$
+^^ www $$
 ^^ do you want to look at your book John $$
 ^^ there we be $$
 ^^ there be a selection $$
@@ -53,14 +54,17 @@
 ^^ be it fun $$
 ^^ it tickle $$
 ^^ it be like go to the dentist $$
-^^ where be  the nuts John $$
+^^ where be the the nuts John $$
 ^^ yeah later $$
+^^ www $$
 ^^ no I do not want to do that thank_you $$
 ^^ that be for drill in the piece of wood wherever your piece of wood be $$
 ^^ where be it $$
 ^^ have we put it $$
 ^^ there it be $$
 ^^ look $$
+^^ xxx $$
+^^ a $$
 ^^ that one $$
 ^^ let John do it $$
 ^^ good $$
@@ -93,6 +97,7 @@
 ^^ there be one $$
 ^^ what can we do with this $$
 ^^ good $$
+^^ www $$
 ^^ we have lose the hammer fortunate $$
 ^^ tell you what $$
 ^^ tell you what we will do $$
@@ -125,6 +130,7 @@
 ^^ very good $$
 ^^ go go go go go go go go go $$
 ^^ just offer one $$
+^^ www $$
 ^^ go go go go go go go go go $$
 ^^ be they nice $$
 ^^ will not will not will not will not will not will not will not will not will not $$
@@ -164,8 +170,8 @@
 ^^ will you like a doll to play with $$
 ^^ let oh $$
 ^^ everything be so immediate with him $$
-^^  later $$
-^^  well I can go and fetch something upstairs that be like a doll $$
+^^ um later $$
+^^ um well I can go and fetch something upstairs that be like a doll $$
 ^^ shall I do that $$
 ^^ right you wait here $$
 ^^ will you wait here $$
@@ -203,6 +209,7 @@
 ^^ we do not real have a doll do we $$
 ^^ no John this one $$
 ^^ yes later pop $$
+^^ www $$
 ^^ yeah $$
 ^^ we will get it later $$
 ^^ can you come and show me how to do this John $$
@@ -246,13 +253,13 @@
 ^^ it will come off $$
 ^^ John look $$
 ^^ look $$
-^^  this be a big hole $$
+^^ this this be a big hole $$
 ^^ and this be a small hole $$
 ^^ and this be a big big nail $$
 ^^ so it do not fit in the small hole $$
 ^^ it fit in the big one $$
 ^^ okay $$
-^^ this small hole it be for  the drill $$
+^^ this small hole it be for the the drill $$
 ^^ when you have get the drill go you can drill right through $$
 ^^ okay $$
 ^^ so the screw go in the big hole $$
@@ -317,8 +324,10 @@
 ^^ very good $$
 ^^ she want to bang it on the saucepan $$
 ^^ the book call noise $$
+^^ www $$
 ^^ look $$
 ^^ naughty dog knock the cup off the table $$
+^^ www $$
 ^^ all these cat John $$
 ^^ they be all make noise $$
 ^^ mhm $$
@@ -326,22 +335,27 @@
 ^^ what can you see on the next page $$
 ^^ oh the door slam $$
 ^^ bang $$
+^^ www $$
 ^^ what be on the next page $$
 ^^ it be a baby $$
+^^ www $$
 ^^ it look like he be have fun $$
 ^^ that be right $$
 ^^ and who be hide behind that chair $$
 ^^ who be that $$
 ^^ mhm $$
+^^ www $$
 ^^ it be very wet here $$
 ^^ all these deep puddle $$
 ^^ do you remember stand in puddle in your Wellington boot $$
 ^^ what be on the next page $$
 ^^ baby be go to bed now $$
+^^ www $$
 ^^ he be still sleep in a cot $$
 ^^ and what be he get on his cot here $$
 ^^ what be that $$
 ^^ it be a little yellow bird $$
+^^ www $$
 ^^ look the little girl be sleep $$
 ^^ and the baby be asleep with a blanket $$
 ^^ and even the teddy bear be asleep $$
@@ -356,6 +370,7 @@
 ^^ look in that pile for the concrete mix $$
 ^^ John $$
 ^^ that be the biup $$
+^^ www $$
 ^^ that be right $$
 ^^ it be call the big concrete lorry $$
 ^^ oh it be a orange lorry $$
@@ -445,17 +460,19 @@
 ^^ not for you $$
 ^^ yes $$
 ^^ biscuit for a cat $$
+^^ www $$
 ^^ be it fish $$
 ^^ can I see $$
-^^  no   have a look again $$
-^^  what be in there $$
+^^ um no have a have a look again $$
+^^ what what be in there $$
 ^^ that be right $$
 ^^ orange $$
 ^^ just be gentle with the packet John $$
+^^ www $$
 ^^ what do you think be in the bottle $$
 ^^ ahhah $$
 ^^ it be milk in the bottle yes $$
-^^  well it could be $$
+^^ could well it could be $$
 ^^ yeah okay $$
 ^^ mhm $$
 ^^ be you go to give me the cake please $$
@@ -474,9 +491,10 @@
 ^^ it be a strawberry $$
 ^^ it be my milk $$
 ^^ how about fill up your shop basket now and put all the thing back in the basket $$
+^^ www $$
 ^^ chip and strawberry $$
 ^^ that be a very good balance diet John $$
-^^  it be by your hand $$
+^^ um it be by your hand $$
 ^^ thanks $$
 ^^ can I save it for later $$
 ^^ I think it might melt then might not it if I save it until later $$
@@ -562,7 +580,7 @@
 ^^ mhm $$
 ^^ it be stick be it $$
 ^^ well let us try and get her in from this way instead shall we $$
-^^ can you   do this $$
+^^ can you do it do this $$
 ^^ good $$
 ^^ that be right $$
 ^^ now put the doll in $$
@@ -640,8 +658,8 @@
 ^^ let us put his arm through these bit $$
 ^^ yeah $$
 ^^ he be go to sleep $$
-^^ how about if you do  the velcro bite up at the back $$
-^^ just like your  train shoe be not they $$
+^^ how about if you do the the velcro bite up at the back $$
+^^ just like your er train shoe be not they $$
 ^^ that be it $$
 ^^ and now $$
 ^^ trouser $$
@@ -661,7 +679,7 @@
 ^^ well do John $$
 ^^ very please about something be not you $$
 ^^ John $$
-^^ shall we put all these  food thing away in the basket $$
+^^ shall we put all these food food thing away in the basket $$
 ^^ John will you help me $$
 ^^ put the egg away in the basket $$
 ^^ where be John go $$
@@ -679,6 +697,7 @@
 ^^ and what be that $$
 ^^ there be load of thing here John $$
 ^^ look at all these thing here behind me $$
+^^ www $$
 ^^ well there be nothing to hear apart from you $$
 ^^ can I have your bottle now John $$
 ^^ I will give you a cup later if you need a drink $$
@@ -704,6 +723,7 @@
 ^^ good $$
 ^^ yeah $$
 ^^ that be all right $$
+^^ www $$
 ^^ very good John $$
 ^^ yes $$
 ^^ just one more $$
@@ -725,6 +745,7 @@
 ^^ that be right $$
 ^^ and this boy little brother sit on the $$
 ^^ that be right $$
+^^ www $$
 ^^ what be the boy do now $$
 ^^ the toilet yes $$
 ^^ and he be get a seat $$
@@ -783,6 +804,7 @@
 ^^ oh $$
 ^^ oh $$
 ^^ thank_you $$
+^^ mm $$
 ^^ what be that $$
 ^^ be that nice $$
 ^^ oh that be good $$
@@ -867,7 +889,7 @@
 ^^ you be very gentle with cat $$
 ^^ that be right $$
 ^^ the baby in $$
-^^  what be the baby bed call $$
+^^ what's what be the baby bed call $$
 ^^ very good $$
 ^^ we have put yours away now have not we $$
 ^^ you have get a real bed $$
@@ -886,15 +908,16 @@
 ^^ yes it be break $$
 ^^ you walk backwards $$
 ^^ can you do it again $$
+^^ xxx $$
 ^^ that be right $$
 ^^ very good $$
 ^^ it be a s $$
 ^^ what other letter can we see $$
-^^  can you see a o $$
+^^ um can you see a o $$
 ^^ where be the o $$
 ^^ very good $$
 ^^ can you see more o $$
-^^ can you see any o on  this word $$
+^^ can you see any o on this this word $$
 ^^ very good $$
 ^^ mhm $$
 ^^ you tell me what be happen then $$
@@ -922,6 +945,7 @@
 ^^ be it hot egg $$
 ^^ go and show Anna the hot egg $$
 ^^ a hot egg $$
+^^ mm $$
 ^^ no it be not Anna $$
 ^^ excuse me $$
 ^^ John $$
@@ -957,7 +981,7 @@
 ^^ yes very good $$
 ^^ these be leg $$
 ^^ John $$
-^^  no that be not accept $$
+^^ that's no that be not accept $$
 ^^ you be not to hit $$
 ^^ you be not to hit okay $$
 ^^ I know you get excite sometimes $$
@@ -1002,6 +1026,7 @@
 ^^ oh there be something that go with your Duplo $$
 ^^ there be a little man this morning $$
 ^^ where have he go $$
+^^ www $$
 ^^ come on John $$
 ^^ John $$
 ^^ go go go go go go go go go $$
@@ -1009,6 +1034,7 @@
 ^^ okay $$
 ^^ leave that out for dinner $$
 ^^ come on $$
+^^ xxx $$
 ^^ do you want to come and have your apple juice in the other room $$
 ^^ John what can you hear upstairs $$
 ^^ what do you hear $$
@@ -1031,6 +1057,7 @@
 ^^ oh good $$
 ^^ blue bag $$
 ^^ shall we put that in the car as_well $$
+^^ xxx $$
 ^^ want me to put it in the train $$
 ^^ put it in the train $$
 ^^ lid $$
@@ -1196,7 +1223,7 @@
 ^^ it be stick $$
 ^^ shall I get it out $$
 ^^ yeah $$
-^^  let me see $$
+^^ um let me see $$
 ^^ okay $$
 ^^ hold on $$
 ^^ there we go $$
@@ -1216,6 +1243,7 @@
 ^^ oh $$
 ^^ chip $$
 ^^ chip and strawberry $$
+^^ mm $$
 ^^ I do not know $$
 ^^ you find the ice $$
 ^^ it be in there be not it $$
@@ -1230,12 +1258,13 @@
 ^^ you want me to eat it $$
 ^^ oh right $$
 ^^ eat it $$
-^^  delicious $$
+^^ mm delicious $$
 ^^ save the rest for later $$
 ^^ well there be a packet of biscuit there $$
 ^^ biscuit for Mummy $$
 ^^ biscuit for Mummy $$
 ^^ thank_you $$
+^^ mm $$
 ^^ what about a biscuit for John $$
 ^^ okay $$
 ^^ can you see a s $$
@@ -1254,6 +1283,7 @@
 ^^ fine $$
 ^^ be that nice $$
 ^^ oh good $$
+^^ www $$
 ^^ John if you be eat can you sit in your blue chair $$
 ^^ can you sit down and eat it $$
 ^^ yeah $$
@@ -1285,7 +1315,7 @@
 ^^ do you want me to pick it up now then $$
 ^^ all the others $$
 ^^ that be the thing $$
-^^ eat the  last three John $$
+^^ eat the last last three John $$
 ^^ just sit down and eat the last three $$
 ^^ okay $$
 ^^ no thanks $$
@@ -1321,15 +1351,16 @@
 ^^ mhm $$
 ^^ come and show me $$
 ^^ John do you want to sit on my lap and look at the seesaw $$
+^^ www $$
 ^^ have you get more tooth come through $$
 ^^ be that why you be bite thing again $$
-^^   we will look through this magazine $$
+^^ we'll look we will look through this magazine $$
 ^^ oh just like your bike $$
 ^^ yes $$
 ^^ that be right $$
 ^^ two person inside the house $$
 ^^ yes $$
-^^  big tractor and a little tractor $$
+^^ big big tractor and a little tractor $$
 ^^ and what be this girl do here $$
 ^^ that be right $$
 ^^ she be on a trampoline $$
@@ -1448,6 +1479,7 @@
 ^^ b for beetle $$
 ^^ can you see any o John $$
 ^^ yes $$
+^^ www $$
 ^^ you be not go to shut up until the box come in $$
 ^^ mhm I know the box be in the car $$
 ^^ John come on $$
@@ -1456,7 +1488,7 @@
 ^^ how about if we play with this box $$
 ^^ I will get it later $$
 ^^ come on $$
-^^ shall we  join them all together like we do yesterday $$
+^^ shall we join join them all together like we do yesterday $$
 ^^ the man car $$
 ^^ what shall we put on this one $$
 ^^ just pull it $$
@@ -1519,7 +1551,7 @@
 ^^ the monkey $$
 ^^ try him in there $$
 ^^ there you be $$
-^^  sit him up $$
+^^ sit sit him up $$
 ^^ mhm $$
 ^^ do you want the one off the trunk $$
 ^^ you can fit them all on there can not you $$
@@ -1531,7 +1563,7 @@
 ^^ it be not quite time yet John $$
 ^^ yeah it will come later $$
 ^^ it be yeah $$
-^^  well there be one there $$
+^^ um well there be one there $$
 ^^ yeah that be right $$
 ^^ a big s $$
 ^^ more s $$
@@ -1591,6 +1623,7 @@
 ^^ John that be not what the peddle be for $$
 ^^ come on $$
 ^^ off $$
+^^ eh eh $$
 ^^ John $$
 ^^ no no no $$
 ^^ can you come away from the peddle $$
@@ -1622,6 +1655,8 @@
 ^^ what do you do with cushion if you be cross $$
 ^^ do you remember $$
 ^^ we hit a cushion $$
+^^ eh eh eh $$
+^^ www $$
 ^^ John $$
 ^^ that be not good $$
 ^^ to throw thing $$
@@ -1673,6 +1708,7 @@
 ^^ you have not get enough finger have you for that $$
 ^^ no thank_you $$
 ^^ yeah just for John $$
+^^ www $$
 ^^ s $$
 ^^ yes there be a s $$
 ^^ John $$
@@ -1711,7 +1747,7 @@
 ^^ it be a what $$
 ^^ that be right $$
 ^^ bread there $$
-^^  candle $$
+^^ um candle $$
 ^^ well actual it do look a bit like a boat $$
 ^^ it be a candle hold $$
 ^^ and there be the concrete mix $$
@@ -1798,6 +1834,7 @@
 ^^ very good $$
 ^^ there be the Daddy lion $$
 ^^ can not I sit here John for a minute $$
+^^ www $$
 ^^ you give the milk to the doll then $$
 ^^ yeah $$
 ^^ bottom $$
@@ -1827,7 +1864,8 @@
 ^^ you push it $$
 ^^ whoops $$
 ^^ well I think you eat the sausage last time $$
-^^ put   the egg in here $$
+^^ www $$
+^^ put them in the egg in here $$
 ^^ find some more egg John $$
 ^^ grape $$
 ^^ be that nice $$
@@ -1847,7 +1885,7 @@
 ^^ can you put that one in the egg box John $$
 ^^ catch what $$
 ^^ pardon $$
-^^  no what be it $$
+^^ um no what be it $$
 ^^ look care $$
 ^^ that be right $$
 ^^ yeah $$
@@ -1867,6 +1905,7 @@
 ^^ in here $$
 ^^ no $$
 ^^ chocolate $$
+^^ mm $$
 ^^ come on $$
 ^^ the box be in here now $$
 ^^ I will be back in a minute $$
@@ -1915,7 +1954,7 @@
 ^^ okay $$
 ^^ there $$
 ^^ she be all nice and warm now $$
-^^ oh that be  for the sausage be not it $$
+^^ oh that be um for the sausage be not it $$
 ^^ do it go in like that $$
 ^^ it be a hot $$
 ^^ that be right $$
@@ -2043,7 +2082,7 @@
 ^^ oh be she asleep again $$
 ^^ oh thank_you $$
 ^^ shall I have some too $$
-^^  that be nice $$
+^^ mm that be nice $$
 ^^ the sun yeah $$
 ^^ be you hide it $$
 ^^ oh for me $$
@@ -2057,9 +2096,10 @@
 ^^ will he like some milk $$
 ^^ the basket $$
 ^^ there you go $$
+^^ mm $$
 ^^ you like apple $$
 ^^ be that for me $$
-^^  that be nice apple $$
+^^ mm that be nice apple $$
 ^^ that be a bit squash that be not it $$
 ^^ it be a sausage $$
 ^^ what do sausage do $$
@@ -2069,6 +2109,7 @@
 ^^ mhm $$
 ^^ yeah they look nice cake do not they $$
 ^^ hello $$
+^^ www $$
 ^^ green one $$
 ^^ train $$
 ^^ be you sure $$

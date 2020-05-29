@@ -4,13 +4,15 @@
 ^^ oh there be a big one $$
 ^^ it be a baby one $$
 ^^ round and round $$
+^^ xxx $$
 ^^ another one $$
 ^^ yeah $$
 ^^ have some corn $$
 ^^ I go on the table $$
 ^^ have some apple $$
-^^ I  wash $$
-^^  some  the wash $$
+^^ I xxx wash $$
+^^ xxx some xxx the wash $$
+^^ xxx $$
 ^^ Daddy $$
 ^^ Daddy $$
 ^^ hello $$
@@ -19,17 +21,21 @@
 ^^ play $$
 ^^ play $$
 ^^ play $$
-^^  play $$
+^^ xxx play $$
 ^^ the play $$
+^^ xxx $$
 ^^ no John $$
 ^^ animal $$
 ^^ make animal $$
+^^ xxx $$
 ^^ not my finger $$
 ^^ finger $$
-^^  a snake $$
-^^  a curl wurly snake $$
-^^  curl wurly snake $$
-^^  a snake $$
+^^ xxx $$
+^^ xxx a snake $$
+^^ xxx a curl wurly snake $$
+^^ xxx curl wurly snake $$
+^^ xxx $$
+^^ xxx a snake $$
 ^^ curl wurly snake $$
 ^^ curl wurly animal $$
 ^^ another one $$
@@ -37,8 +43,10 @@
 ^^ snake $$
 ^^ and a snake $$
 ^^ a curl wurly whirl snake $$
+^^ xxx $$
 ^^ a spider $$
 ^^ a curl wurly drill $$
+^^ xxx $$
 ^^ three $$
 ^^ four $$
 ^^ five $$
@@ -50,15 +58,17 @@
 ^^ another spider $$
 ^^ snail $$
 ^^ yeah $$
+^^ xxx $$
 ^^ a car $$
 ^^ a church $$
-^^  one two $$
+^^ xxx one two $$
 ^^ a snake $$
 ^^ a snake $$
 ^^ a snake $$
+^^ xxx $$
 ^^ church $$
 ^^ a big one $$
-^^   a big snake $$
+^^ a big a big snake $$
 ^^ a big snake $$
 ^^ a big snake $$
 ^^ big one $$
@@ -68,7 +78,7 @@
 ^^ snake be very tire $$
 ^^ no $$
 ^^ bottle milk the snake $$
-^^  tire $$
+^^ xxx tire $$
 ^^ snake $$
 ^^ a big one $$
 ^^ eat it $$
@@ -77,9 +87,12 @@
 ^^ look $$
 ^^ big one $$
 ^^ a church $$
+^^ xxx $$
 ^^ a big one snake $$
-^^ a  $$
-^^  sleep $$
+^^ a xxx $$
+^^ xxx $$
+^^ xxx sleep $$
+^^ xxx $$
 ^^ tanker $$
 ^^ tanker $$
 ^^ tanker $$
@@ -89,6 +102,7 @@
 ^^ tanker $$
 ^^ make a snake $$
 ^^ make another one $$
+^^ xxx $$
 ^^ a curl wurly snake $$
 ^^ a curl wurly snake $$
 ^^ curl wurly snake $$
@@ -97,8 +111,9 @@
 ^^ no $$
 ^^ it be not $$
 ^^ a fish $$
+^^ a $$
 ^^ snake $$
-^^  a snake $$
+^^ xxx a snake $$
 ^^ curl wurly snake $$
 ^^ look $$
 ^^ big $$
@@ -109,6 +124,7 @@
 ^^ where be the snail $$
 ^^ all_gone $$
 ^^ it all_gone $$
+^^ xxx $$
 ^^ a snake $$
 ^^ a bird $$
 ^^ a dolphin $$
@@ -121,27 +137,34 @@
 ^^ ugh $$
 ^^ tongue $$
 ^^ make a snake $$
-^^  there some spider in house $$
+^^ xxx $$
+^^ some there some spider in house $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^   there some beetle $$
+^^ find some there some beetle $$
+^^ xxx $$
 ^^ I can not reach it $$
 ^^ I can not reach $$
 ^^ another one $$
 ^^ wiggle worm $$
 ^^ a book $$
-^^ I  big one $$
+^^ I xxx big one $$
 ^^ a big one $$
+^^ a $$
 ^^ ho oy $$
 ^^ ho oy $$
-^^  down $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx down $$
 ^^ down $$
-^^  not on me $$
+^^ xxx $$
+^^ xxx not on me $$
 ^^ the corner $$
-^^  want to go in there $$
+^^ wanna want to go in there $$
 ^^ want to go in there $$
 ^^ I drive in that side $$
 ^^ this way $$
@@ -165,15 +188,17 @@
 ^^ have it $$
 ^^ big one $$
 ^^ I too heavy $$
-^^ I too  $$
+^^ I too xxx $$
 ^^ I too heavy $$
 ^^ one $$
+^^ xxx $$
 ^^ yeah $$
 ^^ hello $$
 ^^ hello $$
 ^^ where Anna $$
 ^^ Anna $$
 ^^ Anna $$
+^^ xxx $$
 ^^ in the car $$
 ^^ money go in this way $$
 ^^ put it in the car $$
@@ -183,7 +208,7 @@
 ^^ yeah $$
 ^^ a steer wheel $$
 ^^ steer wheel $$
-^^  door $$
+^^ xxx door $$
 ^^ close the door $$
 ^^ and that one $$
 ^^ it be break $$
@@ -200,7 +225,7 @@
 ^^ want a ice $$
 ^^ oh $$
 ^^ I do not see $$
-^^  this egg $$
+^^ xxx this egg $$
 ^^ I can not $$
 ^^ hello $$
 ^^ under there $$
@@ -247,6 +272,7 @@
 ^^ cake $$
 ^^ yeah $$
 ^^ I can $$
+^^ xxx $$
 ^^ orange $$
 ^^ all_gone $$
 ^^ Anna go home $$
@@ -255,7 +281,7 @@
 ^^ doll $$
 ^^ doll $$
 ^^ I throw it to Mummy $$
-^^  this doll $$
+^^ xxx this doll $$
 ^^ a cow $$
 ^^ a bull $$
 ^^ a big one $$
@@ -264,6 +290,7 @@
 ^^ a man $$
 ^^ a man $$
 ^^ a man $$
+^^ xxx $$
 ^^ the blue brick $$
 ^^ yeah $$
 ^^ this bit $$
@@ -274,14 +301,16 @@
 ^^ a man $$
 ^^ the top $$
 ^^ where be the top $$
+^^ xxx $$
 ^^ and a penguin $$
 ^^ fit on $$
 ^^ oh $$
 ^^ a monkey fit on $$
-^^  hippo there $$
+^^ xxx hippo there $$
 ^^ here $$
 ^^ my Duplo $$
-^^ I  my Duplo $$
+^^ xxx $$
+^^ I xxx my Duplo $$
 ^^ get mine $$
 ^^ brumm $$
 ^^ top on the carriage $$
@@ -291,8 +320,9 @@
 ^^ oh $$
 ^^ sit $$
 ^^ I get it $$
-^^  doll $$
+^^ xxx doll $$
 ^^ doll $$
+^^ xxx $$
 ^^ horse $$
 ^^ horse $$
 ^^ horse $$
@@ -315,7 +345,7 @@
 ^^ a bird $$
 ^^ a little bird and a big one $$
 ^^ a big one $$
-^^  one $$
+^^ xxx one $$
 ^^ find horse $$
 ^^ make a farm $$
 ^^ make a farm $$
@@ -356,11 +386,13 @@
 ^^ it be not $$
 ^^ find a door $$
 ^^ a church $$
+^^ xxx $$
 ^^ church $$
 ^^ that be farm $$
 ^^ and the cow $$
-^^ and little  $$
+^^ and little xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh look $$
 ^^ heavy $$
 ^^ look $$
@@ -375,11 +407,12 @@
 ^^ it be a giant $$
 ^^ I put them in $$
 ^^ fish need some water $$
-^^  go paint $$
+^^ xxx go paint $$
 ^^ I like paint $$
+^^ xxx $$
 ^^ I find crayon $$
 ^^ look $$
-^^  one $$
+^^ xxx one $$
 ^^ look $$
 ^^ my hand $$
 ^^ hand one $$
@@ -387,14 +420,16 @@
 ^^ drip drip drip on the bath $$
 ^^ oh $$
 ^^ on foot $$
+^^ xxx $$
 ^^ yes $$
 ^^ there be a lot on the carpet $$
 ^^ it was on the carpet $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ fall down on the floor $$
 ^^ sleep $$
-^^ I  $$
+^^ I xxx $$
 ^^ get out in the bed $$
+^^ xxx $$
 ^^ Humpty_Dumpty $$
 ^^ look $$
 ^^ look $$
@@ -418,11 +453,12 @@
 ^^ I see some fish $$
 ^^ and shark $$
 ^^ and shark $$
-^^ see  $$
+^^ see xxx $$
 ^^ and shark $$
 ^^ I see shark $$
 ^^ yesterday $$
 ^^ and they go down $$
+^^ xxx $$
 ^^ look $$
 ^^ look $$
 ^^ look $$
@@ -430,18 +466,21 @@
 ^^ I can not see another one $$
 ^^ oh yes $$
 ^^ it be another one $$
-^^  get wet $$
+^^ xxx $$
+^^ xxx get wet $$
 ^^ big one $$
 ^^ a big blue one $$
-^^ and  there be my car $$
-^^  chip $$
+^^ and there's there be my car $$
+^^ xxx chip $$
 ^^ have some more chip $$
-^^  chip $$
+^^ xxx chip $$
 ^^ yeah $$
-^^ get   some more apple $$
+^^ xxx $$
+^^ get some um some more apple $$
 ^^ I like a apple $$
 ^^ lunch $$
 ^^ no $$
+^^ mm $$
 ^^ mhm $$
 ^^ all again $$
 ^^ thank_you $$
@@ -460,6 +499,7 @@
 ^^ tomato $$
 ^^ yesterday $$
 ^^ in the park $$
+^^ xxx $$
 ^^ I look for sticker $$
 ^^ nice $$
 ^^ no $$
@@ -468,7 +508,7 @@
 ^^ it be not red $$
 ^^ red $$
 ^^ it be not red my car $$
-^^  the car $$
+^^ xxx the car $$
 ^^ this one quite green $$
 ^^ no $$
 ^^ this one quite red $$
@@ -480,11 +520,13 @@
 ^^ look $$
 ^^ I get this other one $$
 ^^ quite big $$
+^^ xxx $$
 ^^ two $$
 ^^ it be yellow $$
 ^^ and pedal $$
 ^^ like that $$
 ^^ yeah $$
+^^ mm $$
 ^^ I eat my apple $$
 ^^ no $$
 ^^ oh $$
@@ -493,11 +535,13 @@
 ^^ find it $$
 ^^ no $$
 ^^ I just too cold $$
+^^ xxx $$
 ^^ Humpty_Dumpty have a fall $$
+^^ xxx $$
 ^^ oh $$
 ^^ I can not $$
 ^^ I want to lift you up $$
-^^  on there $$
+^^ xxx on there $$
 ^^ not on there $$
 ^^ eat a car $$
 ^^ yes $$
@@ -515,6 +559,7 @@
 ^^ I a monkey $$
 ^^ I a monkey $$
 ^^ yeah $$
+^^ xxx $$
 ^^ cow $$
 ^^ pig $$
 ^^ sheep $$
@@ -528,9 +573,10 @@
 ^^ hen $$
 ^^ oh $$
 ^^ go $$
+^^ xxx $$
 ^^ where doll $$
 ^^ I do the bottle $$
-^^ I  $$
+^^ I xxx $$
 ^^ dig $$
 ^^ open $$
 ^^ I can not $$
@@ -553,11 +599,12 @@
 ^^ ow $$
 ^^ my finger $$
 ^^ stick on that $$
+^^ xxx $$
 ^^ look $$
 ^^ this my telescope $$
 ^^ telescope $$
 ^^ this my trumpet $$
-^^ make a  $$
+^^ make a xxx $$
 ^^ yes $$
 ^^ now I get it $$
 ^^ now I get it $$
@@ -567,6 +614,8 @@
 ^^ Mummy $$
 ^^ doll $$
 ^^ look $$
+^^ xxx $$
+^^ mm $$
 ^^ it be drive the car $$
 ^^ mhm $$
 ^^ mhm $$
@@ -582,12 +631,14 @@
 ^^ he be give the apple $$
 ^^ he be give the apple $$
 ^^ this my house $$
+^^ xxx $$
 ^^ this one $$
 ^^ there $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yellow $$
+^^ xxx $$
 ^^ doll $$
 ^^ doll $$
 ^^ me $$
@@ -595,7 +646,7 @@
 ^^ me $$
 ^^ me $$
 ^^ no $$
-^^  that $$
+^^ xxx that $$
 ^^ that be the telescope too $$
 ^^ you put it back on $$
 ^^ put it back on $$
@@ -622,10 +673,11 @@
 ^^ Mummy do it the train $$
 ^^ I want that on there $$
 ^^ yeah $$
-^^ you can  $$
+^^ you can xxx $$
 ^^ another truck $$
 ^^ another truck $$
 ^^ come out $$
+^^ xxx $$
 ^^ look $$
 ^^ the horse $$
 ^^ on that $$
@@ -637,8 +689,10 @@
 ^^ do it $$
 ^^ problem $$
 ^^ problem in here $$
+^^ a $$
 ^^ on there $$
 ^^ Mummy mend it $$
+^^ xxx $$
 ^^ go on there $$
 ^^ train on there $$
 ^^ it be go down $$
@@ -663,9 +717,11 @@
 ^^ I like go the train $$
 ^^ maybe here $$
 ^^ whoops $$
+^^ xxx $$
 ^^ there $$
-^^ man  here $$
+^^ man xxx here $$
 ^^ man here $$
+^^ xxx $$
 ^^ that go now $$
 ^^ hold on $$
 ^^ hold on $$
@@ -693,12 +749,15 @@
 ^^ orange $$
 ^^ orange $$
 ^^ mhm $$
-^^ I  $$
-^^  yeah $$
+^^ I xxx $$
+^^ xxx $$
+^^ xxx yeah $$
 ^^ yes $$
-^^ I  $$
+^^ I xxx $$
 ^^ sit on this $$
+^^ xxx $$
 ^^ there be d $$
+^^ xxx $$
 ^^ I know $$
 ^^ I know $$
 ^^ I know $$
@@ -714,8 +773,8 @@
 ^^ look $$
 ^^ I carry it in the door $$
 ^^ in Nicole bed $$
-^^ water   in the bath $$
-^^   and John in the bath $$
+^^ water in the in the bath $$
+^^ and me and John in the bath $$
 ^^ and Daddy clear up $$
 ^^ I be in London $$
 ^^ no $$
@@ -728,7 +787,9 @@
 ^^ where be my toy $$
 ^^ where be Anna $$
 ^^ there be Anna $$
+^^ xxx $$
 ^^ go find it $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ look $$
 ^^ look $$
@@ -737,12 +798,14 @@
 ^^ and a red church $$
 ^^ and a $$
 ^^ think it be a castle $$
-^^   it be a church $$
+^^ that's a it be a church $$
 ^^ I think that be a church $$
 ^^ not a castle $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ a fork $$
+^^ xxx $$
 ^^ find it $$
+^^ xxx $$
 ^^ no $$
 ^^ Granny bring that $$
 ^^ mhm $$
@@ -761,7 +824,7 @@
 ^^ this one be quite clean $$
 ^^ horse $$
 ^^ Anna $$
-^^  black $$
+^^ xxx black $$
 ^^ oh $$
 ^^ that be a pillow $$
 ^^ that be my drink $$
@@ -786,6 +849,7 @@
 ^^ mhm $$
 ^^ in the toy $$
 ^^ in $$
+^^ xxx $$
 ^^ tomorrow $$
 ^^ tomorrow $$
 ^^ I be very very busy $$
@@ -802,7 +866,7 @@
 ^^ this be coffee $$
 ^^ yeah $$
 ^^ yeah $$
-^^   this be lemon $$
+^^ this is this be lemon $$
 ^^ this be quite yellow $$
 ^^ Grandpa $$
 ^^ close the curtain $$
@@ -810,6 +874,7 @@
 ^^ close curtain $$
 ^^ now it be dark $$
 ^^ now it be dark $$
+^^ xxx $$
 ^^ I can not $$
 ^^ I can not $$
 ^^ this be that $$
@@ -832,6 +897,7 @@
 ^^ where be he go $$
 ^^ snake $$
 ^^ sss $$
+^^ xxx $$
 ^^ monkey hand $$
 ^^ he be eat a banana $$
 ^^ frog $$
@@ -846,13 +912,13 @@
 ^^ a Humpty_Dumpty $$
 ^^ I draw a Humpty_Dumpty $$
 ^^ yeah $$
-^^ big and tall  and $$
+^^ big and tall and and $$
 ^^ Benjamin $$
 ^^ you $$
 ^^ yeah $$
 ^^ you $$
 ^^ you $$
-^^   you $$
+^^ you you you $$
 ^^ no $$
 ^^ yeah $$
 ^^ come back to sleep $$
@@ -865,11 +931,12 @@
 ^^ want some more $$
 ^^ want some more $$
 ^^ want some more $$
-^^   I like orange $$
+^^ I like I like orange $$
 ^^ I like $$
 ^^ it be tomato $$
 ^^ it be like a apple $$
 ^^ no $$
+^^ xxx $$
 ^^ find it two week $$
 ^^ take this out $$
 ^^ help me $$
@@ -879,8 +946,8 @@
 ^^ pull $$
 ^^ pull it off $$
 ^^ stay on $$
-^^  this be  $$
-^^ this be  on $$
+^^ um this be xxx $$
+^^ this be xxx on $$
 ^^ this be off $$
 ^^ oh $$
 ^^ it be my boat $$
@@ -895,16 +962,18 @@
 ^^ k $$
 ^^ k $$
 ^^ and the tomato $$
+^^ xxx $$
 ^^ fast asleep $$
-^^  stick $$
+^^ xxx stick $$
 ^^ go on $$
+^^ xxx $$
 ^^ take $$
 ^^ how $$
 ^^ I very very busy $$
 ^^ it be another one $$
 ^^ another one in $$
 ^^ red $$
-^^ shall we  $$
+^^ shall we xxx $$
 ^^ little tomato $$
 ^^ and this be sharp $$
 ^^ yeah $$
@@ -917,13 +986,15 @@
 ^^ let us go now $$
 ^^ let us go $$
 ^^ let us go $$
-^^  car $$
+^^ um car $$
 ^^ Grandpa $$
 ^^ Grandpa $$
+^^ xxx $$
 ^^ oh no $$
 ^^ yes $$
 ^^ buy some more $$
 ^^ it be go $$
+^^ xxx $$
 ^^ peach $$
 ^^ where be the sausage $$
 ^^ where be the sausage go $$
@@ -935,6 +1006,7 @@
 ^^ Grandpa come back soon $$
 ^^ very soon $$
 ^^ this be like a clock $$
+^^ xxx $$
 ^^ maybe $$
 ^^ yeah $$
 ^^ find it $$
@@ -986,6 +1058,8 @@
 ^^ no $$
 ^^ mhm $$
 ^^ then this $$
+^^ xxx $$
+^^ xxx $$
 ^^ baby John $$
 ^^ baby get spider on it $$
 ^^ yeah $$
@@ -1020,7 +1094,7 @@
 ^^ and this $$
 ^^ and pant $$
 ^^ and this $$
-^^  ready $$
+^^ xxx ready $$
 ^^ and play $$
 ^^ then dress her $$
 ^^ yeah $$
@@ -1045,10 +1119,11 @@
 ^^ off $$
 ^^ what be inside $$
 ^^ look $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ train $$
+^^ xxx $$
 ^^ water $$
-^^   no $$
+^^ no no no $$
 ^^ look in the box $$
 ^^ no $$
 ^^ put one $$
@@ -1067,7 +1142,10 @@
 ^^ yeah $$
 ^^ I $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ I very thirst $$
+^^ xxx $$
 ^^ there be Anna $$
 ^^ Anna $$
 ^^ monster $$
@@ -1075,6 +1153,7 @@
 ^^ monster $$
 ^^ drink $$
 ^^ there you go $$
+^^ xxx $$
 ^^ one $$
 ^^ another one two $$
 ^^ I like more $$

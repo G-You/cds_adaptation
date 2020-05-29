@@ -1,0 +1,4596 @@
+^^ radish $$
+^^ radish $$
+^^ no $$
+^^ no $$
+^^ one $$
+^^ can not find it $$
+^^ no $$
+^^ no $$
+^^ sit $$
+^^ sit down $$
+^^ in train $$
+^^ I be sit in train $$
+^^ train $$
+^^ biscuit there $$
+^^ biscuit $$
+^^ biscuit $$
+^^ no $$
+^^ in train $$
+^^ choochoo $$
+^^ come in $$
+^^ you sit down train $$
+^^ you come and see $$
+^^ yeah $$
+^^ Andy $$
+^^ choochoo $$
+^^ yeah $$
+^^ onion $$
+^^ onion $$
+^^ onion $$
+^^ radish $$
+^^ no $$
+^^ yes $$
+^^ carrot $$
+^^ train $$
+^^ Mummy $$
+^^ sit down $$
+^^ yeah $$
+^^ yeah $$
+^^ good there $$
+^^ choochoo $$
+^^ ouch $$
+^^ hot $$
+^^ you sit down $$
+^^ biscuit $$
+^^ get out $$
+^^ Andy $$
+^^ xxx $$
+^^ hello $$
+^^ cry $$
+^^ out $$
+^^ yeah $$
+^^ biscuit $$
+^^ bang $$
+^^ Mummy do it $$
+^^ Mummy do it $$
+^^ Mummy $$
+^^ Mummy do it $$
+^^ ready $$
+^^ no $$
+^^ chocolate $$
+^^ whoops $$
+^^ all fall down $$
+^^ oh $$
+^^ yeah $$
+^^ yeah $$
+^^ um chocolate biscuit $$
+^^ yeah $$
+^^ Mummy $$
+^^ mhm $$
+^^ mhm $$
+^^ two $$
+^^ mhm $$
+^^ yeah $$
+^^ sit $$
+^^ yeah $$
+^^ xxx $$
+^^ yeah $$
+^^ a kettle $$
+^^ no $$
+^^ biscuit $$
+^^ milk $$
+^^ from milk $$
+^^ yeah $$
+^^ I hold it $$
+^^ in there $$
+^^ nothing $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ turn it on $$
+^^ yeah $$
+^^ know how you open it $$
+^^ no work $$
+^^ no work $$
+^^ no work $$
+^^ oh $$
+^^ rhino $$
+^^ nothing $$
+^^ no $$
+^^ Miss book $$
+^^ here $$
+^^ tiny one $$
+^^ I be sit down $$
+^^ yeah $$
+^^ no $$
+^^ no $$
+^^ little one $$
+^^ little $$
+^^ yeah $$
+^^ this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ two $$
+^^ five $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ rolly $$
+^^ yes $$
+^^ thank_you $$
+^^ a do one $$
+^^ Gail do it $$
+^^ oh $$
+^^ get in $$
+^^ Little_Miss_Magic $$
+^^ mhm $$
+^^ yes $$
+^^ trick $$
+^^ Abra_ca_dabra_cottage $$
+^^ yeah $$
+^^ xxx $$
+^^ rabbit $$
+^^ Andy $$
+^^ Gail wear it $$
+^^ Gail wear it $$
+^^ oh $$
+^^ sleeve up $$
+^^ no $$
+^^ oh $$
+^^ teddy $$
+^^ Olwin $$
+^^ no $$
+^^ do not want it $$
+^^ Olwin $$
+^^ Olwin $$
+^^ no $$
+^^ cardigan $$
+^^ Andy $$
+^^ Andy wear it $$
+^^ no $$
+^^ other one go $$
+^^ you find it $$
+^^ no $$
+^^ xxx $$
+^^ nothing $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ plane $$
+^^ yeah $$
+^^ dingdong $$
+^^ Daddy one $$
+^^ mhm $$
+^^ do $$
+^^ candle $$
+^^ two $$
+^^ thirty $$
+^^ thirteen $$
+^^ oh $$
+^^ work $$
+^^ work $$
+^^ oh $$
+^^ take off $$
+^^ oh $$
+^^ dear dear $$
+^^ yeah $$
+^^ at work $$
+^^ xxx $$
+^^ sad $$
+^^ no $$
+^^ mhm $$
+^^ Kathy $$
+^^ Lewis $$
+^^ mhm $$
+^^ remember that $$
+^^ no $$
+^^ Sugar $$
+^^ poke it $$
+^^ jump $$
+^^ oh $$
+^^ Pass_the_parcel $$
+^^ no like sweet $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ oh $$
+^^ mhm $$
+^^ Kathy $$
+^^ no $$
+^^ no $$
+^^ oh $$
+^^ what do you do $$
+^^ xxx $$
+^^ Andy $$
+^^ no $$
+^^ xxx $$
+^^ two $$
+^^ whoops $$
+^^ whoops $$
+^^ nice letter $$
+^^ open it $$
+^^ open it $$
+^^ letter $$
+^^ open it $$
+^^ xxx $$
+^^ oh $$
+^^ you can not do it $$
+^^ break $$
+^^ back $$
+^^ um alright $$
+^^ give Caroline $$
+^^ xxx $$
+^^ train xxx $$
+^^ ouch $$
+^^ this side $$
+^^ this side $$
+^^ no $$
+^^ Caroline $$
+^^ come and see $$
+^^ come and see $$
+^^ Caroline come $$
+^^ you come in $$
+^^ xxx $$
+^^ you come in $$
+^^ you sit there $$
+^^ yeah $$
+^^ get off $$
+^^ yeah $$
+^^ butter $$
+^^ butter $$
+^^ xxx $$
+^^ stick $$
+^^ mm $$
+^^ mm $$
+^^ Mummy $$
+^^ sit down there $$
+^^ sit down there $$
+^^ yeah $$
+^^ no $$
+^^ Mummy sit down $$
+^^ xxx $$
+^^ what this be $$
+^^ open $$
+^^ dog $$
+^^ Amy $$
+^^ what be this one $$
+^^ yeah $$
+^^ this one $$
+^^ cat $$
+^^ Forest $$
+^^ bean $$
+^^ bean $$
+^^ what be this one $$
+^^ yeah $$
+^^ oh $$
+^^ cat $$
+^^ cat $$
+^^ oh $$
+^^ juice $$
+^^ that $$
+^^ xxx $$
+^^ oh $$
+^^ that one $$
+^^ oh $$
+^^ xxx $$
+^^ mhm $$
+^^ what be those thing $$
+^^ eat it $$
+^^ eat it $$
+^^ this pie $$
+^^ this pie $$
+^^ yeah $$
+^^ another one $$
+^^ yes $$
+^^ daddy one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ xxx $$
+^^ shoe $$
+^^ a pocket $$
+^^ no $$
+^^ xxx $$
+^^ what be this one $$
+^^ what be this one $$
+^^ car $$
+^^ car $$
+^^ panda go in there $$
+^^ panda go $$
+^^ go in there $$
+^^ sit down $$
+^^ sit down $$
+^^ go in the box $$
+^^ mhm $$
+^^ tip them out $$
+^^ you cut it $$
+^^ Forest $$
+^^ Forest $$
+^^ egg $$
+^^ what be this one $$
+^^ clothes $$
+^^ xxx $$
+^^ what be those thing $$
+^^ what be those thing $$
+^^ oh $$
+^^ doll $$
+^^ clothes $$
+^^ find doll $$
+^^ find doll $$
+^^ yeah $$
+^^ no $$
+^^ no $$
+^^ no no fit off $$
+^^ no $$
+^^ fit doll $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ trouser $$
+^^ mhm $$
+^^ no $$
+^^ no $$
+^^ tie it up $$
+^^ pop $$
+^^ yeah $$
+^^ dungaree $$
+^^ in dungaree $$
+^^ blouse $$
+^^ dungaree $$
+^^ dungaree $$
+^^ yeah $$
+^^ mhm $$
+^^ no $$
+^^ paint $$
+^^ blob $$
+^^ blob $$
+^^ Chris $$
+^^ dungaree $$
+^^ dungaree $$
+^^ dungaree $$
+^^ dungaree $$
+^^ mhm $$
+^^ xxx $$
+^^ cow $$
+^^ cow $$
+^^ horse $$
+^^ no $$
+^^ rest $$
+^^ rest $$
+^^ cow $$
+^^ Fudge $$
+^^ Fudge $$
+^^ be this one Fudge $$
+^^ yeah $$
+^^ two $$
+^^ more horse $$
+^^ two horse $$
+^^ hold it $$
+^^ what be this one $$
+^^ two $$
+^^ dog $$
+^^ one $$
+^^ sheep $$
+^^ xxx $$
+^^ a billy $$
+^^ beard $$
+^^ be this beard $$
+^^ no $$
+^^ yeah $$
+^^ you hold it $$
+^^ pig $$
+^^ little $$
+^^ what be this one $$
+^^ horse $$
+^^ hold it $$
+^^ Mummy $$
+^^ that one $$
+^^ xxx $$
+^^ sheep $$
+^^ pig $$
+^^ dog $$
+^^ mhm $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what $$
+^^ mhm $$
+^^ baby goat $$
+^^ pig $$
+^^ cock_a_doodle_doo $$
+^^ oh $$
+^^ hat $$
+^^ no $$
+^^ yeah $$
+^^ what be this one $$
+^^ what be this one $$
+^^ xxx $$
+^^ Sugar $$
+^^ face $$
+^^ oh $$
+^^ fun face $$
+^^ this one $$
+^^ no $$
+^^ xxx farm $$
+^^ farm $$
+^^ the clothes $$
+^^ this $$
+^^ yeah $$
+^^ the farm $$
+^^ no farm in there $$
+^^ farm $$
+^^ farm $$
+^^ this $$
+^^ dolphin $$
+^^ dolphin $$
+^^ yes $$
+^^ open it $$
+^^ open xxx $$
+^^ this $$
+^^ open it $$
+^^ oh $$
+^^ rhino $$
+^^ lion $$
+^^ lion $$
+^^ upstairs $$
+^^ be this one cow $$
+^^ giraffe $$
+^^ train $$
+^^ person $$
+^^ the person $$
+^^ xxx $$
+^^ Pingu $$
+^^ cow $$
+^^ cow in there $$
+^^ cow $$
+^^ rhino $$
+^^ no $$
+^^ dolphin $$
+^^ what be this one big $$
+^^ whale $$
+^^ Pingu $$
+^^ drive $$
+^^ in train $$
+^^ a come $$
+^^ Mummy $$
+^^ put him in train $$
+^^ farm $$
+^^ no $$
+^^ train $$
+^^ mhm $$
+^^ xxx $$
+^^ sit on it $$
+^^ mhm $$
+^^ sit on it $$
+^^ Mummy $$
+^^ sit down $$
+^^ track $$
+^^ track $$
+^^ track $$
+^^ Mummy do it $$
+^^ Mummy do it $$
+^^ dolphin $$
+^^ dolphin $$
+^^ a big one $$
+^^ on top of him Mummy $$
+^^ xxx $$
+^^ big train $$
+^^ big train $$
+^^ be it $$
+^^ Mummy do it $$
+^^ fit this in $$
+^^ dolphin in $$
+^^ the phone $$
+^^ the phone $$
+^^ the phone go $$
+^^ basket $$
+^^ find it $$
+^^ xxx $$
+^^ oh $$
+^^ oh $$
+^^ and dinner $$
+^^ and dinner $$
+^^ oh $$
+^^ xxx $$
+^^ xxx $$
+^^ in basket $$
+^^ no $$
+^^ yeah $$
+^^ cake $$
+^^ what be this one $$
+^^ in there $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ pear $$
+^^ what be this one $$
+^^ what be this one $$
+^^ courgette $$
+^^ what be this one $$
+^^ orange $$
+^^ what be this $$
+^^ what be this one $$
+^^ yeah $$
+^^ what be this one $$
+^^ what be this one $$
+^^ oh $$
+^^ oh $$
+^^ what be this one $$
+^^ what be this one $$
+^^ what be this one $$
+^^ xxx $$
+^^ err $$
+^^ what be this one $$
+^^ mhm $$
+^^ it in basket $$
+^^ xxx $$
+^^ what be this one $$
+^^ mhm $$
+^^ what be this one $$
+^^ yes $$
+^^ what be this one $$
+^^ chicken $$
+^^ oh $$
+^^ all do $$
+^^ Andy $$
+^^ no $$
+^^ do not want to $$
+^^ xxx $$
+^^ in basket $$
+^^ xxx $$
+^^ yeah $$
+^^ in pocket $$
+^^ drop some $$
+^^ xxx $$
+^^ xxx $$
+^^ in pocket $$
+^^ what be this one $$
+^^ eat it $$
+^^ what be this one $$
+^^ cheese $$
+^^ yeah $$
+^^ sweet $$
+^^ you sit them $$
+^^ xxx $$
+^^ mhm $$
+^^ yes $$
+^^ pocket $$
+^^ xxx $$
+^^ no $$
+^^ get pay lady $$
+^^ yeah $$
+^^ no $$
+^^ what be this one $$
+^^ one two three $$
+^^ go in $$
+^^ panda $$
+^^ panda in $$
+^^ panda in $$
+^^ panda $$
+^^ go $$
+^^ Mummy $$
+^^ xxx $$
+^^ a Caroline $$
+^^ panda in $$
+^^ panda in $$
+^^ panda $$
+^^ panda in $$
+^^ and come on $$
+^^ xxx $$
+^^ panda $$
+^^ on train $$
+^^ yeah $$
+^^ no fit on $$
+^^ no $$
+^^ drive $$
+^^ yeah $$
+^^ open it $$
+^^ him drive $$
+^^ panda $$
+^^ no no $$
+^^ oh $$
+^^ I have it $$
+^^ take off $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ sticker $$
+^^ sticker $$
+^^ no $$
+^^ yeah $$
+^^ oh $$
+^^ there sticker $$
+^^ that $$
+^^ yeah $$
+^^ mhm $$
+^^ sticker $$
+^^ that $$
+^^ okay $$
+^^ this one $$
+^^ yeah $$
+^^ yeah $$
+^^ at work $$
+^^ yeah $$
+^^ yeah $$
+^^ another one $$
+^^ yeah $$
+^^ next one $$
+^^ yeah $$
+^^ no $$
+^^ yes $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ two $$
+^^ again $$
+^^ again $$
+^^ more $$
+^^ more $$
+^^ no $$
+^^ yeah $$
+^^ snot $$
+^^ err $$
+^^ Gromit tissue $$
+^^ yeah $$
+^^ next one $$
+^^ what be this $$
+^^ no $$
+^^ take off $$
+^^ no $$
+^^ a hat $$
+^^ no $$
+^^ yeah $$
+^^ sticker $$
+^^ again $$
+^^ yeah $$
+^^ Kathy_Lewis $$
+^^ umbrella $$
+^^ yeah $$
+^^ Gail have it $$
+^^ rain $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ Sugar $$
+^^ rabbit $$
+^^ guinea $$
+^^ yeah $$
+^^ Samson $$
+^^ pig $$
+^^ chicken $$
+^^ chicken $$
+^^ no $$
+^^ yeah $$
+^^ up there $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ Gail hold it $$
+^^ yeah $$
+^^ look at those $$
+^^ oh $$
+^^ pop $$
+^^ no $$
+^^ no $$
+^^ enough $$
+^^ yeah $$
+^^ yeah $$
+^^ mhm $$
+^^ hold it $$
+^^ wind up $$
+^^ xxx $$
+^^ mhm $$
+^^ xxx $$
+^^ wind up say $$
+^^ wind up $$
+^^ yeah $$
+^^ yeah $$
+^^ blow it $$
+^^ xxx $$
+^^ a bubble $$
+^^ the trolley $$
+^^ no $$
+^^ Mummy do it $$
+^^ on toe $$
+^^ shoe $$
+^^ yeah $$
+^^ oh $$
+^^ Gail do it $$
+^^ Gail do it $$
+^^ xxx $$
+^^ Mummy do it $$
+^^ blow it $$
+^^ more $$
+^^ Mummy do it $$
+^^ no $$
+^^ more $$
+^^ more $$
+^^ please $$
+^^ oh $$
+^^ no $$
+^^ want to $$
+^^ no want to $$
+^^ on carpet $$
+^^ Mummy do the lady $$
+^^ Caroline $$
+^^ no $$
+^^ no $$
+^^ no want to $$
+^^ no want to $$
+^^ later $$
+^^ no $$
+^^ hold it $$
+^^ up there $$
+^^ yeah $$
+^^ person $$
+^^ xxx $$
+^^ xxx $$
+^^ yeah $$
+^^ lady $$
+^^ person $$
+^^ tell me $$
+^^ xxx wind up $$
+^^ oh $$
+^^ cushion $$
+^^ sleep $$
+^^ xxx $$
+^^ um crisp $$
+^^ mine be $$
+^^ hungry $$
+^^ yes $$
+^^ yeah $$
+^^ mhm $$
+^^ yeah $$
+^^ Caroline $$
+^^ Caroline $$
+^^ sit down $$
+^^ hello $$
+^^ Sam $$
+^^ yeah $$
+^^ mhm $$
+^^ um $$
+^^ xxx $$
+^^ click hole $$
+^^ click on in the hole $$
+^^ yes $$
+^^ yes $$
+^^ please $$
+^^ apple $$
+^^ thank_you $$
+^^ Gail talk $$
+^^ Gail talk $$
+^^ listen $$
+^^ yeah $$
+^^ xxx $$
+^^ mhm $$
+^^ yeah $$
+^^ yeah $$
+^^ peel apple $$
+^^ apple xxx $$
+^^ in the bin $$
+^^ please $$
+^^ xxx $$
+^^ bye $$
+^^ see you soon $$
+^^ yeah $$
+^^ Carolines $$
+^^ yeah $$
+^^ xxx $$
+^^ yeah $$
+^^ ladder $$
+^^ no $$
+^^ that xxx $$
+^^ wind that up $$
+^^ twist $$
+^^ xxx $$
+^^ peel it $$
+^^ no $$
+^^ do drop on $$
+^^ on the floor $$
+^^ no $$
+^^ xxx $$
+^^ blow it $$
+^^ yeah $$
+^^ thank_you $$
+^^ yeah $$
+^^ ear $$
+^^ eye $$
+^^ nostril $$
+^^ nose $$
+^^ tail $$
+^^ foot $$
+^^ and and tail $$
+^^ this tail $$
+^^ no $$
+^^ foot $$
+^^ and tail $$
+^^ foot foot $$
+^^ xxx $$
+^^ same $$
+^^ cheese $$
+^^ yeah $$
+^^ mhm $$
+^^ mhm $$
+^^ yeah $$
+^^ yeah $$
+^^ okay $$
+^^ yeah $$
+^^ mhm $$
+^^ that be right $$
+^^ mhm $$
+^^ yeah $$
+^^ yeah $$
+^^ caterpillar $$
+^^ ladybird $$
+^^ and next one $$
+^^ mhm $$
+^^ xxx $$
+^^ bite it $$
+^^ Daddy have some $$
+^^ Mummy $$
+^^ yeah $$
+^^ arm $$
+^^ mhm $$
+^^ yeah $$
+^^ Kathy_Lewis $$
+^^ balloon $$
+^^ giraffe $$
+^^ lion $$
+^^ tiger $$
+^^ elephant $$
+^^ present $$
+^^ star $$
+^^ moon $$
+^^ next one $$
+^^ mhm $$
+^^ cake $$
+^^ candle $$
+^^ yeah $$
+^^ blow it $$
+^^ hard $$
+^^ one $$
+^^ two Gail $$
+^^ strawberry $$
+^^ yeah $$
+^^ fish $$
+^^ boat $$
+^^ duck $$
+^^ pear $$
+^^ two $$
+^^ umbrella $$
+^^ tree $$
+^^ flower $$
+^^ flower $$
+^^ star $$
+^^ no $$
+^^ xxx $$
+^^ rain $$
+^^ yeah $$
+^^ tail fall $$
+^^ tail fall $$
+^^ look $$
+^^ tail $$
+^^ yeah $$
+^^ xxx $$
+^^ yeah $$
+^^ lose it home $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ parrot $$
+^^ next one $$
+^^ trumpet $$
+^^ tractor $$
+^^ mhm $$
+^^ no $$
+^^ no $$
+^^ what be this $$
+^^ cock_a_doodle_doo $$
+^^ cock_a_doodle_doo $$
+^^ yeah $$
+^^ no $$
+^^ yes $$
+^^ yeah $$
+^^ oh $$
+^^ drop it one $$
+^^ what be this $$
+^^ billy $$
+^^ yeah $$
+^^ lamb $$
+^^ sheep $$
+^^ sheep $$
+^^ more dog $$
+^^ back in $$
+^^ back in $$
+^^ yeah $$
+^^ fall down $$
+^^ cow $$
+^^ byebye cow $$
+^^ byebye cow $$
+^^ yeah $$
+^^ another cow $$
+^^ Mummy goat $$
+^^ cow $$
+^^ Mummy cow $$
+^^ mhm $$
+^^ back in $$
+^^ oh $$
+^^ drop one $$
+^^ horse $$
+^^ horse $$
+^^ Samson $$
+^^ clipclop $$
+^^ oh $$
+^^ tail $$
+^^ go $$
+^^ what be this one $$
+^^ what be this one $$
+^^ yes $$
+^^ phew $$
+^^ no Samson tail $$
+^^ no $$
+^^ mhm $$
+^^ wiggle $$
+^^ no $$
+^^ yeah $$
+^^ xxx $$
+^^ Babe $$
+^^ shop bag $$
+^^ shop bag $$
+^^ no $$
+^^ oh $$
+^^ Gail $$
+^^ yeah $$
+^^ xxx $$
+^^ what be this $$
+^^ a cafe $$
+^^ it xxx $$
+^^ oh $$
+^^ drop it $$
+^^ yeah $$
+^^ what be this $$
+^^ yes $$
+^^ what be this $$
+^^ yeah $$
+^^ yeah $$
+^^ okay $$
+^^ what be this one $$
+^^ this $$
+^^ yeah $$
+^^ what be this $$
+^^ no $$
+^^ what be this $$
+^^ Gail $$
+^^ what be this $$
+^^ what be this $$
+^^ what be this $$
+^^ what be this $$
+^^ yeah $$
+^^ oh $$
+^^ the lid on $$
+^^ Samson in $$
+^^ lid on $$
+^^ cake $$
+^^ eat it $$
+^^ mhm $$
+^^ mm $$
+^^ yeah $$
+^^ yeah $$
+^^ there $$
+^^ put it later $$
+^^ what be this $$
+^^ yeah $$
+^^ Caroline $$
+^^ yep $$
+^^ panda $$
+^^ panda be $$
+^^ panda car $$
+^^ panda car $$
+^^ panda car $$
+^^ panda car $$
+^^ no $$
+^^ leg through $$
+^^ drive $$
+^^ what be this $$
+^^ what be this $$
+^^ what be this $$
+^^ yeah $$
+^^ Gail xxx $$
+^^ Gail banana $$
+^^ Gail banana $$
+^^ Gail banana $$
+^^ Gail banana $$
+^^ what be this $$
+^^ what be this $$
+^^ mhm $$
+^^ away $$
+^^ what be this $$
+^^ strawberry $$
+^^ no like it $$
+^^ no like it $$
+^^ no $$
+^^ what be this $$
+^^ xxx $$
+^^ mm $$
+^^ what be this $$
+^^ yeah $$
+^^ Samson $$
+^^ Samson $$
+^^ see $$
+^^ open xxx $$
+^^ what be this $$
+^^ no Samson tail $$
+^^ Fudge $$
+^^ yeah $$
+^^ Sugar $$
+^^ Sugar $$
+^^ Sugar $$
+^^ Sugar $$
+^^ Sugar $$
+^^ Sugar $$
+^^ no $$
+^^ a rabbit $$
+^^ no $$
+^^ Sugar $$
+^^ in box $$
+^^ no $$
+^^ no $$
+^^ wiggle tail $$
+^^ wiggle $$
+^^ wiggle $$
+^^ no $$
+^^ oh $$
+^^ find the Sugar $$
+^^ in basket $$
+^^ oh $$
+^^ yeah $$
+^^ horse $$
+^^ Caroline stroke $$
+^^ Caroline $$
+^^ Mummy $$
+^^ xxx $$
+^^ Mummy do it $$
+^^ stroke him $$
+^^ stroke him $$
+^^ stroke him $$
+^^ look at him $$
+^^ look $$
+^^ tiny one $$
+^^ xxx $$
+^^ what else in there $$
+^^ horse $$
+^^ oh $$
+^^ what be this $$
+^^ this xxx $$
+^^ um foot catch $$
+^^ hold it $$
+^^ oh $$
+^^ person $$
+^^ what be this in there $$
+^^ orange $$
+^^ pay $$
+^^ pay lady $$
+^^ yeah $$
+^^ xxx $$
+^^ pay lady $$
+^^ xxx $$
+^^ yeah $$
+^^ what be this $$
+^^ yeah $$
+^^ what be this one $$
+^^ hot $$
+^^ hot $$
+^^ this one $$
+^^ bean $$
+^^ hot $$
+^^ xxx $$
+^^ what be this $$
+^^ what be this $$
+^^ what be this one $$
+^^ what be this one $$
+^^ yeah $$
+^^ what be this one $$
+^^ blue $$
+^^ Gail $$
+^^ yeah $$
+^^ yeah $$
+^^ pink $$
+^^ whoops $$
+^^ get in $$
+^^ get in $$
+^^ get in box $$
+^^ no $$
+^^ box $$
+^^ shoe off $$
+^^ shoe off $$
+^^ shoe off $$
+^^ shoe off $$
+^^ in box $$
+^^ in box $$
+^^ shoe $$
+^^ this this shoe $$
+^^ this shoe off $$
+^^ Caroline do it $$
+^^ Caroline $$
+^^ Caroline do it $$
+^^ Gail $$
+^^ no $$
+^^ no $$
+^^ out $$
+^^ this $$
+^^ whoops $$
+^^ this $$
+^^ this pink one $$
+^^ Gail have $$
+^^ it Gail use it $$
+^^ no $$
+^^ no $$
+^^ arm $$
+^^ this band on $$
+^^ arm on $$
+^^ in swim pool $$
+^^ this one $$
+^^ this one xxx $$
+^^ no $$
+^^ xxx $$
+^^ arm $$
+^^ no $$
+^^ no $$
+^^ arm $$
+^^ costume $$
+^^ and Daddy trunk $$
+^^ mhm $$
+^^ oh $$
+^^ he find them $$
+^^ shush $$
+^^ quiet $$
+^^ in shower $$
+^^ Daddy have it $$
+^^ xxx hot $$
+^^ Mummy do it $$
+^^ swim pool that $$
+^^ xxx $$
+^^ this up $$
+^^ swim $$
+^^ swim $$
+^^ swim $$
+^^ out $$
+^^ get wet $$
+^^ towel $$
+^^ wet $$
+^^ yes $$
+^^ Andy blanket $$
+^^ Andy blanket $$
+^^ Andy $$
+^^ Andy $$
+^^ back in $$
+^^ xxx $$
+^^ arm $$
+^^ two $$
+^^ blue one $$
+^^ blue one $$
+^^ blue one $$
+^^ blue one $$
+^^ two $$
+^^ one two $$
+^^ xxx $$
+^^ three $$
+^^ that be go in in $$
+^^ sit down $$
+^^ xxx $$
+^^ wet $$
+^^ out $$
+^^ wet $$
+^^ blanket $$
+^^ face $$
+^^ oh $$
+^^ drop one $$
+^^ xxx $$
+^^ two arm $$
+^^ two arm $$
+^^ two arm $$
+^^ no $$
+^^ Gail $$
+^^ just try $$
+^^ promise $$
+^^ Caroline $$
+^^ xxx $$
+^^ toy $$
+^^ yeah $$
+^^ yeah $$
+^^ Caroline $$
+^^ look $$
+^^ from library $$
+^^ Alice $$
+^^ xxx $$
+^^ xxx $$
+^^ get ready now $$
+^^ sandwich $$
+^^ sandwich $$
+^^ clock $$
+^^ clock $$
+^^ brush tooth $$
+^^ wash bubble off $$
+^^ sponge $$
+^^ flannel $$
+^^ brush tooth $$
+^^ plug $$
+^^ yeah $$
+^^ exercise $$
+^^ Mummy $$
+^^ no $$
+^^ that that one $$
+^^ a mirror $$
+^^ dress $$
+^^ dress up $$
+^^ no $$
+^^ toy $$
+^^ yeah $$
+^^ breakfast $$
+^^ sausage $$
+^^ kettle $$
+^^ kettle $$
+^^ cup of tea $$
+^^ spill it $$
+^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ beard $$
+^^ fluff one $$
+^^ cake $$
+^^ biscuit $$
+^^ cup of tea $$
+^^ carrot $$
+^^ snow $$
+^^ skate $$
+^^ yeah $$
+^^ yeah $$
+^^ fall $$
+^^ yeah $$
+^^ break egg $$
+^^ roll $$
+^^ no $$
+^^ fish $$
+^^ smile $$
+^^ kite $$
+^^ picnic $$
+^^ dream $$
+^^ sleep dream $$
+^^ yeah $$
+^^ balloon $$
+^^ paddle $$
+^^ yeah $$
+^^ Alice $$
+^^ frog $$
+^^ no $$
+^^ hat $$
+^^ yeah $$
+^^ yeah $$
+^^ wet $$
+^^ arm $$
+^^ pink $$
+^^ um library $$
+^^ yeah $$
+^^ pirate $$
+^^ what be that $$
+^^ yeah $$
+^^ sit it $$
+^^ yeah $$
+^^ toast $$
+^^ marmalade $$
+^^ all do $$
+^^ toy $$
+^^ thing out $$
+^^ thing out $$
+^^ thing out $$
+^^ no $$
+^^ want $$
+^^ I want toy $$
+^^ no $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ xxx $$
+^^ in car $$
+^^ yeah $$
+^^ no $$
+^^ no $$
+^^ Caroline toy $$
+^^ drink first $$
+^^ yeah $$
+^^ dribble dress $$
+^^ yeah $$
+^^ whoops $$
+^^ on knee $$
+^^ Mummy knee $$
+^^ water flower $$
+^^ yeah $$
+^^ smoke $$
+^^ hand in way $$
+^^ hand in way $$
+^^ hand in $$
+^^ yeah $$
+^^ um next page $$
+^^ splodge $$
+^^ no $$
+^^ oh there $$
+^^ ice $$
+^^ xxx $$
+^^ yeah $$
+^^ yeah $$
+^^ all_gone $$
+^^ finish $$
+^^ bell $$
+^^ Rag_Rag $$
+^^ zip $$
+^^ little bell again $$
+^^ zip up then $$
+^^ Caroline $$
+^^ what be that $$
+^^ towel $$
+^^ cord $$
+^^ what be that $$
+^^ what be that $$
+^^ yes $$
+^^ yes $$
+^^ next page $$
+^^ what be that $$
+^^ all finish $$
+^^ Gail $$
+^^ no $$
+^^ Gail $$
+^^ Andy $$
+^^ no $$
+^^ whoops $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ in house $$
+^^ oh $$
+^^ yeah $$
+^^ no $$
+^^ back again $$
+^^ no $$
+^^ Daniel $$
+^^ two $$
+^^ Angela $$
+^^ Krakatoa shirt $$
+^^ no $$
+^^ oh $$
+^^ stick $$
+^^ helicopter $$
+^^ Gail home $$
+^^ no $$
+^^ byebye John $$
+^^ no $$
+^^ pot $$
+^^ police $$
+^^ me see Mummy $$
+^^ no $$
+^^ Caroline $$
+^^ Caroline $$
+^^ no $$
+^^ no $$
+^^ xxx $$
+^^ mhm $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ xxx $$
+^^ no $$
+^^ no $$
+^^ stop $$
+^^ no $$
+^^ what be that $$
+^^ bus $$
+^^ up $$
+^^ down $$
+^^ up $$
+^^ down $$
+^^ up $$
+^^ up $$
+^^ look Caroline $$
+^^ woodpecker $$
+^^ Andy $$
+^^ bottle $$
+^^ doll $$
+^^ doll $$
+^^ no $$
+^^ Sam $$
+^^ more Sam $$
+^^ peekaboo peekaboo $$
+^^ no $$
+^^ bump $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ yes $$
+^^ bath $$
+^^ yes $$
+^^ a bath $$
+^^ poo xxx $$
+^^ poo $$
+^^ yeah $$
+^^ yeah $$
+^^ in look $$
+^^ oh $$
+^^ up there $$
+^^ yeah $$
+^^ cow up there $$
+^^ cow up $$
+^^ yeah $$
+^^ yeah $$
+^^ xxx $$
+^^ this horse $$
+^^ this horse $$
+^^ this horse $$
+^^ this horse $$
+^^ this horse about $$
+^^ no $$
+^^ no $$
+^^ xxx $$
+^^ Samson $$
+^^ like Samson $$
+^^ like tail $$
+^^ no $$
+^^ go home $$
+^^ yeah $$
+^^ no horse $$
+^^ no horse $$
+^^ a little one $$
+^^ baby one $$
+^^ Daddy $$
+^^ Daddy $$
+^^ no $$
+^^ yeah $$
+^^ Mummy horse $$
+^^ Daddy fall down there $$
+^^ yeah $$
+^^ on carpet $$
+^^ Mummy $$
+^^ Mummy $$
+^^ look $$
+^^ baby be cry $$
+^^ baby be cry $$
+^^ Mummy horse $$
+^^ a $$
+^^ what else in there $$
+^^ a $$
+^^ Fudge $$
+^^ oh $$
+^^ wag tail $$
+^^ look $$
+^^ down here $$
+^^ oh $$
+^^ look $$
+^^ oh $$
+^^ a billy $$
+^^ like Caiinie $$
+^^ what be that $$
+^^ no $$
+^^ sheep $$
+^^ in box $$
+^^ what be that $$
+^^ pig $$
+^^ asleep $$
+^^ asleep $$
+^^ oh $$
+^^ Mummy one $$
+^^ Mummy one $$
+^^ Mummy one $$
+^^ yeah $$
+^^ yeah $$
+^^ wake $$
+^^ another one $$
+^^ another one $$
+^^ horn $$
+^^ horn $$
+^^ another one lie $$
+^^ another one lie now $$
+^^ what be that $$
+^^ another billy $$
+^^ another billy $$
+^^ another billy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ where be Mummy horse $$
+^^ yeah $$
+^^ look $$
+^^ baby $$
+^^ baby $$
+^^ Daddy one $$
+^^ Daddy one $$
+^^ Daddy $$
+^^ he sit on my knee $$
+^^ he sit on him $$
+^^ he sit on him $$
+^^ yeah $$
+^^ get off Dad $$
+^^ get off $$
+^^ get off $$
+^^ no $$
+^^ little baby one $$
+^^ little babe one $$
+^^ Babe $$
+^^ Daddy one $$
+^^ Daddy one $$
+^^ stand on him $$
+^^ Daddy one xxx $$
+^^ no $$
+^^ stand on him $$
+^^ oh $$
+^^ no fit on $$
+^^ no $$
+^^ what be that $$
+^^ sheepdog $$
+^^ yeah $$
+^^ look $$
+^^ look $$
+^^ lie together $$
+^^ lie together $$
+^^ what be that $$
+^^ orange $$
+^^ xxx $$
+^^ another one $$
+^^ another Babes $$
+^^ cock_a_doodle_doo $$
+^^ in church $$
+^^ what be that $$
+^^ what be that $$
+^^ yeah $$
+^^ Mummy $$
+^^ yeah $$
+^^ no $$
+^^ yeah $$
+^^ sheep $$
+^^ what else in there $$
+^^ another Babe $$
+^^ kangaroo $$
+^^ what be that $$
+^^ baby sheep $$
+^^ what be that xxx $$
+^^ what be this in there $$
+^^ what be this in $$
+^^ oh $$
+^^ what be that $$
+^^ yeah $$
+^^ no $$
+^^ no fit Gail $$
+^^ fit Gail $$
+^^ Paddington_Bear $$
+^^ no $$
+^^ shoe on $$
+^^ shoe on $$
+^^ pajamas $$
+^^ yeah $$
+^^ xxx $$
+^^ yeah $$
+^^ no $$
+^^ hair $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ panda go in there $$
+^^ drive $$
+^^ that be good $$
+^^ that be good $$
+^^ sausage $$
+^^ yeah $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ open it $$
+^^ no $$
+^^ Mummy do it $$
+^^ clothes on $$
+^^ clothes on $$
+^^ that one $$
+^^ xxx $$
+^^ xxx $$
+^^ take off it $$
+^^ take off it $$
+^^ take off that $$
+^^ get dress $$
+^^ get dress $$
+^^ no $$
+^^ yeah $$
+^^ Ellie party $$
+^^ have to wrap up her present will not we $$
+^^ xxx $$
+^^ dress up $$
+^^ doll $$
+^^ no $$
+^^ yes $$
+^^ xxx $$
+^^ hat $$
+^^ all do $$
+^^ all do $$
+^^ yeah $$
+^^ her hat on $$
+^^ her hat on please $$
+^^ oh $$
+^^ her hat on $$
+^^ her hat on $$
+^^ her hat on $$
+^^ her hat on $$
+^^ xxx $$
+^^ look $$
+^^ yeah $$
+^^ look $$
+^^ yeah $$
+^^ party $$
+^^ um Jess the cat food $$
+^^ cat $$
+^^ yeah $$
+^^ in bin $$
+^^ in bin $$
+^^ in bin $$
+^^ xxx $$
+^^ drop it $$
+^^ fluff $$
+^^ no $$
+^^ um hat off $$
+^^ take her hat off $$
+^^ coat off $$
+^^ coat off $$
+^^ xxx $$
+^^ take the dress off $$
+^^ hair brush $$
+^^ hair brush $$
+^^ hair brush $$
+^^ leg up $$
+^^ leg up $$
+^^ leg up $$
+^^ leg up xxx $$
+^^ hair $$
+^^ hair $$
+^^ hair go $$
+^^ hair $$
+^^ where hair $$
+^^ no $$
+^^ yeah $$
+^^ what be that $$
+^^ what be $$
+^^ what be that $$
+^^ what be that $$
+^^ that $$
+^^ that $$
+^^ take out that $$
+^^ oh $$
+^^ what be that $$
+^^ eat it $$
+^^ Caroline $$
+^^ what be that $$
+^^ cake $$
+^^ eat it $$
+^^ Mummy taste it $$
+^^ yeah $$
+^^ try it $$
+^^ love $$
+^^ yeah $$
+^^ um what be that $$
+^^ Caroline do it $$
+^^ Caroline do $$
+^^ Mummy $$
+^^ look $$
+^^ make $$
+^^ it be for make $$
+^^ it be for make $$
+^^ it be for make $$
+^^ Mummy $$
+^^ look $$
+^^ um open a top $$
+^^ open top in minute $$
+^^ xxx $$
+^^ what be that $$
+^^ what be that $$
+^^ click on it $$
+^^ click on it $$
+^^ xxx $$
+^^ click on it $$
+^^ where train go $$
+^^ there $$
+^^ choochoo $$
+^^ drive $$
+^^ drive $$
+^^ drive go in there $$
+^^ yeah $$
+^^ oh $$
+^^ move that $$
+^^ move that $$
+^^ oh $$
+^^ xxx $$
+^^ down there $$
+^^ off we go $$
+^^ horse ride $$
+^^ come $$
+^^ lion $$
+^^ big lion $$
+^^ stand on him $$
+^^ flash light $$
+^^ open $$
+^^ lie on top $$
+^^ on top $$
+^^ yeah $$
+^^ oh $$
+^^ Mummy horse $$
+^^ Mummy horse in there $$
+^^ yeah $$
+^^ in there $$
+^^ snake $$
+^^ oh big $$
+^^ big $$
+^^ oh big $$
+^^ elephant big in there $$
+^^ elephant big $$
+^^ no $$
+^^ no $$
+^^ oh dear $$
+^^ oh dear $$
+^^ never mind $$
+^^ yeah $$
+^^ farm ride him $$
+^^ elephant $$
+^^ farm $$
+^^ no farm more $$
+^^ train drive $$
+^^ train drive $$
+^^ big $$
+^^ look at him $$
+^^ xxx big $$
+^^ yeah $$
+^^ clipclop $$
+^^ trump $$
+^^ what else in there $$
+^^ xxx $$
+^^ whoopsie $$
+^^ what else in there $$
+^^ look $$
+^^ what be that $$
+^^ what be this one $$
+^^ what be this one $$
+^^ yeah $$
+^^ no fit on $$
+^^ what else in $$
+^^ big $$
+^^ there $$
+^^ yeah $$
+^^ Percy $$
+^^ no $$
+^^ that that Percy $$
+^^ tunnel $$
+^^ Grandpa $$
+^^ tip bit out $$
+^^ oh $$
+^^ there be Thomas $$
+^^ mhm $$
+^^ no $$
+^^ xxx $$
+^^ another bit $$
+^^ yeah $$
+^^ another bit there $$
+^^ another bit $$
+^^ straight bit on $$
+^^ oh $$
+^^ bend bit $$
+^^ what be this $$
+^^ no $$
+^^ Mummy do it $$
+^^ oh $$
+^^ sorry $$
+^^ mhm $$
+^^ oh $$
+^^ control $$
+^^ stand up $$
+^^ another one $$
+^^ xxx $$
+^^ no $$
+^^ train $$
+^^ guard $$
+^^ guard $$
+^^ in train $$
+^^ sit on it $$
+^^ person $$
+^^ stand up there $$
+^^ this stand up $$
+^^ xxx $$
+^^ that $$
+^^ that one $$
+^^ yeah $$
+^^ oh $$
+^^ crash $$
+^^ Percy come down $$
+^^ yeah $$
+^^ oh $$
+^^ Percy $$
+^^ back $$
+^^ Thomas $$
+^^ back a Thomas $$
+^^ Gail do it $$
+^^ go up $$
+^^ down $$
+^^ up $$
+^^ yeah $$
+^^ whoops $$
+^^ whoops $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ Thomas on $$
+^^ xxx Thomas $$
+^^ yeah $$
+^^ yeah $$
+^^ Percy go on it $$
+^^ that way $$
+^^ oh $$
+^^ whoops $$
+^^ yeah $$
+^^ off we go $$
+^^ Percy on $$
+^^ Thomas go on $$
+^^ Thomas go on $$
+^^ brick up $$
+^^ Thomas $$
+^^ xxx $$
+^^ come out $$
+^^ come out $$
+^^ back again $$
+^^ up there $$
+^^ Percy $$
+^^ oh $$
+^^ fall $$
+^^ fall $$
+^^ oh $$
+^^ Thomas $$
+^^ Thomas $$
+^^ Thomas come $$
+^^ Thomas on this $$
+^^ Mum Mummy xxx $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ xxx $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ shoe on $$
+^^ shoe on $$
+^^ yeah $$
+^^ no $$
+^^ no $$
+^^ Thomas go $$
+^^ Thomas go $$
+^^ Thomas go $$
+^^ Thomas $$
+^^ Thomas $$
+^^ thank_you $$
+^^ mend it $$
+^^ mend it $$
+^^ yeah $$
+^^ a fix him $$
+^^ a fix him $$
+^^ a fix $$
+^^ no $$
+^^ no $$
+^^ yeah $$
+^^ fix $$
+^^ fix $$
+^^ fix two $$
+^^ fix two $$
+^^ oh $$
+^^ fix Percy $$
+^^ fix Percy $$
+^^ fix Percy $$
+^^ fix Percy $$
+^^ he fix Percy $$
+^^ yeah $$
+^^ oh $$
+^^ yeah $$
+^^ mhm $$
+^^ yeah $$
+^^ yeah $$
+^^ Gail Alice come $$
+^^ Alice $$
+^^ Caroline $$
+^^ um Chris $$
+^^ rufty $$
+^^ Daddy xxx $$
+^^ make $$
+^^ Daddy one $$
+^^ Daddy want one $$
+^^ yes $$
+^^ yeah $$
+^^ poo $$
+^^ Fat_Controller stand up $$
+^^ yeah $$
+^^ oh $$
+^^ fix Thomas $$
+^^ fix Thomas $$
+^^ no $$
+^^ no $$
+^^ go back $$
+^^ Thomas back $$
+^^ Thomas back $$
+^^ Thomas $$
+^^ put away $$
+^^ xxx $$
+^^ those in there $$
+^^ xxx $$
+^^ all do $$
+^^ no $$
+^^ next $$
+^^ track away $$
+^^ take it off $$
+^^ take it off $$
+^^ take off Mummy $$
+^^ take it off $$
+^^ take it off $$
+^^ Caroline $$
+^^ Caroline do it $$
+^^ do it $$
+^^ whoops $$
+^^ whoops $$
+^^ that away $$
+^^ no fit in $$
+^^ no $$
+^^ no $$
+^^ Caroline $$
+^^ whoops $$
+^^ whoops $$
+^^ oh $$
+^^ little bit off $$
+^^ shake it $$
+^^ put away $$
+^^ put away $$
+^^ whoops $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ tunnel $$
+^^ xxx $$
+^^ yeah $$
+^^ xxx $$
+^^ yeah $$
+^^ xxx $$
+^^ on carpet $$
+^^ rug $$
+^^ butter $$
+^^ more $$
+^^ yes $$
+^^ more $$
+^^ more $$
+^^ whoops $$
+^^ squeak $$
+^^ yeah $$
+^^ no $$
+^^ more $$
+^^ squeak $$
+^^ more $$
+^^ teddy $$
+^^ take it off $$
+^^ yeah $$
+^^ xxx $$
+^^ this Mummy $$
+^^ Mummy $$
+^^ xxx $$
+^^ more $$
+^^ more $$
+^^ more there $$
+^^ no $$
+^^ Mummy do it $$
+^^ teddy $$
+^^ shall we draw with the crayon now $$
+^^ yeah $$
+^^ oh $$
+^^ Gail finger $$
+^^ oh $$
+^^ Caroline $$
+^^ xxx $$
+^^ mhm $$
+^^ xxx $$
+^^ Mummy do it $$
+^^ Mummy do it $$
+^^ Caroline do it $$
+^^ Postman_Pat $$
+^^ Postman_Pat $$
+^^ yeah $$
+^^ hat $$
+^^ hat $$
+^^ hat $$
+^^ shall we fill it in $$
+^^ hat on $$
+^^ mhm $$
+^^ xxx $$
+^^ oh $$
+^^ another one $$
+^^ here $$
+^^ yeah $$
+^^ yeah $$
+^^ that one $$
+^^ what be that one $$
+^^ what be that one $$
+^^ what be that one $$
+^^ what be that one $$
+^^ that one $$
+^^ what be that $$
+^^ xxx $$
+^^ no $$
+^^ lorry $$
+^^ hope Mummy $$
+^^ no van anymore $$
+^^ no van anymore $$
+^^ lorry $$
+^^ no $$
+^^ yeah $$
+^^ okay $$
+^^ yeah $$
+^^ what be that $$
+^^ draw grass $$
+^^ xxx $$
+^^ good picture Mummy do $$
+^^ what be that $$
+^^ sorry $$
+^^ um in bed $$
+^^ this one $$
+^^ xxx $$
+^^ house $$
+^^ yeah $$
+^^ yeah $$
+^^ window $$
+^^ xxx $$
+^^ that smoke $$
+^^ what be that one $$
+^^ tail be on $$
+^^ tail be on $$
+^^ tail be on $$
+^^ yeah $$
+^^ oh whoops $$
+^^ yeah $$
+^^ little one $$
+^^ Daddy tail $$
+^^ Daddy tail $$
+^^ yeah $$
+^^ no $$
+^^ that one horse $$
+^^ baby horse $$
+^^ baby horse $$
+^^ Sugar $$
+^^ find find Sugar $$
+^^ in box $$
+^^ yeah $$
+^^ um $$
+^^ that one $$
+^^ that $$
+^^ in there $$
+^^ xxx $$
+^^ go in there $$
+^^ oh $$
+^^ Samson be go $$
+^^ go $$
+^^ Fudge $$
+^^ Fudge $$
+^^ stand up $$
+^^ stand up $$
+^^ another cow in there $$
+^^ Mummy Fudge $$
+^^ Mummy Fudge $$
+^^ Mummy Fudge $$
+^^ Mummy Fudge $$
+^^ that one Mummy $$
+^^ Daddy $$
+^^ Daddy $$
+^^ no $$
+^^ what else in there $$
+^^ no pig in there $$
+^^ no pig in there $$
+^^ no wiggle tail $$
+^^ Samson be lose it $$
+^^ Smason be lose it $$
+^^ go home $$
+^^ oh $$
+^^ egg $$
+^^ egg in there $$
+^^ egg in there $$
+^^ nothing else in there $$
+^^ nothing else in there $$
+^^ xxx $$
+^^ doll wear it on $$
+^^ doll wear it $$
+^^ sock $$
+^^ Winnie_Pooh $$
+^^ drop it $$
+^^ that be good $$
+^^ phew $$
+^^ that be luck $$
+^^ what be that $$
+^^ put in there $$
+^^ I put in there $$
+^^ what else in there $$
+^^ cat there $$
+^^ cat $$
+^^ man eat it $$
+^^ man eat it $$
+^^ yes $$
+^^ disgust it $$
+^^ let Sonia $$
+^^ eat those $$
+^^ Caroline $$
+^^ Caroline $$
+^^ chip $$
+^^ pretend eat it $$
+^^ xxx I hold it $$
+^^ yeah $$
+^^ that $$
+^^ a orange $$
+^^ hold it $$
+^^ big one $$
+^^ little one $$
+^^ Sonia $$
+^^ what be that $$
+^^ grape $$
+^^ eat it $$
+^^ eat those $$
+^^ hold those $$
+^^ xxx $$
+^^ xxx $$
+^^ what be that $$
+^^ xxx $$
+^^ it squeak $$
+^^ box $$
+^^ lid $$
+^^ nothing much in $$
+^^ xxx Gail $$
+^^ Caroline $$
+^^ squeak it $$
+^^ what be that $$
+^^ no $$
+^^ another bow $$
+^^ again $$
+^^ bow again $$
+^^ no $$
+^^ doll $$
+^^ doll $$
+^^ doll $$
+^^ oh $$
+^^ heavy $$
+^^ heavy $$
+^^ oh $$
+^^ I bring doll $$
+^^ heavy doll $$
+^^ no $$
+^^ oh $$
+^^ oh $$
+^^ stamp $$
+^^ Caroline $$
+^^ Caroline hold $$
+^^ more xxx $$
+^^ what be that $$
+^^ what be that $$
+^^ xxx $$
+^^ that off $$
+^^ that off $$
+^^ yeah $$
+^^ no $$
+^^ squeak $$
+^^ leg up $$
+^^ leg up $$
+^^ Caroline do $$
+^^ Caroline Caroline come $$
+^^ Caroline come $$
+^^ leg up $$
+^^ um in box $$
+^^ in box $$
+^^ in box $$
+^^ oh $$
+^^ find it $$
+^^ in box $$
+^^ in box $$
+^^ yeah $$
+^^ squeak $$
+^^ yeah $$
+^^ do $$
+^^ do $$
+^^ oh $$
+^^ squeak $$
+^^ drive $$
+^^ drive go $$
+^^ no $$
+^^ what be that $$
+^^ what be that $$
+^^ hold it $$
+^^ hold it $$
+^^ Caroline toy $$
+^^ Caroline toy $$
+^^ Caroline toy $$
+^^ in play $$
+^^ yes $$
+^^ yeah $$
+^^ Caroline $$
+^^ yeah $$
+^^ squeak it $$
+^^ squeak car $$
+^^ on front $$
+^^ on on $$
+^^ on $$
+^^ on front $$
+^^ on front $$
+^^ what be that $$
+^^ Caroline toy $$
+^^ is that Gail $$
+^^ yeah $$
+^^ Caroline $$
+^^ Caroline $$
+^^ yeah $$
+^^ Caroline $$
+^^ Caroline $$
+^^ Carolin do $$
+^^ write it $$
+^^ you write that $$
+^^ write that $$
+^^ toy $$
+^^ Caroline $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ this off $$
+^^ take that off $$
+^^ oh $$
+^^ xxx $$
+^^ big whale $$
+^^ big whale $$
+^^ baby one $$
+^^ baby one $$
+^^ baby one $$
+^^ baby one $$
+^^ Daddy one $$
+^^ sitting stand on it $$
+^^ lots_of Pingu $$
+^^ lots_of Pingus $$
+^^ lots_of penguin $$
+^^ lots_of penguin $$
+^^ same $$
+^^ the same $$
+^^ yeah $$
+^^ yeah $$
+^^ Gail $$
+^^ oh $$
+^^ a lion $$
+^^ lion $$
+^^ lion $$
+^^ a lion $$
+^^ tiger $$
+^^ Daddy one $$
+^^ no $$
+^^ xxx $$
+^^ mhm $$
+^^ yes $$
+^^ Caroline $$
+^^ Caroline $$
+^^ xxx $$
+^^ the baby fit on $$
+^^ baby fit on $$
+^^ forward backwards $$
+^^ on floor $$
+^^ yeah $$
+^^ that be way $$
+^^ no $$
+^^ nose $$
+^^ what else in box $$
+^^ yeah $$
+^^ oh $$
+^^ find baby penguin $$
+^^ whoops $$
+^^ baby $$
+^^ what be those $$
+^^ what be those $$
+^^ what be those $$
+^^ what be those $$
+^^ yeah $$
+^^ wear away $$
+^^ no $$
+^^ Caroline $$
+^^ Caroline do it $$
+^^ um come on $$
+^^ xxx come $$
+^^ sit down $$
+^^ xxx $$
+^^ Caroline do $$
+^^ xxx $$
+^^ farm $$
+^^ xxx $$
+^^ train drive $$
+^^ what else in here $$
+^^ Caroline $$
+^^ where xxx $$
+^^ xxx $$
+^^ yeah $$
+^^ oh $$
+^^ xxx $$
+^^ sit on it $$
+^^ oh $$
+^^ what else in $$
+^^ Andy jump $$
+^^ Caroline do $$
+^^ Caroline do $$
+^^ Caroline do $$
+^^ xxx $$
+^^ xxx $$
+^^ Caroline do it $$
+^^ that on top $$
+^^ that on $$
+^^ no $$
+^^ turn $$
+^^ turn it round $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ tip it out $$
+^^ tip it out $$
+^^ tip $$
+^^ arm $$
+^^ no fit on $$
+^^ take it off $$
+^^ no fit on $$
+^^ push it in $$
+^^ that on $$
+^^ do it $$
+^^ that on $$
+^^ that on $$
+^^ that on $$
+^^ arm $$
+^^ that on $$
+^^ that arm on $$
+^^ nothing else in there $$
+^^ xxx $$
+^^ Caroline xxx $$
+^^ Caroline xxx $$
+^^ no fit on $$
+^^ do it $$
+^^ xxx $$
+^^ shop $$
+^^ go shop $$
+^^ oh $$
+^^ xxx $$
+^^ Mummy be get it $$
+^^ xxx play there $$
+^^ garage $$
+^^ oh $$
+^^ shoe $$
+^^ shoe $$
+^^ no $$
+^^ there $$
+^^ there on floor $$
+^^ get it $$
+^^ a stand on it $$
+^^ go in there $$
+^^ yeah $$
+^^ one pound that $$
+^^ lady there $$
+^^ lady there $$
+^^ a stand up $$
+^^ ice $$
+^^ he eat it $$
+^^ yes $$
+^^ no $$
+^^ Alice xxx get one $$
+^^ mhm $$
+^^ call milk $$
+^^ call milk $$
+^^ apple one $$
+^^ xxx apple one $$
+^^ Mummy $$
+^^ yes $$
+^^ yes $$
+^^ come out $$
+^^ and get ice $$
+^^ stick $$
+^^ little boy be $$
+^^ again $$
+^^ ice again $$
+^^ in car $$
+^^ put $$
+^^ yeah $$
+^^ get petrol $$
+^^ some petrol $$
+^^ some petrol $$
+^^ little girl $$
+^^ xxx $$
+^^ some petrol $$
+^^ no $$
+^^ little girl want lick $$
+^^ no $$
+^^ lady $$
+^^ a pay lady $$
+^^ a go in $$
+^^ a get out $$
+^^ a get out $$
+^^ a get out $$
+^^ get in car $$
+^^ oh $$
+^^ go on $$
+^^ uhoh $$
+^^ a go in $$
+^^ ice $$
+^^ ice $$
+^^ get ice $$
+^^ apple one $$
+^^ xxx $$
+^^ Mummy have $$
+^^ a break it $$
+^^ it be break it $$
+^^ a play $$
+^^ no $$
+^^ mhm $$
+^^ little boy $$
+^^ little boy have $$
+^^ little boy $$
+^^ what Sonia do $$
+^^ oh $$
+^^ in hair $$
+^^ xxx $$
+^^ oh $$
+^^ whoopsie $$
+^^ Gail tread on it $$
+^^ xxx $$
+^^ oh $$
+^^ mhm $$
+^^ mhm $$
+^^ Miffy in seaside $$
+^^ yeah $$
+^^ the sun $$
+^^ xxx $$
+^^ costume $$
+^^ what be it $$
+^^ bucket $$
+^^ spade $$
+^^ no $$
+^^ Gail play it $$
+^^ oh $$
+^^ look $$
+^^ tape bump it $$
+^^ shell $$
+^^ splash daddy $$
+^^ craze $$
+^^ she Daddy $$
+^^ Miffy $$
+^^ um Miffy $$
+^^ mhm $$
+^^ mhm $$
+^^ mhm $$
+^^ oh $$
+^^ one shoe $$
+^^ little boy $$
+^^ um that $$
+^^ there $$
+^^ on floor $$
+^^ little boy look it $$
+^^ no $$
+^^ big lift $$
+^^ yeah $$
+^^ next page $$
+^^ yeah $$
+^^ mhm $$
+^^ chimney $$
+^^ rain song $$
+^^ look $$
+^^ that $$
+^^ butter there $$
+^^ pink one $$
+^^ yes $$
+^^ on window $$
+^^ yes $$
+^^ yeah $$
+^^ I see $$
+^^ kite $$
+^^ kite $$
+^^ yeah $$
+^^ mhm $$
+^^ Daniel $$
+^^ Daniel pot $$
+^^ yeah $$
+^^ yeah $$
+^^ and beach $$
+^^ Lawrence $$
+^^ Batman_copter $$
+^^ Thomas_train $$
+^^ yes $$
+^^ the horse one $$
+^^ yes $$
+^^ look $$
+^^ no $$
+^^ no $$
+^^ what be that down there $$
+^^ yeah $$
+^^ yes $$
+^^ yeah $$
+^^ wave $$
+^^ wave to lady $$
+^^ little girl $$
+^^ yeah $$
+^^ Mummy $$
+^^ yeah $$
+^^ what be that on there $$
+^^ yes $$
+^^ Pa $$
+^^ Batman $$
+^^ come $$
+^^ Daddy sort him $$
+^^ yeah $$
+^^ Daddy get him $$
+^^ yeah $$
+^^ go away $$
+^^ yes $$
+^^ go away $$
+^^ Spiderman $$
+^^ no $$
+^^ yes $$
+^^ Daddy sort them $$
+^^ bite squasheder $$
+^^ Caroline toy $$
+^^ mhm $$
+^^ oh $$
+^^ no $$
+^^ Caroline toy $$
+^^ mhm $$
+^^ no $$
+^^ rock Andy $$
+^^ take out $$
+^^ Caroline toy $$
+^^ nothing in there $$
+^^ little boy $$
+^^ little boy $$
+^^ turn round $$
+^^ head $$
+^^ mhm $$
+^^ no $$
+^^ no $$
+^^ turn round head $$
+^^ turn round the head $$
+^^ little girl head $$
+^^ in queue $$
+^^ thank_you $$
+^^ little girl $$
+^^ xxx $$
+^^ no no no $$
+^^ xxx $$
+^^ there $$
+^^ a put those on $$
+^^ no $$
+^^ back on $$
+^^ arm $$
+^^ put those on $$
+^^ put those on back $$
+^^ what else in $$
+^^ oh $$
+^^ sheep $$
+^^ where sheep go $$
+^^ there $$
+^^ two sheep $$
+^^ Mummy sheep $$
+^^ Daddy sheep $$
+^^ Mummy sheep $$
+^^ Daddy sheep $$
+^^ no $$
+^^ sheep $$
+^^ where Mummy go $$
+^^ Mummy go $$
+^^ Mummy Mummy goat $$
+^^ Mummy goat that $$
+^^ and baby goat $$
+^^ xxx $$
+^^ billy $$
+^^ xxx $$
+^^ xxx $$
+^^ a play those $$
+^^ a carry $$
+^^ manage $$
+^^ there $$
+^^ Gail open it $$
+^^ um truck go $$
+^^ truck $$
+^^ there $$
+^^ hold it minute $$
+^^ xxx $$
+^^ there $$
+^^ get it $$
+^^ get it $$
+^^ get it $$
+^^ a get it $$
+^^ get it $$
+^^ keep still $$
+^^ oh $$
+^^ uhoh $$
+^^ Po $$
+^^ Lala $$
+^^ Dipsy $$
+^^ Po $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ truck on $$
+^^ a truck on $$
+^^ you do truck on $$
+^^ a truck on $$
+^^ no $$
+^^ oh $$
+^^ bof $$
+^^ trump $$
+^^ push it around $$
+^^ in lounge $$
+^^ Caroline toy $$
+^^ Andy $$
+^^ no $$
+^^ work $$
+^^ a put it on there $$
+^^ no fit on $$
+^^ a put it back $$
+^^ poo $$
+^^ xxx $$
+^^ Caroline xxx take Andy $$
+^^ quick $$
+^^ in box $$
+^^ what be this $$
+^^ no $$
+^^ mhm $$
+^^ a baby one $$
+^^ a baby one in there $$
+^^ no $$
+^^ can not $$
+^^ yeah $$
+^^ there $$
+^^ make it laugh Andy $$
+^^ yes $$
+^^ xxx $$
+^^ a build it up $$
+^^ a build it up $$
+^^ build it up $$
+^^ build it up $$
+^^ xxx $$
+^^ all fall over $$
+^^ Caroline do it $$
+^^ a Caroline do it $$
+^^ another one there $$
+^^ another one there $$
+^^ another one there $$
+^^ a squishy $$
+^^ a squishy there $$
+^^ no $$
+^^ mhm $$
+^^ Daddy $$
+^^ Daddy $$
+^^ can not sleep $$
+^^ baby tiger there $$
+^^ oh dear $$
+^^ uhoh $$
+^^ oh sorry $$
+^^ xxx $$
+^^ where Daddy go $$
+^^ that $$
+^^ get it $$
+^^ xxx $$
+^^ Daddy $$
+^^ go in there Daddy $$
+^^ put it $$
+^^ a put it $$
+^^ where drive go $$
+^^ where drive $$
+^^ xxx $$
+^^ farm $$
+^^ yeah $$
+^^ that one there $$
+^^ there $$
+^^ want open it $$
+^^ want open it $$
+^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ a xxx $$
+^^ too trick there $$
+^^ wet knickers $$
+^^ yeah $$
+^^ a take it out $$
+^^ a Caroline $$
+^^ yeah $$
+^^ a take those off $$
+^^ Caroline do it $$
+^^ xxx $$
+^^ no $$
+^^ Caroline do it $$
+^^ there $$
+^^ xxx $$
+^^ drive go in there $$
+^^ hm $$
+^^ a drive go in there $$
+^^ where drive go $$
+^^ no $$
+^^ xxx $$
+^^ on there $$
+^^ on there $$
+^^ a Caroline $$
+^^ Caroline $$
+^^ Caroline $$
+^^ Caroline $$
+^^ Caroline $$
+^^ choo $$
+^^ go back $$
+^^ this way $$
+^^ that go back $$
+^^ go back $$
+^^ a Caroline do it $$
+^^ Caroline $$
+^^ no $$
+^^ Caroline do it $$
+^^ make train now $$
+^^ tip_tip tip it out $$
+^^ put shoe on $$
+^^ no slipper $$
+^^ shoe $$
+^^ xxx $$
+^^ slipper on $$
+^^ cold foot $$
+^^ kick Caroline toy $$
+^^ on floor $$
+^^ smell foot $$
+^^ smell foot $$
+^^ Mummy $$
+^^ a smell foot $$
+^^ smell foot $$
+^^ no $$
+^^ in hospital $$
+^^ in hospital $$
+^^ yeah $$
+^^ no $$
+^^ Gail shoe on $$
+^^ xxx $$
+^^ bite health $$
+^^ mind this foot $$
+^^ go in there $$
+^^ and kick it $$
+^^ go on $$
+^^ go on $$
+^^ go on $$
+^^ go on $$
+^^ go on train $$
+^^ go on $$
+^^ come $$
+^^ come $$
+^^ uhoh $$
+^^ oh dear $$
+^^ Caroline do it $$
+^^ Caroline $$
+^^ Caroline $$
+^^ Caroline $$
+^^ Caroline $$
+^^ here $$
+^^ let go $$
+^^ thank_you $$
+^^ go down $$
+^^ go back $$
+^^ go backwards $$
+^^ down there $$
+^^ put it down there $$
+^^ oh $$
+^^ carry it out $$
+^^ carry it out $$
+^^ yeah $$
+^^ no $$
+^^ can not $$
+^^ xxx $$
+^^ oh Caroline $$
+^^ mhm $$
+^^ Mummy love it $$
+^^ Daddy trouser xxx $$
+^^ yeah $$
+^^ Daddy trouser $$
+^^ xxx $$
+^^ xxx $$
+^^ fit in there $$
+^^ xxx $$
+^^ whee $$
+^^ whee $$
+^^ xxx $$
+^^ there $$
+^^ yes $$
+^^ yes $$
+^^ xxx $$
+^^ press the wall $$
+^^ press the wall $$
+^^ what be this $$
+^^ go in there $$
+^^ this one $$
+^^ no $$
+^^ those $$
+^^ Caroline $$
+^^ Caroline $$
+^^ do $$
+^^ Gail listen $$
+^^ tip it out $$
+^^ xxx $$
+^^ oh $$
+^^ oh $$
+^^ look $$
+^^ xxx $$
+^^ where gravy go $$
+^^ that go in bin $$
+^^ go in bin $$
+^^ this one bin $$
+^^ go in kitchen $$
+^^ yeah $$
+^^ xxx $$
+^^ I just $$
+^^ go $$
+^^ yeah $$
+^^ take it in bin $$
+^^ bin lorry $$
+^^ that Gail $$
+^^ no $$
+^^ it be Caroline $$
+^^ I eat it $$
+^^ put it butter on it $$
+^^ like a bit $$
+^^ is this butter $$
+^^ put it there $$
+^^ get a one $$
+^^ orange $$
+^^ a farm there $$
+^^ xxx $$
+^^ cuddle it $$
+^^ xxx $$
+^^ a put it on there $$
+^^ where truck go $$
+^^ yeah $$
+^^ Caroline $$
+^^ Caroline $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ Mummy $$
+^^ no cake $$
+^^ no cake there $$
+^^ mhm $$
+^^ mhm $$
+^^ yeah $$
+^^ no $$
+^^ put it on $$
+^^ take it out $$
+^^ hot $$
+^^ hot $$
+^^ mhm $$
+^^ put it in again $$
+^^ put it in again $$
+^^ a press it $$
+^^ knob $$
+^^ press $$
+^^ hot $$
+^^ dry $$
+^^ dry $$
+^^ hot $$
+^^ iron it $$
+^^ mhm $$
+^^ put it in there $$
+^^ in there $$
+^^ Daddy $$
+^^ put it in there $$
+^^ Daddy $$
+^^ Mummy $$
+^^ paint it $$
+^^ this $$
+^^ no $$
+^^ again $$
+^^ wind it up $$
+^^ wind it up $$
+^^ mhm $$
+^^ xxx $$
+^^ paint $$
+^^ turn it off $$
+^^ brumm $$
+^^ take it off $$
+^^ need this $$
+^^ need this $$
+^^ no $$
+^^ ow $$
+^^ oh $$
+^^ no $$
+^^ Mummy $$
+^^ oh $$
+^^ my finger $$
+^^ sorry $$
+^^ wipe it off on sheet $$
+^^ yeah $$
+^^ oh $$
+^^ paint $$
+^^ Gail $$
+^^ Gail $$
+^^ shut $$
+^^ shut $$
+^^ Gail $$
+^^ the roll $$
+^^ yes $$
+^^ in there $$
+^^ in dark $$
+^^ in there $$
+^^ no $$
+^^ put it in here minute $$
+^^ need paper $$
+^^ yeah $$
+^^ this way $$
+^^ yes $$
+^^ yeah $$
+^^ xxx this way $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ no $$
+^^ no $$
+^^ ink some on it $$
+^^ ink $$
+^^ ink $$
+^^ no $$
+^^ yeah $$
+^^ more $$
+^^ this way $$
+^^ yeah $$
+^^ oh $$
+^^ this on it $$
+^^ safe $$
+^^ a this $$
+^^ Mummy $$
+^^ please help $$
+^^ yes $$
+^^ open it $$
+^^ yeah $$
+^^ okay $$
+^^ a draw on paper $$
+^^ put it on there $$
+^^ green one $$
+^^ Gail $$
+^^ I want this one $$
+^^ no $$
+^^ this one $$
+^^ yes $$
+^^ I do $$
+^^ yes $$
+^^ next page $$
+^^ a this one $$
+^^ Mummy $$
+^^ what this one $$
+^^ this one $$
+^^ no $$
+^^ this one $$
+^^ this one Mum $$
+^^ yellow $$
+^^ a color it $$
+^^ yeah $$
+^^ color $$
+^^ line $$
+^^ draw line $$
+^^ draw line $$
+^^ yeah $$
+^^ no $$
+^^ drawing circle $$
+^^ xxx bin $$
+^^ bag $$
+^^ our bag $$
+^^ yeah $$
+^^ in lorry $$
+^^ in lorry $$
+^^ no $$
+^^ lorry go in $$
+^^ go on the food $$
+^^ yes $$
+^^ yeah $$
+^^ put it there $$
+^^ paint $$
+^^ xxx $$
+^^ Gail $$
+^^ yes $$
+^^ um Gagi $$
+^^ yeah $$
+^^ yeah $$
+^^ to Pa house $$
+^^ a cafe $$
+^^ do not know $$
+^^ xxx $$
+^^ no $$
+^^ Andy $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ in lounge $$
+^^ get ink in it $$
+^^ ink in it $$
+^^ ink in there $$
+^^ ink $$
+^^ look $$
+^^ yeah $$
+^^ yes $$
+^^ yes $$
+^^ clean it $$
+^^ I drop it $$
+^^ no $$
+^^ Caroline toy $$
+^^ drop it $$
+^^ Caroline toy $$
+^^ wait $$
+^^ yeah $$
+^^ Gail wait there $$
+^^ a upstairs $$
+^^ yes $$
+^^ Mummy $$
+^^ xxx fall down $$
+^^ fall down Mummy $$
+^^ no $$
+^^ purple squeak foot $$
+^^ no $$
+^^ this $$
+^^ orange purple $$
+^^ purple $$
+^^ oh dear $$
+^^ put it in wash $$
+^^ want put in wash please $$
+^^ no $$
+^^ this $$
+^^ yeah $$
+^^ yeah $$
+^^ no $$
+^^ hot $$
+^^ hot $$
+^^ more $$
+^^ knob $$
+^^ oh $$
+^^ toe again $$
+^^ oh $$
+^^ toe again $$
+^^ this one $$
+^^ this one $$
+^^ yes $$
+^^ xxx $$
+^^ mhm $$
+^^ yes $$
+^^ yeah $$
+^^ yes $$
+^^ on floor $$
+^^ want hand up $$
+^^ on floor $$
+^^ xxx $$
+^^ xxx $$
+^^ two $$
+^^ you want open it $$
+^^ xxx $$
+^^ yeah $$
+^^ no $$
+^^ Gagi $$
+^^ to Gagi $$
+^^ this one $$
+^^ xxx $$
+^^ oh $$
+^^ it be come back $$
+^^ come back xxx $$
+^^ xxx $$
+^^ no $$
+^^ want to shut it $$
+^^ a Gail want to put it in $$
+^^ Gail $$
+^^ a come back $$
+^^ you do not want this $$
+^^ a hurt a toe $$
+^^ yes $$
+^^ look $$
+^^ come here $$
+^^ come here $$
+^^ come here Mummy $$
+^^ come here Mummy $$
+^^ come here Mummy $$
+^^ go in $$
+^^ yeah $$
+^^ yeah $$
+^^ no $$
+^^ a want a poo $$
+^^ poo $$
+^^ want a poo $$
+^^ want a poo $$
+^^ yeah $$
+^^ Gail one $$
+^^ Gail one $$
+^^ no $$
+^^ Mummy $$
+^^ foot ticket $$
+^^ want a ticket Daddy $$
+^^ no $$
+^^ only Daddy one $$
+^^ yes $$
+^^ xxx want a ticket $$
+^^ no $$
+^^ it for Daddy $$
+^^ ticket $$
+^^ Norwich $$
+^^ play Forest at home $$
+^^ xxx $$
+^^ Forest xxx $$
+^^ um Daniel $$
+^^ yes $$
+^^ Angela $$
+^^ um Andy $$
+^^ Mark $$
+^^ mhm $$
+^^ yeah $$
+^^ oh $$
+^^ Gail home $$
+^^ Mummy call Jo $$
+^^ Mummy call Jo $$
+^^ Gail home $$
+^^ Mummy want a hug $$
+^^ want a hug $$
+^^ xxx $$
+^^ Jo $$
+^^ yeah $$
+^^ little cut $$
+^^ go hospital now $$
+^^ Mummy $$
+^^ yeah $$
+^^ no $$
+^^ yeah $$
+^^ flop $$
+^^ xxx $$
+^^ flop $$
+^^ yeah $$
+^^ and Gail be come now $$
+^^ Daddy be come $$
+^^ yes $$
+^^ Gail be come Gail home $$
+^^ mhm $$
+^^ Caroline $$
+^^ yeah $$
+^^ no $$
+^^ xxx $$
+^^ panda $$
+^^ want to take the clothes off $$
+^^ a I want to take the clothes off $$
+^^ no $$
+^^ upstairs $$
+^^ take a clothes off $$
+^^ Mum $$
+^^ want to take clothes off $$
+^^ they stay on $$
+^^ swim $$
+^^ stay on $$
+^^ xxx $$
+^^ yeah $$
+^^ a take his shoe off $$
+^^ stay on $$
+^^ they stay on $$
+^^ whee $$
+^^ exercise $$
+^^ walk $$
+^^ a put it on floor $$
+^^ the panda $$
+^^ no $$
+^^ sit $$
+^^ Caroline $$
+^^ panda $$
+^^ lick hand $$
+^^ yeah $$
+^^ this hand $$
+^^ I do not know whether you saw it do you $$
+^^ Mummy $$
+^^ Daddy $$
+^^ be that Daddy $$
+^^ monkey tape $$
+^^ monkey tape in car $$
+^^ yeah $$
+^^ Supernaturals $$
+^^ Supernaturals $$
+^^ yeah $$
+^^ yeah $$
+^^ um pig on hand $$
+^^ look $$
+^^ pig stamp $$
+^^ a bubble $$
+^^ big boob $$
+^^ yes $$
+^^ monster $$
+^^ no go in it $$
+^^ xxx $$
+^^ police police police police $$
+^^ yeah $$
+^^ yeah $$
+^^ horse xxx $$
+^^ pat it $$
+^^ pat it $$
+^^ Gail stroke stroke it $$
+^^ Mummy stroke it too $$
+^^ little girl stroke it too $$
+^^ little boy do it too $$
+^^ no $$
+^^ rain $$
+^^ man xxx stroke it $$
+^^ put it xxx $$
+^^ oh dear $$
+^^ xxx $$
+^^ and this one $$
+^^ this one $$
+^^ that one $$
+^^ this one $$
+^^ yeah $$
+^^ do it $$
+^^ Gail sit on $$
+^^ bite nearer $$
+^^ bite $$
+^^ no $$
+^^ want egg Andy $$
+^^ want egg Andy $$
+^^ Gail have one $$
+^^ yeah $$
+^^ a put it in um box $$
+^^ there $$
+^^ this one $$
+^^ this one $$
+^^ yeah $$
+^^ this one $$
+^^ too small that one $$
+^^ this one too small that $$
+^^ this one $$
+^^ no $$
+^^ no $$
+^^ hoover $$
+^^ put up there $$
+^^ a Gail a talk $$
+^^ I lick it $$
+^^ loll $$
+^^ want xxx $$
+^^ no $$
+^^ yeah $$
+^^ this one $$
+^^ too $$
+^^ xxx $$
+^^ that be Gail one $$
+^^ Caroline $$
+^^ want open this $$
+^^ want open this $$
+^^ Gail open it please $$
+^^ oh $$
+^^ look at this $$
+^^ where truck $$
+^^ where truck go $$
+^^ there $$
+^^ a go on $$
+^^ Caroline $$
+^^ come here $$
+^^ come here $$
+^^ come here $$
+^^ come here $$
+^^ come here $$
+^^ this $$
+^^ put it on truck please $$
+^^ on the truck $$
+^^ truck $$
+^^ truck $$
+^^ oh $$
+^^ truck $$
+^^ oh $$
+^^ truck $$
+^^ cow $$
+^^ moo $$
+^^ another one $$
+^^ want it stand up $$
+^^ where the truck go $$
+^^ Gail $$
+^^ Gail $$
+^^ this Gail $$
+^^ is this Gail $$
+^^ is this Gail $$
+^^ is this Gail $$
+^^ this $$
+^^ this $$
+^^ Caroline $$
+^^ xxx $$
+^^ building house $$
+^^ no $$
+^^ building it again $$
+^^ yeah $$
+^^ building $$
+^^ building it up $$
+^^ build it up $$
+^^ one of those $$
+^^ building tractor $$
+^^ wheel $$
+^^ just like one $$
+^^ want a wheel $$
+^^ on top $$
+^^ I be build house $$
+^^ curtain $$
+^^ bed $$
+^^ too $$
+^^ bed $$
+^^ lion $$
+^^ no $$
+^^ like lion $$
+^^ head $$
+^^ toe $$
+^^ head $$
+^^ Mummy $$
+^^ head $$
+^^ Daddy bed $$
+^^ a Daddy in bed $$
+^^ yes $$
+^^ want a nose Daddy $$
+^^ xxx $$
+^^ yes $$
+^^ there $$
+^^ look $$
+^^ the pink one $$
+^^ look $$
+^^ there $$
+^^ Dady fall $$
+^^ this $$
+^^ top $$
+^^ want a nose $$
+^^ want a sit on it $$
+^^ this $$
+^^ put it in there $$
+^^ paint $$
+^^ where another one go $$
+^^ where another one go $$
+^^ another brick $$
+^^ yes $$
+^^ this one $$
+^^ do this $$
+^^ go in there $$
+^^ make dinner $$
+^^ dinner $$
+^^ dinner $$
+^^ dinner $$
+^^ yes $$
+^^ Daddy $$
+^^ come back $$
+^^ Daddy $$
+^^ those one $$
+^^ yeah $$
+^^ yes $$
+^^ yeah $$
+^^ yes $$
+^^ Daddy key $$
+^^ make house $$
+^^ Daddy $$
+^^ come back $$
+^^ in bed $$
+^^ yes $$
+^^ want to take it out $$
+^^ want go shop $$
+^^ egg $$
+^^ Gail egg $$
+^^ where another egg go $$
+^^ another egg $$
+^^ underneath it $$
+^^ another egg $$
+^^ where be another egg $$
+^^ Mummy $$
+^^ where be another egg $$
+^^ yeah $$
+^^ has it stop $$
+^^ sit down then Caroline $$
+^^ xxx $$
+^^ over here $$
+^^ Gail dinner $$
+^^ yeah $$
+^^ egg $$
+^^ eat it $$
+^^ yes $$
+^^ there be doll one $$
+^^ Caroline $$
+^^ Caroline $$
+^^ Caroline $$
+^^ you want it $$
+^^ this $$
+^^ mhm $$
+^^ like it Andy $$
+^^ me hold it $$
+^^ like it Andy $$
+^^ yeah $$
+^^ oh $$
+^^ bring it to Mummy $$
+^^ bring it to Mummy $$
+^^ bring it over here $$
+^^ Mummy $$
+^^ xxx $$
+^^ Caroline $$
+^^ no $$
+^^ um caterpillar $$
+^^ no $$
+^^ yeah $$
+^^ biscuit $$
+^^ teddy biscuit $$
+^^ Gail $$
+^^ Caroline need those $$
+^^ Caroline $$
+^^ blow bubble $$
+^^ Caroline Caroline get $$
+^^ xxx $$
+^^ Caroline blow bubble $$
+^^ Caroline bubble $$
+^^ yeah $$
+^^ Caroline bubble this one $$
+^^ yeah $$
+^^ mhm $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ yes $$
+^^ mhm $$
+^^ no $$
+^^ blow bubble xxx $$
+^^ well do $$
+^^ oh $$
+^^ die $$
+^^ go hospital $$
+^^ can not do it those $$
+^^ no $$
+^^ get some bubble in there $$
+^^ no $$
+^^ work $$
+^^ me can not do them $$
+^^ Mummy $$
+^^ Mum $$
+^^ Mummy blow big one $$
+^^ yeah $$
+^^ yeah $$
+^^ Mummy blow one $$
+^^ big one $$
+^^ yeah $$
+^^ Mummy $$
+^^ Mummy $$
+^^ do there $$
+^^ oh $$
+^^ xxx $$
+^^ a big one $$
+^^ big one $$
+^^ get it in hand $$
+^^ xxx $$
+^^ do not slip off $$
+^^ xxx $$
+^^ Caroline be have enough now $$
+^^ Caroline $$
+^^ mhm $$
+^^ Shaun cut hair $$
+^^ no $$
+^^ baby James $$
+^^ baby James $$
+^^ yeah $$
+^^ baby James Cassie $$
+^^ I stand here $$
+^^ push the sofa down $$
+^^ push the sofa down $$
+^^ can not do it $$
+^^ go round here $$
+^^ baby Justin $$
+^^ baby Justin $$
+^^ mhm $$
+^^ crawl down here $$
+^^ xxx $$
+^^ Caroline $$
+^^ peekaboo peekaboo $$
+^^ xxx down $$
+^^ xxx $$
+^^ oh $$
+^^ fall down $$
+^^ fall down $$
+^^ mhm $$
+^^ Daniel $$
+^^ Daniel Forest $$
+^^ Daniel Forest $$
+^^ Krakatoa $$
+^^ Oasis $$
+^^ a Daniel Krakatoa $$
+^^ a Krakatoa $$
+^^ a Krakatoa $$
+^^ yes $$
+^^ Caroline Leeds $$
+^^ be to Leeds $$
+^^ xxx $$
+^^ posh hotel $$
+^^ xxx $$
+^^ no $$
+^^ boat $$
+^^ xxx $$
+^^ Prince $$
+^^ yeah $$
+^^ yeah $$
+^^ mhm $$
+^^ xxx $$
+^^ drop it $$
+^^ Gail be drop it $$
+^^ and monkey $$
+^^ xxx $$
+^^ catch a fish $$
+^^ frog $$
+^^ a go on $$
+^^ a go on $$
+^^ a go on $$
+^^ yeah $$
+^^ bus go go round and round $$
+^^ drive it $$
+^^ mhm $$
+^^ mhm $$
+^^ no $$
+^^ no $$
+^^ dog $$
+^^ no $$
+^^ in car $$
+^^ no $$
+^^ dog $$
+^^ mhm $$
+^^ yes $$
+^^ on the the Noddy tape $$
+^^ Postman_Pat $$
+^^ Fireman_Sam $$
+^^ Pingu $$
+^^ Farthing Wood $$
+^^ Peter $$
+^^ Peter_Rabbit one $$
+^^ poo $$
+^^ want a poo Caroline $$
+^^ Daddy loo $$
+^^ Daddy loo $$
+^^ xxx $$
+^^ yeah $$
+^^ Caroline come too $$
+^^ want a biscuit Caroline $$
+^^ no $$
+^^ yeah $$
+^^ yeah $$
+^^ xxx $$
+^^ yeah $$
+^^ xxx $$
+^^ Andy own one $$
+^^ Gail own one $$
+^^ mhm $$
+^^ yes $$
+^^ yeah $$
+^^ yeah $$
+^^ Andy do $$
+^^ no $$
+^^ no $$
+^^ in cot $$
+^^ yeah $$
+^^ yeah $$
+^^ in big bed $$
+^^ want look at it $$
+^^ want to look at bed $$
+^^ mhm $$
+^^ Pa give it to Gail $$
+^^ bird $$
+^^ yeah $$
+^^ yeah $$
+^^ xxx $$
+^^ want to see bird $$
+^^ want to see wing $$
+^^ yes $$
+^^ a take a basket $$
+^^ yeah $$
+^^ got get a carrot $$
+^^ no $$
+^^ no $$
+^^ Caroline toy $$
+^^ Caroline toy $$
+^^ whisk some pudding $$
+^^ no onion $$
+^^ no $$
+^^ no $$
+^^ no $$
+^^ what do you think $$
+^^ no $$
+^^ want look at bed now $$
+^^ yeah $$
+^^ want look at it $$
+^^ want to look at it $$
+^^ no $$
+^^ compute $$
+^^ not on tellie $$
+^^ want the Tubbies on the tellie $$
+^^ want the Tubbies on the tellie $$
+^^ xxx $$
+^^ want see Duster $$
+^^ xxx $$
+^^ Noddy party $$
+^^ book $$
+^^ no $$
+^^ Noddy card $$
+^^ a Gail birth $$
+^^ Gail birth $$
+^^ no $$
+^^ Gail $$
+^^ yeah $$
+^^ mhm $$
+^^ Noddy one $$
+^^ yes $$
+^^ yeah $$
+^^ it be warm $$
+^^ I just look lorry $$
+^^ look big lorry $$
+^^ yes $$
+^^ yes $$
+^^ flash $$
+^^ no $$
+^^ oh go $$
+^^ it be go $$
+^^ no $$
+^^ Gail bin $$
+^^ take Gail bin $$
+^^ no $$
+^^ oh $$
+^^ no want Gail bin $$
+^^ no $$
+^^ yes $$
+^^ yes $$
+^^ err $$
+^^ bite cold on $$
+^^ bit hot on there $$
+^^ bit hot on there $$
+^^ there $$
+^^ bit hot up there $$
+^^ see $$
+^^ bit hot up there $$
+^^ hot up there $$
+^^ hot up there $$
+^^ hot $$
+^^ make it hot $$
+^^ want Gail's want Gail bin $$
+^^ want Gail bin $$
+^^ xxx nothing $$
+^^ xxx $$
+^^ man take it away $$
+^^ no want it $$
+^^ man want it $$
+^^ man do not want Gail bin $$
+^^ want Gail bin $$
+^^ smell nappie in it $$
+^^ bit hot on it $$
+^^ no lady want it $$
+^^ xxx lady want it $$
+^^ no $$
+^^ man man man man $$
+^^ yes $$
+^^ king of castle there $$
+^^ yeah $$
+^^ yeah $$
+^^ yeah $$
+^^ err $$
+^^ yeah $$
+^^ no $$
+^^ can not see it $$
+^^ can not get up $$
+^^ can not get up $$
+^^ can not get up $$
+^^ xxx here $$
+^^ bird $$
+^^ yeah $$
+^^ spill Mummy perfume $$
+^^ on on floor $$
+^^ bit hot up there $$
+^^ bit hot $$
+^^ want to feel it Caroline $$
+^^ xxx $$
+^^ xxx $$
+^^ that be Fergus $$
+^^ upside day $$
+^^ upside day $$
+^^ xxx $$
+^^ want to feel it $$
+^^ xxx $$
+^^ xxx $$
+^^ Caroline feel it on there $$
+^^ xxx $$
+^^ it be not hot $$
+^^ not hot there $$
+^^ hot there $$
+^^ yeah $$
+^^ hello Andy $$
+^^ hello Andy $$
+^^ Andy be laugh $$
+^^ Caroline hug him $$
+^^ Caroline hug him $$
+^^ oh $$
+^^ Mummy xxx $$
+^^ Caroline finish now $$
+^^ Gail listen talk $$
+^^ Caroline toy again $$
+^^ mhm $$
+^^ Caroline toy now $$
+^^ Caroline $$
+^^ yeah $$
+^^ mhm $$
+^^ there be a motor $$
+^^ there be a motor $$
+^^ there be a motor $$
+^^ no $$
+^^ xxx $$
+^^ horse $$
+^^ want to get it $$
+^^ Gail Gail get it $$
+^^ talk in here first $$
+^^ the big horse $$
+^^ mhm $$
+^^ no $$
+^^ at Gail $$
+^^ Gail xxx $$
+^^ stay horse house $$
+^^ no $$
+^^ we take Grandpa horse grass $$
+^^ xxx $$
+^^ walk $$
+^^ walk $$
+^^ Mummy see it too $$
+^^ Gail come too $$
+^^ Gail walk $$
+^^ xxx $$
+^^ Gail xxx $$
+^^ horse and xxx grass $$
+^^ give horse some grass $$
+^^ yes $$
+^^ and train come $$
+^^ the light on $$
+^^ no wanted want the light xxx $$
+^^ no $$
+^^ xxx $$
+^^ oh $$
+^^ oh $$
+^^ want some toast $$
+^^ no $$
+^^ no $$
+^^ Sugar $$
+^^ Sugar $$
+^^ mhm $$
+^^ xxx $$
+^^ Mummy $$
+^^ bite dark out $$
+^^ bite dark $$
+^^ turn light off $$
+^^ xxx Gail $$
+^^ again $$
+^^ again Mummy $$
+^^ yeah $$
+^^ yeah $$
+^^ sky $$
+^^ up in sky $$
+^^ it be come back now $$
+^^ xxx $$
+^^ that be Gail $$
+^^ that that there $$
+^^ that that Gail $$
+^^ that $$
+^^ yeah $$
+^^ xxx $$
+^^ this Gail $$
+^^ yeah $$
+^^ Caroline $$
+^^ xxx $$
+^^ yeah $$
+^^ eat carrot $$
+^^ no $$
+^^ Caroline $$
+^^ yeah $$
+^^ oh $$
+^^ little one $$
+^^ little one $$
+^^ that a big one $$
+^^ that a little one $$
+^^ chip $$
+^^ MacDonalds $$
+^^ xxx $$
+^^ play $$
+^^ yeah $$
+^^ yeah $$
+^^ no $$
+^^ Alice eat those $$
+^^ xxx $$
+^^ no $$
+^^ Gail eat them $$
+^^ yeah $$
+^^ mhm $$
+^^ mhm $$
+^^ oh $$
+^^ oh $$
+^^ what be this $$
+^^ croissant $$
+^^ yeah $$
+^^ oh $$
+^^ yeah $$
+^^ xxx $$
+^^ mhm $$
+^^ no $$
+^^ xxx $$
+^^ oh $$
+^^ oh $$
+^^ be that Gail $$
+^^ Caroline $$
+^^ melon $$
+^^ be that Gail $$
+^^ that be Gail $$
+^^ oh $$
+^^ xxx $$
+^^ be that Gail $$
+^^ be that Gail $$
+^^ Caroline $$
+^^ that's that one Caroline $$
+^^ oh $$
+^^ oh $$
+^^ eat this one $$
+^^ eating eat that $$
+^^ no $$
+^^ eat this $$
+^^ no $$
+^^ eat this $$
+^^ eat this one $$
+^^ yeah $$
+^^ like horse $$
+^^ no $$
+^^ no $$
+^^ like horse $$
+^^ like this one $$
+^^ like this one $$
+^^ like this the car $$
+^^ walk $$
+^^ this one $$
+^^ this one $$
+^^ oh $$
+^^ what be this $$
+^^ oh $$
+^^ eat it $$
+^^ eat egg $$
+^^ eat egg $$
+^^ eat scramble $$
+^^ Mummy $$
+^^ not scramble $$
+^^ yeah $$
+^^ a windmill $$
+^^ make a windmill $$
+^^ oh $$
+^^ xxx $$
+^^ that $$
+^^ that smoke $$
+^^ that xxx $$
+^^ yeah $$
+^^ yes $$
+^^ what be that $$
+^^ where be the strawberry $$
+^^ where be the strawberry $$
+^^ squash $$
+^^ squash $$
+^^ no $$
+^^ Gail squash it $$
+^^ it be Gail squash it $$
+^^ oh $$
+^^ wrong way $$
+^^ xxx wrong way $$
+^^ Sonia $$
+^^ just see her $$
+^^ mhm $$
+^^ hoover again $$
+^^ Sonia be holiday $$
+^^ oh $$
+^^ oh $$
+^^ no $$
+^^ what be this $$
+^^ mhm $$
+^^ oh $$
+^^ yeah $$
+^^ eat this $$
+^^ no $$
+^^ not a pineapple $$
+^^ it be orange $$
+^^ no $$
+^^ it be orange $$
+^^ foot in $$
+^^ get foot in $$
+^^ xxx $$
+^^ yes $$
+^^ yeah $$
+^^ orange $$
+^^ want play with this orange one $$
+^^ no $$
+^^ want to get in $$
+^^ want to get in $$
+^^ it be roll over $$
+^^ xxx $$
+^^ no $$
+^^ Gail sit down $$
+^^ no $$
+^^ yeah $$
+^^ want to go in green blue box $$
+^^ go in blue blue box $$
+^^ go in blue box $$
+^^ go in blue box $$
+^^ xxx $$
+^^ go in blue box $$
+^^ blue $$
+^^ this one blue $$
+^^ jump in $$
+^^ Caroline see train $$
+^^ xxx $$
+^^ yeah $$
+^^ get that horse $$
+^^ Mummy $$
+^^ get that horse $$
+^^ xxx $$
+^^ horse in there $$
+^^ upstairs $$
+^^ yes $$
+^^ yeah $$
+^^ yeah $$
+^^ hoover again $$
+^^ Gail look and see $$
+^^ peep out $$
+^^ peep out $$
+^^ no $$
+^^ will not open it $$
+^^ hide $$
+^^ hide $$
+^^ Mummy $$
+^^ be that ice $$
+^^ be that ice $$
+^^ want to go in that one $$
+^^ want to go in that one $$
+^^ no $$
+^^ want to go in that one $$
+^^ want to tip these out $$
+^^ want to tip these out $$
+^^ get the same $$
+^^ this one $$
+^^ that one big $$
+^^ this one be little $$
+^^ oh $$
+^^ there be the drive $$
+^^ there be the drive $$
+^^ there be the drive $$
+^^ there be the drive $$
+^^ there be the drive $$
+^^ train come out $$
+^^ smoke $$
+^^ mhm $$
+^^ can not find it $$
+^^ can not find it $$
+^^ can not fit in $$
+^^ no can not fit in $$
+^^ where be the truck $$
+^^ where be the truck go to $$
+^^ there be it be $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ Caroline do it $$
+^^ where be the truck go to $$
+^^ there $$
+^^ where be the truck go to $$
+^^ where be the truck go to $$
+^^ yes $$
+^^ animal in truck $$
+^^ this one $$
+^^ this one $$
+^^ horse $$
+^^ there it be $$
+^^ yeah $$
+^^ yeah $$
+^^ oh look $$
+^^ what be this $$
+^^ xxx $$
+^^ look $$
+^^ cow $$
+^^ who be that the head of $$
+^^ there it be $$
+^^ yeah $$
+^^ I get it $$
+^^ xxx $$
+^^ what be this one $$
+^^ what be this $$
+^^ oh $$
+^^ no $$
+^^ no $$
+^^ bin $$
+^^ bin $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ paint $$
+^^ oh $$
+^^ oh $$
+^^ yeah $$
+^^ yeah $$
+^^ what be that $$
+^^ a dive $$
+^^ fish $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ pilot $$
+^^ what be that $$
+^^ fly a plane $$
+^^ what be that $$
+^^ solid $$
+^^ a little boy soldier $$
+^^ what be that $$
+^^ what be that $$
+^^ yeah $$
+^^ what be that $$
+^^ yes $$
+^^ what be that $$
+^^ what be that $$
+^^ mhm $$
+^^ no $$
+^^ Jonathan $$
+^^ what be that $$
+^^ what be that $$
+^^ what what be that $$
+^^ yeah $$
+^^ what be that $$
+^^ what be that $$
+^^ yeah $$
+^^ can not find it $$
+^^ oh $$
+^^ that $$
+^^ swim in water $$
+^^ dive $$
+^^ that be a cat $$
+^^ kitten $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ monkey $$
+^^ what be that $$
+^^ what be that $$
+^^ dog $$
+^^ what be that $$
+^^ what be that $$
+^^ kangaroo $$
+^^ what be that $$
+^^ horse $$
+^^ what be that $$
+^^ lamb $$
+^^ what be that $$
+^^ what be that $$
+^^ duck $$
+^^ what be that $$
+^^ snake $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ no $$
+^^ what be that $$
+^^ chameleon $$
+^^ what be that $$
+^^ what be that $$
+^^ chameleon $$
+^^ yes $$
+^^ yes $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ Babe $$
+^^ fluff $$
+^^ no $$
+^^ that a horse $$
+^^ big horse $$
+^^ no $$
+^^ no $$
+^^ Gail find it $$
+^^ what be that $$
+^^ what be that $$
+^^ wheel $$
+^^ what be that $$
+^^ a wheel $$
+^^ what be that $$
+^^ string $$
+^^ what be that $$
+^^ what be that $$
+^^ torch $$
+^^ what be that $$
+^^ um do not know $$
+^^ that be a water can $$
+^^ want out in garden $$
+^^ want out in garden $$
+^^ Kathy $$
+^^ and ice $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ what be that $$
+^^ bucket $$
+^^ no $$
+^^ not there $$
+^^ do Andy like that $$
+^^ yeah $$
+^^ Gail turn it round $$
+^^ there those Teletubbies $$
+^^ yeah $$
+^^ mhm $$
+^^ Spiderman $$
+^^ Spiderman $$
+^^ Batman $$
+^^ that be Spiderman $$
+^^ it be Spiderman on back $$
+^^ there it be $$
+^^ there be Spiderman $$
+^^ ride on a motor $$
+^^ oh $$
+^^ look at that dog $$
+^^ oh $$
+^^ oh $$
+^^ Rolf $$
+^^ he there $$
+^^ there $$
+^^ there $$
+^^ mhm $$
+^^ oh $$
+^^ there be Gail be find Teletubbies $$
+^^ Dipsy $$
+^^ Lala and Po $$
+^^ Lala $$
+^^ that be Lala $$
+^^ that be Po $$
+^^ that be Lala $$
+^^ that be Lala $$
+^^ what be that $$
+^^ have a look $$
+^^ mhm $$
+^^ mhm $$
+^^ Wallace Gromit $$
+^^ what be that $$
+^^ what be that $$
+^^ lion $$
+^^ want to put it on $$
+^^ lion $$
+^^ yeah $$
+^^ that be a lonely lion $$
+^^ what be this $$
+^^ what be this $$
+^^ and zebra $$
+^^ I find a little book $$
+^^ oh $$
+^^ can not get in $$
+^^ can not get in $$
+^^ bite stick $$
+^^ mhm $$
+^^ can not get out $$
+^^ no $$
+^^ get a knee in $$
+^^ oh $$
+^^ that be orange $$
+^^ that hole $$
+^^ xxx $$
+^^ this $$
+^^ Gail knee $$
+^^ Gail knee that $$
+^^ Gail knee $$
+^^ caterpillar $$
+^^ yeah $$
+^^ what be this $$
+^^ that's that be red $$
+^^ that be red $$
+^^ that be red $$
+^^ that $$
+^^ water can $$
+^^ that be green $$
+^^ that be green $$
+^^ it be red $$
+^^ poo $$
+^^ I take you $$
+^^ yeah $$
+^^ Caroline toy $$
+^^ Caroline toy $$
+^^ Caroline toy $$
+^^ Caroline $$
+^^ Caroline toy $$
+^^ Caroline $$
+^^ Caroline toy $$
+^^ Caroline toy $$
+^^ Caroline toy $$
+^^ stand on xxx $$
+^^ on swing $$
+^^ oh $$
+^^ a seesaw $$
+^^ yeah $$
+^^ put it down $$
+^^ one lonely $$
+^^ slide $$
+^^ elephant knee $$
+^^ yeah $$
+^^ no $$
+^^ xxx $$
+^^ three $$
+^^ four $$
+^^ oh dear $$
+^^ seesaw $$
+^^ yeah $$
+^^ yeah $$
+^^ oh $$
+^^ what be that $$
+^^ yes $$
+^^ brokened $$
+^^ yeah $$
+^^ do not sit on my bottom $$
+^^ yeah $$
+^^ three $$
+^^ yeah $$
+^^ three $$
+^^ four $$
+^^ one $$
+^^ one $$
+^^ two $$
+^^ one $$
+^^ yeah $$
+^^ two $$
+^^ that be a slide and step $$
+^^ step $$
+^^ step $$
+^^ three $$
+^^ yeah $$
+^^ no $$
+^^ zebra $$
+^^ yeah $$
+^^ that be zebra $$
+^^ hippo $$
+^^ do you want this one $$
+^^ Caroline toy $$
+^^ I get this one $$
+^^ picnic $$
+^^ picnic $$
+^^ um Mummy read it $$
+^^ Mummy sit there $$
+^^ no $$
+^^ Gail $$
+^^ no $$
+^^ yeah $$
+^^ butter $$
+^^ rabbit $$
+^^ oh $$
+^^ bee $$
+^^ bee $$
+^^ bee $$
+^^ bee $$
+^^ bee $$
+^^ bee $$
+^^ bee $$
+^^ bee $$
+^^ rabbit $$
+^^ this be a big rabbit $$
+^^ no $$
+^^ that be a Daddy one $$
+^^ yeah $$
+^^ that be Mummy one $$
+^^ that be Mummy one $$
+^^ that be Mummy xxx $$
+^^ sound like motor $$
+^^ no $$
+^^ bounce $$
+^^ no $$
+^^ no $$
+^^ Caroline toy now $$
+^^ a foot $$
+^^ a foot $$
+^^ yeah $$
+^^ no $$
+^^ let me go $$
+^^ no $$
+^^ no Mummy $$
+^^ xxx $$
+^^ yeah $$
+^^ yeah $$
+^^ no $$
+^^ yeah $$
+^^ yeah $$
+^^ a put this one on $$
+^^ oh no $$
+^^ put this on $$
+^^ that xxx $$
+^^ put a hat on $$
+^^ a put a hat on $$
+^^ xxx do hat on $$
+^^ thank_you $$
+^^ Caroline craze toy $$
+^^ Caroline craze toy $$
+^^ craze toy $$
+^^ no $$
+^^ got get a bag $$
+^^ get a bag $$
+^^ not today $$
+^^ need potato $$
+^^ need potato $$
+^^ need potato $$
+^^ yeah $$
+^^ Daddy xxx need potato $$
+^^ yeah $$
+^^ xxx $$
+^^ no $$
+^^ no $$
+^^ it be mine be $$
+^^ want it $$
+^^ I want it $$
+^^ xxx $$
+^^ xxx peep out $$
+^^ oh $$
+^^ xxx $$
+^^ yeah $$
+^^ no $$
+^^ xxx put it in $$
+^^ can not put it in $$
+^^ come on $$
+^^ doll do a bof $$
+^^ yeah $$
+^^ Andy do $$
+^^ no $$
+^^ horse $$
+^^ hen $$
+^^ pig $$
+^^ pig $$
+^^ I sit in it $$
+^^ no $$
+^^ sit on it $$
+^^ yeah $$
+^^ mhm $$
+^^ um put horse up here $$
+^^ put horse up here $$
+^^ want to push it down $$
+^^ push it $$
+^^ pig down $$
+^^ hen down $$
+^^ can not do it $$
+^^ yes $$
+^^ I can $$
+^^ just do it $$
+^^ oh $$
+^^ mhm $$
+^^ yeah $$
+^^ dingdong $$
+^^ man give it to Gail $$
+^^ go swim in water $$
+^^ get bubble out_of mouth $$
+^^ snake come out_of mouse hole $$
+^^ yeah $$
+^^ dingdong $$
+^^ xxx $$
+^^ oh $$
+^^ there be bubble $$
+^^ like Gail bubble $$
+^^ the snake come out $$
+^^ pop out $$
+^^ dingdong $$
+^^ they like that one $$
+^^ like Gail one $$
+^^ yeah $$
+^^ Gail look at it $$
+^^ want lie down $$
+^^ yeah $$
+^^ mhm $$
+^^ yeah $$
+^^ yeah $$
+^^ oh $$
+^^ yeah $$
+^^ oh $$
+^^ yeah $$
+^^ want to pick up Olwin $$
+^^ yeah $$
+^^ Gail be look it $$
+^^ put a put put a lion on $$
+^^ want put a lion on $$
+^^ yeah $$
+^^ yeah $$
+^^ um Diana $$
+^^ Diana $$
+^^ get in bath $$
+^^ get in bath $$
+^^ get bubble $$
+^^ yeah $$
+^^ sorry $$
+^^ xxx $$
+^^ be that a bubble $$
+^^ be that a bubble $$
+^^ oh no $$
+^^ xxx $$
+^^ no $$
+^^ I want to stay in $$
+^^ yeah $$
+^^ get in $$
+^^ have a bath now $$
+^^ have a bath now $$
+^^ yeah $$
+^^ sit $$
+^^ um go France $$
+^^ France $$
+^^ Centre_Parcs $$
+^^ and Gail have a trolley $$
+^^ little trolley with a flag on $$
+^^ no $$
+^^ mhm $$
+^^ Centre_Parcs $$
+^^ Centre_Parcs $$
+^^ yeah $$
+^^ a Gail want a trolley $$
+^^ buy buy sweet $$
+^^ and put it in trolley $$
+^^ want a bag $$
+^^ the lady $$
+^^ kick $$
+^^ kick $$
+^^ want a swim xxx Mark $$
+^^ yeah $$
+^^ dingdong $$
+^^ ticktock $$
+^^ yeah $$
+^^ yeah $$
+^^ round and round $$
+^^ xxx $$
+^^ mhm $$
+^^ yeah $$
+^^ yeah $$
+^^ like that $$
+^^ mhm $$
+^^ mhm $$
+^^ like this one $$
+^^ like this one $$
+^^ mhm $$
+^^ rufty $$
+^^ yeah $$
+^^ no $$
+^^ yeah $$
+^^ Gail get some toy in Chris house $$
+^^ lady lady toy $$
+^^ yeah $$
+^^ yeah $$
+^^ and Gail hug it $$
+^^ Paddington_Bear $$
+^^ look Chris bed $$
+^^ a look at Chris bed Mummy $$
+^^ yeah $$
+^^ yeah $$
+^^ mhm $$
+^^ like this one $$
+^^ yeah $$
+^^ yeah $$
+^^ knock on door $$
+^^ yeah $$
+^^ Daniel door $$
+^^ mhm $$
+^^ mhm $$
+^^ mhm $$
+^^ what be Caroline call $$
+^^ what be that $$
+^^ that be Andy $$
+^^ yeah $$
+^^ no $$
+^^ a Gail $$
+^^ yes $$
+^^ yeah $$
+^^ Gail $$
+^^ Gail come Gail home $$
+^^ Caroline come $$
+^^ come next week $$
+^^ oh $$
+^^ drop it $$
+^^ pretend eat $$
+^^ wanna do want to do this one $$
+^^ want to do that $$
+^^ no can mend it $$
+^^ Becky $$
+^^ Becky come Gail house $$
+^^ come Gail house $$
+^^ mhm $$
+^^ xxx $$
+^^ come Gail house $$
+^^ come Gail house $$
+^^ yeah $$
+^^ xxx down there $$
+^^ want to go in there $$
+^^ want to get in $$
+^^ squash it $$
+^^ Ginger_Miller $$
+^^ want read this book $$
+^^ Get_Into_Bed $$
+^^ want to read it $$
+^^ Caroline Gail $$
+^^ Caroline read it $$
+^^ yeah $$
+^^ oh $$
+^^ hold Andy $$
+^^ mhm $$
+^^ no $$
+^^ Gail read it $$
+^^ no $$
+^^ Mummy read $$
+^^ library $$
+^^ squeeze up $$
+^^ Andy be look at book $$
+^^ yeah $$
+^^ there $$
+^^ egg $$
+^^ chicken $$
+^^ yeah $$
+^^ xxx $$
+^^ mhm $$
+^^ xxx $$
+^^ chicken $$
+^^ lick on Andy $$
+^^ no $$
+^^ um tip it out toy $$
+^^ tip toy out $$
+^^ tip toy out $$
+^^ oh $$
+^^ Gail open lid $$
+^^ oh $$
+^^ Caroline do it $$
+^^ xxx $$
+^^ put it on Caroline $$
+^^ xxx $$
+^^ no $$
+^^ can not do it $$
+^^ mhm $$
+^^ fence $$
+^^ fence $$
+^^ car go over over fence $$
+^^ car go fence xxx $$
+^^ car go fence xxx $$
+^^ yeah $$
+^^ car $$
+^^ squeeze through $$
+^^ hm $$
+^^ oh $$
+^^ where that come from $$
+^^ yeah $$
+^^ front of train $$
+^^ there it be $$
+^^ oh $$
+^^ go $$
+^^ look $$
+^^ oh $$
+^^ front of train $$
+^^ that be front of train $$
+^^ Caroline do it $$
+^^ where be the truck $$
+^^ where be the truck go to $$
+^^ xxx $$
+^^ this be truck $$
+^^ where's there it be $$
+^^ I can not put it on $$
+^^ oh $$
+^^ yeah $$
+^^ Caroline do it bite $$
+^^ Caroline bit do it $$
+^^ Caroline bit do it $$
+^^ go down here $$
+^^ mind Mummy tea $$
+^^ I can not do it $$
+^^ Caroline $$
+^^ here you be $$
+^^ put it on on track $$
+^^ truck $$
+^^ I be break it $$
+^^ there we be $$
+^^ break it $$
+^^ xxx $$
+^^ thank_you $$
+^^ xxx $$
+^^ mhm $$
+^^ xxx drive $$
+^^ there it be $$

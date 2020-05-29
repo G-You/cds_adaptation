@@ -1,3 +1,4 @@
+^^ xxx $$
 ^^ right $$
 ^^ shall we take Morag clothes off so we can give her a bath $$
 ^^ right $$
@@ -19,7 +20,7 @@
 ^^ hm $$
 ^^ shall we put her her pretty pink frock on as it be get near summer $$
 ^^ think she genmod like that $$
-^^ have a pink frock on instead of  her trouser and jump $$
+^^ have a pink frock on instead of her her trouser and jump $$
 ^^ hm $$
 ^^ too cold for her dress be it $$
 ^^ yeah $$
@@ -30,6 +31,7 @@
 ^^ I will move those $$
 ^^ it do not matter $$
 ^^ we be not ready for that yet be we $$
+^^ eh $$
 ^^ that be it $$
 ^^ just give her a little wash $$
 ^^ do she like her bath $$
@@ -48,7 +50,7 @@
 ^^ well $$
 ^^ just put the bath over there look $$
 ^^ and let Mummy $$
-^^ just hold her a  little minute $$
+^^ just hold her a minute little minute $$
 ^^ there $$
 ^^ put her on her towel now $$
 ^^ on her changing $$
@@ -61,8 +63,8 @@
 ^^ well $$
 ^^ you can wipe those off can not you with the towel when you dry her $$
 ^^ hm $$
-^^  put her on the towel and wrap her up to keep her nice and warm like Mummy do you $$
-^^  wait for the bubble $$
+^^ put put her on the towel and wrap her up to keep her nice and warm like Mummy do you $$
+^^ xxx wait for the bubble $$
 ^^ right $$
 ^^ oh $$
 ^^ wait a long while I think $$
@@ -75,11 +77,13 @@
 ^^ no $$
 ^^ oh right $$
 ^^ go to wrap her up $$
-^^ dry you own  arm first $$
+^^ dry you own arm arm first $$
 ^^ that be it $$
 ^^ and the other one $$
+^^ xxx $$
 ^^ excuse me $$
 ^^ I know $$
+^^ www $$
 ^^ right $$
 ^^ what be you do $$
 ^^ again $$
@@ -132,7 +136,7 @@
 ^^ have she get a hair on her tum $$
 ^^ oh $$
 ^^ where do I put her dress $$
-^^  I think I  pop it down there $$
+^^ I I think I pop pop it down there $$
 ^^ do you want her dress on or be you go to put her $$
 ^^ want to put that on be you $$
 ^^ oh $$
@@ -149,6 +153,7 @@
 ^^ you $$
 ^^ alright then $$
 ^^ you do that then $$
+^^ xxx $$
 ^^ you scrub her $$
 ^^ make sure she be clean $$
 ^^ hm $$
@@ -195,6 +200,7 @@
 ^^ what be naughty $$
 ^^ be I naughty $$
 ^^ why $$
+^^ www $$
 ^^ alright now $$
 ^^ who be it on the telephone $$
 ^^ who be it on the telephone $$
@@ -206,6 +212,7 @@
 ^^ let go $$
 ^^ if you do that again then I shall smack you $$
 ^^ that be naughty $$
+^^ www $$
 ^^ you do not do that $$
 ^^ you do not pull hair $$
 ^^ I do not pull yours $$
@@ -225,17 +232,17 @@
 ^^ I do not suppose you want to cook anybody $$
 ^^ what be we go to cook today $$
 ^^ what about $$
-^^ what about  fry some sausage and a egg $$
+^^ what about doing fry some sausage and a egg $$
 ^^ hm $$
 ^^ Nicole $$
 ^^ what about fry some sausage and a egg $$
 ^^ do you want to do that $$
-^^ you have not show Caroline  your scale that you have acquire and how they work $$
+^^ you have not show Caroline your your scale that you have acquire and how they work $$
 ^^ do you think Caroline know how scale work $$
 ^^ scale $$
 ^^ think she know $$
 ^^ be you go to come and show her $$
-^^ have you get your  $$
+^^ have you get your xxx $$
 ^^ hm $$
 ^^ hm $$
 ^^ put your dish on the scale $$
@@ -248,7 +255,7 @@
 ^^ you have get to put them and make them the same have not you to balance $$
 ^^ be that right $$
 ^^ mhm $$
-^^  what $$
+^^ what what $$
 ^^ what will happen if you $$
 ^^ oh $$
 ^^ have you finish with those $$
@@ -262,7 +269,7 @@
 ^^ night_night $$
 ^^ night_night $$
 ^^ be you fast asleep Nicole $$
-^^  do you think she be fast asleep Caroline $$
+^^ are do you think she be fast asleep Caroline $$
 ^^ I do $$
 ^^ yes $$
 ^^ right $$
@@ -392,19 +399,25 @@
 ^^ yes $$
 ^^ because she be go to get very cold be not she $$
 ^^ okay $$
-^^ be you go to put  her trouser and her jump back on $$
+^^ be you go to put her her trouser and her jump back on $$
 ^^ you carry her then $$
+^^ www $$
 ^^ think her knickers could do with a wash Nicole $$
-^^  if I put her knickers on be you go to pull them up $$
+^^ um if I put her knickers on be you go to pull them up $$
 ^^ you be be very laze be not you Nicole $$
+^^ www $$
 ^^ I will be back in a minute $$
 ^^ that be it $$
 ^^ have her head get off $$
 ^^ oh dear me $$
 ^^ right $$
 ^^ have a good look $$
+^^ xxx $$
+^^ xxx $$
 ^^ get your head back on doll $$
 ^^ put her what $$
+^^ www $$
+^^ www $$
 ^^ otherwise that can wait until Daddy come home $$
 ^^ oh $$
 ^^ oh $$
@@ -413,6 +426,7 @@
 ^^ no no $$
 ^^ oh $$
 ^^ well do $$
+^^ www $$
 ^^ well do Caroline $$
 ^^ right $$
 ^^ be you go to put her jump on $$
@@ -440,6 +454,7 @@
 ^^ oh $$
 ^^ three $$
 ^^ will all these temper tantrum stop on your third birth $$
+^^ www $$
 ^^ get it off not on $$
 ^^ oh $$
 ^^ they look like a pair of doll knickers to me $$
@@ -466,9 +481,11 @@
 ^^ good girl $$
 ^^ eleventeen $$
 ^^ love $$
+^^ www $$
 ^^ oh $$
 ^^ oh Nicole $$
 ^^ why have you always get to be climb up me $$
+^^ www $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
@@ -490,12 +507,13 @@
 ^^ oh $$
 ^^ oh dear $$
 ^^ maybe he be get lose $$
-^^  can not see him $$
+^^ can't can not see him $$
 ^^ never mind $$
 ^^ actual $$
 ^^ there be one or two miss $$
 ^^ the goat be miss $$
 ^^ the dog be miss $$
+^^ www $$
 ^^ the other dog miss $$
 ^^ because we have two dog do not we $$
 ^^ the goat $$
@@ -522,7 +540,7 @@
 ^^ you have get to take your book back to the library on Saturday $$
 ^^ oh $$
 ^^ do you hear me Nicole $$
-^^    shall we read that story $$
+^^ shall we read shall we read that story $$
 ^^ that be a nice book be not it $$
 ^^ that be it $$
 ^^ get them all out $$
@@ -559,7 +577,9 @@
 ^^ yes $$
 ^^ we go shop in Arnold yesterday $$
 ^^ yeah $$
+^^ www $$
 ^^ yeah $$
+^^ www $$
 ^^ it be not yours $$
 ^^ it be Caroline $$
 ^^ oh $$
@@ -568,7 +588,9 @@
 ^^ what have you do with his nose Nicole $$
 ^^ oh $$
 ^^ I think his nose be in $$
+^^ www $$
 ^^ in here $$
+^^ www $$
 ^^ be it $$
 ^^ I do not think so $$
 ^^ do not know where it be $$
@@ -580,13 +602,14 @@
 ^^ no $$
 ^^ never mind $$
 ^^ we will look for him later $$
+^^ eh $$
 ^^ shall we look for him later $$
 ^^ oh $$
 ^^ it be yours $$
 ^^ it be yours $$
 ^^ it be $$
 ^^ that be yours to play with $$
-^^ see if we can find any other  $$
+^^ see if we can find any other xxx $$
 ^^ Daddy what $$
 ^^ who have you be on the telephone to $$
 ^^ what man $$
@@ -602,7 +625,9 @@
 ^^ you go this way $$
 ^^ clicketyclop $$
 ^^ clicketyclop $$
+^^ xxx $$
 ^^ where have you put this pink man Nicole $$
+^^ www $$
 ^^ come on $$
 ^^ where be he $$
 ^^ be he over here $$
@@ -617,7 +642,7 @@
 ^^ come on then $$
 ^^ I be not get off $$
 ^^ oh no $$
-^^ not      when you be carry me on your back $$
+^^ not when you're having a ride when you be carry me on your back $$
 ^^ do not think I be get off do you $$
 ^^ not when you be give me a nice ride $$
 ^^ be you on $$
@@ -628,6 +653,7 @@
 ^^ clicketyclop $$
 ^^ oh dear $$
 ^^ not the thorough I used to be Nicole $$
+^^ eh $$
 ^^ not the race I used to $$
 ^^ be you go to get down $$
 ^^ which way $$
@@ -685,7 +711,7 @@
 ^^ you want me to be a tunnel $$
 ^^ come on then $$
 ^^ get out $$
-^^  if I be go to be a tunnel $$
+^^ if if I be go to be a tunnel $$
 ^^ I do not think you know what you want do you $$
 ^^ well $$
 ^^ come and sit on my knee then $$
@@ -707,7 +733,7 @@
 ^^ they have not be out today have they $$
 ^^ wonder if the wash be dry $$
 ^^ do not you think the wash be dry $$
-^^  you go and fetch me a book and I will read to you $$
+^^ you you go and fetch me a book and I will read to you $$
 ^^ no $$
 ^^ Nicole $$
 ^^ I be not $$
@@ -730,9 +756,12 @@
 ^^ do not make that noise $$
 ^^ it be horrible $$
 ^^ you be get quite horrible Nicole $$
+^^ www $$
 ^^ get off $$
 ^^ you will not be have fruit pastille for a while $$
 ^^ what $$
+^^ www $$
+^^ www $$
 ^^ ah $$
 ^^ pardon $$
 ^^ what be you go to make $$
@@ -741,6 +770,8 @@
 ^^ other one what $$
 ^^ there be only two whale $$
 ^^ that be a Mummy whale and a baby $$
+^^ www $$
+^^ www $$
 ^^ I do not think there be another one $$
 ^^ there be just three $$
 ^^ oh there $$
@@ -768,6 +799,7 @@
 ^^ choo $$
 ^^ want to lift your bridge up $$
 ^^ choo $$
+^^ www $$
 ^^ just calm down $$
 ^^ just calm down $$
 ^^ will you calm down please $$
@@ -793,6 +825,7 @@
 ^^ the one in the house or the one in the garden will not we $$
 ^^ mhm $$
 ^^ go to watch everything we grow $$
+^^ eh $$
 ^^ be you tire $$
 ^^ today $$
 ^^ what be you sing $$
@@ -819,7 +852,7 @@
 ^^ and she will blow it out $$
 ^^ oh $$
 ^^ I will hold the cake while you squeeze out your corner $$
-^^  that be what happen when you squeeze in corner $$
+^^ that's that be what happen when you squeeze in corner $$
 ^^ you get stick $$
 ^^ do not think she be bother be she $$
 ^^ be you go to make some soup $$
@@ -838,7 +871,7 @@
 ^^ silly me $$
 ^^ silly me $$
 ^^ if you have do the soup be you go to put it in some bowl and do some toast then $$
-^^  or get a roll out for us $$
+^^ or or get a roll out for us $$
 ^^ have we come up here to play with the cook $$
 ^^ no $$
 ^^ I be go to sit here $$
@@ -856,7 +889,7 @@
 ^^ who be what $$
 ^^ oh $$
 ^^ that be my chair creak $$
-^^ be you go to tell Caroline what you do  in the week $$
+^^ be you go to tell Caroline what you do in in the week $$
 ^^ where we go $$
 ^^ can not you remember $$
 ^^ go to the White_Post_Farm do not we $$
@@ -884,6 +917,7 @@
 ^^ and the duckling $$
 ^^ and the Mummys be take the bread be not they $$
 ^^ and go and feed their baby be not they $$
+^^ www $$
 ^^ and what else do you see at the White_Post_farm $$
 ^^ apart from sheep $$
 ^^ apart from sheep $$
@@ -894,14 +928,16 @@
 ^^ what other animal be there $$
 ^^ hm $$
 ^^ yeah $$
-^^ and  what be in that little field with a baby $$
+^^ and what what be in that little field with a baby $$
 ^^ near the car $$
 ^^ there be a Jersey_cow be not there $$
 ^^ with her calf $$
 ^^ mhm $$
+^^ www $$
+^^ www $$
 ^^ I do not know why you be not tire $$
 ^^ because you have walk down Westdale_Lane $$
-^^  you should be tire out $$
+^^ should you should be tire out $$
 ^^ well $$
 ^^ you should be $$
 ^^ your little leg $$
@@ -922,7 +958,7 @@
 ^^ Molly be here $$
 ^^ have a scratch $$
 ^^ I will imagine she have $$
-^^ because  you have be harass her $$
+^^ because you you have be harass her $$
 ^^ alright then $$
 ^^ calm down $$
 ^^ calm down $$
@@ -949,8 +985,8 @@
 ^^ everything ridiculous be not it $$
 ^^ everything ridiculous $$
 ^^ no $$
-^^  fasten Caroline handbag up for her $$
-^^  can you do it $$
+^^ fasten fasten Caroline handbag up for her $$
+^^ can can you do it $$
 ^^ we have see a new baby this week have not we $$
 ^^ two week old $$
 ^^ mhm $$
@@ -1003,7 +1039,7 @@
 ^^ where be my $$
 ^^ no $$
 ^^ I be not $$
-^^ I can not wait   for you to do your soup $$
+^^ I can not wait for your for you to do your soup $$
 ^^ I be go to do my egg $$
 ^^ because I be hungry $$
 ^^ there we be $$
@@ -1016,6 +1052,7 @@
 ^^ bit of salt $$
 ^^ thank_you $$
 ^^ what be you have $$
+^^ mm $$
 ^^ this be nice $$
 ^^ no $$
 ^^ this be mine $$
@@ -1028,7 +1065,7 @@
 ^^ you be go to have to pick it up now be not you $$
 ^^ get a cloth and wipe your mess up $$
 ^^ hello $$
-^^ be you go to  clean your mess up Nicole $$
+^^ be you go to make clean your mess up Nicole $$
 ^^ go to clean your mess $$
 ^^ come on $$
 ^^ clean your mess up $$
@@ -1040,14 +1077,14 @@
 ^^ what do you make $$
 ^^ you do $$
 ^^ you make $$
-^^ you do some drawing on  a special shape do not you $$
+^^ you do some drawing on something a special shape do not you $$
 ^^ what be they $$
 ^^ what be you go to do with those $$
 ^^ eat them $$
 ^^ eat them there $$
 ^^ it be a lot to eat be not it $$
 ^^ you do like it do not you $$
-^^  you play with play at play $$
+^^ play you play with play at play $$
 ^^ no $$
 ^^ what do you have at play then $$
 ^^ you do $$
@@ -1060,7 +1097,7 @@
 ^^ be you eat the egg $$
 ^^ you like egg do not you $$
 ^^ that be the yolk $$
-^^   that be call the egg yolk $$
+^^ that that that be call the egg yolk $$
 ^^ the yellow $$
 ^^ and that taste different do not it than the white $$
 ^^ have you notice $$
@@ -1081,10 +1118,10 @@
 ^^ I be not go to drink it out the pan $$
 ^^ get me a spoon $$
 ^^ thank_you $$
-^^  what flavor soup be it $$
+^^ what what flavor soup be it $$
 ^^ yes please $$
 ^^ okay $$
-^^  what soup be you do $$
+^^ what what soup be you do $$
 ^^ what be Mummy get $$
 ^^ yeah $$
 ^^ but what flavor $$
@@ -1093,7 +1130,7 @@
 ^^ mushroom $$
 ^^ vegetable $$
 ^^ just soup $$
-^^  what be Caroline have $$
+^^ what what be Caroline have $$
 ^^ soup too $$
 ^^ be you go $$
 ^^ be you go to turn it on otherwise it will never warm up will it $$
@@ -1102,7 +1139,7 @@
 ^^ sauce $$
 ^^ sauce $$
 ^^ tomato sauce $$
-^^  or another word for it be ketchup $$
+^^ or or another word for it be ketchup $$
 ^^ can you say ketchup $$
 ^^ no Nicole $$
 ^^ Caroline soup ready yet $$
@@ -1113,12 +1150,14 @@
 ^^ oh $$
 ^^ a little one then $$
 ^^ pardon $$
-^^  I have get a big one $$
+^^ I've I have get a big one $$
 ^^ Caroline want a little spoon do not she $$
 ^^ thank_you $$
 ^^ whoops $$
 ^^ drop my spoon $$
 ^^ bump $$
+^^ www $$
+^^ www $$
 ^^ and it be a sheep be not it $$
 ^^ I do not think I can $$
 ^^ I might be able to $$
@@ -1126,20 +1165,20 @@
 ^^ there $$
 ^^ well $$
 ^^ there be nothing in it $$
-^^ because  what be in it have be eat $$
+^^ because what what be in it have be eat $$
 ^^ can you remember $$
 ^^ there be a little chocolate thing in there be not there I think $$
 ^^ yeah $$
 ^^ you have have some jelly $$
 ^^ no $$
 ^^ in a minute $$
-^^  when the tape finish $$
+^^ when when the tape finish $$
 ^^ near $$
 ^^ have it near finish $$
 ^^ five minute $$
 ^^ not yet $$
 ^^ no $$
-^^ do not push yourself into place that  Nicole $$
+^^ do not push yourself into place that xxx Nicole $$
 ^^ how many piece of $$
 ^^ pizza $$
 ^^ shall we weigh them $$
@@ -1147,6 +1186,7 @@
 ^^ oh $$
 ^^ yes $$
 ^^ they balance $$
+^^ xxx $$
 ^^ oh no $$
 ^^ just two $$
 ^^ can not put another one on $$
@@ -1159,7 +1199,7 @@
 ^^ Nicole $$
 ^^ how many piece of pizza be there $$
 ^^ Nicole $$
-^^ I shall sit back  up on the chair if you do not stop do that $$
+^^ I shall sit back up up on the chair if you do not stop do that $$
 ^^ how many piece of pizza $$
 ^^ mhm $$
 ^^ three $$
@@ -1173,6 +1213,9 @@
 ^^ it make three $$
 ^^ not four $$
 ^^ that will make four will not it $$
+^^ www $$
+^^ www $$
+^^ www $$
 ^^ be you go to play fish now $$
 ^^ pardon $$
 ^^ do not know $$
@@ -1187,7 +1230,8 @@
 ^^ oh $$
 ^^ I think the magnet have appear $$
 ^^ but they have not $$
-^^ think  one be magnet $$
+^^ think one one be magnet $$
+^^ www $$
 ^^ here $$
 ^^ yes $$
 ^^ yours be $$
@@ -1200,6 +1244,7 @@
 ^^ you have both get one and Mummy get none $$
 ^^ put it back $$
 ^^ and have another go $$
+^^ www $$
 ^^ have you get two $$
 ^^ how many do Caroline get $$
 ^^ one $$
@@ -1209,8 +1254,10 @@
 ^^ very good $$
 ^^ there $$
 ^^ thank_you $$
+^^ www $$
 ^^ there $$
 ^^ thank_you $$
+^^ www $$
 ^^ Caroline be get one $$
 ^^ shall we see how many Nicole can get out now $$
 ^^ be your foot cold $$
@@ -1248,6 +1295,7 @@
 ^^ I have not see this $$
 ^^ have not you see this $$
 ^^ this be love be not it $$
+^^ www $$
 ^^ you want to do it $$
 ^^ put that piece next to it $$
 ^^ where be the scare $$
@@ -1257,6 +1305,7 @@
 ^^ oh $$
 ^^ let us get these out shall we $$
 ^^ then we can see what we be do a bit good $$
+^^ www $$
 ^^ right $$
 ^^ that go there do not it $$
 ^^ and then that one go next to it $$
@@ -1277,7 +1326,7 @@
 ^^ that be right $$
 ^^ now $$
 ^^ what go at the other end $$
-^^ be you look for  the combine harvest $$
+^^ be you look for the the combine harvest $$
 ^^ mhm $$
 ^^ that be down here the duck $$
 ^^ but we want the combine harvest $$
@@ -1294,7 +1343,7 @@
 ^^ you can $$
 ^^ you just do not try $$
 ^^ it go there $$
-^^ if it do not slot in first time you   give up $$
+^^ if it do not slot in first time you give it give up $$
 ^^ you do $$
 ^^ there $$
 ^^ right $$
@@ -1355,7 +1404,7 @@
 ^^ put it in $$
 ^^ can you see look that be a cockerel $$
 ^^ and a hen $$
-^^  sit on a nest look $$
+^^ lay sit on a nest look $$
 ^^ and now $$
 ^^ we want a chick feed and a hen $$
 ^^ and I think we will find that piece fit $$
@@ -1478,16 +1527,18 @@
 ^^ well $$
 ^^ we can do it again can not we later with Daddy $$
 ^^ that be the good thing about jig puzzle $$
-^^ you  can do them and do them again $$
+^^ you can can do them and do them again $$
 ^^ shall we do the weather one or Postman_Pat $$
 ^^ weather $$
 ^^ you be not sit on the table $$
 ^^ because the television be on the table $$
 ^^ and Caroline tape be on the table $$
 ^^ there $$
+^^ xxx $$
 ^^ do that one first $$
+^^ xxx $$
 ^^ no $$
-^^  do not break them all up Nicole please $$
+^^ don't do not break them all up Nicole please $$
 ^^ here you be $$
 ^^ break them all up please $$
 ^^ then we can put them back in the box as we do them can not we $$
@@ -1509,9 +1560,11 @@
 ^^ what be the matter $$
 ^^ what be the matter $$
 ^^ you can do that can not you $$
-^^ why can not Mummy do it if you can do it  $$
+^^ why can not Mummy do it if you can do it eh $$
 ^^ two year old little girl have not get the priority on do that you know $$
+^^ a $$
 ^^ be you tire little girl $$
+^^ a $$
 ^^ shall we see if we can fit her in that cradle and rock her off to sleep $$
 ^^ you be too little to go in there be you $$
 ^^ do you mean you be too big $$
@@ -1561,27 +1614,32 @@
 ^^ and you be ever so fretful about go to the college creche be not you $$
 ^^ yeah $$
 ^^ and then be not you please when you saw two of the teach at creche that be at Marshall_Hill_Drive $$
+^^ www $$
 ^^ yeah $$
 ^^ we be go on Monday be not we $$
 ^^ be not you please $$
+^^ www $$
 ^^ tomorrow $$
 ^^ yes $$
 ^^ what be the matter with you Nicole $$
 ^^ I can hear you $$
 ^^ look where $$
 ^^ who be there $$
+^^ www $$
 ^^ pop off $$
 ^^ okay $$
 ^^ see you $$
 ^^ bye Daddy $$
+^^ www $$
 ^^ he be just go to pop somewhere to get something sign $$
+^^ www $$
 ^^ you be go to go to Marshall_Hill_Drive tomorrow because it be Friday $$
 ^^ and it be just Nicole and Lucy tomorrow be not it $$
 ^^ Rebecca do not go on a Friday $$
 ^^ and then on Monday while Mummy go back to school Nicole go to the creche do not she $$
 ^^ you have your dinner there do not you $$
 ^^ hm $$
-^^ and two of your teach  at Marshall_Hill_Drive be at creche be not they $$
+^^ and two of your teach at at Marshall_Hill_Drive be at creche be not they $$
 ^^ and they make a big fuss of you $$
 ^^ Jean $$
 ^^ what be the other lady name $$
@@ -1726,7 +1784,7 @@
 ^^ when it be wind up $$
 ^^ yeah $$
 ^^ it do go ticktock $$
-^^  when I wind it up $$
+^^ when when I wind it up $$
 ^^ it be a clock and it be stop $$
 ^^ pardon $$
 ^^ how put it on $$
@@ -1735,12 +1793,14 @@
 ^^ bring it here $$
 ^^ and I will show you $$
 ^^ oh dear $$
+^^ www $$
 ^^ that say ten to one $$
 ^^ that knob there $$
-^^ if I  turn that round it will move those hand that they be call $$
+^^ if I move turn that round it will move those hand that they be call $$
 ^^ that say two $$
 ^^ no $$
 ^^ you be not go to do it $$
+^^ xxx $$
 ^^ and there be a little knob $$
 ^^ if I turn that $$
 ^^ can you hear $$
@@ -1761,10 +1821,11 @@
 ^^ I do not $$
 ^^ I think he be the teach $$
 ^^ well $$
-^^  man can be teach too you know $$
+^^ men man can be teach too you know $$
 ^^ just because all your teach at play be lady $$
 ^^ hooray $$
 ^^ tiger $$
+^^ www $$
 ^^ yeah $$
 ^^ who be do the zoo $$
 ^^ think you must have do that with Daddy $$
@@ -1777,7 +1838,7 @@
 ^^ okay $$
 ^^ go go go go go go go go go go $$
 ^^ right $$
-^^  can I do the dinosaur $$
+^^ can can I do the dinosaur $$
 ^^ can I do this blue $$
 ^^ can I give him blue spot $$
 ^^ the dinosaur $$
@@ -1795,20 +1856,20 @@
 ^^ pink one as_well $$
 ^^ he blow away in the wind he do $$
 ^^ you do cry $$
-^^  morning $$
+^^ xxx morning $$
 ^^ cry $$
 ^^ you have a proper temper tantrum $$
 ^^ do not you $$
 ^^ pardon $$
 ^^ be you go to do them $$
 ^^ well $$
-^^    try and keep within the line $$
-^^ and  keep the spot green $$
+^^ try and keep try and keep within the line $$
+^^ and keep keep the spot green $$
 ^^ that be fine $$
 ^^ good girl $$
 ^^ that be good $$
 ^^ good girl $$
-^^ keep it within  the line $$
+^^ keep it within the the line $$
 ^^ no $$
 ^^ do that one for Mummy $$
 ^^ can you keep it all in the line like I show you $$
@@ -1817,7 +1878,7 @@
 ^^ keep it in the line $$
 ^^ good girl $$
 ^^ you have not finish $$
-^^  you have still get some more spot to do $$
+^^ you you have still get some more spot to do $$
 ^^ or shall Mummy carry on do those $$
 ^^ do that spot for Mummy $$
 ^^ that be half $$
@@ -1828,12 +1889,13 @@
 ^^ you do not want a green sun do you $$
 ^^ yes $$
 ^^ right topsy land this be $$
+^^ www $$
 ^^ no $$
-^^  try and keep within the line $$
+^^ keep try and keep within the line $$
 ^^ oh do not $$
 ^^ horrible laugh $$
-^^  let Mummy just finish them off Nicole $$
-^^ and    then we will do his $$
+^^ let let Mummy just finish them off Nicole $$
+^^ and then we'll do then we will do his $$
 ^^ no $$
 ^^ we be $$
 ^^ no $$
@@ -1850,7 +1912,7 @@
 ^^ you be put a name on it be you $$
 ^^ everything $$
 ^^ d b $$
-^^  Mummy $$
+^^ xxx Mummy $$
 ^^ b $$
 ^^ want color $$
 ^^ oh $$
@@ -1877,6 +1939,7 @@
 ^^ you want me to do it red $$
 ^^ no $$
 ^^ brown $$
+^^ xxx $$
 ^^ that be red $$
 ^^ yeah $$
 ^^ but brown be a bit like red $$
@@ -1889,10 +1952,10 @@
 ^^ well $$
 ^^ what color shall we do his body $$
 ^^ we have get green spot $$
-^^ shall we do him  a orange body $$
-^^ or  a pink one $$
+^^ shall we do him a a orange body $$
+^^ or a a pink one $$
 ^^ pink one $$
-^^  look at it $$
+^^ look look at it $$
 ^^ that be a circus $$
 ^^ look $$
 ^^ look $$
@@ -1900,7 +1963,7 @@
 ^^ look at the elephant $$
 ^^ and the clown $$
 ^^ the strongman $$
-^^  sit back look $$
+^^ sit sit back look $$
 ^^ the trapeze artist $$
 ^^ and it say what be the elephant do $$
 ^^ what be the elephant do $$
@@ -1917,6 +1980,7 @@
 ^^ what $$
 ^^ what $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ do you want them on $$
 ^^ oh $$
@@ -1964,7 +2028,7 @@
 ^^ can not because the tape be on $$
 ^^ yes $$
 ^^ she will have a look at your picture Nicole $$
-^^   your flower in your plant pot   when she go $$
+^^ um your your flower in your plant pot when you when she go $$
 ^^ she say she will $$
 ^^ no $$
 ^^ I can not $$
@@ -1975,9 +2039,9 @@
 ^^ yeah $$
 ^^ well $$
 ^^ come on then $$
-^^  you give them out then $$
+^^ you you give them out then $$
 ^^ let Mummy just shuffle then $$
-^^  right $$
+^^ right right $$
 ^^ you want one for Mummy $$
 ^^ one for Caroline $$
 ^^ and one for Nicole $$
@@ -2047,7 +2111,7 @@
 ^^ I win them fair and square $$
 ^^ it be not even a joint snap $$
 ^^ you be not even look be you $$
-^^  we will share them $$
+^^ share we will share them $$
 ^^ you have one then $$
 ^^ and I will have the others $$
 ^^ no $$
@@ -2063,7 +2127,7 @@
 ^^ and put them underneath $$
 ^^ turn them all over $$
 ^^ put them $$
-^^  put those down on the table $$
+^^ put put those down on the table $$
 ^^ and put them on top $$
 ^^ right $$
 ^^ turn round proper $$
@@ -2148,7 +2212,7 @@
 ^^ no $$
 ^^ but you could draw a cake on the paper $$
 ^^ no $$
-^^ you  you not want to do a happy_birthday cake $$
+^^ you want you not want to do a happy_birthday cake $$
 ^^ Morag $$
 ^^ that be Inga and that be Morag $$
 ^^ Morag $$
@@ -2162,6 +2226,7 @@
 ^^ a flower $$
 ^^ a teddy $$
 ^^ a birth cake $$
+^^ www $$
 ^^ a birth cake $$
 ^^ I be not very good at drawing $$
 ^^ as you will see $$
@@ -2181,13 +2246,14 @@
 ^^ and then we can write happy_birthday on it afterwards can not we $$
 ^^ hm $$
 ^^ and $$
-^^ choose  some pretty color $$
+^^ choose pretty some pretty color $$
 ^^ to color the birth cake in $$
 ^^ you can color $$
 ^^ you do not want this $$
 ^^ no $$
 ^^ you do not $$
 ^^ you want some pretty color $$
+^^ www $$
 ^^ be you go to stop cry now you have get the pencil $$
 ^^ shall Mummy do it $$
 ^^ oh $$
@@ -2206,7 +2272,7 @@
 ^^ it be Lauren $$
 ^^ and then Abigail $$
 ^^ right $$
-^^  what color be we go to use on it $$
+^^ what what color be we go to use on it $$
 ^^ no $$
 ^^ it can not can it $$
 ^^ shall we use some nice crayon then $$
@@ -2230,6 +2296,7 @@
 ^^ what shall we do it on $$
 ^^ what shall we do this time $$
 ^^ another birth cake $$
+^^ www $$
 ^^ draw candle in first $$
 ^^ there $$
 ^^ now $$
@@ -2245,7 +2312,7 @@
 ^^ a nice pink one $$
 ^^ there $$
 ^^ will you like to do it $$
-^^ do not you want to  color it $$
+^^ do not you want to draw color it $$
 ^^ no $$
 ^^ shall we do the top pink as_well $$
 ^^ what color shall we do the candle $$
@@ -2254,9 +2321,9 @@
 ^^ hm $$
 ^^ no $$
 ^^ you can write the name inside can not you $$
-^^  let Mummy finish $$
+^^ let let Mummy finish $$
 ^^ well $$
-^^   you write happy_birthday to Lauren love from Nicole $$
+^^ you write you write happy_birthday to Lauren love from Nicole $$
 ^^ can not you do it very well $$
 ^^ let us do these candle green $$
 ^^ oh $$
@@ -2265,6 +2332,7 @@
 ^^ we want $$
 ^^ where be the white $$
 ^^ need lot and lots_of white $$
+^^ xxx $$
 ^^ lot and lots_of white icing $$
 ^^ she say $$
 ^^ right $$
@@ -2277,8 +2345,9 @@
 ^^ let us write happy_birthday $$
 ^^ to $$
 ^^ do it in another color shall we $$
+^^ www $$
 ^^ right $$
-^^ to Lauren happy_birthday  love Nicole $$
+^^ to Lauren happy_birthday from love Nicole $$
 ^^ from Nicole $$
 ^^ there $$
 ^^ be you go to sign it $$
@@ -2345,7 +2414,7 @@
 ^^ will you like to do some bake $$
 ^^ do you want to do some bake $$
 ^^ no $$
-^^  Caroline $$
+^^ Caroline Caroline $$
 ^^ well $$
 ^^ she can join in if she want $$
 ^^ depend whether she want to get her hand dirty though $$
@@ -2358,6 +2427,7 @@
 ^^ okay $$
 ^^ you go and get your pin while Mummy get the bake thing out $$
 ^^ alright $$
+^^ www $$
 ^^ go and get your pin $$
 ^^ yeah $$
 ^^ get your pin on then $$
@@ -2389,10 +2459,11 @@
 ^^ pardon $$
 ^^ okay $$
 ^^ help me what $$
-^^  help me please be you try to say $$
+^^ help help me please be you try to say $$
 ^^ what do you want me to do $$
 ^^ bake with you $$
 ^^ okay $$
+^^ www $$
 ^^ let us rub it in then $$
 ^^ pardon $$
 ^^ a cough or a calf $$
@@ -2424,7 +2495,7 @@
 ^^ well $$
 ^^ go go go go go go go go go go $$
 ^^ come on look $$
-^^    put all your margarine in there Nicole $$
+^^ put all your put all your margarine in there Nicole $$
 ^^ and rub it in like Mummy look $$
 ^^ should look like that $$
 ^^ what have you be do $$
@@ -2433,7 +2504,7 @@
 ^^ hm $$
 ^^ all together $$
 ^^ mix it all in look $$
-^^  put your other hand in $$
+^^ put put your other hand in $$
 ^^ the one you be eat off $$
 ^^ yuck yuck $$
 ^^ yuck yuck $$
@@ -2442,6 +2513,7 @@
 ^^ where be yours $$
 ^^ hm $$
 ^^ oh $$
+^^ www $$
 ^^ it do look like play do not it $$
 ^^ taste of what $$
 ^^ it be butter $$
@@ -2470,19 +2542,24 @@
 ^^ right $$
 ^^ roll your pastry out $$
 ^^ right $$
+^^ xxx $$
+^^ um $$
 ^^ go to roll the pastry out again $$
 ^^ between eat it $$
 ^^ hm $$
 ^^ do what $$
 ^^ oh $$
-^^  do mine as_well $$
+^^ do do mine as_well $$
 ^^ I be go to watch you $$
 ^^ well $$
 ^^ there be your pie look $$
+^^ www $$
+^^ xxx $$
 ^^ you be not have mine $$
 ^^ you have get enough to play with $$
 ^^ there $$
 ^^ any left over you can have some of mine $$
+^^ www $$
 ^^ it be what $$
 ^^ mhm $$
 ^^ Lauren tomorrow $$
@@ -2522,8 +2599,9 @@
 ^^ you have not make your pie yet have you $$
 ^^ no $$
 ^^ there you be $$
+^^ www $$
 ^^ mhm $$
-^^ you know    if you roll that out you $$
+^^ you know if you did if you roll that out you $$
 ^^ oh $$
 ^^ alright then $$
 ^^ you get on with it $$
@@ -2559,11 +2637,12 @@
 ^^ sorry $$
 ^^ you what $$
 ^^ concentrate be you $$
+^^ www $$
 ^^ oh $$
 ^^ they be nice pie be not they $$
 ^^ be one for you and one for Daddy $$
 ^^ well $$
-^^  who be they for $$
+^^ who who be they for $$
 ^^ be they for Morag and Inga $$
 ^^ they be for Morag and Inga be they $$
 ^^ be that yours $$
@@ -2607,7 +2686,7 @@
 ^^ be they go in Mummy oven or your oven $$
 ^^ shall I take them upstairs then $$
 ^^ well $$
-^^  can you just wait Nicole $$
+^^ can can you just wait Nicole $$
 ^^ and we will do it when we have tidy you up $$
 ^^ hm $$
 ^^ because you be all flour be not you $$
@@ -2622,7 +2701,7 @@
 ^^ horrible $$
 ^^ make a hole in that one like you make a hole in that one $$
 ^^ make a nice big hole $$
-^^ do you know why you make a hole  in pie $$
+^^ do you know why you make a hole in in pie $$
 ^^ to let the steam out $$
 ^^ when it cook it get very very hot $$
 ^^ it let the steam out $$
@@ -2641,13 +2720,14 @@
 ^^ what be she do then $$
 ^^ err $$
 ^^ yuck $$
-^^      shall we put them over her with Mummy $$
+^^ shall we put it over shall we put them over her with Mummy $$
 ^^ ready to go in the oven $$
 ^^ put them there with Mummy $$
 ^^ hm $$
 ^^ oh no Nicole $$
 ^^ put them over there with Mummy $$
 ^^ just wipe you down $$
+^^ xxx $$
 ^^ let us wipe you down $$
 ^^ give me your hand $$
 ^^ pardon $$
@@ -2673,6 +2753,7 @@
 ^^ well $$
 ^^ just take that one upstairs then $$
 ^^ then come back for the other one $$
+^^ www $$
 ^^ do you want $$
 ^^ no $$
 ^^ do you want to wash up $$
@@ -2681,7 +2762,7 @@
 ^^ take that upstairs then $$
 ^^ then you can come down and wash these pot $$
 ^^ right $$
-^^  you wash the pot then and Mummy will dry them $$
+^^ you you wash the pot then and Mummy will dry them $$
 ^^ yeah $$
 ^^ because you be a good little help be not you $$
 ^^ do you like wash pot Nicole $$
@@ -2694,9 +2775,10 @@
 ^^ spoon $$
 ^^ a knife $$
 ^^ and fork $$
+^^ xxx $$
 ^^ what be this then $$
-^^  that be a bowl be not it $$
-^^  you be not wash them proper look $$
+^^ that's that be a bowl be not it $$
+^^ um you be not wash them proper look $$
 ^^ that be what you need your cloth for $$
 ^^ let me show you $$
 ^^ where be your cloth $$
@@ -2709,7 +2791,7 @@
 ^^ what be in your $$
 ^^ yes $$
 ^^ thing $$
-^^ but  what be in your hand $$
+^^ but what what be in your hand $$
 ^^ oh $$
 ^^ what be in your hand $$
 ^^ what be that $$
@@ -2719,7 +2801,7 @@
 ^^ because it be dirt $$
 ^^ there $$
 ^^ use your dish cloth $$
-^^  get hold of your cloth $$
+^^ get get hold of your cloth $$
 ^^ that be it $$
 ^^ oh $$
 ^^ let me show you $$

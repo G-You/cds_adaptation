@@ -43,7 +43,7 @@
 ^^ what be they go to do now $$
 ^^ be they go to have a race $$
 ^^ oh they be just stand there be they $$
-^^    be this like Granddad car $$
+^^ is this like be this like Granddad car $$
 ^^ it be go down the line $$
 ^^ there be a big traffic jam $$
 ^^ watch the animal $$
@@ -86,7 +86,7 @@
 ^^ he be on top $$
 ^^ what be the fire go to do when he get there $$
 ^^ he be go to open a door $$
-^^  what $$
+^^ move what $$
 ^^ move this tree $$
 ^^ be that what you mean $$
 ^^ watch your foot $$
@@ -199,7 +199,7 @@
 ^^ look $$
 ^^ where be the butter $$
 ^^ show me the butter $$
-^^ well     what can you see through the window $$
+^^ well what can you see what can you see through the window $$
 ^^ must be night time $$
 ^^ time for bed $$
 ^^ yeah $$
@@ -221,7 +221,7 @@
 ^^ I think it have $$
 ^^ just a little one $$
 ^^ well that be because you touch it $$
-^^ yeah well  do not touch it $$
+^^ yeah well don't do not touch it $$
 ^^ leave it $$
 ^^ let it go $$
 ^^ whee $$
@@ -250,7 +250,9 @@
 ^^ that be not the moon $$
 ^^ who be that $$
 ^^ right $$
+^^ www $$
 ^^ can you see his nose $$
+^^ www $$
 ^^ who come out_of the egg $$
 ^^ a little caterpillar $$
 ^^ and he start to look for some food $$
@@ -327,6 +329,7 @@
 ^^ it be the same color be not it $$
 ^^ oh thank_you $$
 ^^ be you put it on my knee be you $$
+^^ mm $$
 ^^ be that nice $$
 ^^ take your time $$
 ^^ take your time $$
@@ -343,7 +346,7 @@
 ^^ be it a big tower $$
 ^^ Carl $$
 ^^ Carl $$
-^^ he be go to  go in the car be he $$
+^^ he be go to get go in the car be he $$
 ^^ be he dirt $$
 ^^ what be you do to that poor car $$
 ^^ Carl $$
@@ -354,10 +357,10 @@
 ^^ why do not you build a garage $$
 ^^ see $$
 ^^ look $$
-^^    let us make a garage shall we $$
+^^ let's make a let us make a garage shall we $$
 ^^ be he $$
 ^^ he be get the fire $$
-^^ those be  the pump where you get the petrol from $$
+^^ those be the the pump where you get the petrol from $$
 ^^ look $$
 ^^ there be the little man $$
 ^^ the little man that sit in the garage $$
@@ -402,13 +405,13 @@
 ^^ you push them through $$
 ^^ right $$
 ^^ you clean this one now $$
-^^ now   this one need to go and see the mechanic $$
+^^ now this one this one need to go and see the mechanic $$
 ^^ in the garage $$
 ^^ because it be poor that one $$
 ^^ take it through to the man in the garage $$
 ^^ he be go to fix it $$
 ^^ he be get to go that way $$
-^^      that man be go to fix it be not he $$
+^^ that man's going to fix that man be go to fix it be not he $$
 ^^ mhm $$
 ^^ well you do the water $$
 ^^ right $$
@@ -446,15 +449,15 @@
 ^^ Carl $$
 ^^ see $$
 ^^ this one need to be mend now do not it $$
-^^   that be the mechanic $$
+^^ that's the that be the mechanic $$
 ^^ it be like Granddad car $$
-^^   do not you go with Granddad to the garage $$
+^^ didn't Granddad do not you go with Granddad to the garage $$
 ^^ Carl $$
 ^^ be you listen to me $$
-^^ do you not go to  the garage with Granddad $$
+^^ do you not go to the the garage with Granddad $$
 ^^ you do $$
 ^^ Granddad tell me you do $$
-^^ you walk to the garage     to see the car $$
+^^ you walk to the garage to put the car to see the car $$
 ^^ it be not poor $$
 ^^ it be not poor now because the man fix it do not he $$
 ^^ he be get some tool $$
@@ -563,7 +566,7 @@
 ^^ I be sure he do $$
 ^^ no $$
 ^^ mhm $$
-^^   try the blue one $$
+^^ try the try the blue one $$
 ^^ well try another color $$
 ^^ what other color be there Carl $$
 ^^ what about the green one $$
@@ -606,12 +609,13 @@
 ^^ I can put the egg in that one $$
 ^^ mhm $$
 ^^ well I will eat that then $$
+^^ mm $$
 ^^ that be nice $$
 ^^ you love it do you $$
 ^^ oh those be bean $$
 ^^ shall we have some bean with it $$
 ^^ bean and egg $$
-^^ have to put them   in the pan and cook them $$
+^^ have to put them in the in the pan and cook them $$
 ^^ you do not cook ice $$
 ^^ what be that $$
 ^^ can you remember what that be $$
@@ -624,7 +628,7 @@
 ^^ look $$
 ^^ will not will not will not will not will not will not will not will not will not $$
 ^^ get to take the little one out $$
-^^   what be you go to make Mummy for her dinner $$
+^^ what're you what be you go to make Mummy for her dinner $$
 ^^ Carl $$
 ^^ Carl $$
 ^^ what be you go to make Mummy for dinner $$
@@ -705,9 +709,9 @@
 ^^ well you get a car then $$
 ^^ will one of those not do $$
 ^^ you want $$
-^^ I think they be in  that box up there be not they $$
+^^ I think they be in that that box up there be not they $$
 ^^ no $$
-^^  that be the train be in there $$
+^^ that's that be the train be in there $$
 ^^ another dragon $$
 ^^ it be a big dragon that one $$
 ^^ how many head have he get $$
@@ -770,7 +774,7 @@
 ^^ good boy $$
 ^^ look $$
 ^^ look $$
-^^  what be this one $$
+^^ what's what be this one $$
 ^^ that be a m for $$
 ^^ what else start with m $$
 ^^ yeah but what else start with m $$
@@ -836,7 +840,7 @@
 ^^ you have do it $$
 ^^ you have do it $$
 ^^ no $$
-^^   there be no more hole now $$
+^^ you don't there be no more hole now $$
 ^^ you have do it $$
 ^^ you can take it off look $$
 ^^ Carl $$
@@ -881,7 +885,7 @@
 ^^ okay $$
 ^^ I be look $$
 ^^ I be look $$
-^^ oh I have find  the express coach $$
+^^ oh I have find um the express coach $$
 ^^ well you have make that too long that train $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ go to pull it be he $$
@@ -891,13 +895,13 @@
 ^^ you can put it on the line look $$
 ^^ Gordon can go past it $$
 ^^ Mummy be find the other truck $$
-^^    who can take Annie and Clarabel $$
+^^ who can take who can take Annie and Clarabel $$
 ^^ not $$
 ^^ where be Thomas $$
 ^^ where be they go to go $$
 ^^ where be they take the coach $$
 ^^ that be Duck yeah $$
-^^ where be Thomas go  with Annie and Clarabel $$
+^^ where be Thomas go with with Annie and Clarabel $$
 ^^ where be Gordon go then $$
 ^^ will not will not will not will not will not will not will not $$
 ^^ you be ignore what Mummy be say be not you $$
@@ -943,10 +947,10 @@
 ^^ no truck $$
 ^^ he be no steam $$
 ^^ peeppeep $$
-^^ oh   I can move Duck now can I $$
+^^ oh I can I can move Duck now can I $$
 ^^ I know $$
 ^^ I know $$
-^^  what be Percy $$
+^^ what what be Percy $$
 ^^ achoo $$
 ^^ oh they be Percy $$
 ^^ right okay $$
@@ -955,7 +959,7 @@
 ^^ be care $$
 ^^ will not will not will not will not will not will not $$
 ^^ get them $$
-^^  Percy be scare of the dragon be not he $$
+^^ Percy's Percy be scare of the dragon be not he $$
 ^^ be not there a story about Percy be scare by a dragon Carl $$
 ^^ no $$
 ^^ will not will not will not will not will not $$
@@ -1012,12 +1016,12 @@
 ^^ Mummy be make the big car here $$
 ^^ this be the petrol station $$
 ^^ you need to what $$
-^^ oh  be go to break that $$
+^^ oh xxx be go to break that $$
 ^^ see $$
 ^^ Mummy know that be go to happen $$
 ^^ no $$
 ^^ it need another one on $$
-^^    wait $$
+^^ wait wait wait wait $$
 ^^ there $$
 ^^ now you can do it $$
 ^^ it be all right $$
@@ -1035,7 +1039,7 @@
 ^^ push it through $$
 ^^ look $$
 ^^ push the car through there $$
-^^  those through there $$
+^^ xxx those through there $$
 ^^ Mummy give you a bit more space $$
 ^^ there be the stuff for put the glug in $$
 ^^ that be it $$
@@ -1154,7 +1158,7 @@
 ^^ be he happy $$
 ^^ what be $$
 ^^ he be cross be not he $$
-^^  you tell Mummy the story $$
+^^ you you tell Mummy the story $$
 ^^ you tell Mummy what the bear be do $$
 ^^ what be he do there $$
 ^^ yeah but what else have he get look $$
@@ -1178,7 +1182,7 @@
 ^^ who be in the garden with him $$
 ^^ oh but look $$
 ^^ there be somebody else $$
-^^   look $$
+^^ look look look $$
 ^^ there be somebody else $$
 ^^ who be that $$
 ^^ what be they do $$
@@ -1205,7 +1209,7 @@
 ^^ he be kick Grandpa $$
 ^^ oh he be go to be in trouble now be not he $$
 ^^ look $$
-^^  oh Daddy cross $$
+^^ Daddy's oh Daddy cross $$
 ^^ the little bear get to come upstairs to his bed $$
 ^^ naughty naughty bear $$
 ^^ he be cry now $$
@@ -1240,6 +1244,7 @@
 ^^ that be the end $$
 ^^ you do not say much on that do you $$
 ^^ the big man book $$
+^^ xxx $$
 ^^ oh there be lot to see in that one $$
 ^^ what can you see $$
 ^^ what can you find $$
@@ -1307,6 +1312,7 @@
 ^^ well wait a second $$
 ^^ wait a second $$
 ^^ wait a second $$
+^^ mm $$
 ^^ yum food $$
 ^^ do you want that out $$
 ^^ please $$
@@ -1320,6 +1326,7 @@
 ^^ oh one for me as_well $$
 ^^ thank_you $$
 ^^ do not want to be leave out $$
+^^ mm $$
 ^^ it be very nice this egg $$
 ^^ oh please $$
 ^^ yeah $$
@@ -1329,7 +1336,7 @@
 ^^ thank_you $$
 ^^ oh some for Carl $$
 ^^ do not leave Carl out $$
-^^  nice $$
+^^ mm nice $$
 ^^ you like chip $$
 ^^ yeah $$
 ^^ what do Carl like to eat $$

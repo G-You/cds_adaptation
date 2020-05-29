@@ -44,7 +44,7 @@
 ^^ oh $$
 ^^ that miss $$
 ^^ no $$
-^^  sorry no $$
+^^ er sorry no $$
 ^^ Mummy do not miss it $$
 ^^ Warren miss it actual $$
 ^^ actual $$
@@ -100,7 +100,7 @@
 ^^ oh no $$
 ^^ Henry tend go $$
 ^^ will not will not will not will not will not will not will not will not will not $$
-^^ if he be not get any coal to put in his  fire $$
+^^ if he be not get any coal to put in his er fire $$
 ^^ yeah $$
 ^^ you put coal in the fire $$
 ^^ to heat the water to make the engine go $$
@@ -145,7 +145,7 @@
 ^^ oh no $$
 ^^ what be happen $$
 ^^ what happen $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ the little one stay on best do not it $$
 ^^ except you be drive into a cushion $$
 ^^ quick $$
@@ -157,7 +157,7 @@
 ^^ the fire can rescue Henry $$
 ^^ in fact what we need $$
 ^^ it have $$
-^^ and to clean up the mess we have get the dig and we be go to   get everything in the dig $$
+^^ and to clean up the mess we have get the dig and we be go to get every get everything in the dig $$
 ^^ whoops $$
 ^^ I be not a very good dig drive be I $$
 ^^ and we will drive over to $$
@@ -179,7 +179,7 @@
 ^^ we need to check they still do this and that $$
 ^^ we need to check the magnet still work $$
 ^^ yes $$
-^^   be this engine all right $$
+^^ is this be this engine all right $$
 ^^ can you check these over $$
 ^^ check they be work proper $$
 ^^ I think they be $$
@@ -190,7 +190,7 @@
 ^^ okay $$
 ^^ brumm $$
 ^^ what do you want the dig to do $$
-^^  where be the dig go to put them $$
+^^ where's where be the dig go to put them $$
 ^^ down where $$
 ^^ no $$
 ^^ that be all there be I think $$
@@ -305,7 +305,7 @@
 ^^ there be Henry and the raindrop $$
 ^^ and there be Henry without the raindrop $$
 ^^ because the rain have stop $$
-^^     where be Henry $$
+^^ what will Henry what's where be Henry $$
 ^^ where be Henry $$
 ^^ yeah $$
 ^^ yeah $$
@@ -315,9 +315,11 @@
 ^^ Warren read it $$
 ^^ Warren read the story of Henry $$
 ^^ Mummy read raindrop again $$
+^^ www $$
 ^^ what be the engine call $$
 ^^ Henry $$
 ^^ be Henry a silly engine $$
+^^ www $$
 ^^ the guard blow his $$
 ^^ whistle $$
 ^^ until he have no more breath $$
@@ -328,9 +330,12 @@
 ^^ yeah $$
 ^^ I be not go to spoil my love green paint and red stripe for you he say $$
 ^^ rude $$
+^^ www $$
 ^^ my doctor have forbid me to $$
 ^^ he say $$
+^^ www $$
 ^^ but Henry stay in the $$
+^^ www $$
 ^^ pardon $$
 ^^ a joke $$
 ^^ be Henry a joke $$
@@ -374,6 +379,7 @@
 ^^ you fasten that $$
 ^^ push it on $$
 ^^ that be it $$
+^^ a $$
 ^^ be she a nice doll $$
 ^^ do you want that one on instead $$
 ^^ right well you do this one at the back then $$
@@ -410,6 +416,7 @@
 ^^ it be a girl $$
 ^^ she be wear a dress $$
 ^^ boy do not normal wear dress $$
+^^ a $$
 ^^ be she nice $$
 ^^ thank_you $$
 ^^ shall she sit on here and watch you play $$
@@ -456,6 +463,7 @@
 ^^ let us hope you be never responsible for dress a female $$
 ^^ my_goodness $$
 ^^ stick her on your box $$
+^^ a $$
 ^^ that be where her hair ribbon be $$
 ^^ you be sit on it $$
 ^^ shall we put a ribbon in her hair $$
@@ -529,6 +537,7 @@
 ^^ right $$
 ^^ shall we get the food out then $$
 ^^ be you shop $$
+^^ mm $$
 ^^ I hope you buy something nice for my tea $$
 ^^ gentle $$
 ^^ Warren $$
@@ -552,7 +561,7 @@
 ^^ chicken $$
 ^^ roast chicken $$
 ^^ chicken $$
-^^  what be Mummy get in her basket $$
+^^ what's what be Mummy get in her basket $$
 ^^ I have get orange juice $$
 ^^ what else $$
 ^^ yeah $$
@@ -605,6 +614,7 @@
 ^^ be that cat $$
 ^^ oh I will have bean as_well then $$
 ^^ oh it be get beef burger in $$
+^^ mm $$
 ^^ oh thank_you $$
 ^^ chip $$
 ^^ my favorite $$
@@ -616,7 +626,7 @@
 ^^ here be the cat $$
 ^^ Warren $$
 ^^ cat have a picture of a cat on it $$
-^^ oh   what have you just bring me $$
+^^ oh what's what what have you just bring me $$
 ^^ careful with those egg $$
 ^^ you might break them $$
 ^^ what be these $$
@@ -629,7 +639,7 @@
 ^^ which be the aubergine $$
 ^^ do not change the subject $$
 ^^ where be the aubergine $$
-^^  Warren push it in $$
+^^ let's Warren push it in $$
 ^^ that be it $$
 ^^ could you find me a aubergine please $$
 ^^ it be purple $$
@@ -693,7 +703,7 @@
 ^^ you be a baby $$
 ^^ no $$
 ^^ that be horrid $$
-^^  put it on here $$
+^^ post put it on here $$
 ^^ put it on the stand $$
 ^^ hoop $$
 ^^ what be you do $$
@@ -717,7 +727,7 @@
 ^^ be it a little rucksack $$
 ^^ pardon $$
 ^^ no $$
-^^    keep your finger out_of your mouth $$
+^^ take your fingers keep your finger out_of your mouth $$
 ^^ that be a nice little hat $$
 ^^ peekaboo peekaboo $$
 ^^ peekaboo peekaboo $$
@@ -742,12 +752,12 @@
 ^^ stand up $$
 ^^ that be a good boy $$
 ^^ now just stand still while I pull up your trouser and nappie $$
-^^    no $$
+^^ no no no no $$
 ^^ no $$
 ^^ we do not climb on box lid $$
 ^^ that be why we get you a box with a curve lid for your train so you could not sit on it $$
-^^   no $$
-^^   no $$
+^^ no no no $$
+^^ no no no $$
 ^^ no $$
 ^^ no $$
 ^^ you must not climb on it $$
@@ -770,7 +780,7 @@
 ^^ that be brown $$
 ^^ that do not go there do it $$
 ^^ there must be another piece with red on $$
-^^  there it be $$
+^^ a there it be $$
 ^^ there $$
 ^^ right now we have get the ball have not we $$
 ^^ and look $$
@@ -879,7 +889,7 @@
 ^^ quick do these $$
 ^^ and work out what go where $$
 ^^ do it $$
-^^  no $$
+^^ er no $$
 ^^ I do not think it do $$
 ^^ that go there $$
 ^^ I be get through this one $$
@@ -896,7 +906,7 @@
 ^^ and it be miss some piece I think $$
 ^^ be it $$
 ^^ hang on hang on $$
-^^  you see $$
+^^ a you see $$
 ^^ that bit go there $$
 ^^ that bit go $$
 ^^ oh it be not miss piece at all $$
@@ -918,7 +928,7 @@
 ^^ where be the dog head $$
 ^^ where be the dog head $$
 ^^ well fit it onto the body then $$
-^^  there be the front of his body with his front leg $$
+^^ er there be the front of his body with his front leg $$
 ^^ that be it $$
 ^^ good boy $$
 ^^ now where be the dog ear $$
@@ -1052,13 +1062,13 @@
 ^^ which other one $$
 ^^ we have not get any more up there $$
 ^^ have not get any more $$
-^^ because the  fire one have appear $$
+^^ because the er fire one have appear $$
 ^^ I wonder where on earth it be $$
 ^^ yes $$
-^^ that be underneath the  chair $$
+^^ that be underneath the er chair $$
 ^^ that be why it be on the floor $$
 ^^ because it be under the chair $$
-^^ why do not you do    another one of these again $$
+^^ why do not you do one of these another one of these again $$
 ^^ yes $$
 ^^ be you read a story $$
 ^^ what do it say $$
@@ -1080,7 +1090,7 @@
 ^^ there we go $$
 ^^ what be happen in the picture $$
 ^^ be the dog sad $$
-^^   what be he do $$
+^^ what's he what be he do $$
 ^^ do he open the door $$
 ^^ and let the kitten out_of the shed $$
 ^^ mhm $$
@@ -1120,7 +1130,7 @@
 ^^ you can help Mummy can not you $$
 ^^ you can help Mummy to make Thomas and Percy $$
 ^^ let us get the piece out $$
-^^ let us get them     the right way round for Thomas and Percy $$
+^^ let us get them the right way out the right way round for Thomas and Percy $$
 ^^ right $$
 ^^ can you see Percy face $$
 ^^ where be Percy face $$
@@ -1155,7 +1165,7 @@
 ^^ hooray $$
 ^^ two smoke $$
 ^^ yes $$
-^^   two lots_of smoke I think you genmod probable say $$
+^^ two lots two lots_of smoke I think you genmod probable say $$
 ^^ whose wheel $$
 ^^ rubbish $$
 ^^ Henry not on here $$
@@ -1248,10 +1258,12 @@
 ^^ and Edward be say I have do it before $$
 ^^ I have do it before $$
 ^^ I have do it before $$
+^^ www $$
 ^^ and look at all the steam come out_of their funnel $$
 ^^ they be real have to puff hard to get up that hill $$
 ^^ here they be at the next station $$
 ^^ James be laugh $$
+^^ www $$
 ^^ and who be that $$
 ^^ and what be he wear $$
 ^^ yeah $$
@@ -1280,10 +1292,11 @@
 ^^ there be two man somewhere $$
 ^^ oh I think that be a man but it be a baby tiger $$
 ^^ do not know where these man be Warren $$
+^^ a $$
 ^^ here be one $$
 ^^ here be one $$
 ^^ I be look for the other one $$
-^^ I be find all sort of thing Warren but  not the other man $$
+^^ I be find all sort of thing Warren but not not the other man $$
 ^^ we have not see these before have we Warren $$
 ^^ the sheep and the chicken $$
 ^^ the cow and the calf $$
@@ -1332,7 +1345,7 @@
 ^^ a whale on the sun $$
 ^^ be that too big $$
 ^^ we could have a penguin on the sun $$
-^^ perhaps  $$
+^^ perhaps um $$
 ^^ the baby whale on the funnel maybe $$
 ^^ maybe not $$
 ^^ be that too big $$
@@ -1439,14 +1452,14 @@
 ^^ never mind $$
 ^^ I be sure it will find a way out somehow $$
 ^^ it be drive over a cow $$
-^^ be you take elephant out or just couple  the truck $$
+^^ be you take elephant out or just couple the the truck $$
 ^^ couple them back together $$
 ^^ it be $$
 ^^ the cow catch not work very well have it $$
 ^^ I suppose it be catch the cow and knock the cow over $$
 ^^ oh no $$
 ^^ it be get the baby horse $$
-^^   the bull be lie down as_well $$
+^^ the bulls the bull be lie down as_well $$
 ^^ here be two bull $$
 ^^ oh you want them $$
 ^^ why $$
@@ -1454,7 +1467,7 @@
 ^^ and there be the Mummy horse $$
 ^^ she be lie down $$
 ^^ oh poor baby horse $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ it be run away $$
 ^^ and the Mummy horse be run after it $$
 ^^ pick the baby horse up and she be go to run off with him $$
@@ -1470,7 +1483,7 @@
 ^^ whoops $$
 ^^ clear away $$
 ^^ we have hear the $$
-^^    I think the point must have be stick and he be go off into a siding $$
+^^ I think the I think the point must have be stick and he be go off into a siding $$
 ^^ there be a nice clear track here $$
 ^^ through Henry tunnel $$
 ^^ well what $$
@@ -1523,7 +1536,7 @@
 ^^ you have mend it now $$
 ^^ oh $$
 ^^ shall I get the tissue box to pass to Anna $$
-^^  that be good be not it $$
+^^ a that be good be not it $$
 ^^ do it all come apart $$
 ^^ oh yes $$
 ^^ look $$
@@ -1535,7 +1548,7 @@
 ^^ it be a run train $$
 ^^ it be a runaway train $$
 ^^ run away because there be noone to drive it $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ good job it be come to a hill and it be slow down $$
 ^^ quick $$
 ^^ the drive can jump back on $$
@@ -1557,9 +1570,9 @@
 ^^ that be a very bump line be not it $$
 ^^ might get derail $$
 ^^ okay $$
-^^ Warren push the trailer on while Mummy hold   the truck $$
+^^ Warren push the trailer on while Mummy hold the coach the truck $$
 ^^ no $$
-^^ the   other end $$
+^^ the other way other end $$
 ^^ you get it right the first time $$
 ^^ what be that fun noise $$
 ^^ be that your jump $$
@@ -1599,7 +1612,7 @@
 ^^ no $$
 ^^ the buffer $$
 ^^ no $$
-^^   the light go at the front like that $$
+^^ the dome the light go at the front like that $$
 ^^ because the light come out so it can see where it be go on the track at night when it be dark $$
 ^^ that be a bump track $$
 ^^ where be it take the animal $$
@@ -1613,9 +1626,9 @@
 ^^ oh no $$
 ^^ one truck be derail $$
 ^^ and couple $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ let us put it back together again $$
-^^     quick $$
+^^ quick quick quick quick quick $$
 ^^ panda push $$
 ^^ the panda in his car be push $$
 ^^ let us put the tunnel over the track then like that $$
@@ -1643,7 +1656,7 @@
 ^^ go go go go go go go go go $$
 ^^ keep his wheel in the track $$
 ^^ have it start rain again $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ quick Henry $$
 ^^ get back in $$
 ^^ be he come out or do we need the wall $$
@@ -1676,7 +1689,7 @@
 ^^ look $$
 ^^ she be get red welly on have not she $$
 ^^ just like your welly $$
-^^    what be the gorilla wear $$
+^^ what's the monkey what be the gorilla wear $$
 ^^ hat and $$
 ^^ what be that red thing $$
 ^^ do you know $$
@@ -1684,20 +1697,25 @@
 ^^ it be a bow tie $$
 ^^ do not see many of those $$
 ^^ Warren read it $$
+^^ www $$
+^^ www $$
 ^^ what do her Dad do $$
 ^^ could not take her to the zoo $$
 ^^ what do he do instead $$
 ^^ he work $$
+^^ www $$
 ^^ who do you know that work at home $$
 ^^ yeah $$
 ^^ he say go away $$
 ^^ I be busy $$
+^^ www $$
 ^^ poor Hannah $$
 ^^ do she look sad $$
 ^^ it be a bit dark $$
 ^^ what be give the light $$
 ^^ the light on be there $$
 ^^ where be the light come from $$
+^^ www $$
 ^^ what be it $$
 ^^ yes $$
 ^^ what be that one $$
@@ -1712,10 +1730,12 @@
 ^^ look $$
 ^^ what be happen $$
 ^^ the gorilla get big and big and big and big $$
+^^ www $$
 ^^ what be the cat do $$
 ^^ walk in the mud $$
 ^^ what be he do $$
 ^^ it be a orange cat be not it $$
+^^ www $$
 ^^ yeah $$
 ^^ where be they walk out to $$
 ^^ you have be to a zoo $$
@@ -1734,7 +1754,7 @@
 ^^ I have find it again $$
 ^^ it be not lose $$
 ^^ where shall we put the tree $$
-^^ put the tree  near Henry tunnel $$
+^^ put the tree on near Henry tunnel $$
 ^^ no $$
 ^^ they do not stand on there $$
 ^^ I think it be flat but it be not $$
@@ -1782,6 +1802,7 @@
 ^^ oh dear $$
 ^^ we have have a big pile up here $$
 ^^ what shall we do $$
+^^ www $$
 ^^ oh what be happen $$
 ^^ I think there be be a big strong wind that be blow that roof off and knock the tree down $$
 ^^ shall we put them back on $$
@@ -1797,7 +1818,7 @@
 ^^ shall Mummy put Henry back on the track $$
 ^^ all I be do be put the roof on the right way $$
 ^^ oh $$
-^^  you do not bash thing with Henry Warren because you be chip the paint off anyway $$
+^^ um you do not bash thing with Henry Warren because you be chip the paint off anyway $$
 ^^ you must not bash thing with Henry $$
 ^^ I think I will put this station away $$
 ^^ put these back in the box $$
@@ -1946,7 +1967,7 @@
 ^^ look $$
 ^^ yes $$
 ^^ no $$
-^^ that bit go  further towards the back $$
+^^ that bit go towards further towards the back $$
 ^^ can you see piece with a bit wheel on $$
 ^^ okay $$
 ^^ now where do wheel go $$
@@ -1959,14 +1980,14 @@
 ^^ right $$
 ^^ yes $$
 ^^ you be look for man foot now $$
-^^ can you see some  man foot $$
+^^ can you see some man's man foot $$
 ^^ with yellow trouser $$
 ^^ just stay there pet $$
 ^^ I will be back in a second $$
 ^^ you find that man foot and trouser $$
 ^^ that be right yeah $$
 ^^ no no $$
-^^  where be the rest of his head Warren $$
+^^ where's where be the rest of his head Warren $$
 ^^ on the picture $$
 ^^ have you found that man foot yet $$
 ^^ yeah but they be discard in the corner $$
@@ -1983,7 +2004,7 @@
 ^^ where be the rest of the man $$
 ^^ who do those leg belong to $$
 ^^ that be it $$
-^^ that be  the nozzle on the hose $$
+^^ that be er the nozzle on the hose $$
 ^^ now can you see the rest of the hose $$
 ^^ there be some hose there $$
 ^^ and there be a piece here that be get the rest of the hose on $$
@@ -2029,7 +2050,7 @@
 ^^ now the other arm $$
 ^^ thread that in $$
 ^^ there we go $$
-^^ now she need to be  at the back $$
+^^ now she need to be xxx at the back $$
 ^^ okay $$
 ^^ whoops $$
 ^^ be you snap her bottom $$
@@ -2071,14 +2092,14 @@
 ^^ the monkey have to stand up $$
 ^^ he will fit on there $$
 ^^ he can stand at the front and get smoke in his face $$
-^^ perhaps I will   stand him at the back $$
+^^ perhaps I will sit him stand him at the back $$
 ^^ there be a man in the cab $$
 ^^ that monkey be get a good hold have not he $$
 ^^ what else shall we put on here $$
 ^^ where be the elephant go to go $$
 ^^ that be a good place for a elephant be not it $$
 ^^ that one be too big $$
-^^      the panda go in his car $$
+^^ that one goes he goes the panda go in his car $$
 ^^ in the panda car $$
 ^^ be he $$
 ^^ why be he sad $$
@@ -2106,6 +2127,7 @@
 ^^ the monkey be sit on its head $$
 ^^ there be another one $$
 ^^ I do not think they will fit sweet $$
+^^ xxx $$
 ^^ no more man $$
 ^^ just two $$
 ^^ of course you can make a tower $$
@@ -2126,7 +2148,7 @@
 ^^ it might break $$
 ^^ who be on the tower $$
 ^^ there be another man $$
-^^ and there be one    on this truck $$
+^^ and there be one on this coach on this truck $$
 ^^ oh yes $$
 ^^ no $$
 ^^ will not will not will not will not will not will not will not $$
@@ -2179,7 +2201,7 @@
 ^^ that be exciting be not it $$
 ^^ take it apart $$
 ^^ put it back together $$
-^^  why do not you put it on the floor $$
+^^ you why do not you put it on the floor $$
 ^^ it be much ease $$
 ^^ that be it $$
 ^^ how many man $$
@@ -2228,8 +2250,9 @@
 ^^ or what be you do $$
 ^^ Warren $$
 ^^ I have a suspicion about that silence child $$
+^^ www $$
 ^^ Mummy be go to build a tower now $$
-^^  Mummy be make a tower $$
+^^ Mummy's Mummy be make a tower $$
 ^^ a strong tower $$
 ^^ what be it $$
 ^^ tell me what it be $$
@@ -2288,7 +2311,7 @@
 ^^ be you sure $$
 ^^ you need a blue square $$
 ^^ put that on behind the cow $$
-^^  no $$
+^^ right no $$
 ^^ right next to it $$
 ^^ put it on here $$
 ^^ just here $$

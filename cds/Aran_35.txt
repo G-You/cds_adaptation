@@ -1,3 +1,4 @@
+^^ www $$
 ^^ he be push all the snow away $$
 ^^ well could he push a apple in my direction $$
 ^^ be that a apple $$
@@ -21,7 +22,7 @@
 ^^ oh poor Terence $$
 ^^ come on then Terence $$
 ^^ you come and move this apple for me $$
-^^ oh  crunch $$
+^^ oh crunch crunch $$
 ^^ I will get the apple for you Mummy $$
 ^^ there we be $$
 ^^ there be the apple $$
@@ -80,7 +81,7 @@
 ^^ be he tire after pull Bertie_the_postbus out_of the snow $$
 ^^ I think he will be $$
 ^^ I think to myself $$
-^^ you know    when we see Bertie_the_postbus come back in the snow $$
+^^ you know when we went when we see Bertie_the_postbus come back in the snow $$
 ^^ I thought Terence be go to be tire after that job be not he $$
 ^^ there we be $$
 ^^ there be the ramp $$
@@ -103,7 +104,7 @@
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ mhm $$
 ^^ I know $$
-^^ and   have you get him through the car $$
+^^ and have you have you get him through the car $$
 ^^ have the egg come off $$
 ^^ oh jolly good $$
 ^^ a bit have $$
@@ -115,8 +116,8 @@
 ^^ I be not convince of this at all $$
 ^^ right $$
 ^^ go on $$
-^^   have Terence be in $$
-^^ and  what do you think you be do $$
+^^ has Terence have Terence be in $$
+^^ and what what do you think you be do $$
 ^^ Aran $$
 ^^ but Terence do not use petrol $$
 ^^ Terence use diesel $$
@@ -247,7 +248,7 @@
 ^^ what be you go to do about it $$
 ^^ you genmod good find it quick or else I be go to ring for Mister_Plod the police $$
 ^^ and if he can not sort it out Arthur_Selby be go to come be not he $$
-^^   I will send all the way to Greevesdale for Arthur so you find my car for me please $$
+^^ I sent I will send all the way to Greevesdale for Arthur so you find my car for me please $$
 ^^ why not $$
 ^^ it be lose in a ditch $$
 ^^ well what be it do lose in a ditch $$
@@ -261,7 +262,7 @@
 ^^ right $$
 ^^ well I be go to take my car $$
 ^^ I be go to take it to this petrol station $$
-^^ and    I be go to have it examine and if there be        so much as a scratch I be go to send for Mister_Plod $$
+^^ and I'm going to I be go to have it examine and if there be so much as a scratch on it so much as a scratch I be go to send for Mister_Plod $$
 ^^ here you be Bert $$
 ^^ you come and examine my car for me $$
 ^^ and what do we find right away $$
@@ -280,7 +281,7 @@
 ^^ do not be silly with that Aran $$
 ^^ right $$
 ^^ well I shall drive my Volkswagen home for tea then $$
-^^   ring $$
+^^ ring ring ring $$
 ^^ be that Mister_Plod $$
 ^^ come on Aran $$
 ^^ what be you do $$
@@ -288,11 +289,15 @@
 ^^ it be your turn to have the Volkswagen $$
 ^^ do you want to use the toilet $$
 ^^ not when he be use it $$
+^^ xxx $$
 ^^ well that be right $$
+^^ xxx $$
 ^^ wash your hand $$
 ^^ there we be $$
 ^^ come on $$
+^^ xxx $$
 ^^ you can have the Volkswagen $$
+^^ xxx $$
 ^^ all right $$
 ^^ I will be Mister_Plod $$
 ^^ will not will not will not will not will not will not will not will not will not $$
@@ -325,8 +330,9 @@
 ^^ that be very help indeed $$
 ^^ we know exact who we be look for now do not we $$
 ^^ Robbie tell the dragon to do it do he $$
+^^ a $$
 ^^ so Robbie the most important rob be not he $$
-^^ he be the one  that be plan it all be not he $$
+^^ he be the one that's that be plan it all be not he $$
 ^^ right so I think we should go and look for him first $$
 ^^ do not you $$
 ^^ where do you think we be go to find him $$
@@ -414,7 +420,7 @@
 ^^ well if you be put a wheel on a car you can not just sudden pick the back up with one hand can you $$
 ^^ you have get to use a jack or you have get to put it up on a ramp have not you $$
 ^^ and then you can put the wheel back on $$
-^^ do you want Mummy to help you  put the wheel back on $$
+^^ do you want Mummy to help you putting put the wheel back on $$
 ^^ what be you get $$
 ^^ your tool $$
 ^^ and what sort of tool do you need $$
@@ -423,13 +429,13 @@
 ^^ one drill $$
 ^^ one set of pliers $$
 ^^ right $$
-^^ you have a  close look at Gumdrop wheel $$
+^^ you have a look close look at Gumdrop wheel $$
 ^^ break be it $$
 ^^ what be happen $$
 ^^ have the wheel come off $$
 ^^ or be it just the tyre $$
 ^^ oh well I think you can fix that then can not you $$
-^^   I do not think that be what happen be it $$
+^^ I don't I do not think that be what happen be it $$
 ^^ the tyre come off Gumdrop do not it $$
 ^^ come on $$
 ^^ Mummy good with tool $$
@@ -456,7 +462,7 @@
 ^^ Greevesdale police $$
 ^^ well can I have my hand then $$
 ^^ and you can use the ply on your wheel $$
-^^ I be not too happy about  my hand be take like this at all I be not $$
+^^ I be not too happy about my my hand be take like this at all I be not $$
 ^^ I might have need these for those two rob that have be steal car from the car $$
 ^^ be those the one you repair Grandma bead with $$
 ^^ hm $$
@@ -475,6 +481,7 @@
 ^^ what be Terence go to do now $$
 ^^ be he go to move some more of those boulder over there $$
 ^^ be that the building site $$
+^^ a $$
 ^^ you be go to steal a tractor be you $$
 ^^ oh well that be quite different be not it $$
 ^^ you get in trouble for steal tractor can not you $$
@@ -490,7 +497,7 @@
 ^^ think so $$
 ^^ oh Aran $$
 ^^ now you know good than that $$
-^^ you  $$
+^^ you xxx $$
 ^^ well you have make a mess have not you $$
 ^^ you what $$
 ^^ oh no $$
@@ -551,7 +558,7 @@
 ^^ and again $$
 ^^ and again $$
 ^^ and again $$
-^^ say  $$
+^^ say a $$
 ^^ let me have a look down that great big cavern $$
 ^^ oh Aran $$
 ^^ oh $$
@@ -816,6 +823,7 @@
 ^^ here you be doll $$
 ^^ you have some ice $$
 ^^ be not this delicious $$
+^^ mm $$
 ^^ she be only have two lick $$
 ^^ now do not be kind $$
 ^^ thank_you very much $$
@@ -889,7 +897,7 @@
 ^^ it be Dyllis_Price that hold the egg $$
 ^^ right $$
 ^^ and you be go to shoot me be you $$
-^^ well     that be not what happen at all be it $$
+^^ well that's not what Dyllis that be not what happen at all be it $$
 ^^ Norman be play with his gun be not he $$
 ^^ and his gun make a loud bang $$
 ^^ and Dyllis turn round quick and knock the egg off the counter do not she $$
@@ -1035,7 +1043,7 @@
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ be you go home for a clean pair of trouser Pat $$
 ^^ hm $$
-^^  just a minute $$
+^^ er just a minute $$
 ^^ you have get to go home for your clean pair of trouser $$
 ^^ I be Sarah $$
 ^^ oh Pat $$
@@ -1128,7 +1136,7 @@
 ^^ you be go to help her with the ceiling $$
 ^^ oh paint it you be go to help $$
 ^^ have she get enough paint $$
-^^ well we have get lots_of old    tin of paint  in the barn $$
+^^ well we have get lots_of old jars of paint tin of paint in in the barn $$
 ^^ why do not you go and see $$
 ^^ yes $$
 ^^ that be the barn $$
@@ -1181,10 +1189,10 @@
 ^^ because he be poor and he want some egg $$
 ^^ he be get flu $$
 ^^ he be get a very bad cold $$
-^^ it be    all those hole in the church ceiling $$
+^^ it be all those drips all those hole in the church ceiling $$
 ^^ water keep drip through and he be get cold and he be get wet and he be poor $$
 ^^ be you go to take them for me $$
-^^  yes $$
+^^ er yes $$
 ^^ there be some letter for Granny_Dryden $$
 ^^ I near forget them $$
 ^^ do not forget to take them to Granny_Dryden will you $$
@@ -1202,7 +1210,7 @@
 ^^ a spirit level it could be could not it in a tool $$
 ^^ there be Ted $$
 ^^ so be you go to $$
-^^  no $$
+^^ er no $$
 ^^ there be only that parcel for the Thompson twin $$
 ^^ do you think it be their birth $$
 ^^ oh they might ask you to the party if you take that parcel up on their birth $$
@@ -1214,7 +1222,7 @@
 ^^ oh thank_you Pat $$
 ^^ just what I need $$
 ^^ two new set of ply for my tool $$
-^^  no $$
+^^ er no $$
 ^^ just for the Thompson twin $$
 ^^ unless you want to make some of those letter $$
 ^^ give some of those letter to Alf_Thompson $$
@@ -1275,9 +1283,10 @@
 ^^ Pat $$
 ^^ you usual use a spoon with the sugar $$
 ^^ you do not just pour it out_of the basin $$
-^^   I think my tea be go to be very sweet $$
+^^ I think I think my tea be go to be very sweet $$
 ^^ still $$
 ^^ it be hot and wet $$
+^^ mm $$
 ^^ delicious $$
 ^^ oh it be nice to have $$
 ^^ what be you drink out_of the sugar basin for Pat $$
@@ -1443,7 +1452,7 @@
 ^^ hm $$
 ^^ play with them again $$
 ^^ well what shall we do this time $$
-^^   where be we go this time $$
+^^ where are where be we go this time $$
 ^^ the crocodile $$
 ^^ there be not any crocodile in Greevesdale $$
 ^^ there be sheep $$
@@ -1462,10 +1471,10 @@
 ^^ you can play at Postman_Pat $$
 ^^ here we be $$
 ^^ here be Postman_Pat $$
-^^   what sort of adventure be Postman_Pat go to have today $$
+^^ what's Postman_Pat what sort of adventure be Postman_Pat go to have today $$
 ^^ hm $$
-^^ but   I have not see this story about Postman_Pat and the crocodile $$
-^^    do he take Julian to the zoo $$
+^^ but I haven't I have not see this story about Postman_Pat and the crocodile $$
+^^ did he go do he take Julian to the zoo $$
 ^^ right okay $$
 ^^ there be Postman_Pat van $$
 ^^ there be Postman_Pat $$
@@ -1481,7 +1490,7 @@
 ^^ I genmod rather you do not $$
 ^^ I be afraid your surgical technique be a bit too much for me $$
 ^^ well there be always thing in my hair $$
-^^    it be the honeysuckle be not it that drop into my hair $$
+^^ it's that that it be the honeysuckle be not it that drop into my hair $$
 ^^ how $$
 ^^ well everytime I come in through the front door I pass under the honeysuckle and it drop thing into my hair do not it $$
 ^^ either that or my head hit the cherry tree when I get out_of the car do not it $$
@@ -1494,7 +1503,7 @@
 ^^ break your heart over this balloon do not you $$
 ^^ I tell you not to let it go do not I $$
 ^^ and I say to you do not let that go Aran $$
-^^ it will  fly away do not I $$
+^^ it will blow fly away do not I $$
 ^^ and lo and behold $$
 ^^ come on $$
 ^^ be we take Jess to see the crocodile $$
@@ -1534,7 +1543,7 @@
 ^^ be it $$
 ^^ I have get the runaway train here $$
 ^^ with a hippo on it $$
-^^ be Master_Tubby go to  join this runaway train $$
+^^ be Master_Tubby go to er join this runaway train $$
 ^^ he be not $$
 ^^ why not $$
 ^^ you be still wash him be you $$
@@ -1671,7 +1680,7 @@
 ^^ do they $$
 ^^ that be not very nice be it $$
 ^^ poor Thomas $$
-^^ do he get bruise on the back of his  fender $$
+^^ do he get bruise on the back of his er fender $$
 ^^ oh dear $$
 ^^ poor Thomas $$
 ^^ what be we do now $$
@@ -1686,7 +1695,7 @@
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ come on $$
 ^^ put the engine in $$
-^^ oh   near $$
+^^ oh nearly nearly near $$
 ^^ it be still there $$
 ^^ yes $$
 ^^ will not will not will not will not will not will not will not $$
@@ -1712,7 +1721,7 @@
 ^^ be you sure it be not Daddy and not mine $$
 ^^ oh well I do not remember it $$
 ^^ at one time it used to be mine do it $$
-^^   the only train there be a Grandma be Uncle_John $$
+^^ well I the only train there be a Grandma be Uncle_John $$
 ^^ no $$
 ^^ Uncle_John take it with him when he get marry $$
 ^^ because he find it impossible to be separate from his toy $$
@@ -1859,7 +1868,7 @@
 ^^ I can not find them $$
 ^^ oh just a minute $$
 ^^ come on $$
-^^   here be the  hand for the rob $$
+^^ here's the here be the er hand for the rob $$
 ^^ oh please do not hurt me $$
 ^^ please do not lock me up $$
 ^^ please do not send me to prison $$
@@ -1913,8 +1922,9 @@
 ^^ come on $$
 ^^ you come and talk to me $$
 ^^ I be just have my cup of tea while I be in prison $$
-^^ oh be those ply to help me get    out_of these hand $$
+^^ oh be those ply to help me get out_of this er out_of these hand $$
 ^^ will you $$
+^^ a $$
 ^^ no $$
 ^^ you do not $$
 ^^ you cause pain $$
@@ -1927,7 +1937,7 @@
 ^^ do it need a hole drill in it $$
 ^^ oh I think that be enough knock and bang with those hand Aran $$
 ^^ I be sure you must have repair them by now $$
-^^ do you have a_lot_of knock and bang to do when you be repair  your engine $$
+^^ do you have a_lot_of knock and bang to do when you be repair your your engine $$
 ^^ do you do a_lot_of rub down and paint $$
 ^^ a_lot_of polish $$
 ^^ be that why that train look so sparkle now $$

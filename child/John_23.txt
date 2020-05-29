@@ -6,13 +6,16 @@
 ^^ paper draw $$
 ^^ this on paper $$
 ^^ yellow $$
+^^ xxx $$
 ^^ yellow there $$
 ^^ come $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ yellow $$
 ^^ do horse $$
 ^^ do horse $$
 ^^ do horse $$
+^^ um $$
 ^^ there Daddy jump $$
 ^^ Daddy $$
 ^^ Daddy $$
@@ -22,8 +25,8 @@
 ^^ no $$
 ^^ color blue $$
 ^^ color $$
-^^  Daddy $$
-^^ blue  Daddy $$
+^^ Daddy Daddy $$
+^^ blue Daddy Daddy $$
 ^^ a spider $$
 ^^ blue spider $$
 ^^ do another spider $$
@@ -39,6 +42,7 @@
 ^^ make hand down $$
 ^^ spider $$
 ^^ come $$
+^^ xxx $$
 ^^ sun $$
 ^^ the sun out $$
 ^^ here $$
@@ -58,7 +62,7 @@
 ^^ color in $$
 ^^ color green $$
 ^^ a tree $$
-^^  oh it rain $$
+^^ oh oh it rain $$
 ^^ draw star $$
 ^^ draw star $$
 ^^ draw star $$
@@ -77,6 +81,7 @@
 ^^ do starfish $$
 ^^ a star $$
 ^^ star $$
+^^ xxx $$
 ^^ horse $$
 ^^ do horse $$
 ^^ do a horse $$
@@ -93,6 +98,7 @@
 ^^ it tickle $$
 ^^ on hand $$
 ^^ tickle $$
+^^ xxx $$
 ^^ bear $$
 ^^ do bear $$
 ^^ round and round Mummy $$
@@ -125,8 +131,8 @@
 ^^ all do $$
 ^^ Mummy starfish $$
 ^^ Mummy starfish $$
-^^   up $$
-^^  up $$
+^^ up up up $$
+^^ up up $$
 ^^ sun starfish $$
 ^^ do starfish $$
 ^^ another starfish $$
@@ -147,7 +153,7 @@
 ^^ purple star $$
 ^^ star $$
 ^^ more star $$
-^^    more star $$
+^^ more more more more star $$
 ^^ this be star $$
 ^^ more star $$
 ^^ more star $$
@@ -159,13 +165,14 @@
 ^^ purple paint $$
 ^^ color $$
 ^^ star $$
+^^ xxx $$
 ^^ yeah $$
 ^^ I get purple star $$
 ^^ star $$
 ^^ there $$
 ^^ starfish $$
 ^^ starfish $$
-^^   I do big starfish $$
+^^ I done I do big starfish $$
 ^^ starfish $$
 ^^ another starfish $$
 ^^ starfish $$
@@ -173,7 +180,7 @@
 ^^ it starfish $$
 ^^ spider $$
 ^^ crab $$
-^^  big spider $$
+^^ big big spider $$
 ^^ spider $$
 ^^ a starfish $$
 ^^ a starfish $$
@@ -181,6 +188,7 @@
 ^^ byebye starfish $$
 ^^ starfish $$
 ^^ starfish $$
+^^ xxx $$
 ^^ do starfish $$
 ^^ no $$
 ^^ do starfish $$
@@ -241,6 +249,7 @@
 ^^ man $$
 ^^ man $$
 ^^ a house $$
+^^ xxx $$
 ^^ house $$
 ^^ put color away $$
 ^^ three $$
@@ -259,7 +268,8 @@
 ^^ make house $$
 ^^ house $$
 ^^ house $$
-^^  byebye car $$
+^^ um $$
+^^ um byebye car $$
 ^^ byebye car $$
 ^^ byebye car $$
 ^^ it a snow $$
@@ -274,6 +284,7 @@
 ^^ two house $$
 ^^ window $$
 ^^ window $$
+^^ xxx $$
 ^^ man $$
 ^^ Mummy $$
 ^^ door $$
@@ -286,10 +297,10 @@
 ^^ bang $$
 ^^ all do Mummy $$
 ^^ do snail $$
-^^ snail   bang $$
+^^ snail bang bang bang $$
 ^^ snail $$
-^^  bang snail $$
-^^  bang snail $$
+^^ bang bang snail $$
+^^ bang bang snail $$
 ^^ draw starfish $$
 ^^ byebye man $$
 ^^ byebye man $$
@@ -341,11 +352,12 @@
 ^^ two white $$
 ^^ fish fish fish $$
 ^^ this for doll $$
+^^ xxx $$
 ^^ this on her foot $$
 ^^ there shoe $$
 ^^ there two penguin $$
-^^ a  $$
-^^  two $$
+^^ a xxx $$
+^^ um two $$
 ^^ seal $$
 ^^ seal $$
 ^^ a penguin $$
@@ -353,8 +365,9 @@
 ^^ look here two $$
 ^^ penguin $$
 ^^ blue train $$
+^^ xxx $$
 ^^ a shoe $$
-^^  a shoe $$
+^^ a a shoe $$
 ^^ sss $$
 ^^ a zoo and the zoo $$
 ^^ there zoo $$
@@ -368,17 +381,18 @@
 ^^ I get it $$
 ^^ she go sleep $$
 ^^ there shoe $$
-^^ there shoe  $$
+^^ there shoe xxx $$
 ^^ look $$
 ^^ she knee $$
 ^^ knee $$
 ^^ knee $$
-^^ there  shoe $$
+^^ there shoes shoe $$
 ^^ fiddle $$
 ^^ do that shoe $$
 ^^ there a monkey $$
 ^^ she asleep $$
 ^^ yellow $$
+^^ xxx $$
 ^^ asleep $$
 ^^ asleep $$
 ^^ oh $$
@@ -406,16 +420,17 @@
 ^^ swim go $$
 ^^ swim no go $$
 ^^ swim $$
-^^ swim  $$
+^^ swim xxx $$
 ^^ see see $$
 ^^ this ride on $$
 ^^ ride on $$
+^^ xxx $$
 ^^ lion $$
 ^^ a ride horse $$
 ^^ ride tiger $$
 ^^ ride $$
 ^^ lion $$
-^^  lion $$
+^^ lion lion $$
 ^^ shoe $$
 ^^ a sock $$
 ^^ a sock $$
@@ -426,6 +441,7 @@
 ^^ a boat $$
 ^^ it be a boat $$
 ^^ big boat $$
+^^ xxx $$
 ^^ here shoe $$
 ^^ for doll $$
 ^^ want teddy $$
@@ -437,7 +453,7 @@
 ^^ put it arm $$
 ^^ it arm $$
 ^^ it on foot $$
-^^ on the  $$
+^^ on the xxx $$
 ^^ it stick $$
 ^^ it off $$
 ^^ long hair $$
@@ -466,10 +482,11 @@
 ^^ here $$
 ^^ in boat $$
 ^^ go $$
+^^ xxx $$
 ^^ play $$
 ^^ look Mummy $$
 ^^ Mummy do it $$
-^^  go away $$
+^^ xxx go away $$
 ^^ I get the doll $$
 ^^ no $$
 ^^ no $$
@@ -512,7 +529,7 @@
 ^^ hot tea $$
 ^^ go in train $$
 ^^ in train $$
-^^  in the car $$
+^^ in in the car $$
 ^^ man in the car $$
 ^^ man in the car $$
 ^^ stick $$
@@ -522,8 +539,11 @@
 ^^ it white $$
 ^^ it be white $$
 ^^ I find white $$
+^^ um $$
+^^ xxx $$
 ^^ this doll $$
 ^^ some more brick $$
+^^ xxx $$
 ^^ shoe $$
 ^^ doll shoe $$
 ^^ here $$
@@ -533,6 +553,7 @@
 ^^ Mummy do shoe $$
 ^^ I put shoe $$
 ^^ the doll $$
+^^ xxx $$
 ^^ it stick $$
 ^^ where be the abbybabby $$
 ^^ the abbybabby $$
@@ -543,6 +564,7 @@
 ^^ it stick $$
 ^^ willie $$
 ^^ this on $$
+^^ xxx $$
 ^^ where doll $$
 ^^ water $$
 ^^ swim $$
@@ -554,6 +576,7 @@
 ^^ doll $$
 ^^ doll $$
 ^^ in the boat $$
+^^ xxx $$
 ^^ in bag $$
 ^^ a hat $$
 ^^ hat $$
@@ -576,4 +599,5 @@
 ^^ shoe $$
 ^^ where be willie $$
 ^^ willie $$
+^^ xxx $$
 ^^ come in bath $$

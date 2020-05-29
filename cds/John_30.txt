@@ -60,6 +60,7 @@
 ^^ walk like that $$
 ^^ go go go go go go go go go go go $$
 ^^ what be he get on his shoe there John $$
+^^ a $$
 ^^ I think $$
 ^^ no $$
 ^^ I do not think it be break $$
@@ -102,6 +103,7 @@
 ^^ have you look for the baby cow $$
 ^^ I think we forget about him $$
 ^^ you look for the baby cow $$
+^^ a $$
 ^^ well do $$
 ^^ where be the Mummy cow $$
 ^^ mhm $$
@@ -133,7 +135,7 @@
 ^^ try him again $$
 ^^ do it again $$
 ^^ that be it $$
-^^ well you have get to try a different position if he do not  want to sit in one position $$
+^^ well you have get to try a different position if he do not er want to sit in one position $$
 ^^ that be it $$
 ^^ that be it $$
 ^^ try it a different way $$
@@ -145,7 +147,7 @@
 ^^ perhaps if we make it big that way $$
 ^^ will that be good $$
 ^^ who else have get to fit in $$
-^^   another two horse John $$
+^^ another horse another two horse John $$
 ^^ another two horse to fit in there $$
 ^^ mhm $$
 ^^ he be peep over the gate $$
@@ -182,12 +184,14 @@
 ^^ now we can feed the animal now can not we $$
 ^^ what be they have today for their breakfast $$
 ^^ some fruit $$
+^^ mm $$
 ^^ luck animal $$
 ^^ some rocket as_well $$
 ^^ well you like rocket $$
 ^^ I do not know if the animal like rocket $$
 ^^ no $$
 ^^ there be no rocket for you John $$
+^^ www $$
 ^^ John $$
 ^^ you have the last one yesterday do not you $$
 ^^ mhm $$
@@ -205,6 +209,7 @@
 ^^ okay $$
 ^^ that be fine $$
 ^^ John $$
+^^ www $$
 ^^ come and give your animal a drink John $$
 ^^ they be look very thirst to me $$
 ^^ go go go go go go go go go $$
@@ -216,14 +221,14 @@
 ^^ be there another trough $$
 ^^ oh no $$
 ^^ we have get some sweet here to give some of the animal $$
-^^  trough $$
+^^ trough trough $$
 ^^ well we can pretend one of these be a trough $$
 ^^ shall we pretend one of these be one $$
 ^^ John_Benjamin $$
 ^^ John $$
 ^^ will you like to play with something else now $$
 ^^ okay $$
-^^ what about find  your can $$
+^^ what about find your your can $$
 ^^ your shop $$
 ^^ no $$
 ^^ not candle $$
@@ -240,6 +245,8 @@
 ^^ all right $$
 ^^ do you want to see what can you have get $$
 ^^ can you remember what we have get in here $$
+^^ a $$
+^^ www $$
 ^^ John $$
 ^^ do we have any peach $$
 ^^ tin peach $$
@@ -254,8 +261,8 @@
 ^^ that be right $$
 ^^ very good $$
 ^^ oh yes $$
-^^  the white car $$
-^^  next door $$
+^^ a the white car $$
+^^ next next door $$
 ^^ no $$
 ^^ no $$
 ^^ Nicole do not have a car do she $$
@@ -367,8 +374,9 @@
 ^^ come on $$
 ^^ all right $$
 ^^ okay $$
-^^ very soon it will be time  to get the box of toy $$
+^^ very soon it will be time to to get the box of toy $$
 ^^ what be in the box of toy $$
+^^ eh $$
 ^^ be there $$
 ^^ mhm $$
 ^^ what else $$
@@ -383,6 +391,7 @@
 ^^ all right $$
 ^^ the doll $$
 ^^ get you $$
+^^ a $$
 ^^ very good $$
 ^^ mhm $$
 ^^ what else have you get $$
@@ -438,6 +447,7 @@
 ^^ who else be sleep $$
 ^^ mhm $$
 ^^ well can not I just watch from up here John $$
+^^ a $$
 ^^ another cow $$
 ^^ mhm $$
 ^^ no $$
@@ -573,6 +583,7 @@
 ^^ no $$
 ^^ no John $$
 ^^ oy $$
+^^ www $$
 ^^ John $$
 ^^ come and show me the animal you have get in your basket $$
 ^^ John $$
@@ -602,6 +613,7 @@
 ^^ we will play with it later $$
 ^^ that be it $$
 ^^ play downstairs $$
+^^ a $$
 ^^ here be the grape $$
 ^^ put it with the other thing $$
 ^^ put it where you like $$
@@ -812,6 +824,7 @@
 ^^ yes $$
 ^^ you be feed me in my mouth $$
 ^^ hello $$
+^^ www $$
 ^^ come and show me your farm $$
 ^^ John $$
 ^^ come and show me your farm $$
@@ -829,6 +842,7 @@
 ^^ why do not you take this man to your farm $$
 ^^ will you like to come and see what I have get $$
 ^^ yeah $$
+^^ www $$
 ^^ what have we get in there $$
 ^^ actual that one do not twist but some of them do $$
 ^^ oh what do you do with that then $$
@@ -846,7 +860,7 @@
 ^^ keep it open $$
 ^^ can you see anything $$
 ^^ I think you be shut your eye though John $$
-^^   keep $$
+^^ keep it keep $$
 ^^ that be it $$
 ^^ keep it open so you can look through $$
 ^^ can you see some pattern $$
@@ -939,6 +953,7 @@
 ^^ it do not work very well $$
 ^^ can you send it back to me $$
 ^^ send it back to me John $$
+^^ a $$
 ^^ this will work good $$
 ^^ whoo $$
 ^^ take a while to get go $$
@@ -970,7 +985,7 @@
 ^^ oh here be part of your tractor John $$
 ^^ there be a big o yeah $$
 ^^ g yes $$
-^^  there be one $$
+^^ um there be one $$
 ^^ do you want to read this one about the play John $$
 ^^ John $$
 ^^ John $$
@@ -979,7 +994,7 @@
 ^^ it be half term $$
 ^^ John $$
 ^^ will you like to come and read the book about the play $$
-^^ the teach write  do not she $$
+^^ the teach write xxx do not she $$
 ^^ do you want to sit on my lap $$
 ^^ sit on my lap and read it $$
 ^^ very good $$
@@ -1016,6 +1031,7 @@
 ^^ what other color can you see here $$
 ^^ what color $$
 ^^ do you want me to read this $$
+^^ www $$
 ^^ one by one $$
 ^^ mhm $$
 ^^ elephant paint $$
@@ -1024,7 +1040,7 @@
 ^^ and who be this with the big tail $$
 ^^ who be that $$
 ^^ yes $$
-^^ they be paint yellow but do you recognize    who this be with the whisker $$
+^^ they be paint yellow but do you recognize whose this is who this be with the whisker $$
 ^^ and the long tail $$
 ^^ who be it $$
 ^^ it be a cat be not it $$
@@ -1053,6 +1069,7 @@
 ^^ it be pretty $$
 ^^ well two $$
 ^^ one two $$
+^^ www $$
 ^^ can you turn this $$
 ^^ what be happen here $$
 ^^ yeah $$
@@ -1079,6 +1096,7 @@
 ^^ you like to play the piano do not you $$
 ^^ I have not see your trumpet for a few day $$
 ^^ what be $$
+^^ www $$
 ^^ you think it be time for his sleep $$
 ^^ you have buy a ice $$
 ^^ wow $$
@@ -1125,6 +1143,7 @@
 ^^ leg $$
 ^^ be there somebody drive the train today $$
 ^^ oh there be $$
+^^ a $$
 ^^ oh $$
 ^^ a little horse $$
 ^^ it be call a foal $$
@@ -1213,6 +1232,7 @@
 ^^ John $$
 ^^ give it to me $$
 ^^ oh dear $$
+^^ www $$
 ^^ John $$
 ^^ come on $$
 ^^ where be you $$
@@ -1224,6 +1244,7 @@
 ^^ give it to me $$
 ^^ yuck $$
 ^^ yuck $$
+^^ www $$
 ^^ John $$
 ^^ how about if you go shop with the shop basket and put thing in the basket instead of in your mouth $$
 ^^ okay then $$
@@ -1238,7 +1259,7 @@
 ^^ where do it get stick $$
 ^^ the train get stick $$
 ^^ where do it get stick $$
-^^  the buggy get stick in the train $$
+^^ a the buggy get stick in the train $$
 ^^ that be right $$
 ^^ it do do not it $$
 ^^ Daddy do it $$
@@ -1276,7 +1297,7 @@
 ^^ can I do it $$
 ^^ go on $$
 ^^ can I do this one instead $$
-^^    no $$
+^^ no no no no $$
 ^^ have you get any long finger nail that I should cut $$
 ^^ no $$
 ^^ okay $$
@@ -1310,7 +1331,7 @@
 ^^ yes $$
 ^^ well if you give it to me I can open it can not I $$
 ^^ you be not real suppose to help yourself to thing out_of the freeze $$
-^^ now this one a bit mess because    I think it get a bit $$
+^^ now this one a bit mess because I think it's I think it get a bit $$
 ^^ eat it in here please $$
 ^^ in there $$
 ^^ it melt and freeze $$
@@ -1361,15 +1382,22 @@
 ^^ oh $$
 ^^ be he happy or sad do you think $$
 ^^ oh look $$
+^^ www $$
 ^^ what be he get on his tongue John $$
 ^^ yeah $$
 ^^ he eat fly and bee $$
 ^^ mhm $$
 ^^ ah $$
+^^ www $$
 ^^ who be this $$
+^^ www $$
 ^^ I do not think he will want a rocket $$
+^^ www $$
+^^ www $$
+^^ www $$
 ^^ be that what he be say $$
 ^^ he want a rocket instead of fly $$
+^^ www $$
 ^^ splash $$
 ^^ splash $$
 ^^ there be bubble $$
@@ -1380,7 +1408,7 @@
 ^^ you want to see the alligator again $$
 ^^ there be the alligator $$
 ^^ grr $$
-^^   snap $$
+^^ snap snap snap $$
 ^^ watch out $$
 ^^ he will get your finger $$
 ^^ who else be there $$
@@ -1443,7 +1471,7 @@
 ^^ what shall we have $$
 ^^ oh another cake $$
 ^^ love $$
-^^ go and put it on the table because it will get all  sticky $$
+^^ go and put it on the table because it will get all er sticky $$
 ^^ what else be we have for dinner John $$
 ^^ what be that $$
 ^^ be that a pancake $$
@@ -1470,7 +1498,7 @@
 ^^ usual thing can go in your pocket but not the squidgy stuff $$
 ^^ okay $$
 ^^ let us keep it out_of pocket $$
-^^  no $$
+^^ no no $$
 ^^ do not put it in pocket $$
 ^^ okay $$
 ^^ what else shall we make for the dinner $$
@@ -1496,6 +1524,7 @@
 ^^ ahhah $$
 ^^ yes $$
 ^^ it be a bottle $$
+^^ a $$
 ^^ what be inside your bottle $$
 ^^ oh your favorite $$
 ^^ thank_you $$
@@ -1513,7 +1542,7 @@
 ^^ okay $$
 ^^ do you remember see the snake at the week as_well $$
 ^^ do you like the snake $$
-^^ oh   you prefer the spider $$
+^^ oh you like you prefer the spider $$
 ^^ it be like a lobster actual yeah $$
 ^^ you be right $$
 ^^ more like a lobster than a spider at the moment $$
@@ -1535,6 +1564,7 @@
 ^^ John Benjamin $$
 ^^ come out $$
 ^^ flirt $$
+^^ www $$
 ^^ John $$
 ^^ your spider ready $$
 ^^ do he need somewhere to live now $$
@@ -1670,7 +1700,7 @@
 ^^ do it up again $$
 ^^ oh a vast improve $$
 ^^ where be your trike $$
-^^ come and ride that  $$
+^^ come and ride that xxx $$
 ^^ yeah $$
 ^^ be you pretend $$
 ^^ you like bike do not you $$
@@ -1680,6 +1710,7 @@
 ^^ you go and buy some food then $$
 ^^ on your motor $$
 ^^ see you $$
+^^ www $$
 ^^ oh good $$
 ^^ what do you get John $$
 ^^ be that nice $$
@@ -1690,6 +1721,7 @@
 ^^ what be this $$
 ^^ plum $$
 ^^ yes I think it be $$
+^^ xxx $$
 ^^ oh you can go shop now with the basket $$
 ^^ well not exact your box John $$
 ^^ thank_you $$
@@ -1759,7 +1791,7 @@
 ^^ oh $$
 ^^ perhaps the horse can go in on his own $$
 ^^ all right $$
-^^ there be some more farm  zoo animal John $$
+^^ there be some more farm er zoo animal John $$
 ^^ up and down $$
 ^^ yeah $$
 ^^ I think that be so he can have a drink I think $$
@@ -1790,9 +1822,10 @@
 ^^ John $$
 ^^ come over here please $$
 ^^ John $$
+^^ xxx $$
 ^^ John $$
 ^^ look $$
-^^ why do not you take this  tiger and put him in the farm over there $$
+^^ why do not you take this er tiger and put him in the farm over there $$
 ^^ or the zoo $$
 ^^ there be lots_of gate here John $$
 ^^ we can use these $$
@@ -1842,7 +1875,7 @@
 ^^ any more animal $$
 ^^ that must be all $$
 ^^ there be just these to go $$
-^^ oh there be  a bull over there John $$
+^^ oh there be a a bull over there John $$
 ^^ yeah $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ hm $$
@@ -1878,10 +1911,10 @@
 ^^ just pretend $$
 ^^ you do not actual need a book upstairs $$
 ^^ you can just pretend to read a book $$
-^^   no $$
+^^ no no no $$
 ^^ no need $$
 ^^ come and make sure she be all right $$
-^^ and give her  some blanket and pretend these be blanket $$
+^^ and give her some some blanket and pretend these be blanket $$
 ^^ no $$
 ^^ Daddy at work today John $$
 ^^ what be Daddy do today $$

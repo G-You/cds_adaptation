@@ -15,7 +15,7 @@ def read_sents(f):
 	return sents
 
 def initiate_we(sents, name):
-	model = we(sentences=sents, size=200, window=3, min_count=2, workers=1, iter=100, sg=1)
+	model = we(sentences=sents, size=200, window=1, min_count=2, workers=1, iter=100, sg=1)
 	model.save(args.reg+"/models/"+name)
 	return len(model.wv.vocab)
 
@@ -26,6 +26,11 @@ def train_we(sents, name):
 	model.save(args.reg+"/models/"+name)
 	return len(model.wv.vocab)
 
+def we_on_merged_sessions(sents, name):
+	model = we(sentences=sents, size=200, window=1, min_count=2, workers=1, iter=100, sg=1)
+	model.save("merged-"+args.reg+"/models/"+name)
+	return len(model.wv.vocab)
+
 def get_filenames(out_root):
 	fileids = []
 	for root, dirnames, filenames in os.walk(out_root):
@@ -34,18 +39,34 @@ def get_filenames(out_root):
 	return (sorted(fileids))
 
 def get_similarity(name, age, n = 20, rate=True):
-	embeddings = args.reg+"/models/" + name
+	embeddings = "merged-"+args.reg+"/models/" + name+"-"+age
 	caus_list = ['begin', 'boil', 'break', 'burn', 'change', 'close', 'destroy', 'dry', 'fill', 'finish', 'freeze', 'gather', 'kill', 'lose', 'melt', 'open', 'raise', 'roll', 'sink', 'spread', 'stop', 'teach', 'turn']
 	model = we.load(embeddings)
+
 	vocab = list(model.wv.vocab.keys())
-	write_f = open(args.reg+"/results/"+name+"_"+age+".csv","w+")
+	write_f = open("merged-"+args.reg+"/results/"+name+"-"+age+".csv","w+")
 	result_writer = csv.writer(write_f, delimiter="\t")
+	# how many causatives are there in each network
+	caus_counter = 0
+	# the caus graph
 	for caus in caus_list:
 		if caus not in vocab:
 			continue
 
 		similar_words = [row[0] for row in model.wv.most_similar(caus, topn=n)]
 		result_writer.writerow([caus]+similar_words)
+		caus_counter += 1
+
+	# the random graph
+	random_words = random.sample(vocab, caus_counter)
+	with open("merged-"+args.reg+"/random/"+name+"-"+age+".csv", "w+") as random_f:
+		random_writer = csv.writer(random_f, delimiter="\t")
+		for word in random_words:
+			similar_words = [row[0] for row in model.wv.most_similar(word, topn=n)]
+			random_writer.writerow([word]+similar_words)
+
+
+
 
 prev_child = ""
 
@@ -54,6 +75,11 @@ for f in fileids:
 	name = f.split("/")[-1].split("_")[0]
 	age = f.split("_")[1].split(".")[0]
 	sents = read_sents(f)
+
+	vocab_size = we_on_merged_sessions(sents, name+"-"+age)
+	ratio = math.ceil(math.log(math.ceil(vocab_size)))
+	get_similarity(name, age, n=ratio)
+	'''
 	# new child
 	if (name != prev_child):
 		vocab_size = initiate_we(sents, name)
@@ -64,3 +90,4 @@ for f in fileids:
 		get_similarity(name, age, n=math.ceil(vocab_size/100))
 	else:
 		get_similarity(name, age, n=math.ceil(vocab_size/100))
+		'''

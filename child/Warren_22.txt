@@ -26,6 +26,7 @@
 ^^ two $$
 ^^ three $$
 ^^ elephant $$
+^^ xxx $$
 ^^ other one $$
 ^^ in the dig $$
 ^^ one $$
@@ -50,15 +51,17 @@
 ^^ boat $$
 ^^ boat $$
 ^^ elephant $$
+^^ xxx $$
 ^^ car $$
 ^^ red $$
-^^  the dig truck $$
+^^ a the dig truck $$
 ^^ get my dig $$
 ^^ the dig $$
 ^^ more boat $$
 ^^ all_gone $$
 ^^ any more $$
 ^^ any more $$
+^^ um $$
 ^^ nice $$
 ^^ brumm $$
 ^^ any more $$
@@ -68,11 +71,13 @@
 ^^ dig $$
 ^^ oh dear $$
 ^^ crash $$
+^^ xxx $$
 ^^ it Granddad $$
 ^^ no Nana $$
+^^ a $$
 ^^ bite it $$
 ^^ my tooth $$
-^^ I bite  $$
+^^ I bite xxx $$
 ^^ whee $$
 ^^ no no mine $$
 ^^ all mine $$
@@ -118,7 +123,7 @@
 ^^ Nana $$
 ^^ all_gone $$
 ^^ in car $$
-^^  in bed $$
+^^ er in bed $$
 ^^ in bed $$
 ^^ go $$
 ^^ bang $$
@@ -130,7 +135,7 @@
 ^^ me $$
 ^^ mine $$
 ^^ Warren a tower $$
-^^  ready $$
+^^ er ready $$
 ^^ slipper off $$
 ^^ slipper be off $$
 ^^ slipper be off $$
@@ -263,7 +268,7 @@
 ^^ again $$
 ^^ Thomas again $$
 ^^ Thomas again $$
-^^  Controller $$
+^^ um Controller $$
 ^^ where be Fat_Controller go $$
 ^^ it go $$
 ^^ I count $$
@@ -297,6 +302,7 @@
 ^^ go $$
 ^^ picture be go $$
 ^^ again $$
+^^ xxx $$
 ^^ blue $$
 ^^ this $$
 ^^ this one $$
@@ -318,6 +324,7 @@
 ^^ no on Mummy foot $$
 ^^ that my slipper $$
 ^^ put it on $$
+^^ xxx $$
 ^^ Mummy help $$
 ^^ Mummy help $$
 ^^ Mummy help $$
@@ -339,6 +346,7 @@
 ^^ where trailer go $$
 ^^ baby $$
 ^^ she walk $$
+^^ xxx $$
 ^^ baby this $$
 ^^ baby all_gone $$
 ^^ there $$
@@ -392,7 +400,7 @@
 ^^ oh there be a car $$
 ^^ a car $$
 ^^ there car $$
-^^ there   car $$
+^^ there car car car $$
 ^^ this fit $$
 ^^ this fit $$
 ^^ it fit $$
@@ -415,8 +423,12 @@
 ^^ ice $$
 ^^ it strawberry $$
 ^^ it strawberry $$
+^^ xxx $$
+^^ mm $$
 ^^ here again $$
+^^ mm $$
 ^^ ice $$
+^^ mm $$
 ^^ I lick $$
 ^^ lick $$
 ^^ ice $$
@@ -427,6 +439,7 @@
 ^^ go $$
 ^^ go $$
 ^^ baby tiger $$
+^^ xxx $$
 ^^ chip $$
 ^^ bag $$
 ^^ oh $$
@@ -438,12 +451,13 @@
 ^^ ball $$
 ^^ plum $$
 ^^ ball $$
-^^  another one $$
+^^ um another one $$
 ^^ another one $$
 ^^ another plum $$
 ^^ orange $$
 ^^ strawberry $$
 ^^ strawberry $$
+^^ xxx $$
 ^^ bite $$
 ^^ call hot $$
 ^^ I look in the bag $$
@@ -451,6 +465,7 @@
 ^^ a apple $$
 ^^ a apple $$
 ^^ apple $$
+^^ xxx $$
 ^^ drink $$
 ^^ all_gone $$
 ^^ cup $$
@@ -467,7 +482,7 @@
 ^^ apple $$
 ^^ it baby drink $$
 ^^ baby drink $$
-^^ my  baby drink $$
+^^ my baby baby drink $$
 ^^ baby drink $$
 ^^ the baby have drink $$
 ^^ baby have a drink $$
@@ -484,6 +499,7 @@
 ^^ lemon $$
 ^^ any more $$
 ^^ oh $$
+^^ xxx $$
 ^^ grape $$
 ^^ it go $$
 ^^ go $$
@@ -493,12 +509,14 @@
 ^^ cat food $$
 ^^ all_gone $$
 ^^ Tiny $$
+^^ a $$
 ^^ Mummy that $$
 ^^ I want that $$
 ^^ dog $$
 ^^ it mine $$
 ^^ it dog be $$
 ^^ cat be $$
+^^ um $$
 ^^ baby be $$
 ^^ cat food $$
 ^^ brumm $$
@@ -524,6 +542,8 @@
 ^^ one $$
 ^^ that $$
 ^^ it be that $$
+^^ xxx $$
+^^ xxx $$
 ^^ big one $$
 ^^ red $$
 ^^ on $$
@@ -538,6 +558,7 @@
 ^^ cake $$
 ^^ cake $$
 ^^ cake $$
+^^ mm $$
 ^^ ice $$
 ^^ apple $$
 ^^ egg $$
@@ -557,8 +578,9 @@
 ^^ chip $$
 ^^ there chip $$
 ^^ it chip $$
-^^ it  there $$
+^^ it xxx there $$
 ^^ apple $$
+^^ mm $$
 ^^ chicken leg $$
 ^^ Anna a leg $$
 ^^ leg $$
@@ -610,6 +632,7 @@
 ^^ monkey down $$
 ^^ down $$
 ^^ Mummy again $$
+^^ xxx $$
 ^^ Mummy again $$
 ^^ wheel $$
 ^^ brumm $$
@@ -665,7 +688,7 @@
 ^^ this $$
 ^^ brick $$
 ^^ again $$
-^^ no   mine $$
+^^ no mine mine mine $$
 ^^ there red there $$
 ^^ ten $$
 ^^ again $$
@@ -688,7 +711,7 @@
 ^^ it go now $$
 ^^ it go $$
 ^^ it go settee $$
-^^  go $$
+^^ xxx go $$
 ^^ here one $$
 ^^ here two $$
 ^^ Warren under settee $$
@@ -696,9 +719,11 @@
 ^^ this way up $$
 ^^ yeah $$
 ^^ this one $$
+^^ xxx $$
 ^^ long hole $$
 ^^ oblong $$
 ^^ get them out $$
+^^ a $$
 ^^ oh $$
 ^^ I cheat $$
 ^^ I drop there $$
@@ -711,6 +736,7 @@
 ^^ peekaboo peekaboo peekaboo $$
 ^^ peekaboo peekaboo peekaboo $$
 ^^ peekaboo peekaboo $$
+^^ xxx $$
 ^^ it all_gone $$
 ^^ oh dear $$
 ^^ oh dear $$
@@ -724,6 +750,7 @@
 ^^ no $$
 ^^ Mummy $$
 ^^ a hole $$
+^^ a $$
 ^^ go up $$
 ^^ oh $$
 ^^ bump head $$
@@ -831,6 +858,7 @@
 ^^ it go $$
 ^^ frog $$
 ^^ tiger $$
+^^ xxx $$
 ^^ baby duck $$
 ^^ again $$
 ^^ tiger $$
@@ -886,6 +914,7 @@
 ^^ dog $$
 ^^ again $$
 ^^ no $$
+^^ a $$
 ^^ a bun $$
 ^^ I want bun $$
 ^^ another book $$
@@ -907,6 +936,7 @@
 ^^ oh hello $$
 ^^ again $$
 ^^ again $$
+^^ a $$
 ^^ it be trailer $$
 ^^ trailer $$
 ^^ the trailer go $$
@@ -953,7 +983,7 @@
 ^^ any more $$
 ^^ this fit in car $$
 ^^ back in box $$
-^^  monkey $$
+^^ a monkey $$
 ^^ in the car $$
 ^^ this fit in $$
 ^^ Mummy $$
@@ -972,6 +1002,7 @@
 ^^ Warren hat $$
 ^^ my hat $$
 ^^ oh no $$
+^^ a $$
 ^^ look $$
 ^^ oh $$
 ^^ a hat $$
@@ -979,7 +1010,7 @@
 ^^ on the bike $$
 ^^ I want the bike $$
 ^^ no Warren man crane $$
-^^   go $$
+^^ go go go $$
 ^^ penguin $$
 ^^ a hat $$
 ^^ I want it $$
@@ -1048,7 +1079,8 @@
 ^^ one $$
 ^^ other one $$
 ^^ bang it $$
-^^ bang  $$
+^^ bang xxx $$
+^^ xxx $$
 ^^ go step $$
 ^^ Warren ladder $$
 ^^ whee $$

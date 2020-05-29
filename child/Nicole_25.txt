@@ -11,42 +11,60 @@
 ^^ yeah $$
 ^^ spoon $$
 ^^ no $$
+^^ xxx $$
 ^^ Coco $$
 ^^ Coco $$
 ^^ no $$
 ^^ pie $$
-^^  juice $$
+^^ xxx $$
+^^ um juice $$
 ^^ yeah $$
-^^  cup $$
+^^ um cup $$
 ^^ yeah $$
 ^^ here $$
+^^ xxx $$
 ^^ pie $$
+^^ xxx $$
 ^^ cake $$
 ^^ cake $$
-^^  cake $$
+^^ um cake $$
+^^ xxx $$
 ^^ egg $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ hot $$
 ^^ hot $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ peekaboo peekaboo $$
 ^^ peekaboo peekaboo $$
 ^^ teddy $$
 ^^ no $$
 ^^ Coco $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
 ^^ no $$
 ^^ a knife $$
 ^^ no $$
-^^  Lucy $$
+^^ xxx Lucy $$
 ^^ Lucy $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ Lucy $$
 ^^ poor $$
 ^^ Lucy $$
@@ -60,17 +78,23 @@
 ^^ yeah $$
 ^^ hello $$
 ^^ hello $$
+^^ xxx $$
+^^ xxx $$
 ^^ car $$
 ^^ car $$
 ^^ yellow $$
 ^^ yeah $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ mhm $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ bye $$
 ^^ yeah $$
 ^^ no $$
@@ -78,16 +102,19 @@
 ^^ away $$
 ^^ no $$
 ^^ whee $$
-^^  cake $$
+^^ xxx cake $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ tape $$
 ^^ tape $$
 ^^ Mummy $$
 ^^ Caroline $$
 ^^ no $$
+^^ xxx $$
 ^^ Rory $$
 ^^ Jamie $$
-^^  Carla $$
+^^ um Carla $$
 ^^ Hayley $$
 ^^ yeah $$
 ^^ Alex $$
@@ -103,6 +130,8 @@
 ^^ car $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ no $$
 ^^ Mummy $$
@@ -116,12 +145,16 @@
 ^^ bobble $$
 ^^ Mum $$
 ^^ bobble $$
+^^ xxx $$
 ^^ there $$
+^^ xxx $$
 ^^ bobble $$
-^^  comb $$
+^^ um comb $$
 ^^ yeah $$
 ^^ brush $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -130,9 +163,11 @@
 ^^ plate $$
 ^^ yeah $$
 ^^ bread $$
+^^ xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ sausage $$
 ^^ sausage $$
@@ -140,16 +175,23 @@
 ^^ there $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
 ^^ oh $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ two three four $$
 ^^ there $$
 ^^ there $$
 ^^ mhm $$
 ^^ yeah $$
+^^ xxx $$
 ^^ hair $$
 ^^ hair $$
+^^ xxx $$
 ^^ Jeff car $$
 ^^ Jeff car $$
 ^^ Jeff car $$
@@ -163,30 +205,41 @@
 ^^ car $$
 ^^ car $$
 ^^ car $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ bottle $$
 ^^ pan $$
-^^ a  $$
+^^ a xxx $$
+^^ xxx $$
 ^^ hello $$
 ^^ yeah $$
 ^^ pie $$
 ^^ yeah $$
 ^^ tea $$
 ^^ tea $$
+^^ xxx $$
 ^^ go $$
 ^^ Lucy $$
-^^  park $$
+^^ um park $$
 ^^ Jackie $$
 ^^ Lucy $$
 ^^ and Lucy $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
-^^  Jamie $$
-^^  and Caroline $$
+^^ xxx $$
+^^ um Jamie $$
+^^ and and Caroline $$
 ^^ yeah $$
+^^ um xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ Lego $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
@@ -202,18 +255,26 @@
 ^^ yeah $$
 ^^ Daddy $$
 ^^ yeah $$
+^^ um xxx $$
 ^^ Nicole $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ hippo $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ snake $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
+^^ xxx $$
 ^^ big tower $$
 ^^ no $$
 ^^ there $$
+^^ um xxx $$
 ^^ yeah $$
 ^^ monkey $$
 ^^ monkey $$
@@ -228,8 +289,11 @@
 ^^ there $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ there go $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ baby tiger $$
@@ -242,6 +306,7 @@
 ^^ baby Daddy $$
 ^^ baby Daddy $$
 ^^ baby Daddy $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
@@ -252,32 +317,48 @@
 ^^ two three $$
 ^^ four five $$
 ^^ three four five six $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ man $$
 ^^ what be that $$
+^^ xxx $$
+^^ xxx $$
 ^^ back $$
 ^^ back $$
+^^ xxx $$
 ^^ back $$
 ^^ back $$
 ^^ yeah $$
 ^^ tick $$
-^^  there $$
+^^ a there $$
 ^^ green $$
+^^ xxx $$
 ^^ green $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ five six seven $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ yeah $$
+^^ xxx $$
 ^^ in there $$
 ^^ no $$
 ^^ there $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ there $$
 ^^ no $$
 ^^ no $$
-^^     chicken $$
+^^ xxx $$
+^^ chick chick chick chick chicken $$
 ^^ pepper $$
 ^^ hair $$
 ^^ hair $$
@@ -291,12 +372,15 @@
 ^^ Lucy $$
 ^^ egg $$
 ^^ two three four five $$
-^^ two three  $$
+^^ two three xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ here $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ moo $$
 ^^ cow $$
 ^^ moo $$
@@ -305,19 +389,31 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ toe $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ no $$
+^^ xxx $$
 ^^ there $$
 ^^ hair $$
 ^^ Nicole $$
@@ -328,16 +424,26 @@
 ^^ hand $$
 ^^ there $$
 ^^ nose $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ do not know $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ there $$
 ^^ no $$
+^^ xxx $$
 ^^ baby $$
+^^ xxx $$
 ^^ there $$
 ^^ yeah $$
 ^^ yeah $$
@@ -345,33 +451,42 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ a hat $$
-^^  back $$
+^^ xxx $$
+^^ xxx back $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^  poor $$
+^^ a poor $$
 ^^ Lucy $$
-^^  tape $$
+^^ xxx tape $$
 ^^ tape $$
 ^^ no $$
-^^ no  $$
+^^ no xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ yeah $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ baby $$
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ Ma $$
+^^ xxx $$
 ^^ Ca $$
 ^^ yeah $$
 ^^ yeah $$
@@ -379,57 +494,72 @@
 ^^ baby $$
 ^^ baby $$
 ^^ baby $$
-^^  there $$
+^^ xxx there $$
 ^^ no $$
 ^^ yeah $$
 ^^ yep $$
 ^^ yep $$
-^^ no  $$
-^^  there $$
+^^ xxx $$
+^^ xxx $$
+^^ no xxx $$
+^^ a there $$
 ^^ yeah $$
 ^^ no $$
-^^  there $$
+^^ xxx there $$
 ^^ no there $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ yep day $$
 ^^ oh $$
 ^^ no $$
 ^^ Baa_baa_black_sheep $$
 ^^ diddle_diddle_le $$
 ^^ Baa_baa_black_sheep Baa_baa_black_sheep Baa_baa_black_sheep $$
+^^ xxx $$
 ^^ muh $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ yep $$
 ^^ red $$
 ^^ red car $$
 ^^ no $$
-^^  there $$
+^^ xxx there $$
 ^^ there $$
 ^^ yeah $$
 ^^ there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yep $$
 ^^ there $$
 ^^ a $$
 ^^ a $$
 ^^ a $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ a $$
 ^^ a $$
-^^  two $$
-^^  no $$
+^^ xxx two $$
+^^ xxx no $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ hello $$
 ^^ Daddy $$
 ^^ byebye Lucy $$
 ^^ byebye Daddy $$
-^^ byebye  $$
+^^ byebye xxx $$
 ^^ byebye Lucy $$
-^^  byebye Lucy $$
+^^ xxx byebye Lucy $$
 ^^ hello $$
 ^^ byebye Lucy $$
 ^^ yeah $$
@@ -439,7 +569,7 @@
 ^^ oh $$
 ^^ no $$
 ^^ no $$
-^^   Ted $$
+^^ xxx a Ted $$
 ^^ game $$
 ^^ tape $$
 ^^ tape $$
@@ -448,11 +578,11 @@
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
-^^  yeah  $$
+^^ xxx yeah xxx $$
 ^^ baby $$
-^^ choc  there $$
-^^  go $$
-^^  mouth $$
+^^ choc a there $$
+^^ a go $$
+^^ a mouth $$
 ^^ yeah $$
 ^^ Lucy $$
 ^^ Lucy $$
@@ -460,7 +590,7 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^  away  no  there $$
+^^ a away xxx no xxx there $$
 ^^ jump $$
 ^^ jump $$
 ^^ jump $$
@@ -469,7 +599,7 @@
 ^^ jump $$
 ^^ jump $$
 ^^ jump $$
-^^  jump $$
+^^ a jump $$
 ^^ jump $$
 ^^ goal $$
 ^^ goal $$
@@ -477,8 +607,8 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^ no away  paper $$
-^^ no away  there $$
+^^ no away xxx paper $$
+^^ no away xxx there $$
 ^^ no $$
 ^^ tape $$
 ^^ tape $$
@@ -486,83 +616,107 @@
 ^^ baa $$
 ^^ yeah $$
 ^^ peep in $$
+^^ xxx $$
 ^^ no no $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ jump $$
+^^ xxx $$
 ^^ baby $$
 ^^ baby $$
 ^^ baby $$
 ^^ yeah $$
+^^ xxx $$
 ^^ pop $$
 ^^ pop $$
 ^^ pop $$
 ^^ pop $$
 ^^ pop pop $$
-^^ peep  $$
-^^  door $$
-^^ peep  $$
+^^ xxx $$
+^^ peep a $$
+^^ xxx door $$
+^^ peep a $$
 ^^ baby $$
 ^^ walk in $$
+^^ xxx $$
 ^^ blue $$
 ^^ white $$
+^^ xxx $$
 ^^ yep $$
-^^  away $$
-^^  red car $$
+^^ a away $$
+^^ a red car $$
 ^^ me me $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ Dina Ros $$
 ^^ Dina Ros $$
-^^  Dina Ros  $$
+^^ xxx $$
+^^ xxx Dina Ros xxx $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ game $$
 ^^ yeah $$
 ^^ there $$
 ^^ there $$
 ^^ yeah $$
+^^ xxx $$
 ^^ ow $$
 ^^ ow $$
-^^ no  smack $$
+^^ no xxx smack $$
 ^^ yes $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Caroline $$
 ^^ Caroline $$
 ^^ yeah $$
 ^^ Nana Bear $$
+^^ a a xxx $$
 ^^ man $$
 ^^ me $$
 ^^ me $$
-^^  byebye Nana $$
+^^ xxx byebye Nana $$
+^^ xxx $$
 ^^ hello $$
 ^^ to $$
 ^^ all fall $$
 ^^ game $$
 ^^ I can $$
-^^  yeah   yeah $$
+^^ a yeah a a yeah $$
 ^^ yeah $$
-^^ yeah  yeah $$
+^^ yeah a yeah $$
 ^^ yeah $$
-^^ no  $$
+^^ no xxx $$
 ^^ Mummy $$
 ^^ Mummy $$
-^^  Mummy Mummy $$
+^^ xxx Mummy Mummy $$
 ^^ yeah $$
 ^^ yeah $$
-^^  car $$
+^^ a car $$
+^^ xxx $$
 ^^ whoo whoo whoo whoo whoo okay $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
-^^  there $$
+^^ xxx there $$
 ^^ yeah $$
 ^^ beep $$
 ^^ beep $$
 ^^ beep $$
-^^ no  $$
+^^ no xxx $$
 ^^ go $$
 ^^ brumm $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ again $$
 ^^ again $$
@@ -580,8 +734,8 @@
 ^^ balloon $$
 ^^ balloon $$
 ^^ helicopter $$
-^^  blue helicopter $$
-^^ helicopter  $$
+^^ xxx blue helicopter $$
+^^ helicopter xxx $$
 ^^ beep $$
 ^^ baby $$
 ^^ no $$
@@ -594,6 +748,7 @@
 ^^ yum yum $$
 ^^ no no $$
 ^^ no no $$
+^^ xxx $$
 ^^ brumbrum $$
 ^^ brumbrum $$
 ^^ yeah $$
@@ -602,6 +757,7 @@
 ^^ beepbeep $$
 ^^ beepbeepbeepbeepbeepbeepbeepbeep $$
 ^^ Mummy round $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ again $$
@@ -615,37 +771,41 @@
 ^^ no again $$
 ^^ yeah $$
 ^^ yeah $$
-^^ yeah  I do $$
+^^ yeah xxx I do $$
 ^^ Mummy I go $$
 ^^ yes $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yes $$
 ^^ yep $$
 ^^ yeah $$
 ^^ Mummy Mummy $$
-^^ game game  $$
+^^ xxx $$
+^^ game game xxx $$
 ^^ car $$
 ^^ foot beepbeep there $$
 ^^ again $$
 ^^ yeah again $$
 ^^ yeah $$
-^^ ah Mummy  car  $$
+^^ ah Mummy xxx car xxx $$
 ^^ game $$
 ^^ game $$
 ^^ yeah $$
 ^^ Mummy $$
 ^^ yeah $$
+^^ xxx $$
 ^^ tum $$
 ^^ yeah $$
 ^^ there $$
 ^^ eye $$
 ^^ ear there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yep $$
 ^^ yeah $$
-^^ yeah  go  $$
+^^ yeah a go xxx $$
 ^^ go $$
 ^^ go $$
 ^^ go $$
@@ -661,7 +821,7 @@
 ^^ yeah $$
 ^^ yes $$
 ^^ yes $$
-^^    cake $$
+^^ ca ca ca cake $$
 ^^ cake $$
 ^^ yeah $$
 ^^ yeah $$
@@ -671,75 +831,88 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ baby $$
+^^ xxx $$
 ^^ byebye Nana $$
-^^ more  $$
+^^ xxx $$
+^^ more xxx $$
 ^^ no $$
 ^^ no no $$
 ^^ no $$
 ^^ choc $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ yeah $$
+^^ xxx $$
 ^^ bickie $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ pie $$
+^^ xxx $$
 ^^ baby away $$
 ^^ baby away $$
 ^^ go $$
 ^^ baby $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ egg $$
 ^^ byebye Nana $$
 ^^ byebye Nana $$
-^^ byebye  $$
+^^ byebye xxx $$
 ^^ byebye Nana $$
+^^ xxx $$
 ^^ yeah $$
-^^ go  $$
+^^ go xxx $$
 ^^ yeah $$
 ^^ Daddy Daddy $$
 ^^ okay $$
 ^^ cat $$
-^^  bickie there $$
+^^ xxx bickie there $$
+^^ xxx $$
 ^^ okay $$
 ^^ okay $$
 ^^ okay $$
 ^^ dadada okay $$
 ^^ dadada okay okay $$
-^^  no $$
+^^ xxx no $$
 ^^ yeah $$
 ^^ byebye Nana $$
-^^   Jeff car $$
+^^ a a Jeff car $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ Jeff car $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no no $$
 ^^ byebye Nana $$
-^^  there $$
+^^ a there $$
 ^^ no $$
-^^  baby $$
-^^  yeah $$
+^^ xxx baby $$
+^^ a yeah $$
 ^^ yeah $$
 ^^ jump $$
 ^^ Mummy jump $$
 ^^ yeah $$
 ^^ Nana jump $$
 ^^ I jump $$
-^^ Daddy  $$
+^^ Daddy xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ here $$
 ^^ Nicole $$
 ^^ there $$
-^^  bottom $$
+^^ a bottom $$
 ^^ yeah $$
-^^  change $$
+^^ a change $$
 ^^ yeah $$
 ^^ Nicole $$
-^^  dry baby $$
+^^ a dry baby $$
 ^^ no $$
 ^^ there $$
 ^^ oh $$
+^^ xxx $$
 ^^ look $$
 ^^ yeah $$
 ^^ yeah $$
@@ -765,37 +938,42 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ Mummy $$
-^^  bottle $$
+^^ xxx $$
+^^ um bottle $$
+^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
-^^ yeah $$
-^^  pie $$
+^^ a pie $$
 ^^ no $$
-^^  juice $$
+^^ a juice $$
 ^^ juice $$
 ^^ yeah $$
 ^^ no $$
-^^  juice $$
+^^ a juice $$
 ^^ lemonade $$
 ^^ yeah $$
 ^^ yes $$
 ^^ it juice $$
 ^^ yeah $$
 ^^ yeah $$
-^^   doll $$
+^^ um um doll $$
+^^ xxx $$
 ^^ lemonade $$
 ^^ lemonade $$
 ^^ lemonade $$
 ^^ lemonade $$
-^^   and Caroline $$
+^^ and and and Caroline $$
 ^^ and Caroline $$
-^^ and  $$
-^^ lemonade  $$
+^^ and xxx $$
+^^ lemonade row $$
 ^^ yeah $$
-^^  and  $$
+^^ and and row $$
 ^^ yeah $$
+^^ xxx $$
 ^^ and lemonade $$
-^^ and  $$
+^^ and xxx $$
 ^^ car $$
 ^^ car $$
 ^^ tractor $$
@@ -821,8 +999,9 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^ I  a pie $$
-^^ pie  $$
+^^ I xxx a pie $$
+^^ pie xxx $$
+^^ xxx $$
 ^^ pie $$
 ^^ yeah $$
 ^^ I get a pie $$
@@ -830,6 +1009,7 @@
 ^^ get a pie $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ Mummy do $$
@@ -841,7 +1021,10 @@
 ^^ yeah $$
 ^^ I want do $$
 ^^ tape on $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ no $$
@@ -852,23 +1035,29 @@
 ^^ where $$
 ^^ where $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ Nicole $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
-^^  cuddle $$
+^^ a cuddle $$
 ^^ yeah $$
 ^^ Joe $$
 ^^ Joe $$
-^^  cuddle $$
+^^ a cuddle $$
 ^^ yeah $$
 ^^ mhm $$
-^^  Rory $$
+^^ a Rory $$
 ^^ no $$
 ^^ Morag $$
+^^ xxx $$
 ^^ Molly $$
 ^^ go away $$
 ^^ go away $$
+^^ xxx $$
 ^^ go away $$
 ^^ bang $$
 ^^ bang $$
@@ -882,22 +1071,25 @@
 ^^ go $$
 ^^ open door $$
 ^^ yeah $$
+^^ xxx $$
 ^^ cat $$
 ^^ lever $$
 ^^ there $$
 ^^ there $$
 ^^ up $$
 ^^ lever there $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
-^^  up $$
+^^ xxx up $$
 ^^ there $$
 ^^ yeah $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
 ^^ oh $$
-^^  there $$
+^^ xxx $$
+^^ a there $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
@@ -921,13 +1113,20 @@
 ^^ two $$
 ^^ four $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ three $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ ups_a_daisy $$
 ^^ ups_a_daisy $$
@@ -946,50 +1145,67 @@
 ^^ tape $$
 ^^ tape $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ jump $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ ups_a_daisy $$
+^^ xxx $$
 ^^ no $$
 ^^ back on $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ yeah $$
 ^^ Peter_Pointer $$
-^^ baby  $$
-^^ baby  $$
-^^ baby  $$
+^^ baby xxx $$
+^^ baby xxx $$
+^^ baby xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ peter point where be you $$
 ^^ here I be $$
 ^^ peter point where be you $$
 ^^ here I be $$
 ^^ a tape $$
 ^^ a tape $$
+^^ xxx $$
 ^^ hair $$
-^^  bobble $$
+^^ xxx $$
+^^ a bobble $$
 ^^ yeah $$
 ^^ cat $$
 ^^ ups_a_daisy $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^ Mummy  $$
+^^ xxx $$
+^^ Mummy xxx $$
 ^^ baby $$
 ^^ yeah $$
 ^^ good $$
 ^^ good $$
 ^^ no $$
 ^^ Nicole $$
+^^ xxx $$
 ^^ yeah $$
-^^  good $$
+^^ xxx $$
+^^ xxx good $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ Nicole $$
 ^^ Caroline $$
 ^^ Caroline $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ lemonade $$
 ^^ lemonade $$
@@ -1000,13 +1216,16 @@
 ^^ yeah $$
 ^^ Caroline $$
 ^^ yeah $$
-^^  juice $$
-^^  juice $$
+^^ xxx $$
+^^ a juice $$
+^^ a juice $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ please $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ jump $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1016,8 +1235,9 @@
 ^^ two $$
 ^^ two $$
 ^^ three $$
+^^ xxx $$
 ^^ four $$
-^^  top on $$
+^^ a top on $$
 ^^ top on $$
 ^^ top $$
 ^^ here $$
@@ -1036,12 +1256,15 @@
 ^^ there $$
 ^^ there $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ hide $$
-^^  Caroline $$
+^^ a Caroline $$
 ^^ Caroline $$
+^^ xxx $$
 ^^ again $$
 ^^ again $$
 ^^ yeah $$
@@ -1049,22 +1272,29 @@
 ^^ yeah $$
 ^^ Caroline $$
 ^^ Caroline $$
-^^  again $$
-^^  again $$
+^^ xxx $$
+^^ xxx again $$
+^^ xxx again $$
 ^^ again $$
+^^ xxx $$
 ^^ yeah $$
 ^^ say please $$
 ^^ yeah $$
 ^^ yeah $$
-^^  there $$
-^^  hide $$
+^^ xxx there $$
+^^ xxx $$
+^^ xxx hide $$
+^^ xxx $$
 ^^ again $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ peekaboo peekaboo $$
+^^ xxx $$
 ^^ Nicole $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ peekaboo peekaboo $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1072,24 +1302,29 @@
 ^^ no $$
 ^^ peekaboo peekaboo peekaboo $$
 ^^ peekaboo peekaboo peekaboo $$
+^^ xxx $$
 ^^ peekaboo peekaboo peekaboo $$
 ^^ again $$
-^^ and  $$
+^^ and xxx $$
 ^^ peekaboo peekaboo $$
 ^^ peekaboo peekaboo peekaboo $$
 ^^ yeah $$
-^^  there $$
+^^ xxx there $$
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
 ^^ Nicole $$
-^^ Nicole  $$
+^^ xxx $$
+^^ Nicole xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ monster $$
 ^^ yeah $$
 ^^ that $$
 ^^ that $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ that $$
 ^^ that $$
 ^^ that $$
@@ -1097,49 +1332,70 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ tiger $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ and that $$
 ^^ and that $$
+^^ xxx $$
+^^ xxx $$
 ^^ car $$
 ^^ car $$
 ^^ car $$
 ^^ yeah $$
 ^^ there $$
 ^^ there $$
-^^  there $$
+^^ xxx there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ bridge $$
+^^ xxx $$
 ^^ there $$
 ^^ again $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ there $$
 ^^ there $$
 ^^ here $$
 ^^ oh $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
-^^  that $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx that $$
 ^^ okay $$
+^^ xxx $$
 ^^ yeah $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
+^^ xxx $$
 ^^ away $$
 ^^ away $$
+^^ xxx $$
 ^^ yeah $$
 ^^ I do $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
-^^ a  $$
+^^ a xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ ow $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
@@ -1147,17 +1403,28 @@
 ^^ oh $$
 ^^ yeah $$
 ^^ away $$
+^^ xxx $$
 ^^ ow $$
 ^^ ow $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ yeah $$
+^^ xxx $$
 ^^ a hat $$
 ^^ egg $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ pie $$
 ^^ cake $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ byebye $$
 ^^ yeah $$
@@ -1166,40 +1433,57 @@
 ^^ yes please $$
 ^^ yeah $$
 ^^ yeah $$
-^^  baby $$
+^^ a baby $$
 ^^ baby $$
 ^^ yeah $$
-^^  baby  $$
+^^ a baby xxx $$
+^^ xxx $$
+^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
-^^ yeah $$
+^^ xxx $$
 ^^ tape $$
 ^^ tape $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
-^^  red $$
+^^ xxx $$
+^^ a red $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there here $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
-^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ baby $$
+^^ xxx $$
 ^^ teddy $$
 ^^ teddy $$
 ^^ teddy $$
 ^^ yeah $$
+^^ xxx $$
 ^^ teddy $$
 ^^ go in there $$
 ^^ hat $$
+^^ xxx $$
+^^ xxx $$
 ^^ Mummy do $$
 ^^ Mummy do $$
 ^^ Mummy $$
@@ -1207,27 +1491,40 @@
 ^^ no $$
 ^^ no $$
 ^^ a bobble $$
+^^ xxx $$
+^^ xxx $$
 ^^ bobble $$
-^^  baby $$
+^^ xxx $$
+^^ xxx baby $$
 ^^ juice $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ away $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ hello $$
+^^ xxx $$
+^^ xxx $$
 ^^ no way $$
 ^^ no way $$
 ^^ no way $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ water $$
 ^^ water $$
 ^^ that $$
 ^^ that $$
 ^^ Nicole $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no tin $$
 ^^ tin in there $$
@@ -1239,36 +1536,44 @@
 ^^ peekaboo peekaboo $$
 ^^ no $$
 ^^ peekaboo peekaboo $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ Nicole $$
 ^^ Nicole $$
 ^^ Mummy no $$
 ^^ Mummy yeah $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ again $$
 ^^ again $$
 ^^ yeah $$
 ^^ I baby $$
+^^ xxx $$
 ^^ yeah $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ squeal $$
 ^^ no $$
 ^^ blanket $$
 ^^ blanket $$
 ^^ yeah $$
 ^^ car $$
-^^  there $$
+^^ xxx there $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ oh $$
 ^^ toe $$
@@ -1283,17 +1588,24 @@
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ toe $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
-^^ toe  $$
+^^ toe xxx $$
 ^^ ups_a_daisy $$
-^^  there $$
-^^ Nicole  $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx there $$
+^^ xxx $$
+^^ Nicole xxx $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
@@ -1301,44 +1613,55 @@
 ^^ no $$
 ^^ toe $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ there $$
+^^ xxx $$
 ^^ peekaboo peekaboo $$
+^^ xxx $$
 ^^ peekaboo peekaboo $$
+^^ xxx $$
 ^^ put away $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ Nicole $$
 ^^ this $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
-^^  away $$
+^^ xxx away $$
 ^^ yeah $$
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ no $$
 ^^ yeah $$
-^^  there $$
+^^ a there $$
 ^^ a door $$
 ^^ yeah $$
 ^^ jump $$
 ^^ red $$
 ^^ red $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ Lucy $$
 ^^ Lucy $$
 ^^ no $$
+^^ xxx $$
 ^^ Nicole go $$
 ^^ Nicole go $$
 ^^ yeah $$
-^^  zoo $$
+^^ a zoo $$
 ^^ yeah $$
 ^^ Nicole $$
 ^^ Daddy $$
@@ -1355,10 +1678,14 @@
 ^^ hippo $$
 ^^ hippo $$
 ^^ hippo $$
+^^ xxx $$
 ^^ yeah $$
 ^^ whale $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ darly $$
 ^^ darly $$
 ^^ darling $$

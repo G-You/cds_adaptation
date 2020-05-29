@@ -3,8 +3,8 @@
 ^^ lady sit there $$
 ^^ Mum and Daddy $$
 ^^ wheel $$
-^^  be   on there $$
-^^ there my  on there $$
+^^ xxx be xxx ing on there $$
+^^ there my xxx on there $$
 ^^ there some music $$
 ^^ a c_d $$
 ^^ oh there a c_d $$
@@ -59,6 +59,7 @@
 ^^ it be roll $$
 ^^ dump truck $$
 ^^ dump truck $$
+^^ xxx $$
 ^^ oh well $$
 ^^ oh well $$
 ^^ the man $$
@@ -86,7 +87,7 @@
 ^^ farm $$
 ^^ there it be $$
 ^^ oh here cow $$
-^^  Weetabix $$
+^^ a Weetabix $$
 ^^ Weetabix $$
 ^^ it Weetabix $$
 ^^ here $$
@@ -110,6 +111,7 @@
 ^^ and what be this $$
 ^^ I get something $$
 ^^ what be that $$
+^^ xxx $$
 ^^ oh $$
 ^^ money $$
 ^^ the door $$
@@ -121,6 +123,7 @@
 ^^ dip $$
 ^^ dip $$
 ^^ dip $$
+^^ a $$
 ^^ there snow $$
 ^^ there spider $$
 ^^ a spider $$
@@ -132,14 +135,15 @@
 ^^ some small wheel $$
 ^^ soil $$
 ^^ wheel $$
-^^  dump truck $$
+^^ dumper dump truck $$
 ^^ trunk $$
 ^^ dirt $$
 ^^ stone $$
 ^^ the roll $$
 ^^ wheel $$
+^^ xxx $$
 ^^ swish $$
-^^   swish $$
+^^ swish swish swish $$
 ^^ swish swish swish $$
 ^^ long $$
 ^^ there two fish $$
@@ -173,12 +177,13 @@
 ^^ blue dig $$
 ^^ blue dig $$
 ^^ two dig $$
+^^ xxx $$
 ^^ another dig $$
 ^^ nut $$
 ^^ bolt $$
 ^^ roll $$
 ^^ dump truck $$
-^^  neenaw $$
+^^ nee neenaw $$
 ^^ here neenaw $$
 ^^ Mummy do it $$
 ^^ Mummy do it $$
@@ -193,7 +198,7 @@
 ^^ the car $$
 ^^ the car $$
 ^^ this be car $$
-^^ this  dig $$
+^^ this xxx dig $$
 ^^ this be car $$
 ^^ seat $$
 ^^ seat $$
@@ -204,15 +209,16 @@
 ^^ light $$
 ^^ light $$
 ^^ Mummy $$
-^^ John  $$
-^^   where be the hair $$
+^^ John xxx $$
+^^ where's the where be the hair $$
 ^^ hair $$
 ^^ put this on doll $$
 ^^ there button $$
 ^^ stick $$
 ^^ where be the doll finger $$
-^^ there be the  there $$
+^^ there be the xxx there $$
 ^^ this one $$
+^^ xxx $$
 ^^ no $$
 ^^ do it this doll $$
 ^^ yeah $$
@@ -288,6 +294,7 @@
 ^^ that way $$
 ^^ help some $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ oh wow $$
 ^^ the doll $$
 ^^ doll $$
@@ -336,6 +343,7 @@
 ^^ doll $$
 ^^ oh there $$
 ^^ see in bag $$
+^^ a $$
 ^^ stick $$
 ^^ hat $$
 ^^ Mummy hat $$
@@ -343,6 +351,7 @@
 ^^ hat $$
 ^^ it yellow $$
 ^^ bread $$
+^^ xxx $$
 ^^ this here $$
 ^^ this a $$
 ^^ stick $$
@@ -359,7 +368,7 @@
 ^^ stick $$
 ^^ stick $$
 ^^ bottle $$
-^^  this ice $$
+^^ this this ice $$
 ^^ egg $$
 ^^ it egg $$
 ^^ there be a egg $$
@@ -382,13 +391,13 @@
 ^^ this a $$
 ^^ it be stick $$
 ^^ this be yellow $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ this $$
 ^^ Mummy $$
 ^^ have some $$
 ^^ cold oo $$
 ^^ cold $$
-^^  this ice $$
+^^ this this ice $$
 ^^ it ice $$
 ^^ a strawberry $$
 ^^ a strawberry $$
@@ -418,9 +427,10 @@
 ^^ there be a bit in there $$
 ^^ back $$
 ^^ stick $$
-^^ it be a  $$
+^^ it be a xxx $$
 ^^ over there $$
 ^^ see see see $$
+^^ xxx $$
 ^^ top $$
 ^^ top $$
 ^^ top $$
@@ -432,6 +442,7 @@
 ^^ white $$
 ^^ snow $$
 ^^ snow $$
+^^ xxx $$
 ^^ head $$
 ^^ hat $$
 ^^ red $$
@@ -465,6 +476,7 @@
 ^^ yellow $$
 ^^ I go round it $$
 ^^ byebye pliers $$
+^^ xxx $$
 ^^ zoo $$
 ^^ zoo $$
 ^^ poo $$
@@ -487,7 +499,7 @@
 ^^ Daddy the slide $$
 ^^ Daddy on the slide $$
 ^^ Daddy on slide $$
-^^ and a  there $$
+^^ and a xxx there $$
 ^^ that be Daddy $$
 ^^ Grandpa $$
 ^^ Grandpa $$
@@ -509,6 +521,8 @@
 ^^ and here Grandpa $$
 ^^ here be the pliers $$
 ^^ Mummy $$
+^^ a $$
+^^ a $$
 ^^ yellow one $$
 ^^ no $$
 ^^ drill $$
@@ -517,7 +531,7 @@
 ^^ Daddy $$
 ^^ those be pliers $$
 ^^ the pliers $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ oh drop it $$
 ^^ no $$
 ^^ Granny do it $$
@@ -538,6 +552,7 @@
 ^^ hand $$
 ^^ there hand $$
 ^^ stick $$
+^^ xxx $$
 ^^ a face $$
 ^^ and a face $$
 ^^ nuts $$
@@ -556,7 +571,7 @@
 ^^ bang $$
 ^^ it be a nut $$
 ^^ where be the bolt $$
-^^ it be  small bolt $$
+^^ it be small small bolt $$
 ^^ big bolt $$
 ^^ bang bang $$
 ^^ eye $$
@@ -566,7 +581,7 @@
 ^^ hammer $$
 ^^ bang bang $$
 ^^ big hammer $$
-^^  big hammer $$
+^^ big big hammer $$
 ^^ and small hammer $$
 ^^ bolt $$
 ^^ row row $$
@@ -579,7 +594,7 @@
 ^^ no $$
 ^^ off $$
 ^^ round $$
-^^  Claire $$
+^^ xxx Claire $$
 ^^ it Claire $$
 ^^ Claire $$
 ^^ Grandpa $$
@@ -599,7 +614,7 @@
 ^^ this one blue $$
 ^^ orange $$
 ^^ it penguin be $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ clown $$
 ^^ snow $$
 ^^ snow $$
@@ -615,12 +630,14 @@
 ^^ box $$
 ^^ what be in there $$
 ^^ it be a car $$
+^^ xxx $$
 ^^ book $$
 ^^ there be a neenaw $$
 ^^ door $$
 ^^ rabbit $$
 ^^ some on there $$
 ^^ there be a rabbit $$
+^^ a $$
 ^^ all do $$
 ^^ answer phone $$
 ^^ there be neenaw $$
@@ -641,6 +658,7 @@
 ^^ Daddy $$
 ^^ oink $$
 ^^ ear $$
+^^ xxx $$
 ^^ blue $$
 ^^ it be a green $$
 ^^ chick $$
@@ -671,6 +689,7 @@
 ^^ there one shoe $$
 ^^ and one $$
 ^^ the blue dress $$
+^^ xxx $$
 ^^ oh shoe $$
 ^^ whale $$
 ^^ whale $$
@@ -701,7 +720,7 @@
 ^^ lion $$
 ^^ bang $$
 ^^ monkey $$
-^^ oh   it be a monkey $$
+^^ oh that's a it be a monkey $$
 ^^ me $$
 ^^ there be the monkey $$
 ^^ whale $$
@@ -713,6 +732,7 @@
 ^^ Mummy $$
 ^^ it be a banana $$
 ^^ bin $$
+^^ mm $$
 ^^ white $$
 ^^ doll $$
 ^^ no $$
@@ -720,12 +740,15 @@
 ^^ doll $$
 ^^ no $$
 ^^ doll $$
+^^ xxx $$
 ^^ doll $$
 ^^ it be a doll $$
 ^^ yellow doll $$
 ^^ off $$
+^^ xxx $$
 ^^ shut $$
 ^^ down $$
+^^ xxx $$
 ^^ they blanket $$
 ^^ doll $$
 ^^ doll be $$
@@ -778,9 +801,10 @@
 ^^ the blanket $$
 ^^ blanket $$
 ^^ more $$
+^^ xxx $$
 ^^ want the blue dress $$
 ^^ there the trouser $$
-^^  box $$
+^^ xxx box $$
 ^^ I get elephant $$
 ^^ I get elephant trunk $$
 ^^ no $$
@@ -831,13 +855,14 @@
 ^^ what be in there $$
 ^^ there $$
 ^^ egg $$
+^^ xxx $$
 ^^ yellow hat $$
 ^^ hat hat hat $$
 ^^ hat hat hat $$
 ^^ two hat $$
 ^^ hat hat hat hat $$
 ^^ banana $$
-^^  this $$
+^^ xxx this $$
 ^^ I get it $$
 ^^ it be a banana $$
 ^^ the skin $$
@@ -856,9 +881,11 @@
 ^^ apple $$
 ^^ shoe $$
 ^^ penguin shoe $$
+^^ um $$
 ^^ Mummy hat $$
 ^^ oh $$
-^^ it be a  $$
+^^ it be a xxx $$
+^^ xxx $$
 ^^ it be biscuit $$
 ^^ it biscuit $$
 ^^ peach $$

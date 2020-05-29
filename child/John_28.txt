@@ -31,7 +31,7 @@
 ^^ asleep $$
 ^^ finish $$
 ^^ play the brick $$
-^^ get  $$
+^^ get xxx $$
 ^^ oh John $$
 ^^ yeah $$
 ^^ John $$
@@ -52,6 +52,7 @@
 ^^ Mummy get it off $$
 ^^ oh $$
 ^^ Mummy do it $$
+^^ a $$
 ^^ scare upstairs $$
 ^^ scare upstairs $$
 ^^ scare one $$
@@ -79,6 +80,7 @@
 ^^ it be all_gone in mouth $$
 ^^ all_gone in mouth $$
 ^^ mhm $$
+^^ a $$
 ^^ alphabet $$
 ^^ alphabet $$
 ^^ a for alphabet $$
@@ -95,8 +97,9 @@
 ^^ scare one $$
 ^^ alphabet $$
 ^^ alphabet $$
+^^ a $$
 ^^ angry $$
-^^  angry $$
+^^ um angry $$
 ^^ cockerel $$
 ^^ heart $$
 ^^ sheep sheep $$
@@ -125,7 +128,7 @@
 ^^ look $$
 ^^ look $$
 ^^ John yellow one $$
-^^ John be  get yellow $$
+^^ John be got get yellow $$
 ^^ I get a yellow $$
 ^^ mhm $$
 ^^ red $$
@@ -138,7 +141,7 @@
 ^^ blue $$
 ^^ that be blue $$
 ^^ blue $$
-^^  it be go on $$
+^^ it's it be go on $$
 ^^ Mummy do it $$
 ^^ all do $$
 ^^ sss $$
@@ -148,9 +151,14 @@
 ^^ oh dear $$
 ^^ Mummy do it $$
 ^^ Mummy do it $$
+^^ a $$
 ^^ play $$
 ^^ oh $$
+^^ xxx $$
 ^^ there you go $$
+^^ xxx $$
+^^ um $$
+^^ xxx $$
 ^^ piano $$
 ^^ ant down there $$
 ^^ there $$
@@ -173,7 +181,7 @@
 ^^ engine $$
 ^^ shave $$
 ^^ bull $$
-^^ the bull  the bull be in the $$
+^^ the bull in the bull be in the $$
 ^^ bull $$
 ^^ bull be in there $$
 ^^ bull $$
@@ -202,28 +210,32 @@
 ^^ Mummy sit on floor $$
 ^^ Mummy sit $$
 ^^ piglet in there $$
+^^ xxx $$
 ^^ Daddy eye $$
 ^^ Mummy sit the floor $$
 ^^ piglet in there $$
 ^^ oh $$
 ^^ on the floor $$
 ^^ oh $$
+^^ xxx $$
 ^^ cow $$
 ^^ cow $$
 ^^ baby be tum $$
 ^^ bull $$
 ^^ there the cow $$
 ^^ oh $$
+^^ xxx $$
 ^^ feed him $$
 ^^ feed the cow $$
 ^^ there the bread the duck $$
 ^^ oh $$
 ^^ on the floor $$
+^^ xxx $$
 ^^ bull $$
 ^^ bull $$
 ^^ it be bull $$
 ^^ doll $$
-^^  doll $$
+^^ doll doll $$
 ^^ I want this off $$
 ^^ that off $$
 ^^ up and down the doll $$
@@ -233,11 +245,14 @@
 ^^ oh $$
 ^^ doll $$
 ^^ doll that the cow $$
+^^ xxx $$
 ^^ Mummy hold it $$
 ^^ doll hold it $$
-^^ doll  $$
+^^ xxx $$
+^^ doll xxx $$
 ^^ doll hair $$
-^^  pretty $$
+^^ xxx $$
+^^ xxx pretty $$
 ^^ pretty $$
 ^^ the doll pretty $$
 ^^ oh there be a star $$
@@ -256,6 +271,8 @@
 ^^ squeak $$
 ^^ oh $$
 ^^ dog $$
+^^ xxx $$
+^^ xxx $$
 ^^ have a farm $$
 ^^ have a farm $$
 ^^ e i e i o $$
@@ -288,15 +305,17 @@
 ^^ blue car $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ where be the cow $$
 ^^ Donald have a cow $$
 ^^ e i e i o $$
 ^^ Donald have a cow $$
+^^ xxx $$
 ^^ oh Daddy $$
 ^^ John ride a dig $$
-^^ Old_Macdonald   have a $$
+^^ Old_Macdonald had a have a $$
 ^^ e i e i o $$
 ^^ e i e i o $$
 ^^ Donald have a farm $$
@@ -306,14 +325,16 @@
 ^^ pig $$
 ^^ pig $$
 ^^ pig $$
+^^ a $$
 ^^ bottle down $$
 ^^ there be brick $$
 ^^ Daddy want the pig $$
-^^ I want  the pig $$
+^^ I want xxx the pig $$
 ^^ the pig $$
 ^^ look $$
-^^ this  $$
+^^ this xxx $$
 ^^ there be the pig $$
+^^ a $$
 ^^ in there $$
 ^^ play the hen cockerel $$
 ^^ cockadoodledoo $$
@@ -323,6 +344,8 @@
 ^^ six seven $$
 ^^ six seven eight nine ten $$
 ^^ cockerel be go to get hen $$
+^^ xxx $$
+^^ xxx $$
 ^^ cockerel $$
 ^^ I get my hand $$
 ^^ chip $$
@@ -339,9 +362,9 @@
 ^^ ice $$
 ^^ ice $$
 ^^ ice $$
-^^  Mummy be get  $$
+^^ xxx Mummy be get xxx $$
 ^^ there you go $$
-^^ Mummy  $$
+^^ Mummy xxx $$
 ^^ Mummy eat it $$
 ^^ yeah $$
 ^^ a hen $$
@@ -360,6 +383,7 @@
 ^^ look behind you $$
 ^^ do not want it $$
 ^^ do not want it $$
+^^ xxx $$
 ^^ look $$
 ^^ look pig $$
 ^^ look pig $$
@@ -369,6 +393,7 @@
 ^^ finish $$
 ^^ all do $$
 ^^ there ice there $$
+^^ a $$
 ^^ ah $$
 ^^ chick ice $$
 ^^ chick ice $$
@@ -377,6 +402,7 @@
 ^^ chick $$
 ^^ cockerel $$
 ^^ I get the cow $$
+^^ xxx $$
 ^^ inside $$
 ^^ inside $$
 ^^ wet $$
@@ -392,10 +418,10 @@
 ^^ go there $$
 ^^ Mummy animal please $$
 ^^ mhm $$
-^^  bull $$
+^^ xxx bull $$
 ^^ it be a lion $$
 ^^ get this lion $$
-^^ get  $$
+^^ get xxx $$
 ^^ lion $$
 ^^ bye $$
 ^^ oh $$
@@ -406,10 +432,13 @@
 ^^ home in there $$
 ^^ work the flute $$
 ^^ eye $$
+^^ xxx $$
 ^^ hen $$
 ^^ Jennifer in there $$
 ^^ lady $$
+^^ xxx $$
 ^^ I get game compute $$
+^^ xxx $$
 ^^ up and down $$
 ^^ up and down $$
 ^^ up and down $$
@@ -417,15 +446,18 @@
 ^^ baby $$
 ^^ baby $$
 ^^ brick $$
-^^ I  some brick there $$
+^^ I xxx some brick there $$
 ^^ right $$
 ^^ let us go $$
 ^^ I wet $$
-^^ go  $$
+^^ go xxx $$
 ^^ hello $$
 ^^ bone $$
 ^^ okay $$
 ^^ bone monkey $$
+^^ xxx $$
+^^ xxx $$
+^^ a $$
 ^^ I carry $$
 ^^ go in there $$
 ^^ put them in the back $$
@@ -450,15 +482,18 @@
 ^^ in the box $$
 ^^ in the red box $$
 ^^ green box $$
+^^ xxx $$
 ^^ it be get $$
 ^^ in the box $$
 ^^ some $$
+^^ xxx $$
 ^^ that be that away $$
 ^^ some more $$
 ^^ money $$
 ^^ this money $$
 ^^ this money $$
 ^^ this money $$
+^^ xxx $$
 ^^ here be some money $$
 ^^ Mummy take money $$
 ^^ that three $$
@@ -510,7 +545,9 @@
 ^^ oh $$
 ^^ some penny $$
 ^^ in the green box $$
+^^ xxx $$
 ^^ teddy $$
+^^ xxx $$
 ^^ teddy $$
 ^^ two three four five six seven $$
 ^^ another money $$
@@ -521,7 +558,10 @@
 ^^ oh $$
 ^^ not a d this $$
 ^^ it be not a d $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ I get it $$
 ^^ car $$
 ^^ a car $$
@@ -530,8 +570,8 @@
 ^^ black $$
 ^^ light $$
 ^^ it get out $$
-^^  get out $$
-^^ that bit open  and shut $$
+^^ xxx get out $$
+^^ that bit open and and shut $$
 ^^ that open and shut $$
 ^^ open $$
 ^^ money in there $$
@@ -566,6 +606,7 @@
 ^^ Daddy $$
 ^^ no $$
 ^^ bin $$
+^^ xxx $$
 ^^ Demi $$
 ^^ yeah $$
 ^^ up and down the wave $$
@@ -608,10 +649,12 @@
 ^^ oh $$
 ^^ in the bin $$
 ^^ in the box $$
+^^ xxx $$
 ^^ oh $$
 ^^ card in $$
 ^^ oh $$
 ^^ yeah $$
+^^ xxx $$
 ^^ get some more $$
 ^^ off $$
 ^^ where be it $$
@@ -625,6 +668,7 @@
 ^^ oh $$
 ^^ get one $$
 ^^ get one $$
+^^ xxx $$
 ^^ pick it up $$
 ^^ letter s $$
 ^^ s $$
@@ -633,6 +677,7 @@
 ^^ yeah $$
 ^^ John $$
 ^^ John $$
+^^ xxx $$
 ^^ letter draw $$
 ^^ yeah $$
 ^^ in the box $$
@@ -640,6 +685,7 @@
 ^^ look $$
 ^^ look $$
 ^^ oh look $$
+^^ xxx $$
 ^^ put back $$
 ^^ mhm $$
 ^^ John $$
@@ -652,6 +698,7 @@
 ^^ come out $$
 ^^ oh $$
 ^^ oh look $$
+^^ xxx $$
 ^^ bull $$
 ^^ bull $$
 ^^ cow $$
@@ -661,7 +708,7 @@
 ^^ animal $$
 ^^ doll hold this one $$
 ^^ doll see bull $$
-^^ doll  $$
+^^ doll xxx $$
 ^^ doll hand $$
 ^^ doll hand the bull $$
 ^^ cow $$
@@ -674,6 +721,8 @@
 ^^ chick $$
 ^^ chick $$
 ^^ there we go $$
+^^ xxx $$
+^^ xxx $$
 ^^ uhoh $$
 ^^ the cow $$
 ^^ cow fall down $$
@@ -684,22 +733,27 @@
 ^^ the doll $$
 ^^ doll $$
 ^^ the doll stand up $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ doll $$
 ^^ go in $$
 ^^ oh $$
 ^^ doll $$
+^^ xxx $$
 ^^ what be in there $$
 ^^ I see it $$
+^^ xxx $$
 ^^ oh $$
 ^^ see $$
 ^^ sweet $$
 ^^ there you go $$
 ^^ that be it $$
-^^ doll  to sleep $$
+^^ doll xxx to sleep $$
 ^^ the doll $$
 ^^ oh $$
 ^^ it be doll $$
-^^  doll clothes $$
+^^ dolly's doll clothes $$
 ^^ doll $$
 ^^ clothes come off $$
 ^^ clothes come off $$
@@ -722,15 +776,18 @@
 ^^ bib $$
 ^^ bib $$
 ^^ bib on $$
+^^ xxx $$
 ^^ baby $$
-^^ it  $$
+^^ it xxx $$
 ^^ doll $$
 ^^ minute $$
 ^^ doll $$
+^^ xxx $$
 ^^ doll on $$
 ^^ get this on $$
 ^^ tie it $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah doll $$
 ^^ hey doll $$
 ^^ hey $$
@@ -739,18 +796,24 @@
 ^^ doll hair $$
 ^^ oh $$
 ^^ stand up $$
+^^ xxx $$
 ^^ doll $$
 ^^ doll that $$
 ^^ the doll $$
 ^^ doll $$
 ^^ doll $$
 ^^ doll $$
-^^ doll  $$
+^^ doll xxx $$
 ^^ another hippo go $$
 ^^ tiger go down $$
+^^ xxx $$
 ^^ tiger $$
+^^ xxx $$
 ^^ take off $$
 ^^ tiger $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ tiger go away $$
 ^^ post card in there $$
 ^^ shape $$
@@ -761,7 +824,7 @@
 ^^ there $$
 ^^ there $$
 ^^ there you go $$
-^^ that  there $$
+^^ that xxx there $$
 ^^ Mummy do it $$
 ^^ oh $$
 ^^ oh $$
@@ -777,11 +840,12 @@
 ^^ cockadoodle $$
 ^^ horse $$
 ^^ horse asleep $$
-^^ it be  wake the horse up $$
-^^  in this $$
+^^ it be waking wake the horse up $$
+^^ in in this $$
 ^^ right hand $$
 ^^ this $$
 ^^ there you go $$
+^^ xxx $$
 ^^ whale $$
 ^^ a whale $$
 ^^ kill whale $$
@@ -789,6 +853,7 @@
 ^^ and another one $$
 ^^ cut $$
 ^^ it be cut this $$
+^^ xxx $$
 ^^ tomato $$
 ^^ tomato $$
 ^^ tomato in $$
@@ -796,15 +861,18 @@
 ^^ tomato $$
 ^^ tomato $$
 ^^ tomato $$
+^^ xxx $$
 ^^ doll $$
 ^^ that be get tomato $$
 ^^ there you go $$
+^^ xxx $$
 ^^ doll be have this $$
 ^^ onion $$
 ^^ onion $$
 ^^ onion $$
 ^^ onion play $$
 ^^ I see $$
+^^ xxx $$
 ^^ put onion there $$
 ^^ there you go $$
 ^^ onion play $$
@@ -815,46 +883,53 @@
 ^^ cockadoodledoo $$
 ^^ animal there $$
 ^^ this in there $$
-^^  in there $$
+^^ xxx in there $$
 ^^ this one $$
-^^  animal $$
+^^ xxx animal $$
 ^^ corn $$
 ^^ corn $$
 ^^ corn on $$
 ^^ corn $$
 ^^ have corn this $$
-^^ corn  $$
-^^ corn  $$
+^^ corn xxx $$
+^^ corn xxx $$
 ^^ pig $$
 ^^ asleep $$
 ^^ whee $$
 ^^ have some $$
+^^ xxx $$
 ^^ in there $$
+^^ xxx $$
+^^ xxx $$
 ^^ what be it $$
 ^^ grape $$
 ^^ here be a apple $$
 ^^ it be a apple $$
+^^ xxx $$
 ^^ apple $$
 ^^ there you go $$
 ^^ there you go $$
+^^ xxx $$
 ^^ top $$
 ^^ top $$
 ^^ lid $$
 ^^ lid $$
+^^ xxx $$
 ^^ drink $$
 ^^ apple juice $$
 ^^ play iron $$
 ^^ mhm $$
-^^ a  play $$
-^^ that  $$
+^^ a xxx play $$
+^^ that xxx $$
 ^^ do not want it $$
 ^^ get another one $$
 ^^ over there in the bag $$
 ^^ in the bag $$
+^^ xxx $$
 ^^ there $$
 ^^ a cake in the box $$
 ^^ it be there $$
-^^ in the  $$
+^^ in the xxx $$
 ^^ another one $$
 ^^ in there $$
 ^^ in there $$
@@ -867,7 +942,8 @@
 ^^ big grape $$
 ^^ big $$
 ^^ it go here $$
-^^ it go  $$
+^^ it go xxx $$
+^^ xxx $$
 ^^ get $$
 ^^ there you go $$
 ^^ there you go $$
@@ -881,6 +957,7 @@
 ^^ purple $$
 ^^ there you go $$
 ^^ it be big $$
+^^ xxx $$
 ^^ another tomato $$
 ^^ that one $$
 ^^ there you go $$
@@ -889,13 +966,15 @@
 ^^ oh $$
 ^^ another one tomato $$
 ^^ apple $$
-^^  this be pear $$
+^^ this this be pear $$
 ^^ lemon $$
+^^ xxx $$
 ^^ do not want it $$
 ^^ chicken $$
 ^^ chicken $$
 ^^ no $$
-^^  there $$
+^^ xxx there $$
+^^ xxx $$
 ^^ oh $$
 ^^ chicken in the bag $$
 ^^ another chicken $$
@@ -903,6 +982,8 @@
 ^^ there you go $$
 ^^ eat $$
 ^^ that be $$
+^^ xxx $$
+^^ xxx $$
 ^^ sausage $$
 ^^ a big one sausage $$
 ^^ there you go $$
@@ -925,7 +1006,7 @@
 ^^ cook $$
 ^^ in there $$
 ^^ there $$
-^^  fit in there $$
+^^ fit fit in there $$
 ^^ orange back $$
 ^^ orange in the bag $$
 ^^ in there $$
@@ -943,10 +1024,11 @@
 ^^ lid $$
 ^^ oh where be the lid $$
 ^^ go $$
-^^  the lid $$
+^^ xxx the lid $$
 ^^ the lid $$
 ^^ the lid $$
 ^^ there $$
+^^ a $$
 ^^ oh $$
 ^^ see it $$
 ^^ the lid $$
@@ -969,6 +1051,7 @@
 ^^ cook $$
 ^^ this cook $$
 ^^ there you go $$
+^^ a $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$

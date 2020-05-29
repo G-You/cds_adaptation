@@ -6,6 +6,7 @@
 ^^ yeah $$
 ^^ picture a lobster $$
 ^^ mhm $$
+^^ xxx $$
 ^^ prawn $$
 ^^ and here be a butter $$
 ^^ butter $$
@@ -26,12 +27,12 @@
 ^^ I find my car $$
 ^^ in there $$
 ^^ yeah $$
-^^ and  and where this $$
+^^ and where and where this $$
 ^^ might be in old house $$
 ^^ one the light $$
 ^^ one the light be go $$
 ^^ maybe go in the car $$
-^^    maybe it be go on the bed $$
+^^ maybe it's gone maybe it be go on the bed $$
 ^^ where the tyre $$
 ^^ I can not open it $$
 ^^ yeah $$
@@ -40,8 +41,8 @@
 ^^ might be in there $$
 ^^ might be in there $$
 ^^ might be in there $$
-^^  do it $$
-^^ my  one two three $$
+^^ xxx do it $$
+^^ my xxx one two three $$
 ^^ yes $$
 ^^ daddy get them $$
 ^^ Weetabix $$
@@ -73,7 +74,7 @@
 ^^ we get a lorry $$
 ^^ oh $$
 ^^ it be another lorry $$
-^^ oh   it be another one lorry $$
+^^ oh it's another it be another one lorry $$
 ^^ pardon me $$
 ^^ pardon me $$
 ^^ oh empty $$
@@ -89,15 +90,17 @@
 ^^ I buy paint in Tesco $$
 ^^ buy paint in Tesco $$
 ^^ buy paint in Tesco $$
-^^   I buy paint in Tesco $$
+^^ I bought I buy paint in Tesco $$
 ^^ I buy paint in Tesco $$
 ^^ I buy paint in Tesco $$
+^^ xxx $$
 ^^ all empty $$
 ^^ all empty $$
 ^^ all empty $$
 ^^ all empty $$
 ^^ all empty $$
 ^^ all empty $$
+^^ xxx $$
 ^^ oh my money $$
 ^^ all my money $$
 ^^ the big money here $$
@@ -112,6 +115,7 @@
 ^^ want a w $$
 ^^ it be upstairs $$
 ^^ in my bed $$
+^^ xxx $$
 ^^ I get some $$
 ^^ I get some $$
 ^^ I a post $$
@@ -120,7 +124,7 @@
 ^^ look $$
 ^^ I get some crayon $$
 ^^ window $$
-^^   it get a door $$
+^^ it got it get a door $$
 ^^ and it be get a lady $$
 ^^ yeah $$
 ^^ oh $$
@@ -140,12 +144,13 @@
 ^^ yeah $$
 ^^ what I do $$
 ^^ what I do $$
+^^ xxx $$
 ^^ mhm $$
-^^   Meg $$
-^^   Meg $$
+^^ Meg Meg Meg $$
+^^ Meg Meg Meg $$
 ^^ Meg $$
 ^^ Meg $$
-^^  Meg $$
+^^ er Meg $$
 ^^ yes $$
 ^^ yes $$
 ^^ yes $$
@@ -155,6 +160,7 @@
 ^^ move house $$
 ^^ move house $$
 ^^ what I do $$
+^^ xxx $$
 ^^ yeah $$
 ^^ nana bring it $$
 ^^ yes $$
@@ -175,6 +181,7 @@
 ^^ all flake bit $$
 ^^ hat $$
 ^^ cow $$
+^^ xxx $$
 ^^ moo $$
 ^^ moo $$
 ^^ moo $$
@@ -186,18 +193,18 @@
 ^^ this hair $$
 ^^ hair $$
 ^^ yeah $$
-^^ I  $$
+^^ I xxx $$
 ^^ this a car $$
 ^^ this be a lorry $$
 ^^ no $$
 ^^ not draw $$
-^^ want to draw on my  $$
+^^ want to draw on my xxx $$
 ^^ I put back $$
 ^^ I want it $$
 ^^ I want it $$
 ^^ I like to draw $$
 ^^ it be go $$
-^^  like my crayon dirty in the kitchen $$
+^^ like like my crayon dirty in the kitchen $$
 ^^ in the kitchen $$
 ^^ you throw it in the bin $$
 ^^ yes $$
@@ -225,32 +232,38 @@
 ^^ oh $$
 ^^ empty $$
 ^^ must go petrol $$
+^^ xxx $$
+^^ xxx $$
 ^^ I like it on $$
+^^ xxx $$
 ^^ yes $$
 ^^ where the bus $$
 ^^ look the cab $$
-^^ I find a  $$
-^^    I find another one $$
+^^ I find a xxx $$
+^^ I find a I find another one $$
 ^^ I find another one $$
 ^^ maybe it fit in the tree $$
 ^^ maybe too big $$
-^^ maybe too  $$
+^^ maybe too xxx $$
 ^^ maybe this will fit $$
 ^^ maybe this will fit $$
-^^ I think it be a  $$
+^^ I think it be a xxx $$
 ^^ it fit $$
 ^^ I find a man $$
+^^ xxx $$
 ^^ no $$
 ^^ it fit $$
 ^^ this fit $$
+^^ xxx $$
 ^^ where the cab $$
 ^^ where the cab $$
 ^^ where be the cab $$
 ^^ maybe this will fit $$
 ^^ oh $$
+^^ xxx $$
 ^^ it be a car $$
 ^^ it be a car $$
-^^ I think it  $$
+^^ I think it xxx $$
 ^^ I think it be very scare $$
 ^^ maybe too big $$
 ^^ it be too big $$
@@ -262,11 +275,12 @@
 ^^ now that be good $$
 ^^ oh too big $$
 ^^ take this off $$
+^^ xxx $$
 ^^ now that be good $$
 ^^ now much good $$
 ^^ I buy this $$
-^^   I buy pepper $$
-^^   I buy egg $$
+^^ I buy I buy pepper $$
+^^ I buy I buy egg $$
 ^^ buy egg $$
 ^^ now maybe it be a candle $$
 ^^ now maybe it be a candle $$
@@ -275,13 +289,14 @@
 ^^ I think it be a candle $$
 ^^ chip $$
 ^^ chip $$
-^^  chip $$
+^^ xxx chip $$
 ^^ this egg will fit $$
 ^^ no $$
 ^^ fit $$
 ^^ lift $$
 ^^ lift $$
 ^^ bang $$
+^^ xxx $$
 ^^ where be John $$
 ^^ where John $$
 ^^ very difficult $$
@@ -293,7 +308,7 @@
 ^^ we have blackberry $$
 ^^ grape $$
 ^^ I find the grape in the $$
-^^    I find the grape in the garden $$
+^^ I had a I find the grape in the garden $$
 ^^ and grape in the garden $$
 ^^ in my clothes $$
 ^^ oh sausage go in there $$
@@ -309,6 +324,8 @@
 ^^ like some ice in my dish $$
 ^^ no $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ ugh $$
 ^^ oh it be a plaster $$
 ^^ it be a plaster $$
@@ -323,9 +340,9 @@
 ^^ cherry $$
 ^^ I like some cherry $$
 ^^ I like some cherry $$
-^^ I  like some black $$
+^^ I like like some black $$
 ^^ I like some jelly $$
-^^   I want to make some $$
+^^ I want I want to make some $$
 ^^ I want to make some $$
 ^^ somebody open the door $$
 ^^ somebody open the door $$
@@ -347,13 +364,15 @@
 ^^ a pink aga $$
 ^^ yeah $$
 ^^ lie here in bed $$
-^^ but I here  in the garden $$
+^^ but I here in in the garden $$
 ^^ but I here in my castle $$
-^^  it $$
+^^ xxx $$
+^^ xxx it $$
 ^^ I catch the aga $$
 ^^ I catch it $$
 ^^ and I put it on the floor $$
-^^   I like this $$
+^^ xxx $$
+^^ I like I like this $$
 ^^ yes $$
 ^^ I think Daddy do that $$
 ^^ me do that $$
@@ -371,13 +390,13 @@
 ^^ find pink $$
 ^^ I find one $$
 ^^ find $$
-^^  one two $$
+^^ one one two $$
 ^^ one two $$
 ^^ look for ouch $$
 ^^ it be a fire $$
 ^^ look $$
 ^^ it be a fire $$
-^^  aga $$
+^^ xxx aga $$
 ^^ it be a aga $$
 ^^ it be a aga $$
 ^^ it be a aga $$
@@ -389,7 +408,7 @@
 ^^ it be a aga $$
 ^^ it be a aga $$
 ^^ green $$
-^^   it be a green aga $$
+^^ it's a it be a green aga $$
 ^^ it be a green aga $$
 ^^ it be a $$
 ^^ Sam $$
@@ -402,12 +421,14 @@
 ^^ surprise $$
 ^^ surprise $$
 ^^ oh $$
+^^ xxx $$
 ^^ I want go in car $$
 ^^ because I go to sleep $$
 ^^ because I go to sleep $$
 ^^ I not $$
 ^^ I come in the garden $$
 ^^ I come in the garden $$
+^^ xxx $$
 ^^ I come in garden $$
 ^^ I play in the garden $$
 ^^ oh yes $$
@@ -418,6 +439,7 @@
 ^^ on there $$
 ^^ no $$
 ^^ car seat $$
+^^ xxx $$
 ^^ it be from Tumble_Tots $$
 ^^ from Tumble_Tots $$
 ^^ Tumble_Tots $$
@@ -429,6 +451,7 @@
 ^^ I look at a green one $$
 ^^ oh from Tumble_Tots $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ the green one $$
 ^^ my money $$
@@ -461,7 +484,7 @@
 ^^ look $$
 ^^ it be another one $$
 ^^ it be another baby $$
-^^  what be his name $$
+^^ er what be his name $$
 ^^ stork $$
 ^^ it be a stork $$
 ^^ brumm $$
@@ -470,6 +493,8 @@
 ^^ Anna $$
 ^^ look at this $$
 ^^ look at another one $$
+^^ xxx $$
+^^ xxx $$
 ^^ get little finger $$
 ^^ tiny nail $$
 ^^ tiny nail $$
@@ -479,18 +504,20 @@
 ^^ oh she be little $$
 ^^ look $$
 ^^ a spider $$
-^^  where hand $$
+^^ xxx $$
+^^ where where hand $$
 ^^ it be my box $$
 ^^ it be my box $$
 ^^ quite a assortment in that one $$
 ^^ draw this $$
 ^^ draw this $$
 ^^ draw this $$
+^^ xxx $$
 ^^ I draw this $$
 ^^ no $$
-^^  I draw this $$
+^^ Nicole I draw this $$
 ^^ and I draw this $$
-^^ and I draw  $$
+^^ and I draw xxx $$
 ^^ and I draw this $$
 ^^ I draw blue $$
 ^^ I draw blue $$
@@ -545,12 +572,15 @@
 ^^ this green $$
 ^^ orange $$
 ^^ yellow $$
+^^ a $$
+^^ a $$
 ^^ pencil sharpen $$
 ^^ pencil sharpen $$
 ^^ the pencil sharpen $$
 ^^ and white not work $$
 ^^ and white $$
 ^^ maybe you try $$
+^^ xxx $$
 ^^ yes $$
 ^^ and this one $$
 ^^ this brown one $$
@@ -564,9 +594,10 @@
 ^^ put in there $$
 ^^ no $$
 ^^ no $$
-^^   no $$
-^^  no $$
+^^ no no no $$
+^^ no no $$
 ^^ no $$
+^^ xxx $$
 ^^ maybe Anna $$
 ^^ oh $$
 ^^ look $$
@@ -581,7 +612,7 @@
 ^^ Orkney $$
 ^^ it be Orkney $$
 ^^ I want to go $$
-^^ I  this $$
+^^ I xxx this $$
 ^^ look $$
 ^^ again $$
 ^^ again $$
@@ -589,12 +620,13 @@
 ^^ thank_you $$
 ^^ no $$
 ^^ magic $$
-^^     and now we try this $$
+^^ and now we try and now we try this $$
 ^^ you try this $$
 ^^ you try this $$
 ^^ on this $$
 ^^ chip $$
 ^^ chip $$
+^^ xxx $$
 ^^ open it $$
 ^^ open it $$
 ^^ yes $$
@@ -624,6 +656,7 @@
 ^^ there be trouser $$
 ^^ for doll $$
 ^^ trouser $$
+^^ xxx $$
 ^^ panda $$
 ^^ yeah $$
 ^^ she need a shirt $$
@@ -652,7 +685,7 @@
 ^^ see another bull $$
 ^^ want see another bull $$
 ^^ oh $$
-^^ look I can put it with  $$
+^^ look I can put it with xxx $$
 ^^ look I found $$
 ^^ look I found $$
 ^^ what I found $$
@@ -685,8 +718,8 @@
 ^^ little o $$
 ^^ another o $$
 ^^ another o and some eye $$
-^^    and this need some eye as_well $$
-^^  draw a big o like this $$
+^^ and this need and this need some eye as_well $$
+^^ draw draw a big o like this $$
 ^^ you do that $$
 ^^ do that $$
 ^^ get the bag $$
@@ -698,14 +731,16 @@
 ^^ take a box away $$
 ^^ yeah $$
 ^^ pack it up $$
+^^ xxx $$
 ^^ cherry $$
 ^^ and jelly $$
 ^^ and berry $$
 ^^ and John berry jam $$
 ^^ John berry $$
 ^^ yes $$
-^^ I  $$
+^^ I xxx $$
 ^^ I pull it off $$
+^^ xxx $$
 ^^ I can pull it off $$
 ^^ climb $$
 ^^ a dog $$
@@ -715,6 +750,7 @@
 ^^ I put it in the hole $$
 ^^ get a bag $$
 ^^ I go play with those $$
+^^ xxx $$
 ^^ pack them away $$
 ^^ John $$
 ^^ yeah $$
@@ -731,9 +767,12 @@
 ^^ yeah $$
 ^^ no $$
 ^^ I want to mend it $$
+^^ xxx $$
+^^ xxx $$
 ^^ I in the garden $$
 ^^ chip $$
 ^^ chip $$
+^^ xxx $$
 ^^ open it $$
 ^^ open it $$
 ^^ yes $$
@@ -763,6 +802,7 @@
 ^^ there be trouser $$
 ^^ for doll $$
 ^^ trouser $$
+^^ xxx $$
 ^^ panda $$
 ^^ yeah $$
 ^^ she need a shirt $$
@@ -791,7 +831,7 @@
 ^^ see another bull $$
 ^^ want see another bull $$
 ^^ oh $$
-^^ look I can put it with  $$
+^^ look I can put it with xxx $$
 ^^ look I found $$
 ^^ look I found $$
 ^^ what I found $$
@@ -824,8 +864,8 @@
 ^^ little o $$
 ^^ another o $$
 ^^ another o and some eye $$
-^^    and this need some eye as_well $$
-^^  draw a big o like this $$
+^^ and this need and this need some eye as_well $$
+^^ draw draw a big o like this $$
 ^^ you do that $$
 ^^ do that $$
 ^^ get the bag $$
@@ -837,14 +877,16 @@
 ^^ take a box away $$
 ^^ yeah $$
 ^^ pack it up $$
+^^ xxx $$
 ^^ cherry $$
 ^^ and jelly $$
 ^^ and berry $$
 ^^ and John berry jam $$
 ^^ John berry $$
 ^^ yes $$
-^^ I  $$
+^^ I xxx $$
 ^^ I pull it off $$
+^^ xxx $$
 ^^ I can pull it off $$
 ^^ climb $$
 ^^ a dog $$
@@ -854,6 +896,7 @@
 ^^ I put it in the hole $$
 ^^ get a bag $$
 ^^ I go play with those $$
+^^ xxx $$
 ^^ pack them away $$
 ^^ John $$
 ^^ yeah $$
@@ -870,4 +913,6 @@
 ^^ yeah $$
 ^^ no $$
 ^^ I want to mend it $$
+^^ xxx $$
+^^ xxx $$
 ^^ I in the garden $$

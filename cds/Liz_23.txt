@@ -7,7 +7,7 @@
 ^^ you can speak if you like you know $$
 ^^ shall we have a play with your house $$
 ^^ there you be $$
-^^ let   have a look $$
+^^ let have a have a look $$
 ^^ right $$
 ^^ what be go on here $$
 ^^ Liz $$
@@ -61,6 +61,7 @@
 ^^ it be not your junk $$
 ^^ it be your toy $$
 ^^ that be a pretend sneeze be not it $$
+^^ eh $$
 ^^ be that Mummy tea $$
 ^^ thank_you love $$
 ^^ I forget about it $$
@@ -69,6 +70,7 @@
 ^^ that be white that bit be not it $$
 ^^ and this bit be all color in $$
 ^^ thank_you $$
+^^ a $$
 ^^ do you want to play with this farm Liz $$
 ^^ where be the pig $$
 ^^ oh $$
@@ -83,8 +85,8 @@
 ^^ a dog $$
 ^^ do you want to bring them out $$
 ^^ oh I see $$
-^^  it be the picture that Mummy draw be not it $$
-^^  it be there $$
+^^ it's it be the picture that Mummy draw be not it $$
+^^ it's it be there $$
 ^^ yeah $$
 ^^ yes $$
 ^^ and a mat $$
@@ -97,7 +99,7 @@
 ^^ shall we get a pen and do some drawing $$
 ^^ yeah $$
 ^^ all those $$
-^^ let us find a pen  $$
+^^ let us find a pen eh $$
 ^^ we will have to find a piece of paper first $$
 ^^ I will bet I can not find a pen Liz because I have lose my home from yesterday have not I $$
 ^^ oh here you be $$
@@ -123,7 +125,7 @@
 ^^ he be even put udder on it $$
 ^^ and a tail $$
 ^^ have not he $$
-^^ oh I be   not very good at cow real $$
+^^ oh I be not very not very good at cow real $$
 ^^ I can only draw face can not I $$
 ^^ but I will try $$
 ^^ face yeah $$
@@ -160,7 +162,8 @@
 ^^ that be a very short story $$
 ^^ be you bring another one in $$
 ^^ come on then $$
-^^  that be call a rubics $$
+^^ www $$
+^^ that's that be call a rubics $$
 ^^ that be why you call it a egg be not it $$
 ^^ mhm $$
 ^^ that be Liz money be not it $$
@@ -168,7 +171,7 @@
 ^^ do you want it $$
 ^^ there you go $$
 ^^ no $$
-^^  what be you after $$
+^^ what what be you after $$
 ^^ this $$
 ^^ no $$
 ^^ this $$
@@ -176,7 +179,7 @@
 ^^ wait a minute $$
 ^^ wait a minute $$
 ^^ I will move the box $$
-^^ and then you might be able to reach yourself  $$
+^^ and then you might be able to reach yourself eh $$
 ^^ oh you want the key $$
 ^^ fish fish fish fish fish $$
 ^^ mhm $$
@@ -264,6 +267,7 @@
 ^^ oh yeah $$
 ^^ you want a drink of milk $$
 ^^ okay $$
+^^ www $$
 ^^ what be that $$
 ^^ Daddy soup $$
 ^^ be it $$
@@ -291,6 +295,7 @@
 ^^ thank_you $$
 ^^ shall we put it on there $$
 ^^ what have you see the orange one now $$
+^^ www $$
 ^^ there you go $$
 ^^ I think you be go to chuck that at me then $$
 ^^ do you want me to hold that for you $$
@@ -358,10 +363,10 @@
 ^^ Liz $$
 ^^ hello $$
 ^^ boo $$
-^^ well  Sqounk be in the garden because she be a bit of a pest be not she $$
+^^ well Spot's Sqounk be in the garden because she be a bit of a pest be not she $$
 ^^ yeah $$
 ^^ I do not think Anna want that real $$
-^^ no I  I do not want that real $$
+^^ no I don't I do not want that real $$
 ^^ here you be $$
 ^^ I will take it $$
 ^^ thank_you $$
@@ -422,17 +427,19 @@
 ^^ be you get down $$
 ^^ do you want some help $$
 ^^ okay $$
-^^ we will go to the shop later and you can go in your pram  $$
+^^ we will go to the shop later and you can go in your pram eh $$
 ^^ do we need stuff from the shop $$
 ^^ yeah $$
 ^^ mhm $$
 ^^ he get to eat that strawberry do not he $$
-^^ what  $$
+^^ what xxx $$
 ^^ mhm $$
 ^^ a ripe strawberry be not it $$
 ^^ the mouse be give the strawberry a hug $$
 ^^ Liz want a hug $$
+^^ a $$
 ^^ yeah $$
+^^ eh $$
 ^^ what be you do $$
 ^^ down yeah $$
 ^^ up yeah $$
@@ -442,6 +449,7 @@
 ^^ that be down $$
 ^^ what be you try to do to me $$
 ^^ be you squash me $$
+^^ a $$
 ^^ row row row your boat $$
 ^^ gentle down the stream $$
 ^^ merry merry merry merry $$
@@ -451,6 +459,7 @@
 ^^ he shall have but a penny a day $$
 ^^ because he can not row any fast $$
 ^^ what do you want to play with now $$
+^^ eh $$
 ^^ hm $$
 ^^ do you want to have a wee $$
 ^^ not $$
@@ -505,6 +514,7 @@
 ^^ yeah $$
 ^^ I will have this bit $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not $$
+^^ eh $$
 ^^ it go like that $$
 ^^ but it be not work at the moment $$
 ^^ because look $$
@@ -557,7 +567,7 @@
 ^^ okay $$
 ^^ let me see $$
 ^^ you want more $$
-^^   let me do the bag $$
+^^ let me let me do the bag $$
 ^^ there be Froggie $$
 ^^ you do not like Froggie do you $$
 ^^ you do like Froggie $$
@@ -576,7 +586,7 @@
 ^^ get you a clean piece of paper $$
 ^^ oh $$
 ^^ there you be $$
-^^  that be the brown one be not it $$
+^^ that that be the brown one be not it $$
 ^^ mhm $$
 ^^ do you want me to draw round your hand $$
 ^^ it be on the floor down by the $$
@@ -614,11 +624,13 @@
 ^^ what be that $$
 ^^ mhm $$
 ^^ that be a accident though be not it $$
+^^ eh $$
 ^^ what be you do Liz $$
 ^^ what be you do sweetheart $$
-^^ well we will have Thomas_the_Tank on in a minute  $$
+^^ www $$
+^^ well we will have Thomas_the_Tank on in a minute eh $$
 ^^ yeah we will have it on soon $$
-^^   why do not you get the Thomas_the_Tank book and we will have a look at it $$
+^^ why don't why do not you get the Thomas_the_Tank book and we will have a look at it $$
 ^^ do you want to get the book and we will have a look $$
 ^^ I buy you a new Thoams_the_Tank book the other day and I have just think $$
 ^^ I can not remember where it be $$
@@ -632,6 +644,7 @@
 ^^ we will have a look at this new book $$
 ^^ I have not see this one yet $$
 ^^ have you $$
+^^ eh $$
 ^^ who be it $$
 ^^ yes it be Thomas_the_Tank $$
 ^^ Thomas_the_Tank_Engine have two coach call Annie and Clarabell $$
@@ -639,10 +652,15 @@
 ^^ and who be that $$
 ^^ yeah $$
 ^^ Tank drive be not it $$
+^^ www $$
 ^^ be you ready steady $$
 ^^ go $$
+^^ www $$
 ^^ oh it be exciting be not it $$
+^^ www $$
 ^^ yes there be another page here look $$
+^^ www $$
+^^ www $$
 ^^ oh his hat come off yes $$
 ^^ and look at these person all wave $$
 ^^ Thomas win just about $$
@@ -659,6 +677,7 @@
 ^^ yeah $$
 ^^ you have get milk somewhere $$
 ^^ where do your milk go $$
+^^ eh $$
 ^^ oh it be over there on the cushion $$
 ^^ yeah $$
 ^^ she be off again $$

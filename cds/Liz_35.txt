@@ -1,8 +1,8 @@
 ^^ do you want to choose one now $$
-^^  what do we like $$
+^^ um what do we like $$
 ^^ Baa_baa_white_sheep $$
 ^^ oh right $$
-^^  what about I know a teddy bear $$
+^^ um what about I know a teddy bear $$
 ^^ okay $$
 ^^ well do you want to pick one that you know then $$
 ^^ well I keep pick them and you do not know them $$
@@ -18,13 +18,13 @@
 ^^ be that good $$
 ^^ whoops $$
 ^^ that be love Liz $$
-^^  I can not think of which one you_all sing $$
+^^ um I can not think of which one you_all sing $$
 ^^ whoops $$
 ^^ what about the one about the rabbit run by $$
 ^^ no $$
 ^^ what do you like $$
 ^^ well I be not very good at that one but I will try $$
-^^ you will have to   remind me $$
+^^ you will have to tell me remind me $$
 ^^ I have get my candle $$
 ^^ oh right $$
 ^^ shall we do it again because I do not know the word that time $$
@@ -38,7 +38,7 @@
 ^^ I will do the action with you if you tell me $$
 ^^ oh I see $$
 ^^ that be a good one be not it $$
-^^  one two three four five $$
+^^ um one two three four five $$
 ^^ once I catch a fish alive $$
 ^^ no $$
 ^^ okay $$
@@ -98,6 +98,7 @@
 ^^ what kind of soup be it today $$
 ^^ yellow soup $$
 ^^ it be love be not it $$
+^^ mm $$
 ^^ have you get any bread $$
 ^^ right $$
 ^^ thank_you $$
@@ -166,6 +167,7 @@
 ^^ oh right okay $$
 ^^ oh it be nice that be not it $$
 ^^ do you make that $$
+^^ mm $$
 ^^ a sausage roll as_well now $$
 ^^ oh $$
 ^^ thank_you $$
@@ -209,7 +211,7 @@
 ^^ thank_you $$
 ^^ be it $$
 ^^ oh $$
-^^ we will clean it later  $$
+^^ we will clean it later eh $$
 ^^ mhm $$
 ^^ we will do it later because I will have to get some stuff from upstairs to do it with $$
 ^^ yes $$
@@ -219,9 +221,10 @@
 ^^ thank_you $$
 ^^ oh no $$
 ^^ do not let her out please $$
+^^ www $$
 ^^ oh thank_you $$
 ^^ thank_you very much $$
-^^ yeah well   you can do the dish later when Anna have go  $$
+^^ yeah well you can you can do the dish later when Anna have go eh $$
 ^^ do not want to be stand in the kitchen when Anna be here do you $$
 ^^ mhm $$
 ^^ I do not know $$
@@ -257,7 +260,7 @@
 ^^ hm $$
 ^^ what go in there love $$
 ^^ it be there at the side of the box $$
-^^ it be  in the box $$
+^^ it be in in the box $$
 ^^ see where those wheel be $$
 ^^ those red wheel $$
 ^^ it be stand up at the side of the box there love $$
@@ -333,7 +336,7 @@
 ^^ yes $$
 ^^ when Anna be go which be not long now you can wash the dish $$
 ^^ I will put some water in a bowl for you $$
-^^ because you have get all those cup to  wash have not you $$
+^^ because you have get all those cup to watch wash have not you $$
 ^^ okay $$
 ^^ I will put bubble in it as_well yeah $$
 ^^ well you need bubble to get the dish clean $$
@@ -345,6 +348,7 @@
 ^^ where have you go $$
 ^^ have you appear $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ where have you go $$
 ^^ oh there you be $$
 ^^ I do not know $$
@@ -389,24 +393,34 @@
 ^^ be you get yourself comfy $$
 ^^ be you_all right there $$
 ^^ right $$
+^^ www $$
 ^^ whoops $$
 ^^ mhm $$
 ^^ well not real $$
 ^^ only pretend $$
+^^ www $$
 ^^ Mog do that do not she sit on them $$
 ^^ Nicki do not do it $$
 ^^ Mog do it $$
+^^ www $$
 ^^ that be right $$
 ^^ mum be drop the pea $$
+^^ www $$
 ^^ even quite big bird $$
 ^^ sudden $$
 ^^ no $$
+^^ www $$
 ^^ oh dear $$
+^^ www $$
 ^^ mhm $$
+^^ www $$
 ^^ yeah $$
+^^ www $$
+^^ www $$
 ^^ okey_dokey $$
 ^^ what be this one call $$
 ^^ that be right $$
+^^ www $$
 ^^ Mog love baby $$
 ^^ do we think she do or not $$
 ^^ do you $$
@@ -418,11 +432,14 @@
 ^^ you be go to share some toy with it $$
 ^^ some of them $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
-^^      we be go to go to the shop and buy it a elephant be not we $$
+^^ are you going to go we be go to go to the shop and buy it a elephant be not we $$
+^^ eh $$
 ^^ you never know $$
 ^^ it might bring you a present $$
+^^ www $$
 ^^ it be a dream about baby $$
 ^^ and what be these baby call $$
 ^^ kitten $$
 ^^ that be right $$
 ^^ they be baby cat be not they and they be call kitten $$
+^^ www $$

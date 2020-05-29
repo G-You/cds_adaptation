@@ -30,7 +30,7 @@
 ^^ that brick $$
 ^^ oh $$
 ^^ some brick $$
-^^  get to play with these $$
+^^ um get to play with these $$
 ^^ he be too small $$
 ^^ coach and truck $$
 ^^ think he too small $$
@@ -40,7 +40,7 @@
 ^^ mhm $$
 ^^ yes $$
 ^^ it be Edward $$
-^^  I do not know little one Edward $$
+^^ I I do not know little one Edward $$
 ^^ probable $$
 ^^ I go and get it $$
 ^^ Edward $$
@@ -51,34 +51,36 @@
 ^^ oh $$
 ^^ oh $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ thank_you $$
-^^  look $$
+^^ found look $$
 ^^ Percy $$
-^^ think  it Percy $$
+^^ think it it Percy $$
 ^^ here be Percy $$
 ^^ but Percy be six $$
-^^  but Percy can have coach and truck $$
+^^ but but Percy can have coach and truck $$
 ^^ there $$
 ^^ I do not know other one $$
-^^   and lose Edward $$
+^^ xxx $$
+^^ and and and lose Edward $$
 ^^ no $$
 ^^ we do not $$
 ^^ I do not $$
-^^  Gordon $$
+^^ um Gordon $$
 ^^ and James $$
 ^^ and coach and truck $$
 ^^ no $$
 ^^ and we take Thomas $$
-^^  and not Percy $$
+^^ and and not Percy $$
 ^^ mhm $$
 ^^ few train $$
 ^^ oh no $$
 ^^ no Nina $$
 ^^ it Caroline bike $$
 ^^ it be Caroline bike $$
-^^ and that one  $$
-^^ because Nina  can not harm that brick $$
+^^ and that one xxx $$
+^^ because Nina have can not harm that brick $$
 ^^ alright Nina $$
 ^^ here $$
 ^^ choo $$
@@ -92,40 +94,42 @@
 ^^ choo Thomas and Percy $$
 ^^ oh $$
 ^^ Thomas have Annie Clarabel $$
-^^  and Percy have Annie Clarabel $$
+^^ and and Percy have Annie Clarabel $$
 ^^ yes $$
-^^  just by that truck $$
+^^ um just by that truck $$
 ^^ oh $$
 ^^ I have two coach $$
 ^^ yes $$
 ^^ yes $$
 ^^ I do want them $$
 ^^ yes $$
-^^  but Percy have no coach $$
+^^ but but Percy have no coach $$
 ^^ choo $$
-^^  play  Nina brick $$
+^^ a play my Nina brick $$
 ^^ no Nina $$
 ^^ this one Caroline $$
 ^^ no $$
 ^^ that one Caroline Nina $$
+^^ xxx $$
 ^^ and you do not lift Caroline bag $$
 ^^ no no no $$
 ^^ oh $$
 ^^ oh $$
-^^ Nina be have   you bag $$
+^^ Nina be have her her you bag $$
 ^^ I give it to Caroline $$
-^^ do  play  them $$
+^^ do um play um them $$
 ^^ mhm $$
-^^  I like play  that lorry $$
+^^ I I like play um that lorry $$
 ^^ no $$
 ^^ mhm $$
-^^ you be have  Pooh_Bear $$
+^^ you be have um Pooh_Bear $$
 ^^ here you be Mummy $$
+^^ xxx $$
 ^^ oh $$
-^^  I just mend it $$
+^^ I I just mend it $$
 ^^ mend it $$
 ^^ it be good now $$
-^^ that  $$
+^^ that xxx $$
 ^^ oh $$
 ^^ okay $$
 ^^ here you be Mummy $$
@@ -133,23 +137,26 @@
 ^^ here you be Mummy $$
 ^^ yeah $$
 ^^ here you be Mummy $$
+^^ xxx $$
 ^^ oh $$
 ^^ okay $$
 ^^ here you be $$
 ^^ mhm $$
 ^^ the train can $$
 ^^ this train can go under there now $$
-^^ James go under  your bridge $$
-^^   but James can go under the bridge $$
+^^ James go under bridge your bridge $$
+^^ but but but James can go under the bridge $$
 ^^ no $$
 ^^ that can fall over $$
 ^^ oh no $$
+^^ xxx $$
 ^^ lorry break it $$
 ^^ go go go go go go go $$
 ^^ it be me $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
-^^  you can not play it now $$
+^^ you you can not play it now $$
 ^^ yes $$
 ^^ yes $$
 ^^ I can play the dig $$
@@ -160,12 +167,15 @@
 ^^ I build a tower now $$
 ^^ thanks $$
 ^^ now $$
+^^ xxx $$
 ^^ look $$
-^^ dig  $$
-^^  they do $$
+^^ dig xxx $$
+^^ they they do $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ let me come past $$
+^^ xxx $$
 ^^ go dingaling $$
 ^^ go dingaling $$
 ^^ go dingaling $$
@@ -173,24 +183,25 @@
 ^^ say dingaling $$
 ^^ yeah $$
 ^^ oh $$
+^^ xxx $$
 ^^ yes $$
 ^^ think I do not $$
 ^^ do not $$
 ^^ think I throw Nina toy $$
-^^  Nina toy $$
+^^ um Nina toy $$
 ^^ yeah $$
-^^  no $$
+^^ xxx no $$
 ^^ no $$
-^^  this one toy $$
+^^ um this one toy $$
 ^^ mhm $$
 ^^ mhm $$
-^^  Mummy hoover up $$
+^^ Mummy Mummy hoover up $$
 ^^ mhm $$
 ^^ no $$
 ^^ think I jump on sofa $$
-^^  because nobody know it $$
+^^ because because nobody know it $$
 ^^ because I do not like it $$
-^^  because hoover shift at me $$
+^^ because because hoover shift at me $$
 ^^ yeah $$
 ^^ and I do like that one $$
 ^^ and that one instead $$
@@ -201,47 +212,51 @@
 ^^ Nina have have her train $$
 ^^ no $$
 ^^ oh $$
+^^ xxx $$
 ^^ he get some more clothes on him $$
-^^  there $$
+^^ um there $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ choo $$
 ^^ and choo $$
 ^^ go on $$
 ^^ go on $$
 ^^ go on $$
 ^^ go on $$
-^^  some car have that one there $$
+^^ some some car have that one there $$
 ^^ no $$
 ^^ Nina be not have any $$
-^^  no coach and truck $$
+^^ um no coach and truck $$
 ^^ blue one $$
 ^^ because blue one Thomas $$
-^^  because Percy be have that one $$
+^^ because because Percy be have that one $$
 ^^ both get them now $$
 ^^ yeah $$
 ^^ both get them $$
-^^ go through  that the door $$
+^^ go through that that the door $$
 ^^ because I want to $$
 ^^ because he want to $$
 ^^ because he want to come out with you Mum $$
 ^^ and he come out $$
-^^ he get  $$
+^^ he get xxx $$
 ^^ yeah $$
 ^^ not stick $$
 ^^ yeah $$
 ^^ oh $$
 ^^ do not $$
+^^ xxx $$
 ^^ what $$
-^^ because Nina be not have  that Thomas $$
+^^ because Nina be not have that that Thomas $$
 ^^ because that one new one $$
-^^  because that one new one $$
+^^ because because that one new one $$
 ^^ mhm $$
 ^^ choo $$
 ^^ no $$
 ^^ vroom $$
+^^ xxx $$
 ^^ vroom $$
-^^  elephant $$
+^^ xxx elephant $$
 ^^ no $$
 ^^ vroom $$
 ^^ vroom $$
@@ -251,15 +266,18 @@
 ^^ because I want to $$
 ^^ yes $$
 ^^ I do $$
+^^ xxx $$
 ^^ oh $$
 ^^ ow $$
+^^ xxx $$
 ^^ this car be go vroom $$
 ^^ vroom $$
 ^^ vroom $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ I not $$
-^^    because I do not want to $$
+^^ because I don't because I do not want to $$
 ^^ because I do not $$
 ^^ because I do not want to $$
 ^^ want to stay home $$
@@ -267,14 +285,14 @@
 ^^ because I want to $$
 ^^ because I go nursery soon $$
 ^^ I can not make soon $$
-^^  train $$
-^^  tidy up Julie $$
-^^ and Julie go out  $$
+^^ um train $$
+^^ um tidy up Julie $$
+^^ and Julie go out xxx $$
 ^^ yes $$
 ^^ yes $$
 ^^ mhm $$
 ^^ tidy $$
-^^  shall I sit down $$
+^^ um shall I sit down $$
 ^^ oh $$
 ^^ vroom $$
 ^^ no $$
@@ -282,11 +300,11 @@
 ^^ because I do like car $$
 ^^ just there $$
 ^^ vroom $$
-^^  motor $$
+^^ xxx motor $$
 ^^ bang $$
-^^  two motor $$
+^^ um two motor $$
 ^^ two $$
-^^  pink $$
+^^ um pink $$
 ^^ yes $$
 ^^ there pink $$
 ^^ no $$
@@ -296,16 +314,16 @@
 ^^ vroom $$
 ^^ that man be go on it $$
 ^^ tree $$
-^^  white $$
+^^ um white $$
 ^^ I know $$
 ^^ I know $$
 ^^ I do not know $$
 ^^ do not know $$
-^^  do not know $$
+^^ um do not know $$
 ^^ green $$
-^^  green $$
+^^ um green $$
 ^^ I do not know $$
-^^  Postman_Pat $$
+^^ um Postman_Pat $$
 ^^ look $$
 ^^ I get Postman_Pat $$
 ^^ sock $$
@@ -318,24 +336,26 @@
 ^^ oh $$
 ^^ a van $$
 ^^ get a van on them $$
-^^  and Jess $$
+^^ and and Jess $$
 ^^ yes $$
+^^ xxx $$
 ^^ and Jess $$
 ^^ another Jess $$
 ^^ ow $$
 ^^ no no $$
 ^^ no $$
-^^ you can not come  $$
+^^ xxx $$
+^^ you can not come xxx $$
 ^^ no $$
 ^^ go away $$
 ^^ get out $$
 ^^ get out $$
 ^^ my way $$
 ^^ get out my way $$
-^^ because  lion come $$
+^^ because lion lion come $$
 ^^ grrr $$
-^^  a lion drink $$
-^^  orange $$
+^^ a a lion drink $$
+^^ um orange $$
 ^^ look $$
 ^^ all_gone now $$
 ^^ I know $$
@@ -346,10 +366,10 @@
 ^^ oh $$
 ^^ ow $$
 ^^ not full $$
-^^ not  $$
+^^ not xxx $$
 ^^ lion full now $$
 ^^ how about some more $$
-^^  now $$
+^^ xxx now $$
 ^^ lion go now $$
 ^^ yes $$
 ^^ and he do $$
@@ -363,14 +383,15 @@
 ^^ because I so dirt in there $$
 ^^ I clean it up $$
 ^^ no more $$
-^^  just there  $$
+^^ just just there xxx $$
+^^ xxx $$
 ^^ James have some truck in bit $$
 ^^ mhm $$
 ^^ not now $$
-^^  but in bit $$
+^^ but but in bit $$
 ^^ in bite James get them on back $$
 ^^ I do not know $$
-^^  on Percy $$
+^^ on on Percy $$
 ^^ Percy get them $$
 ^^ Percy get round and round $$
 ^^ mhm $$
@@ -378,7 +399,7 @@
 ^^ Percy coach $$
 ^^ Percy coach $$
 ^^ I can see Percy coach $$
-^^  because Percy get them now $$
+^^ because because Percy get them now $$
 ^^ choo $$
 ^^ no $$
 ^^ no $$
@@ -395,27 +416,28 @@
 ^^ no no $$
 ^^ that too small $$
 ^^ think that too small $$
-^^  Percy coach too small $$
+^^ um Percy coach too small $$
 ^^ perfect Daisy not $$
 ^^ no no $$
 ^^ it mine $$
 ^^ it mine $$
-^^ but Percy  be have them $$
+^^ but Percy was be have them $$
 ^^ and Percy want them $$
 ^^ what be that one $$
 ^^ and two lorry $$
 ^^ I get two $$
-^^  that one be $$
+^^ um that one be $$
 ^^ oh $$
 ^^ lorry have that one trailer $$
 ^^ mhm $$
-^^  Daisy just  fix it on that one $$
+^^ Daisy Daisy just um fix it on that one $$
 ^^ there $$
 ^^ it be mine $$
 ^^ here you be Nina $$
 ^^ I give it to her now $$
 ^^ mhm $$
 ^^ give it to her now $$
+^^ xxx $$
 ^^ because it mine $$
 ^^ it be mine $$
 ^^ ow $$
@@ -424,10 +446,10 @@
 ^^ do not want play Mummy $$
 ^^ you have it Caroline $$
 ^^ give it to Caroline now $$
-^^ and Percy get brick   on his truck $$
-^^  blue $$
+^^ and Percy get brick on his on his truck $$
+^^ um blue $$
 ^^ tree $$
-^^   say man be raise signal $$
+^^ say say say man be raise signal $$
 ^^ I say signal $$
 ^^ signal $$
 ^^ signal $$
@@ -439,18 +461,20 @@
 ^^ signal $$
 ^^ no $$
 ^^ alright Nina $$
-^^  it not a train $$
+^^ xxx $$
+^^ xxx $$
+^^ it it not a train $$
 ^^ just a tree $$
-^^  another tree $$
+^^ another another tree $$
 ^^ two tree $$
 ^^ just have that one Nina $$
 ^^ Nina be have that one $$
 ^^ sister do not like that one $$
-^^  that one $$
+^^ xxx that one $$
 ^^ go to play now $$
 ^^ go play now $$
 ^^ I go play now $$
-^^  Percy $$
+^^ um Percy $$
 ^^ see $$
 ^^ that brick fall down $$
 ^^ oh $$
@@ -466,6 +490,7 @@
 ^^ whoo $$
 ^^ whoo $$
 ^^ Daisy go whoo $$
+^^ xxx $$
 ^^ like whoo $$
 ^^ vroom $$
 ^^ vroom $$
@@ -482,21 +507,22 @@
 ^^ and I get another one silver car $$
 ^^ I do not know $$
 ^^ yes $$
-^^  have some $$
+^^ xxx have some $$
 ^^ get four $$
-^^  pink $$
-^^  pink $$
+^^ um pink $$
+^^ um pink $$
 ^^ black $$
 ^^ they be black $$
 ^^ they be black $$
 ^^ and Edward get black wheel $$
-^^  white and blue and another blue $$
+^^ um white and blue and another blue $$
+^^ xxx $$
 ^^ the cow fall down $$
 ^^ mhm $$
 ^^ I be get giraffe $$
 ^^ down there $$
 ^^ down there $$
-^^  Caroline buy giraffe $$
+^^ um Caroline buy giraffe $$
 ^^ and dolphin $$
 ^^ and the dolphin $$
 ^^ dolphin go crash $$
@@ -505,14 +531,14 @@
 ^^ because there truck $$
 ^^ there train truck $$
 ^^ there be $$
-^^  there be train truck $$
+^^ there there be train truck $$
 ^^ mhm $$
 ^^ and the hippo $$
 ^^ and the dolphin $$
-^^  and dolphin $$
+^^ and and dolphin $$
 ^^ penguin $$
 ^^ one two $$
-^^  and another dolphin $$
+^^ and and another dolphin $$
 ^^ I do not know $$
 ^^ mhm $$
 ^^ mhm $$
@@ -530,21 +556,21 @@
 ^^ pig $$
 ^^ pig $$
 ^^ pink $$
-^^   and pink $$
+^^ um xxx and pink $$
 ^^ pink $$
-^^  pink $$
+^^ um pink $$
 ^^ do not know $$
 ^^ no $$
-^^  pink $$
+^^ xxx pink $$
 ^^ black $$
 ^^ and that side $$
 ^^ and that side black $$
 ^^ and that side black $$
-^^  orange $$
+^^ um orange $$
 ^^ I can not eat apple $$
 ^^ yum $$
 ^^ apple $$
-^^  pineapple $$
+^^ um pineapple $$
 ^^ I do eat pineapple $$
 ^^ a strawberry $$
 ^^ look $$
@@ -553,24 +579,25 @@
 ^^ strawberry $$
 ^^ chicken $$
 ^^ and I do eat strawberry $$
+^^ mm $$
 ^^ a orange $$
 ^^ pear $$
 ^^ oh $$
 ^^ pear $$
-^^  do not know $$
+^^ um do not know $$
 ^^ onion $$
 ^^ oh $$
 ^^ yes $$
-^^  do not know $$
+^^ um do not know $$
 ^^ the kitchen $$
-^^  do not know in kitchen $$
+^^ don't do not know in kitchen $$
 ^^ mhm $$
 ^^ oh $$
 ^^ look $$
 ^^ I $$
 ^^ look $$
 ^^ I eat them now $$
-^^  eat them $$
+^^ um eat them $$
 ^^ I think I do not like mushroom and onion $$
 ^^ and I do not like it $$
 ^^ mhm $$
@@ -578,19 +605,22 @@
 ^^ mhm $$
 ^^ this $$
 ^^ delicious $$
-^^  strawberry $$
+^^ um strawberry $$
 ^^ pepper $$
 ^^ think I do not eat pepper $$
 ^^ another pepper $$
 ^^ mhm $$
+^^ xxx $$
 ^^ hot hot hot $$
 ^^ hot hot hot $$
 ^^ dog food $$
 ^^ and you have that one $$
-^^  do not know $$
+^^ um do not know $$
 ^^ cat $$
-^^ think it be  $$
-^^ think it not  $$
+^^ xxx $$
+^^ xxx $$
+^^ think it be xxx $$
+^^ think it not xxx $$
 ^^ no $$
 ^^ it be not $$
 ^^ I take them off $$
@@ -598,17 +628,21 @@
 ^^ yes $$
 ^^ because we get some water in here $$
 ^^ yeah $$
+^^ xxx $$
 ^^ doll dress off $$
 ^^ off $$
+^^ xxx $$
 ^^ there you be doll $$
+^^ xxx $$
 ^^ oh $$
 ^^ okay $$
 ^^ do not you worry doll $$
 ^^ here be your clothes doll $$
+^^ um $$
 ^^ them $$
 ^^ and them $$
 ^^ and them $$
-^^  no $$
+^^ um no $$
 ^^ think I can do it $$
 ^^ go on her head $$
 ^^ think that be not $$
@@ -618,8 +652,9 @@
 ^^ and sit down $$
 ^^ here you be doll $$
 ^^ you have that one $$
-^^  and that one $$
-^^  wear it rain $$
+^^ and and that one $$
+^^ xxx $$
+^^ wear wear it rain $$
 ^^ split $$
 ^^ split $$
 ^^ doll do want some clothes on now $$
@@ -628,12 +663,14 @@
 ^^ and nappie $$
 ^^ and that one on $$
 ^^ that one on $$
+^^ xxx $$
 ^^ yes $$
 ^^ because it nappie $$
 ^^ yeah $$
 ^^ it clothes $$
 ^^ doll can not talk $$
 ^^ my doll can not $$
+^^ xxx $$
 ^^ bit of ribbon $$
 ^^ okay $$
 ^^ and that one tie $$
@@ -641,11 +678,11 @@
 ^^ and that one on $$
 ^^ and that one on $$
 ^^ oh $$
-^^ I think we  want that one $$
+^^ I think we xxx want that one $$
 ^^ mhm $$
-^^ that   on $$
-^^  we go out that rain $$
-^^  and doll want her pant on her now $$
+^^ that on on on $$
+^^ we we go out that rain $$
+^^ and and doll want her pant on her now $$
 ^^ hat $$
 ^^ hat on $$
 ^^ hat $$
@@ -653,8 +690,10 @@
 ^^ doll can sit down $$
 ^^ put your leg $$
 ^^ now $$
-^^ doll  can sit down $$
+^^ doll can can sit down $$
+^^ xxx $$
 ^^ put it on her now $$
+^^ xxx $$
 ^^ doll can not $$
 ^^ no $$
 ^^ you can play now doll $$
@@ -665,7 +704,7 @@
 ^^ helicopter again $$
 ^^ oh no $$
 ^^ can not put it down $$
-^^  that $$
+^^ um that $$
 ^^ that one down $$
 ^^ oh $$
 ^^ I can not $$
@@ -679,26 +718,29 @@
 ^^ I want it open $$
 ^^ yes $$
 ^^ open $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ so_that car can $$
 ^^ yes $$
 ^^ and train $$
 ^^ where my train $$
 ^^ train want to come in $$
 ^^ no $$
-^^  panda $$
+^^ xxx panda $$
 ^^ can not $$
 ^^ and pig drive it now $$
 ^^ panda want to drive it $$
 ^^ yes $$
 ^^ panda want to drive it $$
 ^^ it $$
+^^ xxx $$
 ^^ much too big $$
 ^^ much too big $$
 ^^ stop that noise $$
 ^^ that noise $$
 ^^ now $$
-^^ car  can not come past $$
+^^ car can can not come past $$
 ^^ think I want it $$
 ^^ think it want it open $$
 ^^ yeah $$
@@ -707,26 +749,27 @@
 ^^ it do not work $$
 ^^ no $$
 ^^ and that be on now $$
-^^  then can can not come through now $$
+^^ then then can can not come through now $$
 ^^ could not $$
 ^^ could not $$
-^^  because cat can come on there $$
+^^ because because cat can come on there $$
 ^^ yes $$
 ^^ cat be on now $$
 ^^ Nina $$
 ^^ do not break it $$
-^^ because  Nina  $$
+^^ because Nina Nina xxx $$
 ^^ get it now Nina $$
 ^^ oh no $$
 ^^ it be broke $$
 ^^ it be break again $$
 ^^ yeah $$
 ^^ car can $$
-^^   car $$
+^^ car car car $$
 ^^ look $$
 ^^ it can not come $$
 ^^ yeah $$
 ^^ make it big $$
+^^ xxx $$
 ^^ oh $$
 ^^ thank_you Caroline $$
 ^^ thank_you Caroline $$
@@ -738,35 +781,41 @@
 ^^ engine in $$
 ^^ I want fire $$
 ^^ come through $$
-^^  and my fire come through now $$
+^^ and and my fire come through now $$
 ^^ and that car go through $$
 ^^ yes $$
 ^^ what be that $$
+^^ xxx $$
 ^^ no $$
 ^^ I $$
 ^^ no $$
-^^  I think I will have two $$
+^^ I I think I will have two $$
 ^^ can I have two please $$
 ^^ think I have two $$
 ^^ have two $$
 ^^ oh $$
-^^  fire can not go through now $$
+^^ fire fire can not go through now $$
 ^^ what be that $$
 ^^ mhm $$
 ^^ no $$
 ^^ look $$
 ^^ mhm $$
-^^ pig  can not come through now $$
+^^ xxx $$
+^^ xxx $$
+^^ pig can't can not come through now $$
 ^^ I do $$
 ^^ no $$
 ^^ lamb can come through now $$
-^^ can not  $$
+^^ can not xxx $$
+^^ xxx $$
 ^^ do not know it be that one $$
 ^^ you do not know it be that one $$
 ^^ aubergine $$
 ^^ yum $$
 ^^ go go go go go go go go go $$
 ^^ go go go go go $$
+^^ xxx $$
+^^ xxx $$
 ^^ it can not hurt you $$
 ^^ ow $$
 ^^ ow $$
@@ -777,6 +826,7 @@
 ^^ yes $$
 ^^ because I want it $$
 ^^ because I do $$
+^^ xxx $$
 ^^ a big one $$
 ^^ whee $$
 ^^ oh $$
@@ -798,14 +848,15 @@
 ^^ oh $$
 ^^ now I get it $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ oh $$
-^^  it broke $$
+^^ it it broke $$
 ^^ oh $$
 ^^ look $$
 ^^ you not break it Nina $$
-^^  when it be in car $$
+^^ when when it be in car $$
 ^^ when be in boot $$
 ^^ no $$
 ^^ do not move a bite them away $$
@@ -819,7 +870,8 @@
 ^^ I sit in there $$
 ^^ oh $$
 ^^ oh $$
-^^  I be play $$
+^^ xxx $$
+^^ I I be play $$
 ^^ yes $$
 ^^ ahhah $$
 ^^ ahhah $$
@@ -833,6 +885,7 @@
 ^^ sorry Nina $$
 ^^ this one not $$
 ^^ say it could be $$
+^^ xxx $$
 ^^ a train $$
 ^^ yes $$
 ^^ oh $$
@@ -840,11 +893,12 @@
 ^^ look $$
 ^^ go go go go go go $$
 ^^ it not train now $$
-^^  break train $$
+^^ xxx break train $$
 ^^ whee $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
-^^ what  $$
+^^ what xxx $$
 ^^ no $$
 ^^ I got to still get in $$
 ^^ no no $$
@@ -857,11 +911,12 @@
 ^^ mhm $$
 ^^ here we go $$
 ^^ that one get out $$
+^^ xxx $$
 ^^ here you be sister $$
 ^^ I will get you some toy $$
 ^^ yeah $$
 ^^ there you be now $$
-^^ that  $$
+^^ that xxx $$
 ^^ yes $$
 ^^ no $$
 ^^ I take them out now $$
@@ -884,6 +939,7 @@
 ^^ we can $$
 ^^ just hit that bird $$
 ^^ yes $$
+^^ xxx $$
 ^^ ah $$
 ^^ that be nice $$
 ^^ oh $$
@@ -891,10 +947,12 @@
 ^^ oh $$
 ^^ oh $$
 ^^ bounce $$
+^^ xxx $$
 ^^ that one $$
 ^^ that $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ get down that one $$
 ^^ no Mum $$
@@ -907,29 +965,39 @@
 ^^ it be my favorite $$
 ^^ ah $$
 ^^ that $$
-^^ that not  $$
+^^ that not xxx $$
 ^^ yes $$
-^^  I be $$
+^^ I I be $$
 ^^ yes $$
 ^^ I be $$
+^^ xxx $$
 ^^ no no $$
 ^^ no $$
 ^^ you break it now $$
+^^ xxx $$
 ^^ I want another one $$
 ^^ I do $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Nina $$
 ^^ alright Nina $$
 ^^ alright $$
 ^^ give it to Nina $$
 ^^ oh $$
 ^^ alright Nina $$
-^^  Nina $$
+^^ xxx $$
+^^ xxx Nina $$
+^^ xxx $$
 ^^ there you go sweet $$
 ^^ no $$
-^^  she do not know that one $$
+^^ she she do not know that one $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ grrr $$
+^^ xxx $$
 ^^ mine $$
 ^^ mine $$
 ^^ play that minute $$
@@ -940,40 +1008,42 @@
 ^^ yes $$
 ^^ the paint $$
 ^^ that come outside do not it $$
-^^  play it outside and inside $$
+^^ um play it outside and inside $$
 ^^ yes $$
 ^^ think I play with it in stone $$
 ^^ do not like it $$
 ^^ smash $$
 ^^ mhm $$
 ^^ come and see it smash $$
-^^ think  $$
+^^ think xxx $$
 ^^ bus $$
 ^^ my bus $$
 ^^ my big bus smash $$
 ^^ yes $$
-^^   think it take that one outside $$
+^^ think I think it take that one outside $$
 ^^ that $$
-^^  and that one not smash $$
+^^ and and that one not smash $$
 ^^ think that one not broke $$
 ^^ think my bus break and smash $$
 ^^ because we get to get another one $$
+^^ xxx $$
 ^^ yeah $$
 ^^ push me like lorry and car $$
 ^^ choo $$
 ^^ there $$
 ^^ think that one there $$
 ^^ that one there $$
+^^ xxx $$
 ^^ it be $$
 ^^ that be my favorite toy $$
 ^^ yeah $$
 ^^ it be $$
 ^^ Nina get her teddy $$
 ^^ oh $$
-^^  fire $$
+^^ xxx fire $$
 ^^ nenaw $$
 ^^ I say nenaw like that $$
-^^  light on $$
+^^ xxx light on $$
 ^^ on $$
 ^^ that be $$
 ^^ it be $$
@@ -991,9 +1061,12 @@
 ^^ start off again $$
 ^^ lot and lot and lot $$
 ^^ and again $$
-^^  just have to play again $$
+^^ just just have to play again $$
+^^ xxx $$
 ^^ Nina play with this $$
+^^ xxx $$
 ^^ go go go go go go go go go $$
+^^ xxx $$
 ^^ keep it in there $$
 ^^ I want my new $$
 ^^ I do $$
@@ -1002,23 +1075,23 @@
 ^^ yeah $$
 ^^ think I be $$
 ^^ yeah $$
-^^  just $$
-^^  do not know $$
+^^ um just $$
+^^ um do not know $$
 ^^ think I be play $$
 ^^ yes $$
 ^^ with my train $$
-^^ think  $$
+^^ think um $$
 ^^ think I do not $$
 ^^ no $$
 ^^ no no $$
-^^ last night  one $$
+^^ last night one one $$
 ^^ last night no car program on $$
 ^^ yes $$
 ^^ that be Monday $$
 ^^ Daddy be sit on $$
-^^ because I be sit on Daddy  $$
+^^ because I be sit on Daddy xxx $$
 ^^ yes $$
-^^ I  $$
+^^ I xxx $$
 ^^ yes $$
 ^^ watch it last night $$
 ^^ last night $$
@@ -1031,9 +1104,10 @@
 ^^ I go and get Nina $$
 ^^ oh $$
 ^^ heavy $$
+^^ xxx $$
 ^^ she be alright $$
 ^^ I have that one now $$
-^^ Nina  $$
+^^ Nina xxx $$
 ^^ Nina be throw it $$
 ^^ vroom $$
 ^^ oh $$
@@ -1042,17 +1116,18 @@
 ^^ think that one crash $$
 ^^ that crash $$
 ^^ that be crash $$
+^^ xxx $$
 ^^ vroom $$
-^^  I want to play him $$
+^^ I I want to play him $$
 ^^ you have that $$
 ^^ vroom $$
 ^^ do not you dare $$
 ^^ my lion you $$
 ^^ it be mine $$
 ^^ it be mine $$
-^^  get it in my packet $$
+^^ um get it in my packet $$
 ^^ packet paper $$
-^^  downstairs $$
+^^ um downstairs $$
 ^^ that Mummy take it out $$
 ^^ yeah $$
 ^^ it be paper packet $$
@@ -1061,14 +1136,17 @@
 ^^ no $$
 ^^ it be play game $$
 ^^ grrr $$
-^^ that  $$
+^^ that xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ do not Nina $$
+^^ xxx $$
 ^^ yes $$
+^^ xxx $$
 ^^ yeah $$
 ^^ there you go Nina $$
 ^^ give it to Nina now $$
-^^  Postman_Pat $$
+^^ um Postman_Pat $$
 ^^ oh $$
 ^^ ow $$
 ^^ ow $$
@@ -1081,11 +1159,13 @@
 ^^ in there $$
 ^^ here it be $$
 ^^ ow $$
+^^ xxx $$
+^^ xxx $$
 ^^ these all_gone in garage $$
 ^^ in the garage $$
 ^^ bang $$
 ^^ yes $$
-^^   be aeroplane $$
+^^ um was be aeroplane $$
 ^^ it $$
 ^^ be me $$
 ^^ I know $$
@@ -1097,17 +1177,18 @@
 ^^ garage $$
 ^^ in minute $$
 ^^ here you go $$
+^^ xxx $$
 ^^ oh $$
 ^^ now $$
 ^^ that get $$
 ^^ and that one go home now $$
-^^  and that lorry go out $$
+^^ and and that lorry go out $$
 ^^ yes $$
-^^ and he go  out car now $$
-^^  and that one full $$
+^^ and he go out out car now $$
+^^ and and that one full $$
 ^^ yes $$
 ^^ and I keep that one $$
-^^ and I keep  this one in my room $$
+^^ and I keep um this one in my room $$
 ^^ and that one big one $$
 ^^ well $$
 ^^ it be not broke $$
@@ -1127,21 +1208,23 @@
 ^^ little $$
 ^^ yes $$
 ^^ yes $$
+^^ xxx $$
+^^ xxx $$
 ^^ now $$
 ^^ go go go go go go go go $$
 ^^ grrr $$
-^^  it can eat  their food $$
+^^ um it can eat them their food $$
 ^^ mhm $$
 ^^ I get some $$
 ^^ thank_you $$
 ^^ that be salad $$
 ^^ bit of chicken $$
-^^  there be some salad cheese $$
+^^ um there be some salad cheese $$
 ^^ and some potato $$
 ^^ and some fish $$
 ^^ yes $$
 ^^ I want $$
-^^   there be some carrot $$
+^^ there's some there be some carrot $$
 ^^ this $$
 ^^ here $$
 ^^ yes $$
@@ -1152,7 +1235,7 @@
 ^^ uhoh $$
 ^^ I be go down get it $$
 ^^ it be on floor $$
-^^  on kitchen side $$
+^^ on on kitchen side $$
 ^^ yes $$
 ^^ yeah $$
 ^^ no $$
@@ -1164,19 +1247,21 @@
 ^^ you can have that now $$
 ^^ no $$
 ^^ not with that $$
-^^  because  $$
-^^  take some  minute $$
-^^  but quite soon $$
+^^ xxx $$
+^^ xxx $$
+^^ because because xxx $$
+^^ take take some xxx minute $$
+^^ but but quite soon $$
 ^^ I like that one $$
-^^  Caroline $$
+^^ xxx Caroline $$
 ^^ I fix it $$
 ^^ yes $$
-^^  because it get a trailer on $$
+^^ because because it get a trailer on $$
 ^^ it be a bus $$
 ^^ see $$
 ^^ that one $$
 ^^ no $$
-^^ that one   do do it $$
+^^ that one does does do do it $$
 ^^ now $$
 ^^ I can do it fix $$
 ^^ oh $$
@@ -1188,10 +1273,12 @@
 ^^ with some salad on $$
 ^^ and some chicken nugget on $$
 ^^ yeah $$
+^^ xxx $$
 ^^ that be you $$
 ^^ jump $$
 ^^ jump $$
 ^^ jump $$
+^^ xxx $$
 ^^ choo $$
 ^^ yeah $$
 ^^ whee $$
@@ -1202,18 +1289,21 @@
 ^^ pizza $$
 ^^ yes $$
 ^^ I can $$
-^^  octopus $$
+^^ um octopus $$
 ^^ think I do $$
 ^^ oh $$
+^^ xxx $$
 ^^ bang $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ I lion $$
 ^^ grrr $$
 ^^ grrr $$
-^^ I come  $$
+^^ I come xxx $$
+^^ xxx $$
 ^^ grrr $$
 ^^ grrr $$
 ^^ yeah $$
@@ -1226,7 +1316,7 @@
 ^^ because I be hide $$
 ^^ look $$
 ^^ me hide $$
-^^  Dominic_Lastname hide $$
+^^ a Dominic_Lastname hide $$
 ^^ I come $$
 ^^ grrr $$
 ^^ yum $$
@@ -1236,12 +1326,16 @@
 ^^ away $$
 ^^ no away $$
 ^^ grrr $$
+^^ xxx $$
+^^ xxx $$
 ^^ we have lose that one on there $$
 ^^ in there $$
+^^ xxx $$
 ^^ want to see what be the name $$
-^^ and I not talk  about Thomas $$
+^^ and I not talk about about Thomas $$
 ^^ not talk about him $$
 ^^ not talk about him $$
+^^ xxx $$
 ^^ I be $$
 ^^ put it back up $$
 ^^ two $$
@@ -1268,11 +1362,13 @@
 ^^ go go go go go go go go go go go $$
 ^^ whee $$
 ^^ you go sleep $$
+^^ xxx $$
+^^ xxx $$
 ^^ dinosaur sit on teddy $$
 ^^ whee $$
 ^^ I get something for you $$
 ^^ whee $$
-^^  glue $$
+^^ um glue $$
 ^^ yes $$
 ^^ I get glue $$
 ^^ on my hand now $$
@@ -1281,16 +1377,19 @@
 ^^ you dirty now teddy $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ do not you dare Nina_Louise_Lastname $$
 ^^ not $$
 ^^ Nina take some off $$
 ^^ Nina take them off $$
 ^^ you be be nosy $$
 ^^ do not you dare $$
+^^ xxx $$
 ^^ do not you dare get Caroline bag $$
 ^^ you have that $$
 ^^ and this $$
 ^^ I get all your toy now Nina $$
+^^ a $$
 ^^ no $$
 ^^ because $$
 ^^ because she kick me $$
@@ -1322,13 +1421,14 @@
 ^^ that car go home $$
 ^^ Mummy $$
 ^^ what be that $$
+^^ xxx $$
 ^^ want to get trolley out that car $$
 ^^ yeah $$
 ^^ that trolley inside it $$
 ^^ yes $$
 ^^ there be $$
-^^ but decide it go out  $$
-^^  window $$
+^^ but decide it go out xxx $$
+^^ um window $$
 ^^ wheel $$
 ^^ one four five six seven $$
 ^^ vroom $$
@@ -1346,30 +1446,34 @@
 ^^ Fat_Controller $$
 ^^ Fat_Controller in window $$
 ^^ and Fat_Controller lose him hat $$
-^^  and $$
+^^ and and $$
 ^^ and Fat_Controller could not out $$
 ^^ Fat_Controller could not get out Henry coach $$
-^^  and Henry  like on track $$
+^^ and and Henry xxx like on track $$
 ^^ mhm $$
 ^^ because Henry will move little bit $$
 ^^ lot and lot and lot $$
 ^^ because Henry will not move $$
 ^^ yeah $$
 ^^ because Henry will not $$
-^^   and that one get  $$
-^^ and that one be out  $$
+^^ and that and that one get xxx $$
+^^ xxx $$
+^^ and that one be out xxx $$
 ^^ yes $$
 ^^ and it go home now $$
 ^^ go home see Daddy now $$
 ^^ that fire one $$
 ^^ that fire one go home to see Daddy $$
 ^^ that be it $$
+^^ xxx $$
 ^^ that be it $$
+^^ xxx $$
 ^^ go go go go go $$
 ^^ go go go go go $$
+^^ xxx $$
 ^^ twenty two $$
-^^  aeroplane $$
-^^  helicopter $$
+^^ xxx aeroplane $$
+^^ xxx helicopter $$
 ^^ twenty airborne $$
 ^^ airborne $$
 ^^ airborne $$
@@ -1377,9 +1481,11 @@
 ^^ oy oy $$
 ^^ airborne $$
 ^^ airborne $$
-^^  airborne $$
+^^ xxx airborne $$
 ^^ airborne $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ yes $$
 ^^ no $$
 ^^ go go go go go go go $$
@@ -1387,18 +1493,20 @@
 ^^ go go go go go go go go $$
 ^^ no $$
 ^^ go go go go go go go $$
-^^  I help you $$
+^^ I I help you $$
 ^^ now $$
 ^^ that be a fish $$
 ^^ there you go Mummy $$
+^^ xxx $$
 ^^ let me have that man $$
 ^^ this $$
 ^^ no $$
+^^ xxx $$
 ^^ a train that from $$
 ^^ oh no $$
-^^ Caroline  that train $$
+^^ Caroline xxx that train $$
 ^^ Caroline have that train $$
-^^  train $$
+^^ um train $$
 ^^ train $$
 ^^ bit on it train $$
 ^^ yeah $$
@@ -1406,16 +1514,18 @@
 ^^ Caroline do it $$
 ^^ yeah $$
 ^^ oh $$
-^^ we do not want that bite  off a train $$
-^^  not here $$
+^^ we do not want that bite of off a train $$
+^^ not not here $$
 ^^ make another one bridge $$
 ^^ bridge $$
 ^^ I think I want a bit of train $$
+^^ xxx $$
 ^^ me have that one $$
 ^^ Nina break the track $$
-^^  just $$
+^^ just just $$
 ^^ whee $$
 ^^ see $$
+^^ xxx $$
 ^^ have a train $$
 ^^ where be it have go $$
 ^^ oh $$
@@ -1423,6 +1533,7 @@
 ^^ oh $$
 ^^ there $$
 ^^ you just make a train for me please $$
+^^ xxx $$
 ^^ you make train for me $$
 ^^ please $$
 ^^ I can not make it before $$
@@ -1431,7 +1542,7 @@
 ^^ oh $$
 ^^ train have passenger $$
 ^^ oh $$
-^^ train   want passenger $$
+^^ train want some want passenger $$
 ^^ thank_you $$
 ^^ choo $$
 ^^ train $$
@@ -1440,6 +1551,7 @@
 ^^ look $$
 ^^ train $$
 ^^ look at train $$
+^^ xxx $$
 ^^ look $$
 ^^ it want some passenger $$
 ^^ look $$
@@ -1448,8 +1560,8 @@
 ^^ yeah $$
 ^^ here one $$
 ^^ choo $$
-^^  another little man $$
-^^ I want to come on  $$
+^^ another another little man $$
+^^ I want to come on xxx $$
 ^^ I not talk $$
 ^^ because I do not want to $$
 ^^ not a first $$
@@ -1465,9 +1577,9 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ I find it work $$
-^^   one man drive train $$
+^^ one man one man drive train $$
 ^^ yeah $$
-^^  and the lion passenger $$
+^^ and and the lion passenger $$
 ^^ no $$
 ^^ I do not want to $$
 ^^ I do not want to drive $$
@@ -1478,40 +1590,42 @@
 ^^ little farm $$
 ^^ look $$
 ^^ I build one there $$
-^^  in the train $$
+^^ xxx in the train $$
 ^^ they go on train $$
 ^^ they go on train $$
 ^^ they go on train $$
 ^^ the animal $$
 ^^ all animal $$
 ^^ have to build another train farm $$
-^^  because I be go farm $$
+^^ because because I be go farm $$
 ^^ yeah $$
 ^^ and that giraffe go in it $$
 ^^ look $$
-^^  toy $$
+^^ xxx toy $$
 ^^ because train $$
-^^  in this train $$
-^^   I need to have in that train $$
+^^ in in this train $$
+^^ I needta I need to have in that train $$
+^^ xxx $$
 ^^ oh no $$
-^^ do not  talk like Dominic $$
+^^ do not um talk like Dominic $$
 ^^ look $$
 ^^ it be Dominic $$
 ^^ Dominic $$
 ^^ because that one be Dominic $$
-^^ because  my Daddy $$
-^^ because  that one $$
-^^  that one be Mummy $$
+^^ because xxx my Daddy $$
+^^ because them that one $$
+^^ um that one be Mummy $$
 ^^ and I be Daddy $$
 ^^ and that one me $$
-^^  have not get Nina on there $$
-^^  just there Nina $$
+^^ um have not get Nina on there $$
+^^ just just there Nina $$
 ^^ oh $$
 ^^ there other one $$
-^^ other one  boy $$
+^^ other one um boy $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
-^^ I  can not see it $$
+^^ I can't can not see it $$
 ^^ because I can not see it little $$
 ^^ Nina leave behind $$
 ^^ that one Nina $$
@@ -1519,7 +1633,7 @@
 ^^ that one Nina $$
 ^^ and that one Daddy $$
 ^^ and Mummy leave behind $$
-^^  Mummy cry $$
+^^ Mummy Mummy cry $$
 ^^ look $$
 ^^ everybody be on train $$
 ^^ yes $$
@@ -1527,11 +1641,11 @@
 ^^ you be come on that one $$
 ^^ oh $$
 ^^ you $$
-^^  fall over $$
+^^ xxx fall over $$
 ^^ oh $$
 ^^ Mummy $$
 ^^ Mummy want this $$
-^^  you want that banana $$
+^^ um you want that banana $$
 ^^ banana on train now $$
 ^^ no $$
 ^^ do not do that to me that train $$
@@ -1539,17 +1653,19 @@
 ^^ choo $$
 ^^ there be giraffe $$
 ^^ no $$
-^^  because  I a little one $$
+^^ because because I I a little one $$
 ^^ yeah $$
-^^  when that train up there $$
-^^  when I do not like train $$
+^^ when when that train up there $$
+^^ xxx $$
+^^ when when I do not like train $$
 ^^ I do not $$
 ^^ but I do $$
 ^^ yes $$
 ^^ Nana $$
 ^^ oh $$
 ^^ it do not fit $$
-^^  but them train  $$
+^^ xxx $$
+^^ but but them train xxx $$
 ^^ I not go to $$
 ^^ look $$
 ^^ the passenger in there $$
@@ -1566,10 +1682,13 @@
 ^^ and I do it now $$
 ^^ just pig $$
 ^^ mhm $$
+^^ xxx $$
 ^^ go go go go go go $$
 ^^ go go go go go go go $$
 ^^ mhm $$
 ^^ choo $$
+^^ xxx $$
+^^ xxx $$
 ^^ look $$
 ^^ look what I have get $$
 ^^ I have get Postman_Pat $$
@@ -1579,69 +1698,75 @@
 ^^ and train get some ice $$
 ^^ yes $$
 ^^ and a dolphin $$
-^^ and it dolphin  on drive $$
+^^ and it dolphin on on drive $$
 ^^ dolphin $$
-^^  say Duke $$
-^^  say I have not get a Duke $$
+^^ say say Duke $$
+^^ say say I have not get a Duke $$
 ^^ because you have not $$
-^^  because you buy me that one $$
+^^ because because you buy me that one $$
 ^^ that Mummy $$
 ^^ Duke get some passenger $$
+^^ xxx $$
 ^^ oh dear Duke $$
 ^^ yes $$
 ^^ oh $$
 ^^ Duke have passenger like that $$
 ^^ so it $$
 ^^ so $$
-^^ Duke do not like  penguin $$
-^^ think  Duke take  one these brick $$
+^^ Duke do not like um penguin $$
+^^ think Duke Duke take one one these brick $$
 ^^ oh dear $$
 ^^ I break your passenger Duke $$
 ^^ I can fix them $$
 ^^ oh $$
 ^^ I get $$
-^^  fix them Duke $$
+^^ xxx fix them Duke $$
 ^^ get them wrong way Duke $$
 ^^ oh $$
 ^^ and it get some passenger on now $$
 ^^ choo $$
 ^^ Duke make that choo noise $$
 ^^ yes $$
-^^ Duke get nothing   on it $$
-^^ Duke  $$
+^^ Duke get nothing xxx on on it $$
+^^ Duke xxx $$
 ^^ because it be Duke $$
-^^  Duke $$
+^^ xxx Duke $$
 ^^ and where be the other Duke $$
 ^^ more Duke like that one $$
 ^^ yes $$
 ^^ thank_you Caroline $$
-^^ Duke   on there $$
+^^ Duke xxx on on there $$
 ^^ oh $$
 ^^ it Duke $$
 ^^ oh $$
 ^^ I drop $$
 ^^ I just break some passenger now $$
-^^ think I lose  some $$
+^^ think I lose some some $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ go go go go go go go go $$
 ^^ thank_you Caroline $$
 ^^ I want to play that $$
 ^^ I want to play that Duke $$
 ^^ no $$
 ^^ do not you dare $$
-^^  because I want to play with them $$
+^^ because because I want to play with them $$
 ^^ but I be play that Duke $$
 ^^ put everything away $$
 ^^ because I play Duke $$
 ^^ go go go go go go $$
-^^  you hit James now $$
-^^  James now $$
+^^ um you hit James now $$
+^^ xxx James now $$
+^^ xxx $$
 ^^ Duke be do not want play any more $$
+^^ xxx $$
 ^^ because I play Duke $$
-^^  because I be play train $$
+^^ because because I be play train $$
 ^^ because I play train $$
-^^ because you do not put train  in here $$
+^^ because you do not put train in in here $$
 ^^ no $$
+^^ xxx $$
 ^^ look $$
 ^^ no $$
 ^^ no $$
@@ -1651,18 +1776,23 @@
 ^^ because I want that train $$
 ^^ because I want that train $$
 ^^ ah $$
+^^ xxx $$
 ^^ I want that train $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ give it to her now $$
 ^^ alright now $$
-^^ you  want some chip $$
-^^  think Caroline bring some string $$
+^^ you want want some chip $$
+^^ think think Caroline bring some string $$
 ^^ I have bring some $$
 ^^ can not see $$
 ^^ that one be a fish $$
-^^   and them dolphin $$
-^^ and that be a  $$
+^^ and that and them dolphin $$
+^^ and that be a um $$
+^^ xxx $$
 ^^ another eye there $$
 ^^ one two $$
 ^^ a very good boy $$
@@ -1674,13 +1804,14 @@
 ^^ you can have my train $$
 ^^ do not you dare break train $$
 ^^ that one be red $$
-^^  because Nina do not want it $$
+^^ because because Nina do not want it $$
 ^^ no $$
+^^ xxx $$
 ^^ Mummy play my $$
 ^^ no $$
 ^^ I be play that train $$
 ^^ but I be not go to now $$
-^^   not allow $$
+^^ not allowed not allow $$
 ^^ put them away $$
 ^^ because I be play one these $$
 ^^ yes $$
@@ -1696,16 +1827,18 @@
 ^^ I do not know which be Santa $$
 ^^ think I nosy $$
 ^^ that be Santa $$
-^^  but Santa  make that noise $$
-^^ because Santa  do not need say that noise out window $$
+^^ but but Santa a make that noise $$
+^^ xxx $$
+^^ because Santa don't do not need say that noise out window $$
 ^^ Santa will make that noise out that rain $$
 ^^ because it be rain $$
 ^^ because it be rain $$
 ^^ yeah $$
 ^^ yeah $$
-^^ and  cold $$
+^^ and xxx cold $$
+^^ xxx $$
 ^^ sure Santa will not go out cold $$
-^^  that window $$
+^^ xxx that window $$
 ^^ get sun now $$
 ^^ because $$
 ^^ go away sun $$
@@ -1714,12 +1847,12 @@
 ^^ go go go go go $$
 ^^ that be the box over there $$
 ^^ because you not come in that box sun $$
-^^ you  sun $$
+^^ you xxx sun $$
 ^^ there you go $$
 ^^ oh $$
 ^^ that one chicken now $$
 ^^ yeah $$
-^^  know what that chicken be  do out that window  $$
+^^ that know what that chicken be do do out that window xxx $$
 ^^ oh $$
 ^^ yes $$
 ^^ I can see it $$
@@ -1728,16 +1861,19 @@
 ^^ think it do a fox $$
 ^^ yeah $$
 ^^ think it not Roxy $$
-^^ because Roxy  make  this noise $$
+^^ because Roxy make make xxx this noise $$
+^^ xxx $$
 ^^ go go go go go go go $$
 ^^ oh $$
 ^^ right $$
-^^  it be $$
+^^ it's it be $$
 ^^ because it not Roxy $$
 ^^ it other dog $$
-^^ Roxy  $$
-^^  Roxy  $$
-^^ I see what be  $$
+^^ Roxy xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx Roxy xxx $$
+^^ I see what be xxx $$
 ^^ I see what be dog be do $$
 ^^ oh $$
 ^^ oh $$
@@ -1745,6 +1881,7 @@
 ^^ oh $$
 ^^ oh $$
 ^^ put it on now $$
+^^ xxx $$
 ^^ think I want it $$
 ^^ want wipe that $$
 ^^ no $$
@@ -1762,6 +1899,7 @@
 ^^ and that Caroline be $$
 ^^ oh $$
 ^^ that come $$
+^^ xxx $$
 ^^ and that Caroline toy $$
 ^^ and that Caroline toy $$
 ^^ not go to play that now $$
@@ -1771,61 +1909,65 @@
 ^^ that one do a blue one $$
 ^^ oh $$
 ^^ that one be a blue one $$
+^^ xxx $$
 ^^ that one be a eye on it there $$
 ^^ there $$
 ^^ this elephant $$
 ^^ yeah $$
 ^^ not talk about you Mummy $$
 ^^ talk about $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
-^^  put mine car in my lorry $$
-^^  one $$
+^^ um put mine car in my lorry $$
+^^ um one $$
 ^^ two $$
-^^  red $$
+^^ um red $$
 ^^ think them red $$
-^^  think white one call white $$
-^^  and other one red $$
-^^  think I have  their button $$
+^^ um think white one call white $$
+^^ and and other one red $$
+^^ um think I have them their button $$
 ^^ chocolate button $$
 ^^ yeah $$
 ^^ yeah $$
-^^ we all have button  $$
-^^ and I have  $$
+^^ we all have button xxx $$
+^^ and I have xxx $$
 ^^ yeah $$
-^^  watch Holiday $$
-^^ and my Daddy go  out $$
+^^ um watch Holiday $$
+^^ and my Daddy go out out $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ no $$
 ^^ I watch Holiday downstairs when Nana be here $$
-^^ and  Nana watch news $$
+^^ and I Nana watch news $$
 ^^ and I want six minute $$
 ^^ then go to bed $$
 ^^ yeah $$
 ^^ yeah $$
-^^  because I be not $$
-^^   because  $$
-^^ because  $$
-^^ because  make me awake $$
-^^  make me go to  like Daddy be asleep $$
-^^  like everyone $$
+^^ because because I be not $$
+^^ because because because xxx $$
+^^ because xxx $$
+^^ because make make me awake $$
+^^ make make me go to like like Daddy be asleep $$
+^^ like like everyone $$
 ^^ like $$
-^^   like I go to sleep $$
-^^ not go down and make some noise   because  light  be off $$
+^^ like like like I go to sleep $$
+^^ not go down and make some noise because because because xxx light was be off $$
 ^^ Nana light be off in my room $$
 ^^ yeah $$
-^^  because there be no more car come $$
+^^ because because there be no more car come $$
 ^^ no $$
-^^  because there be crash $$
+^^ because because there be crash $$
 ^^ yeah $$
 ^^ because $$
-^^ because  $$
-^^  because there be not  no leave $$
-^^  because we have to get some more $$
-^^   because them were brokened glass $$
+^^ because xxx $$
+^^ because because there be not no no leave $$
+^^ because because we have to get some more $$
+^^ because it because them were brokened glass $$
 ^^ yeah $$
 ^^ because break glass like car in it $$
+^^ like xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ I can not get through that tunnel $$
@@ -1834,39 +1976,43 @@
 ^^ but I do not watch a video when I downstairs when it be start $$
 ^^ no $$
 ^^ we not have Jungle_Book $$
+^^ xxx $$
+^^ xxx $$
 ^^ look $$
 ^^ I do $$
-^^  Holiday $$
-^^ I  think I do not know $$
+^^ um Holiday $$
+^^ I think think I do not know $$
 ^^ and I do not know either $$
 ^^ but I do not know $$
-^^   car can not  get in the door tunnel $$
+^^ um um car can not get get in the door tunnel $$
 ^^ do not $$
-^^  when I  can not go outside $$
+^^ when when I can't can not go outside $$
 ^^ red one can not go $$
 ^^ red one can not go $$
 ^^ red one can not $$
+^^ xxx $$
 ^^ red one can not go $$
+^^ xxx $$
 ^^ red one can not go $$
 ^^ that one do not work $$
-^^   because one crash  in it $$
+^^ because one because one crash in in it $$
 ^^ and will not get stick $$
 ^^ yeah $$
 ^^ because I can not get it out $$
 ^^ because my finger too small $$
-^^   because one too small $$
-^^  because blue $$
-^^  and blue $$
+^^ because because because one too small $$
+^^ because because blue $$
+^^ and and blue $$
 ^^ oh no $$
 ^^ no $$
 ^^ down Frank $$
 ^^ try to speak to Caroline and Mummy $$
-^^    because house can not get into it $$
+^^ because because that because house can not get into it $$
 ^^ yeah $$
-^^  because it can not get   to that tunnel $$
-^^   that one can not go for it $$
-^^  that one do not work $$
-^^  and one $$
+^^ because because it can not get to that to that tunnel $$
+^^ that one that one can not go for it $$
+^^ um that one do not work $$
+^^ and and one $$
 ^^ and car do not work in that tunnel $$
 ^^ oh yes $$
 ^^ right one $$
@@ -1874,51 +2020,55 @@
 ^^ this right one $$
 ^^ and that one $$
 ^^ look $$
-^^  which it do not work $$
-^^  which it do not work $$
-^^ like it do not  to it down $$
-^^ because it  do not work  $$
+^^ which which it do not work $$
+^^ which which it do not work $$
+^^ like it do not to to it down $$
+^^ because it doesn't do not work xxx $$
 ^^ that one do not do that $$
 ^^ oh $$
 ^^ oh $$
 ^^ I do not $$
-^^  tunnel $$
+^^ xxx tunnel $$
 ^^ that one do not work $$
-^^   one them do not $$
+^^ xxx $$
+^^ one them one them do not $$
 ^^ one them do not work in that tunnel $$
 ^^ one them $$
 ^^ that one do not work in that tunnel $$
 ^^ that one do not work $$
 ^^ that one do not work $$
 ^^ that one do not work in there $$
+^^ xxx $$
 ^^ I like that one $$
 ^^ I like it $$
 ^^ oh yes $$
 ^^ oh $$
 ^^ oh $$
 ^^ like that $$
-^^ I rub it  like it can not get in that tunnel $$
+^^ I rub it like like it can not get in that tunnel $$
 ^^ can not get in $$
 ^^ car can not get in that tunnel $$
 ^^ because car will fit in there $$
-^^ because car  can not go in that one $$
+^^ because car can't can not go in that one $$
 ^^ because it can not two horse $$
-^^ because  come out $$
+^^ because xxx come out $$
 ^^ because $$
-^^  because it  could not get two in there $$
+^^ because because it couldn't could not get two in there $$
 ^^ because it could not and could not and could not $$
 ^^ get through there $$
 ^^ because $$
 ^^ can not get to that red one $$
 ^^ and it be can not get it to it $$
-^^   so it can not fly $$
+^^ so it so it can not fly $$
 ^^ so it can not work $$
 ^^ because two it $$
 ^^ so it can not work in there $$
 ^^ so it $$
+^^ xxx $$
+^^ xxx $$
 ^^ because it do not work $$
-^^   because it can not go in there $$
-^^  because that car  can not $$
+^^ because it because it can not go in there $$
+^^ because because that car can't can not $$
 ^^ can not go in that tunnel $$
 ^^ because $$
 ^^ alright then $$
@@ -1927,11 +2077,12 @@
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ get off $$
-^^  that car could not $$
+^^ what that car could not $$
 ^^ that car do not work in tunnel $$
 ^^ no $$
-^^ not  $$
+^^ not xxx $$
 ^^ talk about toy car $$
+^^ xxx $$
 ^^ want to listen to toy car $$
 ^^ yeah $$
 ^^ break it door $$
@@ -1940,13 +2091,18 @@
 ^^ oh $$
 ^^ mine $$
 ^^ sure it be be mine $$
-^^  Daddy and Mummy $$
+^^ a Daddy and Mummy $$
 ^^ oh $$
 ^^ Grandad buy it $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh no $$
+^^ xxx $$
 ^^ listen proper $$
+^^ xxx $$
 ^^ that hurt now $$
+^^ xxx $$
 ^^ ticktock $$
 ^^ here you go Nina $$
 ^^ there you go Nina $$
@@ -1958,13 +2114,16 @@
 ^^ it do make noise there $$
 ^^ because I want make it go noise $$
 ^^ here you go Nina $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
-^^  that be favorite fire $$
+^^ that that be favorite fire $$
 ^^ vroom $$
 ^^ vroom $$
 ^^ in minute $$
 ^^ there you go you $$
-^^  put petrol in there $$
+^^ putting put petrol in there $$
 ^^ yes $$
 ^^ I do $$
 ^^ do $$
@@ -1975,22 +2134,26 @@
 ^^ there you be Nina $$
 ^^ there you go Nina $$
 ^^ Mummy $$
-^^  it be Nina $$
-^^  Nina $$
+^^ um it be Nina $$
+^^ xxx $$
+^^ xxx Nina $$
 ^^ Mummy name be Nina $$
 ^^ Nina_Louise_Lastname $$
-^^  Mabel_Lastname $$
+^^ um Mabel_Lastname $$
+^^ um xxx $$
 ^^ I be two $$
 ^^ two $$
 ^^ two $$
 ^^ two $$
 ^^ vroom $$
 ^^ uhoh $$
-^^  nothing $$
+^^ xxx $$
+^^ um nothing $$
 ^^ teddy $$
 ^^ tickle $$
 ^^ bang $$
 ^^ tickle $$
+^^ xxx $$
 ^^ uhoh $$
 ^^ no $$
 ^^ no $$
@@ -1999,12 +2162,14 @@
 ^^ yes $$
 ^^ no $$
 ^^ I have that $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ look $$
 ^^ I go get some more car $$
 ^^ yes $$
-^^ I go and get  another one blue car $$
-^^  because I want to play with it $$
+^^ I go and get that another one blue car $$
+^^ because because I want to play with it $$
 ^^ oh $$
 ^^ I can see them $$
 ^^ oh $$
@@ -2017,6 +2182,8 @@
 ^^ vroom $$
 ^^ oh $$
 ^^ get my car back $$
+^^ xxx $$
+^^ xxx $$
 ^^ give it to her $$
 ^^ Caroline have not get it $$
 ^^ look $$
@@ -2024,21 +2191,27 @@
 ^^ there you go Nina $$
 ^^ just $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ nenaw $$
 ^^ nenaw $$
 ^^ nenaw $$
 ^^ some car $$
 ^^ car hoot $$
 ^^ sorry Nina $$
+^^ xxx $$
 ^^ Nina suck it $$
-^^   this one special $$
+^^ this one this one special $$
+^^ xxx $$
 ^^ there you go Nina $$
 ^^ and Santa come now $$
 ^^ Santa come now because I be a good boy $$
 ^^ yes $$
 ^^ oh $$
 ^^ Nina want $$
-^^  think she want that $$
+^^ um think she want that $$
 ^^ think Nina want that $$
 ^^ there you go $$
 ^^ it be too late now $$
@@ -2046,76 +2219,92 @@
 ^^ Nina get it $$
 ^^ there you go $$
 ^^ there you go $$
+^^ xxx $$
+^^ xxx $$
 ^^ my darling $$
+^^ xxx $$
 ^^ that car get wash $$
 ^^ I wash $$
 ^^ look $$
 ^^ it hide now $$
 ^^ yeah $$
 ^^ do not know $$
+^^ xxx $$
+^^ xxx $$
 ^^ choo $$
+^^ xxx $$
 ^^ oh God $$
 ^^ ticktock $$
 ^^ oh $$
-^^ Pooh_Bear be  in there $$
+^^ Pooh_Bear be in in there $$
 ^^ yes $$
 ^^ look $$
-^^ he be in there   to $$
+^^ he be in there to to to $$
 ^^ oh $$
 ^^ to it $$
 ^^ oh $$
 ^^ Nina sick $$
+^^ xxx $$
 ^^ baby have food $$
 ^^ there you go Nina $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ look $$
 ^^ it do not work $$
 ^^ look $$
+^^ xxx $$
+^^ xxx $$
 ^^ get them $$
 ^^ look $$
-^^  fit on there now $$
+^^ xxx fit on there now $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ Daddy go to work $$
 ^^ go out $$
 ^^ yeah $$
 ^^ go to Nana $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ because I get to put stick in my mouth $$
 ^^ yeah $$
 ^^ because it be dangerous $$
 ^^ do not get dirty hand $$
 ^^ yeah $$
-^^  and I have that lollipop $$
+^^ and and I have that lollipop $$
 ^^ and I have it because I be a good boy $$
+^^ xxx $$
 ^^ think I have a splinter $$
 ^^ because I be $$
 ^^ because I do not like splinter $$
-^^  but splinter not very nice $$
+^^ but but splinter not very nice $$
 ^^ mhm $$
-^^ because  $$
-^^  because splinter not very nice $$
+^^ because xxx $$
+^^ because because splinter not very nice $$
 ^^ it be that one $$
 ^^ because I have a splinter $$
+^^ xxx $$
 ^^ and I have a lollipop $$
-^^   go down to shed $$
+^^ went went go down to shed $$
 ^^ yeah $$
-^^ and I  splinter $$
+^^ and I xxx splinter $$
 ^^ yeah $$
 ^^ and it be $$
 ^^ Mummy get to take it out $$
-^^   when I do not like it $$
+^^ when I when I do not like it $$
 ^^ when I not very nice $$
 ^^ think it be hurt $$
-^^  and I be very cross $$
+^^ and and I be very cross $$
 ^^ yeah $$
-^^  because I be very cross $$
-^^  but I do not like it $$
-^^   because  splinter not very nice $$
-^^  but I do not like it $$
+^^ because because I be very cross $$
+^^ because but I do not like it $$
+^^ because it because it splinter not very nice $$
+^^ but but I do not like it $$
 ^^ because I do not like Grandma $$
 ^^ do not like $$
+^^ xxx $$
 ^^ because I do not put them in my mouth $$
 ^^ but $$
 ^^ I do not know $$
@@ -2123,36 +2312,40 @@
 ^^ because I do not $$
 ^^ I do not know $$
 ^^ and I do not know $$
-^^   tell you it be not a dog $$
+^^ xxx $$
+^^ told you tell you it be not a dog $$
 ^^ yeah $$
 ^^ because it get some wet $$
-^^  because I want to feel it my finger $$
+^^ because because I want to feel it my finger $$
 ^^ want to $$
-^^ because it  $$
+^^ because it xxx $$
 ^^ because it wet $$
 ^^ get them toy out Caroline car $$
+^^ xxx $$
 ^^ yeah $$
-^^  because we go to play with them $$
+^^ because because we go to play with them $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ because Caroline go and get them $$
 ^^ yeah $$
 ^^ yes $$
 ^^ and bad boy get send to bed $$
-^^  and only good boy get what want $$
-^^  bad boy $$
+^^ and and only good boy get what want $$
+^^ bad bad boy $$
 ^^ because think I want Caroline toy to play with $$
-^^  because I want to put my car away $$
-^^   Caroline get some  $$
+^^ because because I want to put my car away $$
+^^ um Caroline Caroline get some xxx $$
+^^ xxx $$
 ^^ it be get that one $$
 ^^ mhm $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
-^^  a tomato $$
+^^ um a tomato $$
 ^^ tomato $$
 ^^ oh $$
 ^^ I do not remember $$
-^^ you have  that one $$
+^^ you have um that one $$
 ^^ and you have that one Mummy $$
 ^^ mhm $$
 ^^ mhm $$
@@ -2161,9 +2354,10 @@
 ^^ mhm $$
 ^^ another one egg $$
 ^^ another one egg box $$
+^^ xxx $$
 ^^ one two three $$
 ^^ eight $$
-^^ four be  that one $$
+^^ four be xxx that one $$
 ^^ I can not remember $$
 ^^ oh $$
 ^^ eat it $$
@@ -2174,14 +2368,16 @@
 ^^ I build something $$
 ^^ oh $$
 ^^ I sit here $$
+^^ xxx $$
 ^^ I be go to eat it $$
 ^^ yeah $$
-^^  build a tower $$
+^^ um build a tower $$
 ^^ go go go go go go $$
 ^^ go go go go go go go $$
-^^  birth bridge $$
+^^ xxx birth bridge $$
 ^^ I build it $$
 ^^ build Dominic fire bridge $$
+^^ xxx $$
 ^^ oh $$
 ^^ I not building now $$
 ^^ and I not bother $$
@@ -2193,7 +2389,7 @@
 ^^ Caroline get it $$
 ^^ mhm $$
 ^^ Caroline get it $$
-^^  think it fall over $$
+^^ think think it fall over $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ because I too young $$
@@ -2205,23 +2401,27 @@
 ^^ what $$
 ^^ oh $$
 ^^ Nina $$
-^^  they be Caroline grape $$
+^^ xxx $$
+^^ um they be Caroline grape $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
 ^^ do not $$
 ^^ do not you dare $$
 ^^ elephant do not fit on there $$
+^^ xxx $$
 ^^ not go to now $$
 ^^ because it do not $$
 ^^ do not come back $$
+^^ xxx $$
 ^^ yeah $$
 ^^ fall down $$
-^^ do not you dare  put it on $$
+^^ do not you dare xxx put it on $$
 ^^ do not you dare put $$
 ^^ do not do that $$
 ^^ oh $$
 ^^ and I do not want to $$
+^^ xxx $$
 ^^ there look $$
 ^^ you put that down $$
 ^^ nice little house $$
@@ -2235,7 +2435,7 @@
 ^^ two animal $$
 ^^ other one cow $$
 ^^ moo $$
-^^ one  $$
+^^ one xxx $$
 ^^ another one cow $$
 ^^ look $$
 ^^ cow on grass $$
@@ -2250,7 +2450,7 @@
 ^^ ow $$
 ^^ that mine $$
 ^^ that tower do that $$
-^^  do that $$
+^^ um do that $$
 ^^ oh $$
 ^^ grrr $$
 ^^ go go go go go go go $$
@@ -2259,54 +2459,66 @@
 ^^ fight $$
 ^^ no $$
 ^^ do not do that $$
+^^ xxx $$
 ^^ grrr $$
 ^^ grrrr $$
 ^^ yum $$
 ^^ you have that lion $$
+^^ xxx $$
 ^^ bad boy $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ get more $$
 ^^ do like that on $$
 ^^ yes $$
 ^^ I be $$
+^^ xxx $$
 ^^ no $$
 ^^ I not $$
+^^ xxx $$
 ^^ a dolphin $$
 ^^ on that $$
-^^  pink and white $$
+^^ pink pink and white $$
+^^ xxx $$
 ^^ oh $$
 ^^ I think I do not know $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ what be $$
 ^^ that be go on $$
+^^ xxx $$
 ^^ that be a tick $$
 ^^ ow $$
 ^^ I want dog $$
 ^^ I want dog and $$
-^^ and I need to  $$
+^^ and I need to xxx $$
 ^^ dingdong $$
 ^^ look $$
 ^^ penguin $$
+^^ xxx $$
 ^^ there another one dolphin $$
 ^^ there $$
-^^  that one splash in water $$
+^^ um that one splash in water $$
 ^^ yes $$
 ^^ I like your dolphin $$
 ^^ I like your dolphin $$
 ^^ two dolphin $$
-^^  think that one dolphin $$
+^^ um think that one dolphin $$
 ^^ pour them out $$
 ^^ food $$
 ^^ call spaghetti $$
+^^ xxx $$
 ^^ orange $$
-^^  a  $$
+^^ um a xxx $$
 ^^ passenger $$
 ^^ hot hot hot $$
 ^^ one $$
 ^^ pineapple $$
 ^^ I do eat pineapple $$
-^^  I do eat pineapple $$
+^^ I I do eat pineapple $$
+^^ xxx $$
 ^^ two orange $$
 ^^ yes $$
 ^^ there you go Nina $$
@@ -2318,14 +2530,15 @@
 ^^ one two three four $$
 ^^ one two $$
 ^^ oh $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ I being hit by you $$
 ^^ one $$
 ^^ get strawberry $$
 ^^ one two three four five six seven $$
 ^^ one two three four five $$
 ^^ mhm $$
-^^ and that not  $$
+^^ xxx $$
+^^ and that not xxx $$
 ^^ one two three four five six seven $$
 ^^ oh $$
 ^^ there $$
@@ -2335,32 +2548,37 @@
 ^^ sit $$
 ^^ think I want a bridge $$
 ^^ build on floor $$
-^^ I want to  $$
+^^ I want to xxx $$
 ^^ yeah $$
 ^^ want build a bridge Caroline $$
 ^^ build a bridge where train can go through $$
 ^^ I do not want to now $$
+^^ xxx $$
 ^^ here you go $$
 ^^ there you go Caroline $$
 ^^ oh $$
 ^^ okey_dokey then $$
 ^^ there you go $$
 ^^ that big one $$
-^^ and  $$
+^^ and xxx $$
 ^^ and you get $$
 ^^ I get some more brick Mummy $$
 ^^ and here $$
 ^^ here $$
-^^ nice  bridge $$
+^^ nice xxx bridge $$
 ^^ that be a nice one $$
 ^^ I help you $$
 ^^ I be $$
 ^^ thank_you Caroline $$
 ^^ thank_you $$
+^^ xxx $$
+^^ xxx $$
 ^^ do not you dare $$
+^^ xxx $$
 ^^ no $$
-^^  put it right here $$
+^^ put put it right here $$
 ^^ there $$
+^^ xxx $$
 ^^ look there $$
 ^^ sit on it $$
 ^^ that one $$
@@ -2368,8 +2586,10 @@
 ^^ there $$
 ^^ I do it $$
 ^^ I do it $$
-^^ just  here $$
+^^ xxx $$
+^^ just xxx here $$
 ^^ oh $$
+^^ xxx $$
 ^^ it be break $$
 ^^ let car come through $$
 ^^ let car come through $$
@@ -2382,44 +2602,48 @@
 ^^ do not know $$
 ^^ mhm $$
 ^^ thank_you $$
-^^  it be monkey banana $$
+^^ it's it be monkey banana $$
 ^^ I do not want monkey banana $$
 ^^ because I do not like banana $$
 ^^ because I do not like banana $$
+^^ xxx $$
+^^ xxx $$
 ^^ go away $$
 ^^ go away $$
 ^^ seesaw $$
 ^^ that dinner $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh no $$
 ^^ not go to now $$
 ^^ oh $$
 ^^ choo $$
 ^^ oh $$
 ^^ oh $$
-^^ Gordon   need a drink $$
+^^ Gordon need a need a drink $$
 ^^ because Gordon pull them truck and coach $$
 ^^ and he want a drink $$
 ^^ Edward get a drink now $$
-^^  it be Edward $$
+^^ um it be Edward $$
 ^^ yes $$
 ^^ Gordon pull coach and truck $$
-^^  because it be not very nice $$
+^^ because because it be not very nice $$
 ^^ do not pinch Mummy $$
 ^^ do not pinch $$
 ^^ Mummy $$
 ^^ do not pinch mine Edward $$
 ^^ because Edward want a drink $$
-^^  Edward want a drink $$
+^^ Edward Edward want a drink $$
 ^^ oh no $$
-^^  because  $$
-^^ Edward  $$
-^^  for Gordon $$
+^^ because because xxx $$
+^^ Edward xxx $$
+^^ xxx $$
+^^ xxx for Gordon $$
 ^^ no $$
 ^^ do not $$
 ^^ no $$
 ^^ do not help me $$
-^^ but Edward  $$
+^^ but Edward xxx $$
 ^^ and it be Edward $$
 ^^ no $$
 ^^ not $$

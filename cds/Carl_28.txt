@@ -24,7 +24,7 @@
 ^^ oh they be read the hungry caterpillar be they $$
 ^^ that be a good story be not it that one $$
 ^^ what be happen in that picture $$
-^^    what be he do $$
+^^ what's that man what be he do $$
 ^^ he be paint $$
 ^^ that be right $$
 ^^ t $$
@@ -43,7 +43,7 @@
 ^^ clever boy $$
 ^^ that be a tiny little baby be not it $$
 ^^ be it be tickle $$
-^^   no that be the Mummy $$
+^^ that's the no that be the Mummy $$
 ^^ not the Granny $$
 ^^ that be that baby be Mummy $$
 ^^ and that little boy Mummy $$
@@ -54,7 +54,7 @@
 ^^ the balloon stick up there be not it $$
 ^^ we will have to get it down $$
 ^^ what be happen there $$
-^^  what be Daddy do $$
+^^ what's what be Daddy do $$
 ^^ look $$
 ^^ what be Daddy do there $$
 ^^ he look tire do not he $$
@@ -66,6 +66,7 @@
 ^^ be not he $$
 ^^ he be sit on his pot look $$
 ^^ and what be we do there $$
+^^ mm $$
 ^^ what be we have $$
 ^^ what be we have to eat $$
 ^^ and milk $$
@@ -74,14 +75,14 @@
 ^^ lollipop do go in your mouth yeah $$
 ^^ that be right $$
 ^^ look $$
-^^ that little boy get  a train $$
+^^ that little boy get some a train $$
 ^^ it be not the baby train no $$
 ^^ it be that little boy $$
 ^^ bath time $$
 ^^ that be it $$
 ^^ dry the baby $$
 ^^ play bath time $$
-^^ now this say    which belong to baby $$
+^^ now this say who do the which belong to baby $$
 ^^ whose be the baby $$
 ^^ well what be Daddy $$
 ^^ I can see something that be Daddy $$
@@ -147,10 +148,10 @@
 ^^ that be right $$
 ^^ they be blow bubble $$
 ^^ mhm $$
-^^ and   what be that little boy do $$
+^^ and what's that what be that little boy do $$
 ^^ you want to try and do it $$
-^^ we have not get any  bubble $$
-^^ we need  a little wand to make bubble $$
+^^ we have not get any er bubble $$
+^^ we need some a little wand to make bubble $$
 ^^ have to buy some $$
 ^^ go to the shop and buy some $$
 ^^ Amy have get bubble have she $$
@@ -288,7 +289,7 @@
 ^^ be you go to tell me what color it be $$
 ^^ Carl be careful $$
 ^^ no do not hit with it $$
-^^ well  what color be that balloon $$
+^^ well what what color be that balloon $$
 ^^ be you listen to me $$
 ^^ what color be that balloon $$
 ^^ be it a blue balloon $$
@@ -427,13 +428,13 @@
 ^^ well put him in the shed then $$
 ^^ be there no room $$
 ^^ what about behind the door $$
-^^    on the little shed $$
+^^ on the little on the little shed $$
 ^^ okay $$
 ^^ shove over naughty truck $$
 ^^ oh be you put them in the big one $$
 ^^ okay $$
 ^^ yes I think you might $$
-^^    yes $$
+^^ yes yes yes yes $$
 ^^ quick quick quick $$
 ^^ pull those pant down $$
 ^^ why do not you tell Mummy instead of shiver away hey $$
@@ -512,7 +513,10 @@
 ^^ what be that $$
 ^^ it be a sausage $$
 ^^ yum yum yum $$
+^^ mm $$
+^^ mm $$
 ^^ that be how you do boil egg be not it $$
+^^ mm $$
 ^^ oh $$
 ^^ you have to knock the top off and get your soldier $$
 ^^ dunk it in the egg $$
@@ -531,6 +535,7 @@
 ^^ have he eat that all up $$
 ^^ he be a good cat be not he eat his dinner $$
 ^^ peel them $$
+^^ mm $$
 ^^ oh dear $$
 ^^ blow on it $$
 ^^ oh $$
@@ -538,7 +543,7 @@
 ^^ too hot $$
 ^^ oh dear $$
 ^^ you have get two what $$
-^^  what be in there $$
+^^ what what be in there $$
 ^^ what be that $$
 ^^ do you know what that be $$
 ^^ clever boy $$
@@ -555,6 +560,7 @@
 ^^ no $$
 ^^ it be not go to fit in there $$
 ^^ chocolate for dinner $$
+^^ mm $$
 ^^ it be all empty now $$
 ^^ go to the shop and buy some more $$
 ^^ where be your penny $$
@@ -587,7 +593,7 @@
 ^^ I think that be suppose to be a tomato though $$
 ^^ Carl $$
 ^^ come on $$
-^^  stop throw $$
+^^ er stop throw $$
 ^^ come on $$
 ^^ go and get the basket and go shop for me $$
 ^^ Carl $$
@@ -601,9 +607,9 @@
 ^^ that be for dog $$
 ^^ be you still give it the cat $$
 ^^ will not will not will not will not $$
-^^   it be not a real lid $$
+^^ it's not it be not a real lid $$
 ^^ a pretend one $$
-^^ see if you can find  some  some cat dine $$
+^^ see if you can find one some dinner some cat dine $$
 ^^ excuse me $$
 ^^ it be like a wheel yeah $$
 ^^ Carl $$
@@ -681,6 +687,7 @@
 ^^ that be it $$
 ^^ it be safe now $$
 ^^ mhm $$
+^^ mm $$
 ^^ where be it go $$
 ^^ get it $$
 ^^ oh he can not catch it over there can he $$
@@ -720,7 +727,7 @@
 ^^ perhaps Tiggy will catch it for you $$
 ^^ oh yeah $$
 ^^ I see $$
-^^ I have get to  $$
+^^ I have get to er $$
 ^^ oh $$
 ^^ oh Tiggy want a pig back $$
 ^^ Tiggy want a pig back $$
@@ -728,15 +735,17 @@
 ^^ cat be tire $$
 ^^ oh Tiggy be have enough now $$
 ^^ Tiggy want to play another game $$
-^^   what can Tiggy play $$
-^^  well no $$
+^^ what can what can Tiggy play $$
+^^ other well no $$
 ^^ Tiggy do not want to play catch $$
 ^^ Tiggy want to play $$
 ^^ boing $$
 ^^ oh yes $$
+^^ mm $$
 ^^ he want to stand up do he $$
 ^^ Tiggy need a bath do not he $$
 ^^ chip and pea $$
+^^ mm $$
 ^^ no Carl $$
 ^^ do not throw everything $$
 ^^ come on $$
@@ -744,6 +753,7 @@
 ^^ we be not play that game now $$
 ^^ Carl $$
 ^^ okay $$
+^^ mm $$
 ^^ be you go to put these away instead of throw them $$
 ^^ no you do not just throw toy like that Carl $$
 ^^ right $$
@@ -751,12 +761,12 @@
 ^^ Mummy be put them away because you be not play nice with them $$
 ^^ look $$
 ^^ I be put them all away $$
-^^ oh that be  do not go in there do it $$
+^^ oh that be not do not go in there do it $$
 ^^ do not throw them in Carl $$
 ^^ stop throw $$
-^^  a plum I think $$
+^^ um a plum I think $$
 ^^ a plum $$
-^^   who eat a plum $$
+^^ who else who eat a plum $$
 ^^ Mummy be go to go upstairs $$
 ^^ that be the last one be it $$
 ^^ the last one be it $$
@@ -828,7 +838,7 @@
 ^^ can you say Bobby $$
 ^^ you can say that $$
 ^^ and who be that $$
-^^   it look like Amy $$
+^^ it's like it look like Amy $$
 ^^ do not it $$
 ^^ and who be that $$
 ^^ who do that look like $$
@@ -858,7 +868,7 @@
 ^^ now what be they do $$
 ^^ they can not go in it $$
 ^^ why not $$
-^^   why be she sad $$
+^^ why is why be she sad $$
 ^^ why be Amy sad $$
 ^^ why be Amy sad $$
 ^^ be she $$
@@ -962,7 +972,7 @@
 ^^ come on Carl $$
 ^^ what shape be that one $$
 ^^ well what shape be it $$
-^^   it be a circle $$
+^^ it's a it be a circle $$
 ^^ it be a circle $$
 ^^ circle $$
 ^^ a triangle $$
@@ -1075,7 +1085,7 @@
 ^^ be they go shop $$
 ^^ right $$
 ^^ okay $$
-^^   what else should they get $$
+^^ what else what else should they get $$
 ^^ why not $$
 ^^ why can not that car go shop $$
 ^^ Carl $$
@@ -1136,7 +1146,7 @@
 ^^ that you play with yesterday $$
 ^^ oh I know what Carl not do this morning $$
 ^^ yum be not it $$
-^^    yum $$
+^^ yum yum yum yum $$
 ^^ yeah $$
 ^^ there you go $$
 ^^ what be that $$
@@ -1156,7 +1166,7 @@
 ^^ they be not fish be they $$
 ^^ be that Daddy whale $$
 ^^ go for a ride in the car be it $$
-^^ well  it look like a chicken $$
+^^ well um it look like a chicken $$
 ^^ that be a big Daddy one $$
 ^^ the little baby one there Carl $$
 ^^ no $$
@@ -1199,12 +1209,12 @@
 ^^ he be not hurt $$
 ^^ oh he be on his Daddy back be he $$
 ^^ where be the baby Carl $$
-^^ where be  the doll $$
+^^ where be the the doll $$
 ^^ what be it $$
 ^^ yes it be $$
 ^^ but what animal be it $$
 ^^ clever boy $$
-^^   it be a boy cow $$
+^^ it's a it be a boy cow $$
 ^^ it be a bull $$
 ^^ let Mummy have a look $$
 ^^ oh yes $$
@@ -1259,6 +1269,7 @@
 ^^ yes $$
 ^^ I have get lots_of animal $$
 ^^ watch Carl $$
+^^ www $$
 ^^ the animal $$
 ^^ it be a new word be not it $$
 ^^ animal $$
@@ -1435,6 +1446,7 @@
 ^^ he be not $$
 ^^ he be not go to jump today $$
 ^^ naughty spider $$
+^^ www $$
 ^^ shall I bring some toy down Carl $$
 ^^ no $$
 ^^ I mean our proper toy $$
@@ -1458,12 +1470,13 @@
 ^^ Daddy be go now $$
 ^^ see you babe $$
 ^^ see you babe $$
+^^ www $$
 ^^ oh $$
 ^^ no $$
 ^^ never mind $$
 ^^ it be go round be it $$
 ^^ oh $$
-^^ they be in   in that green bag on your table $$
+^^ they be in that little in that green bag on your table $$
 ^^ Carl $$
 ^^ on your little red table $$
 ^^ the green bag $$
@@ -1491,7 +1504,7 @@
 ^^ mhm $$
 ^^ what be you go to do with them now $$
 ^^ oh look $$
-^^ something be land     in the fence $$
+^^ something be land in the in the in the fence $$
 ^^ look $$
 ^^ Carl $$
 ^^ what be that animal that be in the fence $$
@@ -1510,13 +1523,14 @@
 ^^ what do horse eat $$
 ^^ they eat crisp do they $$
 ^^ they eat tree $$
+^^ mm $$
 ^^ oh dear $$
 ^^ there be another baby look $$
 ^^ it be a foal $$
 ^^ a baby horse be call $$
-^^  I think that be a goat $$
+^^ um I think that be a goat $$
 ^^ look $$
-^^ there be  some sheepdog $$
+^^ there be some some sheepdog $$
 ^^ look $$
 ^^ so where be the sheep $$
 ^^ where be the sheep $$
@@ -1547,7 +1561,7 @@
 ^^ Thomas be there look $$
 ^^ what be he go to say to him $$
 ^^ good boy $$
-^^   he be go to go backwards $$
+^^ he's going he be go to go backwards $$
 ^^ go go go go go go $$
 ^^ Bertie $$
 ^^ do not we leave Bertie at Nana house though $$
@@ -1567,17 +1581,17 @@
 ^^ Carl $$
 ^^ whose birth be it $$
 ^^ whose birth party do you go to $$
-^^   well it be Granddad birth last week $$
+^^ it was well it be Granddad birth last week $$
 ^^ but whose birth party do you go to $$
 ^^ it be Zita birth party $$
 ^^ and what do you do $$
-^^   oh they light    the candle on the cake do not they $$
+^^ you got oh they light the cake didn't the candle on the cake do not they $$
 ^^ I do not know $$
 ^^ what be it $$
 ^^ you tell me $$
 ^^ what can you see $$
 ^^ that be a little train be it $$
-^^ yeah but     what do you do at the birth party $$
+^^ yeah but what did you do what do you do at the birth party $$
 ^^ be it $$
 ^^ it be a what $$
 ^^ oh yeah $$
@@ -1606,7 +1620,7 @@
 ^^ and do you know who that be $$
 ^^ what be that $$
 ^^ it be a what $$
-^^  it be $$
+^^ it's it be $$
 ^^ look $$
 ^^ it be a reindeer $$
 ^^ remember Mummy tell you that word $$
@@ -1623,7 +1637,7 @@
 ^^ shall I put this back on the tree $$
 ^^ oh another pink car $$
 ^^ no $$
-^^     it be a accident $$
+^^ Mummy dropped it by it be a accident $$
 ^^ where $$
 ^^ no sunshine $$
 ^^ make a nose $$
@@ -1742,6 +1756,7 @@
 ^^ I can see him $$
 ^^ he want his Mummy do he $$
 ^^ he want a big hug $$
+^^ a $$
 ^^ shall Mummy give you a big hug instead $$
 ^^ oh he want to come to his Mummy for a big hug $$
 ^^ who be go to sleep $$
@@ -1888,7 +1903,7 @@
 ^^ where do you go in the car this week $$
 ^^ Carl $$
 ^^ where do you go in the car this week $$
-^^  who do you go and see in the car $$
+^^ who who do you go and see in the car $$
 ^^ Carl $$
 ^^ do you go and see Granny and Grandpa $$
 ^^ Carl $$
@@ -1902,7 +1917,7 @@
 ^^ there be life in there $$
 ^^ we have make contact $$
 ^^ I be talk to you $$
-^^ I be ask you      do you go and stay at Granny and Grandpa house $$
+^^ I be ask you did you go and see do you go and stay at Granny and Grandpa house $$
 ^^ be that it now $$
 ^^ hm $$
 ^^ I be go to say what do you see at Granny and Grandpa house $$
@@ -1927,6 +1942,7 @@
 ^^ that be it $$
 ^^ it be good to be tidy be not it $$
 ^^ not your train $$
+^^ www $$
 ^^ Carl $$
 ^^ that be yours $$
 ^^ see $$
@@ -1934,7 +1950,7 @@
 ^^ whose be that $$
 ^^ who do that belong to $$
 ^^ you want it $$
-^^ but  it be Carl $$
+^^ but it's it be Carl $$
 ^^ no $$
 ^^ we will put it in there shall we $$
 ^^ you will lose it otherwise $$
@@ -1952,7 +1968,7 @@
 ^^ do not forget the elephant $$
 ^^ no $$
 ^^ hang on $$
-^^ there be a  $$
+^^ there be a xxx $$
 ^^ what about the tiger $$
 ^^ right $$
 ^^ he live in there do he $$
@@ -1961,7 +1977,7 @@
 ^^ good boy $$
 ^^ well you can have a look what be in there yeah $$
 ^^ the cat not down here be it $$
-^^ I think it be down   in the cellar $$
+^^ I think it be down in the in the cellar $$
 ^^ you be just tease Mummy be not you $$
 ^^ it do not go there do it $$
 ^^ no $$

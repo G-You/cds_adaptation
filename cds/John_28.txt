@@ -5,7 +5,7 @@
 ^^ in the red box $$
 ^^ mhm $$
 ^^ it be empty $$
-^^ do you want to put   these brick in there $$
+^^ do you want to put your bricks these brick in there $$
 ^^ mhm $$
 ^^ can I have a go $$
 ^^ or do you want to do it by yourself $$
@@ -49,6 +49,7 @@
 ^^ and this one $$
 ^^ scare upstairs $$
 ^^ well you say it be scare do not you $$
+^^ www $$
 ^^ that be a bit worry be not it $$
 ^^ no no no John $$
 ^^ Anna believe you $$
@@ -107,13 +108,13 @@
 ^^ no $$
 ^^ actual he be happy $$
 ^^ it say he be happy and he be smile $$
-^^   he be a good dragon I think $$
+^^ he's a he be a good dragon I think $$
 ^^ there might be somebody who be angry but the dragon be happy $$
 ^^ what can you see here $$
 ^^ what can you see $$
 ^^ cockerel $$
 ^^ mhm $$
-^^ there be a  $$
+^^ there be a xxx $$
 ^^ what shape be on the end of the spoon $$
 ^^ can you see the shape $$
 ^^ what shape be that $$
@@ -143,9 +144,9 @@
 ^^ look $$
 ^^ look at the steam come out_of his nose $$
 ^^ what can you see here $$
-^^  no $$
+^^ um no $$
 ^^ they be not elephant actual $$
-^^ they be grey like elephant but  they be man in metal suit of armor $$
+^^ they be grey like elephant but they're they be man in metal suit of armor $$
 ^^ person $$
 ^^ and the horse yes $$
 ^^ and the horse be dress in clothes almost be not they $$
@@ -170,7 +171,7 @@
 ^^ next time they post this one that be the very last one in the series $$
 ^^ that be right $$
 ^^ record music $$
-^^  I do not think that be hungry $$
+^^ er I do not think that be hungry $$
 ^^ it be call the little soldier $$
 ^^ there be some more usual instrument $$
 ^^ something call crumhorn $$
@@ -280,7 +281,7 @@
 ^^ look $$
 ^^ this little boy be throw a stone make ripple $$
 ^^ and the ant jump in to the water will make ripple $$
-^^ this girl be make a sound like a flute across the   top of a bottle $$
+^^ this girl be make a sound like a flute across the top of top of a bottle $$
 ^^ that be clever $$
 ^^ and this little boy be make some sound use a blade of grass $$
 ^^ it be like a oboe or a clarinet $$
@@ -304,7 +305,7 @@
 ^^ ship boat $$
 ^^ no $$
 ^^ it be more like a boat that one $$
-^^ the  big boat be call ship $$
+^^ the bigger big boat be call ship $$
 ^^ they have get large sail $$
 ^^ that be basic the difference between a boat and a ship $$
 ^^ oh what can you see here $$
@@ -348,7 +349,7 @@
 ^^ whoops $$
 ^^ steady John $$
 ^^ oh crikey $$
-^^ let us put this  over here shall we $$
+^^ let us put this um over here shall we $$
 ^^ yeah $$
 ^^ Mummy what $$
 ^^ open it $$
@@ -383,7 +384,7 @@
 ^^ pardon $$
 ^^ yeah $$
 ^^ I will sit on the floor in a bit $$
-^^  you play with the brick $$
+^^ you you play with the brick $$
 ^^ then I will sit on the floor later $$
 ^^ oh oh no $$
 ^^ this be Daddy case $$
@@ -447,6 +448,7 @@
 ^^ be you try to give away your toast $$
 ^^ well you can offer it to him $$
 ^^ he might not take any $$
+^^ mm $$
 ^^ I think she like it $$
 ^^ maybe she want some more $$
 ^^ I think she be a vegetarian $$
@@ -506,6 +508,7 @@
 ^^ what do you do on the farm when we go to stay with Angie $$
 ^^ what do you do John $$
 ^^ be you go to tell Anna what we do $$
+^^ www $$
 ^^ a ride on the dig $$
 ^^ it be be not it $$
 ^^ oh wonder $$
@@ -538,6 +541,7 @@
 ^^ John $$
 ^^ he be quite excite to see you $$
 ^^ John $$
+^^ www $$
 ^^ no John $$
 ^^ leave this here please $$
 ^^ oh you stay here $$
@@ -549,6 +553,7 @@
 ^^ must be underneath those brick $$
 ^^ whoops $$
 ^^ steady John $$
+^^ xxx $$
 ^^ oh you have get it $$
 ^^ well do $$
 ^^ thank_you $$
@@ -559,6 +564,7 @@
 ^^ oh this be the hen $$
 ^^ where be the baby one $$
 ^^ very good $$
+^^ www $$
 ^^ very good $$
 ^^ cockadoodledoo $$
 ^^ yes $$
@@ -626,6 +632,7 @@
 ^^ although I think you be memorize them rather than actual do them though $$
 ^^ mhm $$
 ^^ I have not hear that before $$
+^^ www $$
 ^^ where be you go John $$
 ^^ hello $$
 ^^ it be tire be not it $$
@@ -649,16 +656,18 @@
 ^^ can you put it in the green box $$
 ^^ put it in the green box $$
 ^^ John $$
-^^   no $$
+^^ no no no $$
 ^^ we do not have a green box in there anyway but $$
 ^^ put it in the green brick box look $$
 ^^ oh you put it in the red box then $$
 ^^ there $$
 ^^ mhm $$
+^^ a $$
 ^^ find a lid $$
 ^^ be you go to drive it $$
 ^^ you sometimes pretend it be a car do not you there $$
 ^^ and pull your chair over $$
+^^ a $$
 ^^ money $$
 ^^ good $$
 ^^ mhm $$
@@ -740,6 +749,7 @@
 ^^ that be good $$
 ^^ pardon $$
 ^^ more money $$
+^^ a $$
 ^^ be there one down there John $$
 ^^ will not will not will not will not will not will not will not will not will not $$
 ^^ you keep post all these $$
@@ -777,7 +787,9 @@
 ^^ you put the spider in the box $$
 ^^ oh that be where the Christmas card go $$
 ^^ you keep post those $$
+^^ www $$
 ^^ what be you look for John $$
+^^ a $$
 ^^ whoops $$
 ^^ John $$
 ^^ I think you have drop it again $$
@@ -822,7 +834,7 @@
 ^^ shall we see what Aunty_Liz say $$
 ^^ yeah $$
 ^^ she say dear Sarah Matthew and John $$
-^^ have a great time at  $$
+^^ have a great time at xxx $$
 ^^ not too many lion around $$
 ^^ all these tree $$
 ^^ look quite fluff do not they $$
@@ -844,6 +856,7 @@
 ^^ person here $$
 ^^ what be that $$
 ^^ pardon $$
+^^ a $$
 ^^ it be quite tiny be not it $$
 ^^ what happen $$
 ^^ I think the others be in here John $$
@@ -854,7 +867,8 @@
 ^^ John $$
 ^^ no he be not wreck the flute $$
 ^^ he be work on the flute $$
-^^  that be right $$
+^^ that's that be right $$
+^^ www $$
 ^^ John $$
 ^^ no $$
 ^^ I be not do any today $$
@@ -888,7 +902,7 @@
 ^^ it be okay John $$
 ^^ just leave it on the table $$
 ^^ we will put it in the bin later $$
-^^ put it back   on the plate perhaps $$
+^^ put it back on the on the plate perhaps $$
 ^^ or throw it away $$
 ^^ John Benjamin $$
 ^^ what be you do $$
@@ -920,11 +934,12 @@
 ^^ this one here $$
 ^^ it be get a very pretty picture on it $$
 ^^ you see if you can get it $$
-^^ down here by  the Duplo $$
+^^ down here by the the Duplo $$
 ^^ can you get that one and put it in the box $$
 ^^ by your brick $$
 ^^ how many do you have now $$
 ^^ how many $$
+^^ www $$
 ^^ very good $$
 ^^ now you will know where your money be $$
 ^^ money be in teddy box $$
@@ -1002,6 +1017,7 @@
 ^^ they might have to go upside down $$
 ^^ good $$
 ^^ well do $$
+^^ a $$
 ^^ it be okay $$
 ^^ it be only here $$
 ^^ oh what be that John $$
@@ -1053,6 +1069,7 @@
 ^^ get up $$
 ^^ I think Mummy could have do with a cockerel this morning $$
 ^^ what other animal $$
+^^ a $$
 ^^ it be a baby horse $$
 ^^ very good John $$
 ^^ well do $$
@@ -1090,6 +1107,7 @@
 ^^ what be it John $$
 ^^ look like a bunch of grape $$
 ^^ grape $$
+^^ mm $$
 ^^ see if you can pick them one at a time $$
 ^^ do you want to have one $$
 ^^ be it nice $$
@@ -1102,6 +1120,7 @@
 ^^ thank_you $$
 ^^ look at your finger John $$
 ^^ have tea with the vicar $$
+^^ a $$
 ^^ there be a iron there at play too $$
 ^^ what else be at play $$
 ^^ that be at play be it $$
@@ -1173,7 +1192,7 @@
 ^^ cabbage $$
 ^^ shall we cook it first $$
 ^^ where be the oven $$
-^^   where be your oven John $$
+^^ where's your where be your oven John $$
 ^^ where shall we have your oven $$
 ^^ shall we make this your oven in here $$
 ^^ no $$
@@ -1205,6 +1224,7 @@
 ^^ by your table on the floor John $$
 ^^ on the floor $$
 ^^ can you see the lid now $$
+^^ a $$
 ^^ will not will not will not will not will not will not will not will not will not $$
 ^^ it do go in there $$
 ^^ very good $$

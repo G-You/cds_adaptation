@@ -5,7 +5,7 @@
 ^^ I do $$
 ^^ I want Twinkle_twinkle_star $$
 ^^ twinkle $$
-^^  no $$
+^^ no no $$
 ^^ do not get your star $$
 ^^ we can get $$
 ^^ I can not see $$
@@ -19,14 +19,14 @@
 ^^ whoops $$
 ^^ whoops $$
 ^^ no $$
-^^  I like $$
+^^ I I like $$
 ^^ I like tall white candle with the little mouse down $$
 ^^ eensie weensie spider I like $$
 ^^ you know eensie weensie spider climb up the cloud $$
 ^^ what do you like to sing $$
 ^^ no $$
 ^^ I like $$
-^^        I like $$
+^^ I I like I like I like I like $$
 ^^ I like $$
 ^^ it tea now $$
 ^^ yeah $$
@@ -34,22 +34,22 @@
 ^^ it be not hot $$
 ^^ which plate you want $$
 ^^ I just get your chair for you $$
-^^ because    you be go to sit there $$
+^^ because that you you you be go to sit there $$
 ^^ and I be go to sit there $$
 ^^ I be get all my plate out $$
 ^^ I just get a sausage roll $$
-^^ and this be  our picture $$
-^^  yes I do $$
-^^  with Mummy $$
+^^ and this be a our picture $$
+^^ um yes I do $$
+^^ um with Mummy $$
 ^^ mhm $$
 ^^ all thing we get $$
-^^  a sunshine $$
+^^ um a sunshine $$
 ^^ a cloud $$
 ^^ and shape $$
-^^ oh      I drop Mummy chair $$
+^^ oh I drop my I drop I drop Mummy chair $$
 ^^ I just go to sit there $$
 ^^ until Mummy come $$
-^^   I give the plant a good drink $$
+^^ I give I give the plant a good drink $$
 ^^ yeah $$
 ^^ I do $$
 ^^ I do $$
@@ -59,7 +59,7 @@
 ^^ and they get all good $$
 ^^ get a bit brown if you do not water them $$
 ^^ do not they $$
-^^    these one very brown $$
+^^ that one very these one very brown $$
 ^^ yes $$
 ^^ this be one as tall as me like that $$
 ^^ be not it $$
@@ -78,7 +78,7 @@
 ^^ and all around side $$
 ^^ I just go to step $$
 ^^ come and eat your sausage roll now $$
-^^   it be not sausage roll now $$
+^^ it's not it be not sausage roll now $$
 ^^ it be soup $$
 ^^ soup $$
 ^^ soup $$
@@ -89,12 +89,12 @@
 ^^ soup $$
 ^^ soup $$
 ^^ do it with spoon $$
-^^  yellow $$
+^^ um yellow $$
 ^^ oh yes I have $$
 ^^ I get bread on a plate $$
 ^^ here it be $$
 ^^ here it be $$
-^^   you can have some bread $$
+^^ you can you can have some bread $$
 ^^ two for me and you $$
 ^^ dip $$
 ^^ you finish $$
@@ -103,7 +103,7 @@
 ^^ do you want some more tea Mum $$
 ^^ yes I have $$
 ^^ I just get flapjack $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ flapjack $$
 ^^ course you can $$
 ^^ do you want a cup of coffee $$
@@ -125,9 +125,10 @@
 ^^ big cup $$
 ^^ and it will be very hot $$
 ^^ get the wipe $$
+^^ xxx $$
 ^^ Noddy asleep $$
 ^^ yeah $$
-^^    eat you flapjack first $$
+^^ eat you eat eat you flapjack first $$
 ^^ eat you flapjack $$
 ^^ here be some flapjack for you $$
 ^^ you can have a cup of tea too $$
@@ -136,7 +137,7 @@
 ^^ warm $$
 ^^ it be warm $$
 ^^ Mum $$
-^^   I be a tiger $$
+^^ I'm a I be a tiger $$
 ^^ I be a big big grr tiger $$
 ^^ grr $$
 ^^ grr $$
@@ -155,7 +156,7 @@
 ^^ here be you flapjack $$
 ^^ just try it $$
 ^^ yes I do $$
-^^  I just get $$
+^^ I I just get $$
 ^^ do you want a sausage roll now $$
 ^^ sausage roll $$
 ^^ yeah $$
@@ -168,7 +169,8 @@
 ^^ a sandwich now $$
 ^^ sandwich $$
 ^^ sandwich $$
-^^   it be cheese $$
+^^ xxx $$
+^^ it's it's it be cheese $$
 ^^ cheese $$
 ^^ cheese $$
 ^^ I do not like $$
@@ -179,7 +181,7 @@
 ^^ I do let Lucky out $$
 ^^ I get my pram $$
 ^^ I put yours in the wash $$
-^^ can I   get her out again $$
+^^ can I get her get her out again $$
 ^^ yeah $$
 ^^ stay there $$
 ^^ I just leave her in $$
@@ -195,9 +197,10 @@
 ^^ get one cup leave $$
 ^^ get one cup leave $$
 ^^ I get one cup leave for you $$
-^^   I be go to let Lucky out again $$
+^^ shall we I be go to let Lucky out again $$
 ^^ yeah $$
 ^^ I do not let her out for you $$
+^^ xxx $$
 ^^ shall we have a walk $$
 ^^ shall we $$
 ^^ let me get the baby first $$
@@ -208,7 +211,7 @@
 ^^ I find my baby $$
 ^^ pram $$
 ^^ have a walk in the pram do you $$
-^^  and come on $$
+^^ and and come on $$
 ^^ come on $$
 ^^ come on $$
 ^^ and come and have a walk $$
@@ -216,14 +219,15 @@
 ^^ I walk $$
 ^^ we can go to see your Grandma and Granddad $$
 ^^ and do you want to do that $$
-^^     I go to go to doctor like you do $$
-^^   you stay at home $$
+^^ I going to go I go to go to doctor like you do $$
+^^ because I'm you stay at home $$
 ^^ I will be back in a minute $$
 ^^ you stay with Granny $$
 ^^ with Anna $$
 ^^ okay $$
 ^^ I just go to go to the doctor $$
 ^^ I just get a penny $$
+^^ xxx $$
 ^^ doll $$
 ^^ yeah $$
 ^^ go to sleep $$
@@ -237,13 +241,13 @@
 ^^ a train $$
 ^^ whoops $$
 ^^ man $$
-^^    where be the man $$
+^^ where where where where be the man $$
 ^^ where be the man in here $$
 ^^ it do not go yet do it $$
 ^^ he can not go $$
 ^^ he be go the red bit $$
 ^^ he have to go the red bit $$
-^^ here  the red bit $$
+^^ here xxx the red bit $$
 ^^ have not he $$
 ^^ because he be brick $$
 ^^ and he be go on the black one $$
@@ -287,13 +291,13 @@
 ^^ oh $$
 ^^ where the small lemon $$
 ^^ there $$
-^^ on your  $$
+^^ on your xxx $$
 ^^ this go on here do not it $$
 ^^ it do $$
 ^^ and it can go can not it $$
 ^^ it go there $$
 ^^ go up the pavement again $$
-^^   this be like Gordon $$
+^^ this is this be like Gordon $$
 ^^ where the catch $$
 ^^ where the catch $$
 ^^ where be the catch $$
@@ -311,6 +315,7 @@
 ^^ chick cluck $$
 ^^ chick $$
 ^^ now you go on there like that $$
+^^ xxx $$
 ^^ it go on like that do not it $$
 ^^ what $$
 ^^ I do not like that noise $$
@@ -349,20 +354,21 @@
 ^^ where go $$
 ^^ I go $$
 ^^ you do it $$
-^^   where you go $$
-^^  where be baby go $$
+^^ where you where you go $$
+^^ where's where be baby go $$
 ^^ where be he $$
 ^^ where be he $$
 ^^ where be he go $$
 ^^ there he be $$
-^^     he be go to be  be not he $$
+^^ he's going to be he be go to be xxx be not he $$
+^^ xxx $$
 ^^ can you hold him for you $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ where he go $$
 ^^ where be he go now $$
 ^^ where he go $$
-^^  baby $$
+^^ xxx baby $$
 ^^ there $$
 ^^ where he go $$
 ^^ where be he go $$
@@ -378,12 +384,12 @@
 ^^ e i e $$
 ^^ and on that farm we have some cow $$
 ^^ e i e i o $$
-^^    shall we do story $$
+^^ shall we do shall we do story $$
 ^^ can you read it $$
 ^^ Mog $$
 ^^ Mog $$
 ^^ Mog $$
-^^    this my favorite $$
+^^ this is a this my favorite $$
 ^^ I like that one too $$
 ^^ I will sit on your leg $$
 ^^ yeah $$

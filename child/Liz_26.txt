@@ -31,7 +31,7 @@
 ^^ Jess $$
 ^^ on table $$
 ^^ cook $$
-^^  person $$
+^^ um person $$
 ^^ dog $$
 ^^ dog $$
 ^^ dog try to wake $$
@@ -54,6 +54,7 @@
 ^^ Jess go in $$
 ^^ Postman_Pat go in $$
 ^^ yeah $$
+^^ um $$
 ^^ get down $$
 ^^ get down now $$
 ^^ man get down $$
@@ -79,7 +80,7 @@
 ^^ what $$
 ^^ yeah $$
 ^^ put back $$
-^^       in the back $$
+^^ in the in the in the in the back $$
 ^^ back in there $$
 ^^ what be this $$
 ^^ Spot $$
@@ -121,7 +122,7 @@
 ^^ it Mummy $$
 ^^ it Mum $$
 ^^ be it Mum $$
-^^  spoon fall off $$
+^^ spoon spoon fall off $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
@@ -152,7 +153,7 @@
 ^^ throw $$
 ^^ throw $$
 ^^ stand $$
-^^  bread $$
+^^ um bread $$
 ^^ yeah $$
 ^^ I want Tots $$
 ^^ want Tots $$
@@ -217,7 +218,7 @@
 ^^ new book out $$
 ^^ new book $$
 ^^ there $$
-^^  Helpful $$
+^^ um Helpful $$
 ^^ where Giggles $$
 ^^ doctor in there $$
 ^^ baby $$
@@ -288,7 +289,7 @@
 ^^ what be this house $$
 ^^ house $$
 ^^ doll $$
-^^ what be this  $$
+^^ what be this xxx $$
 ^^ monkey $$
 ^^ what be this $$
 ^^ hurt foot $$
@@ -314,7 +315,7 @@
 ^^ I put mine there $$
 ^^ on there $$
 ^^ yeah $$
-^^ ride  on lion $$
+^^ ride on on lion $$
 ^^ on there $$
 ^^ Mummy lion $$
 ^^ ride on there $$
@@ -362,6 +363,7 @@
 ^^ no $$
 ^^ that $$
 ^^ that elephant $$
+^^ um $$
 ^^ off $$
 ^^ off $$
 ^^ off brick $$
@@ -395,7 +397,7 @@
 ^^ on $$
 ^^ keep on $$
 ^^ keep on $$
-^^  there $$
+^^ xxx there $$
 ^^ penguin not $$
 ^^ no on the wall $$
 ^^ on the wall $$
@@ -426,8 +428,8 @@
 ^^ snake $$
 ^^ my turn $$
 ^^ my turn $$
-^^  Anna toy $$
-^^  Anna toy $$
+^^ my Anna toy $$
+^^ my Anna toy $$
 ^^ Liz snake $$
 ^^ my turn now $$
 ^^ Liz turn $$
@@ -445,9 +447,9 @@
 ^^ song $$
 ^^ go home $$
 ^^ have song $$
-^^ want  $$
+^^ want xxx $$
 ^^ up $$
-^^ come  on there $$
+^^ come on on there $$
 ^^ oh broke $$
 ^^ yeah $$
 ^^ what be this $$
@@ -480,7 +482,7 @@
 ^^ pretend $$
 ^^ twenty six $$
 ^^ twenty six $$
-^^ I be   twenty $$
+^^ I be twen twen twenty $$
 ^^ do $$
 ^^ do $$
 ^^ Liz do it $$
@@ -554,7 +556,7 @@
 ^^ I want song $$
 ^^ in a bit $$
 ^^ yeah $$
-^^ put this  on there $$
+^^ put this on on there $$
 ^^ yeah $$
 ^^ put this $$
 ^^ yeah $$
@@ -577,6 +579,7 @@
 ^^ where Dad $$
 ^^ smile $$
 ^^ smile $$
+^^ a $$
 ^^ smile $$
 ^^ no $$
 ^^ horse $$
@@ -588,7 +591,7 @@
 ^^ big $$
 ^^ big $$
 ^^ big stick $$
-^^ I    sit on it $$
+^^ I stand on it sit on it $$
 ^^ sit on it $$
 ^^ yeah $$
 ^^ down $$
@@ -609,7 +612,7 @@
 ^^ I shout $$
 ^^ I shout like that $$
 ^^ red $$
-^^   and yellow $$
+^^ and and and yellow $$
 ^^ and green $$
 ^^ and blue $$
 ^^ four plate $$
@@ -624,8 +627,8 @@
 ^^ Liz naughty $$
 ^^ Winnie_Pooh $$
 ^^ and Piglet $$
-^^ and and  Tigger $$
-^^ bird  on head $$
+^^ and and P Tigger $$
+^^ bird on on head $$
 ^^ there $$
 ^^ want on knee $$
 ^^ yeah $$
@@ -637,7 +640,7 @@
 ^^ yeah $$
 ^^ cake $$
 ^^ there Winnie_Pooh $$
-^^  bite $$
+^^ a bite $$
 ^^ read a book $$
 ^^ no $$
 ^^ I get phone $$
@@ -651,6 +654,9 @@
 ^^ clock time $$
 ^^ clock time $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ come show me $$
 ^^ panda $$
@@ -708,7 +714,7 @@
 ^^ baby huggle $$
 ^^ mhm $$
 ^^ yeah $$
-^^ I want  $$
+^^ I want xxx $$
 ^^ Rachel get home $$
 ^^ Mummy $$
 ^^ Rachel home $$
@@ -728,7 +734,7 @@
 ^^ yeah $$
 ^^ it cold $$
 ^^ want it warm $$
-^^  my read a book $$
+^^ my my read a book $$
 ^^ can I see $$
 ^^ can I see $$
 ^^ can I see $$
@@ -744,7 +750,8 @@
 ^^ I want $$
 ^^ want cold it $$
 ^^ ow $$
-^^ want  out $$
+^^ want xxx out $$
+^^ xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ mhm $$
@@ -789,7 +796,7 @@
 ^^ here $$
 ^^ beard $$
 ^^ hair $$
-^^  on ear $$
+^^ on on ear $$
 ^^ on ear $$
 ^^ mhm $$
 ^^ mhm $$
@@ -820,7 +827,7 @@
 ^^ do plane $$
 ^^ yeah $$
 ^^ do plane $$
-^^ need  now $$
+^^ need xxx now $$
 ^^ let Spot out Anna $$
 ^^ no $$
 ^^ next page $$
@@ -918,7 +925,7 @@
 ^^ yeah $$
 ^^ Liz turn $$
 ^^ on there $$
-^^ Liz put red  on there $$
+^^ Liz put red on on there $$
 ^^ yeah $$
 ^^ Liz put red one $$
 ^^ on there $$
@@ -934,16 +941,17 @@
 ^^ put toy out $$
 ^^ put these out now $$
 ^^ put these out $$
-^^ these  on floor $$
+^^ these on on floor $$
 ^^ put these out $$
 ^^ Anna toy $$
-^^ put these  in there $$
+^^ xxx $$
+^^ put these in in there $$
 ^^ those in there $$
 ^^ toy in there $$
 ^^ toy in there $$
 ^^ shoe in there $$
 ^^ shoe in there $$
-^^ shoe  in there $$
+^^ shoe in in there $$
 ^^ shoe in there $$
 ^^ shoe in there $$
 ^^ shoe in there $$
@@ -953,9 +961,9 @@
 ^^ put shoe in there $$
 ^^ could not $$
 ^^ could not $$
-^^ put this   in there $$
+^^ put this in in in there $$
 ^^ in there $$
-^^ put these  in there $$
+^^ put these in in there $$
 ^^ naughty elephant $$
 ^^ here fish $$
 ^^ penguin $$
@@ -1039,7 +1047,7 @@
 ^^ green $$
 ^^ red $$
 ^^ that $$
-^^ sit  in car $$
+^^ sit in in car $$
 ^^ oh $$
 ^^ do sit in there $$
 ^^ drive car $$
@@ -1073,7 +1081,7 @@
 ^^ toy out $$
 ^^ shop out $$
 ^^ pepper in $$
-^^ put this  in there $$
+^^ put this in in there $$
 ^^ whoops $$
 ^^ I lie down $$
 ^^ take those off now $$
@@ -1228,7 +1236,7 @@
 ^^ pull $$
 ^^ pull $$
 ^^ pull them $$
-^^ the  $$
+^^ the xxx $$
 ^^ wind $$
 ^^ no $$
 ^^ sit $$
@@ -1259,7 +1267,7 @@
 ^^ oh $$
 ^^ look $$
 ^^ yeah $$
-^^ lid  on  my finger $$
+^^ lid on on my my finger $$
 ^^ oh $$
 ^^ a big one $$
 ^^ bump $$
@@ -1297,7 +1305,7 @@
 ^^ no $$
 ^^ yeah $$
 ^^ no $$
-^^  in there $$
+^^ in in there $$
 ^^ in the door $$
 ^^ in the door $$
 ^^ ant in the door $$
@@ -1340,7 +1348,7 @@
 ^^ this $$
 ^^ you get key $$
 ^^ I get some key $$
-^^  Anna  key $$
+^^ Anna Anna key key $$
 ^^ here $$
 ^^ get stick $$
 ^^ stick $$
@@ -1455,7 +1463,7 @@
 ^^ toy out $$
 ^^ yeah $$
 ^^ oh $$
-^^  make tower $$
+^^ making make tower $$
 ^^ come on then $$
 ^^ come on then $$
 ^^ come on then $$
@@ -1505,7 +1513,7 @@
 ^^ find $$
 ^^ a green one $$
 ^^ green go there $$
-^^  yellow there $$
+^^ yellow yellow there $$
 ^^ green $$
 ^^ Anna green $$
 ^^ there $$
@@ -1548,6 +1556,8 @@
 ^^ I be not $$
 ^^ what monkey do $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ just that $$
 ^^ come off $$
 ^^ off $$
@@ -1572,7 +1582,7 @@
 ^^ it not $$
 ^^ not pot $$
 ^^ yeah $$
-^^ hat   in the bag $$
+^^ hat in the in the bag $$
 ^^ hat in the bag $$
 ^^ here it be $$
 ^^ this $$
@@ -1583,7 +1593,7 @@
 ^^ mine $$
 ^^ I bump head $$
 ^^ do $$
-^^  Fireman_Sam $$
+^^ Fireman Fireman_Sam $$
 ^^ yeah $$
 ^^ hat $$
 ^^ hat $$
@@ -1622,6 +1632,7 @@
 ^^ I get up $$
 ^^ get down shoulder $$
 ^^ my shoulder $$
+^^ a $$
 ^^ I get up $$
 ^^ get up $$
 ^^ get up $$
@@ -1637,14 +1648,14 @@
 ^^ on couch $$
 ^^ no $$
 ^^ do not want it $$
-^^ I  $$
+^^ I xxx $$
 ^^ down $$
-^^  down $$
-^^  down $$
+^^ xxx down $$
+^^ xxx down $$
 ^^ play Mum $$
 ^^ I be on couch $$
 ^^ I be on couch $$
-^^ I be on the  couch $$
+^^ I be on the c couch $$
 ^^ what be this Mum $$
 ^^ what be this $$
 ^^ again $$
@@ -1668,9 +1679,9 @@
 ^^ head down $$
 ^^ whoo $$
 ^^ this one $$
-^^ a  $$
-^^ a  $$
-^^ a  $$
+^^ a xxx $$
+^^ a xxx $$
+^^ a xxx $$
 ^^ I stand on it $$
 ^^ stand on $$
 ^^ I be big $$
@@ -1696,7 +1707,7 @@
 ^^ Anna be go $$
 ^^ leave soon $$
 ^^ leave $$
-^^ I put these   in the box $$
+^^ I put these in the in the box $$
 ^^ Anna be go $$
 ^^ I come to get brick $$
 ^^ I be get the brick $$
@@ -1783,7 +1794,7 @@
 ^^ I sit on it $$
 ^^ I sit on it $$
 ^^ yeah $$
-^^ I want  on Anna $$
+^^ I want on on Anna $$
 ^^ on Anna $$
 ^^ oh $$
 ^^ I take it $$

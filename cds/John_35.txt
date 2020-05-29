@@ -36,6 +36,8 @@
 ^^ to make it work $$
 ^^ oh I think I get the idea $$
 ^^ a MacDonald special $$
+^^ xxx $$
+^^ a $$
 ^^ oh $$
 ^^ I think it be break now John $$
 ^^ what a shame $$
@@ -94,6 +96,7 @@
 ^^ or put it back in the pot for me $$
 ^^ use it as a money $$
 ^^ no $$
+^^ xxx $$
 ^^ come on John $$
 ^^ Daddy be go out to Tesco very soon anyway $$
 ^^ I be sure you will $$
@@ -114,7 +117,9 @@
 ^^ okay $$
 ^^ John $$
 ^^ there be something else happen $$
-^^ well  Daddy be go in the car $$
+^^ xxx $$
+^^ www $$
+^^ well Matthew Daddy be go in the car $$
 ^^ John $$
 ^^ we be also go to your music group today $$
 ^^ yeah $$
@@ -163,6 +168,7 @@
 ^^ okay $$
 ^^ what be his name $$
 ^^ a what $$
+^^ www $$
 ^^ and the girl $$
 ^^ what be the girl name $$
 ^^ perhaps you be good on girl name $$
@@ -264,9 +270,11 @@
 ^^ there be the money $$
 ^^ thank_you $$
 ^^ any more money $$
-^^ maybe  the pink money go there $$
+^^ a $$
+^^ maybe the the pink money go there $$
 ^^ oh $$
 ^^ okay $$
+^^ a $$
 ^^ all your money inside $$
 ^^ it be turn it pink $$
 ^^ mhm $$
@@ -302,6 +310,7 @@
 ^^ hm $$
 ^^ John $$
 ^^ what be you drawing $$
+^^ www $$
 ^^ John $$
 ^^ do you want to finish off your picture with your yellow $$
 ^^ yeah $$
@@ -331,7 +340,7 @@
 ^^ until quarter to two $$
 ^^ yes $$
 ^^ we have a early dinner with Daddy $$
-^^ and Daddy be go to come with us and them  appear half way through because he have to go teach $$
+^^ and Daddy be go to come with us and them um appear half way through because he have to go teach $$
 ^^ so we will see if you like it there $$
 ^^ we be still decide which school $$
 ^^ maybe you can do some color at the school as_well John $$
@@ -343,7 +352,7 @@
 ^^ loose $$
 ^^ yes $$
 ^^ you be a bite on the loose side be not you these day $$
-^^  I think she be go to stay here actual $$
+^^ um I think she be go to stay here actual $$
 ^^ yeah $$
 ^^ go go go go go go go go go go go go go go $$
 ^^ yeah $$
@@ -385,7 +394,7 @@
 ^^ what other verse do we sing last week $$
 ^^ about the wipe $$
 ^^ what about the Daddys on the bus $$
-^^   knock yeah $$
+^^ knock knock knock yeah $$
 ^^ oh $$
 ^^ that be right $$
 ^^ that be right $$
@@ -467,7 +476,7 @@
 ^^ do that look right John $$
 ^^ it be my what $$
 ^^ it be my tea be it $$
-^^ on a  plate $$
+^^ on a saucer plate $$
 ^^ can I keep it for later $$
 ^^ yes $$
 ^^ I know how to eat John $$
@@ -491,7 +500,7 @@
 ^^ do it another way $$
 ^^ look $$
 ^^ no $$
-^^ I think the sausage  here $$
+^^ I think the sausage xxx here $$
 ^^ no $$
 ^^ I think the sausage have go somewhere $$
 ^^ I do not know where it be $$
@@ -542,7 +551,7 @@
 ^^ can I see your throat $$
 ^^ open up $$
 ^^ John $$
-^^ could you look towards the window and say  $$
+^^ could you look towards the window and say a $$
 ^^ John $$
 ^^ without a egg in your mouth $$
 ^^ without the egg in your mouth $$
@@ -605,7 +614,7 @@
 ^^ look John $$
 ^^ there will be lots_of person $$
 ^^ oh no $$
-^^   hey $$
+^^ hey hey hey $$
 ^^ what have this little three year old get in his or her hand $$
 ^^ what do you think it be $$
 ^^ you reckon $$
@@ -639,7 +648,7 @@
 ^^ very good $$
 ^^ I think there be another one $$
 ^^ shall we use this $$
-^^  fence  will we $$
+^^ xxx fence xxx will we $$
 ^^ I think that be all the fence $$
 ^^ that be quite a lot $$
 ^^ uhoh $$
@@ -662,8 +671,11 @@
 ^^ there be another baby come to visit us today John very brief $$
 ^^ mhm $$
 ^^ not interest $$
+^^ www $$
 ^^ they have get a_lot_of hay have not they those animal $$
+^^ www $$
 ^^ that stay in the car all the time $$
+^^ www $$
 ^^ it be more likely $$
 ^^ mhm $$
 ^^ just leave it John $$
@@ -683,6 +695,7 @@
 ^^ where be Anna car $$
 ^^ where $$
 ^^ go go go go go go go go go go go go go $$
+^^ a $$
 ^^ finish $$
 ^^ hooray $$
 ^^ jolly good $$
@@ -694,6 +707,7 @@
 ^^ go go go go go go go go go go go go go $$
 ^^ fish fish fish fish fish fish fish fish fish fish fish $$
 ^^ or the green one $$
+^^ a $$
 ^^ have to remember to take a towel as_well $$
 ^^ to dry yourself afterwards $$
 ^^ John $$
@@ -742,7 +756,9 @@
 ^^ John $$
 ^^ stop it $$
 ^^ goodness $$
+^^ www $$
 ^^ John $$
+^^ www $$
 ^^ John $$
 ^^ stop it $$
 ^^ right $$
@@ -901,7 +917,7 @@
 ^^ mhm $$
 ^^ that be probable enough now $$
 ^^ stick it on your picture then $$
-^^ maybe you can put it on  this bit in this space $$
+^^ maybe you can put it on this this bit in this space $$
 ^^ shall I do it $$
 ^^ Tumbletots $$
 ^^ anything else you want on your picture $$
@@ -949,7 +965,7 @@
 ^^ John $$
 ^^ they be thing for you in actual fact $$
 ^^ look $$
-^^  sweet $$
+^^ xxx sweet $$
 ^^ you do not like sweet anyway $$
 ^^ well Aunty_Liz buy you a pair of shorts $$
 ^^ and a trend t $$
@@ -987,6 +1003,7 @@
 ^^ that be why we look for another umbrella do not we $$
 ^^ the other day when it be rain $$
 ^^ yes $$
+^^ www $$
 ^^ maybe pardon $$
 ^^ which one $$
 ^^ and what do you say $$
@@ -1043,6 +1060,7 @@
 ^^ have to turn his head round like this $$
 ^^ mhm $$
 ^^ mhm $$
+^^ xxx $$
 ^^ mhm $$
 ^^ how do you do that $$
 ^^ on the what $$
@@ -1054,13 +1072,14 @@
 ^^ mhm $$
 ^^ poor doll $$
 ^^ look John $$
+^^ xxx $$
 ^^ oh $$
 ^^ yes $$
 ^^ oh my gosh $$
 ^^ yes John $$
 ^^ can not wait $$
 ^^ perhaps your Dad can take you out $$
-^^   hey $$
+^^ hey hey hey $$
 ^^ John $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ okay $$
@@ -1122,6 +1141,7 @@
 ^^ who else have blue eye $$
 ^^ do Daddy have blue eye John $$
 ^^ do Rosie have blue eye $$
+^^ xxx $$
 ^^ do I have blue eye John $$
 ^^ yeah $$
 ^^ mhm $$
@@ -1130,6 +1150,7 @@
 ^^ maybe that can go in the bag $$
 ^^ I be not hungry thanks John $$
 ^^ in the bag for later $$
+^^ mm $$
 ^^ thank_you $$
 ^^ thank_you $$
 ^^ oh yes $$
@@ -1167,7 +1188,7 @@
 ^^ there be another tractor $$
 ^^ there be another one $$
 ^^ mhm $$
-^^ what color  $$
+^^ what color xxx $$
 ^^ a yellow one $$
 ^^ yellow one $$
 ^^ will you like a yellow tractor $$
@@ -1182,6 +1203,7 @@
 ^^ you be not talk about that be you $$
 ^^ that be pretty well close now $$
 ^^ be you sing Enya $$
+^^ www $$
 ^^ these be animal now be they $$
 ^^ ten $$
 ^^ no $$
@@ -1208,8 +1230,8 @@
 ^^ perhaps it be foot $$
 ^^ John $$
 ^^ want a game of foot in here $$
-^^   that be your leg and this be my leg $$
-^^ be you have  $$
+^^ that's your that be your leg and this be my leg $$
+^^ be you have xxx $$
 ^^ oh $$
 ^^ and I can have one $$
 ^^ be you go to put all the thing back in the box now John $$

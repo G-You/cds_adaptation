@@ -9,6 +9,7 @@
 ^^ oh John $$
 ^^ they be Daddy ping ball $$
 ^^ will not will not will not will not will not will not will not will not $$
+^^ www $$
 ^^ whoo $$
 ^^ that be very good $$
 ^^ can you do it to me $$
@@ -72,6 +73,7 @@
 ^^ Claire car red $$
 ^^ it be not orange $$
 ^^ whose car $$
+^^ a $$
 ^^ she be get a orange car have she $$
 ^^ I do not know you genmod see Sally car $$
 ^^ yeah $$
@@ -110,7 +112,7 @@
 ^^ I think we do look $$
 ^^ there be some book on the window $$
 ^^ let us see if we can find some up there that you like $$
-^^      do she read you the story about the rabbit $$
+^^ I think Granny read you do she read you the story about the rabbit $$
 ^^ the other day $$
 ^^ shall we see if we can find it $$
 ^^ yeah $$
@@ -118,7 +120,7 @@
 ^^ be that Jemima_Puddleduck I think $$
 ^^ so we have get Benjamin_Bunny $$
 ^^ which one $$
-^^  we have get Jemima_Puddleduck $$
+^^ Jemima we have get Jemima_Puddleduck $$
 ^^ okay $$
 ^^ if I can get it out $$
 ^^ it be stiff $$
@@ -131,6 +133,7 @@
 ^^ there be a duck there $$
 ^^ what else can you see then $$
 ^^ mhm $$
+^^ www $$
 ^^ oh look $$
 ^^ what be this $$
 ^^ rabbit $$
@@ -149,9 +152,11 @@
 ^^ oh $$
 ^^ you want the mouse book $$
 ^^ okay $$
+^^ www $$
 ^^ John $$
 ^^ be you go to listen $$
 ^^ perhaps we should look at the picture then $$
+^^ www $$
 ^^ that be right $$
 ^^ you read me a story instead John $$
 ^^ bring them over $$
@@ -177,6 +182,7 @@
 ^^ put these back as_well $$
 ^^ there we be $$
 ^^ that be all finish now $$
+^^ www $$
 ^^ John $$
 ^^ where do we go last week when we go to the seaside $$
 ^^ do you remember what we see $$
@@ -197,6 +203,7 @@
 ^^ ugh $$
 ^^ and what be that $$
 ^^ what have you get John $$
+^^ www $$
 ^^ what be it $$
 ^^ oh it be $$
 ^^ yes $$
@@ -236,6 +243,7 @@
 ^^ oh yes $$
 ^^ no John $$
 ^^ you have have three biscuit this morning $$
+^^ www $$
 ^^ be you write a letter $$
 ^^ be you write a letter $$
 ^^ dear Daddy $$
@@ -257,7 +265,7 @@
 ^^ can you row it $$
 ^^ row row row $$
 ^^ like this $$
-^^   with your arm as oar $$
+^^ with your with your arm as oar $$
 ^^ row row row your boat $$
 ^^ it be a train be it $$
 ^^ you want me to push you by the door $$
@@ -277,7 +285,7 @@
 ^^ so it be $$
 ^^ what about yellow $$
 ^^ oh $$
-^^  yes $$
+^^ a yes $$
 ^^ it be a yellow balloon that Daddy blow up be it $$
 ^^ it burst $$
 ^^ twist it so you can hold it $$
@@ -350,7 +358,7 @@
 ^^ it be the very last night of sleep in the old house tonight John $$
 ^^ in your bed $$
 ^^ and the big van come tomorrow morning and take your bed $$
-^^ and  other thing $$
+^^ and er other thing $$
 ^^ other big thing $$
 ^^ oh $$
 ^^ whoo $$
@@ -362,12 +370,13 @@
 ^^ I think we be play at train $$
 ^^ good night John $$
 ^^ good night $$
+^^ www $$
 ^^ John $$
 ^^ John $$
 ^^ John $$
 ^^ John $$
 ^^ can you remember the word to away in a manger $$
-^^    where be that white teddy bear $$
+^^ where is that where be that white teddy bear $$
 ^^ where be it $$
 ^^ John $$
 ^^ where be the white teddy $$
@@ -381,6 +390,7 @@
 ^^ you be right $$
 ^^ come on $$
 ^^ I will plug that I think $$
+^^ www $$
 ^^ can I have it John $$
 ^^ what be it for $$
 ^^ what do you do with this $$
@@ -398,6 +408,7 @@
 ^^ what tune be that then $$
 ^^ John $$
 ^^ let us take these thing away now and put them in a pile shall we $$
+^^ www $$
 ^^ who do that belong to then $$
 ^^ belong to who $$
 ^^ I do not think it do actual $$
@@ -438,7 +449,7 @@
 ^^ you just wait $$
 ^^ I have near get it $$
 ^^ oh $$
-^^  yes $$
+^^ a yes $$
 ^^ very good $$
 ^^ it be a what $$
 ^^ tomato $$
@@ -476,7 +487,7 @@
 ^^ pepper $$
 ^^ be it very heavy $$
 ^^ where be the aubergine $$
-^^  good $$
+^^ a good $$
 ^^ what be it $$
 ^^ another aubergine $$
 ^^ yeah $$
@@ -529,6 +540,7 @@
 ^^ oh yeah $$
 ^^ you have find it $$
 ^^ cow in the doll $$
+^^ www $$
 ^^ like this $$
 ^^ let us see if we can do it again $$
 ^^ ahhah $$
@@ -559,8 +571,9 @@
 ^^ do you want to be tickle again $$
 ^^ John $$
 ^^ where be those farm animal $$
-^^ I have not see  the chicken yet today $$
+^^ I have not see the the chicken yet today $$
 ^^ yes $$
+^^ a $$
 ^^ now there be some others as_well be not there $$
 ^^ some other chicken $$
 ^^ a cockerel be it $$
@@ -611,10 +624,11 @@
 ^^ yes $$
 ^^ that be right $$
 ^^ yes yes $$
-^^ we do have to put   money in the locker door $$
+^^ we do have to put money in money in the locker door $$
 ^^ yes $$
 ^^ that be what we do $$
 ^^ what $$
+^^ a $$
 ^^ where be the hen now $$
 ^^ where be the hen $$
 ^^ oh $$
@@ -657,7 +671,9 @@
 ^^ Mitchell $$
 ^^ do you play with Mitchell $$
 ^^ do you go with Ruth $$
+^^ a $$
 ^^ do Bronwyn go $$
+^^ a $$
 ^^ you both have food at play $$
 ^^ that be the Christmas party I think be not it you be talk about $$
 ^^ your Christmas party $$
@@ -675,14 +691,16 @@
 ^^ John $$
 ^^ behind you $$
 ^^ can you get the green box $$
+^^ www $$
 ^^ you be a smart pant $$
 ^^ can you get the green box $$
 ^^ yes $$
 ^^ we put this in the green box as_well $$
 ^^ yes $$
-^^     can you give it to me $$
+^^ can you pass it can you give it to me $$
 ^^ thank_you $$
 ^^ can you put all these brick back in $$
+^^ www $$
 ^^ yes please $$
 ^^ John $$
 ^^ the food $$
@@ -743,7 +761,7 @@
 ^^ oh yeah $$
 ^^ do you want to read that one $$
 ^^ be there a farm $$
-^^  that be nice $$
+^^ a that be nice $$
 ^^ mhm $$
 ^^ okay $$
 ^^ do you want to put it on your farm $$
@@ -772,6 +790,7 @@
 ^^ this look like a much big building $$
 ^^ shall we have this here $$
 ^^ we will have it as another room for the animal $$
+^^ a $$
 ^^ that be real good for the horse be not it $$
 ^^ what be the problem $$
 ^^ there we be $$
@@ -871,6 +890,8 @@
 ^^ oh can I have some $$
 ^^ oh thank_you $$
 ^^ very generous of you $$
+^^ www $$
+^^ www $$
 ^^ thank_you $$
 ^^ what be that $$
 ^^ another fourteen pound $$
@@ -1038,11 +1059,12 @@
 ^^ mhm $$
 ^^ yeah $$
 ^^ what be hurt $$
+^^ a $$
 ^^ you hurt it when you be run $$
 ^^ it be a shame it be wet John $$
 ^^ we can not go to the park $$
 ^^ you genmod like to go $$
-^^ well perhaps when it be  a bit dry we will go $$
+^^ well perhaps when it be er a bit dry we will go $$
 ^^ perhaps this afternoon $$
 ^^ it be not very heavy $$
 ^^ you genmod like to go $$
@@ -1089,6 +1111,7 @@
 ^^ you have try it the other way round $$
 ^^ that be a very sensible thing to do $$
 ^^ try another hoop instead $$
+^^ a $$
 ^^ that be big $$
 ^^ good $$
 ^^ no $$
@@ -1104,7 +1127,7 @@
 ^^ do you need some help $$
 ^^ yeah $$
 ^^ mhm $$
-^^  that be new be not it $$
+^^ a that be new be not it $$
 ^^ yeah $$
 ^^ that be right $$
 ^^ I think there be only one cow before as_well $$
@@ -1113,7 +1136,7 @@
 ^^ he be get horn look $$
 ^^ mhm $$
 ^^ be he $$
-^^  be he $$
+^^ xxx be he $$
 ^^ okay $$
 ^^ let us lie him down $$
 ^^ oh $$
@@ -1141,7 +1164,8 @@
 ^^ I think there be a staple there John $$
 ^^ oh it be a pin $$
 ^^ mhm $$
-^^  John $$
+^^ xxx $$
+^^ er John $$
 ^^ I do not think that be a good idea $$
 ^^ no $$
 ^^ no $$
@@ -1155,7 +1179,7 @@
 ^^ John $$
 ^^ John $$
 ^^ can you see what else there be in the box $$
-^^ do she have   a ouch $$
+^^ do she have a bump a ouch $$
 ^^ be you go to kiss her $$
 ^^ kiss her good $$
 ^^ well I do not know where she have her ouch $$
@@ -1208,7 +1232,7 @@
 ^^ well let us do them first so you can see what you be do $$
 ^^ there we be $$
 ^^ two hole for two leg $$
-^^   no $$
+^^ no no no $$
 ^^ on the doll $$
 ^^ yes $$
 ^^ John do it $$
@@ -1236,7 +1260,7 @@
 ^^ it be yes $$
 ^^ they be like trouser $$
 ^^ pajamas yes $$
-^^ they do look  more like pajamas do not they $$
+^^ they do look like more like pajamas do not they $$
 ^^ shall we put a blouse on as_well $$
 ^^ okay $$
 ^^ and the other arm $$
@@ -1290,6 +1314,7 @@
 ^^ that be right $$
 ^^ thank_you $$
 ^^ bite the chicken $$
+^^ mm $$
 ^^ taste $$
 ^^ thank_you $$
 ^^ that be enough $$
@@ -1297,7 +1322,7 @@
 ^^ no more thank_you $$
 ^^ it be nice to ask person if they genmod like some first $$
 ^^ say will you like some chicken $$
-^^  yes $$
+^^ um yes $$
 ^^ I will like some sausage $$
 ^^ thank_you $$
 ^^ yes okay $$
@@ -1332,6 +1357,7 @@
 ^^ it be a good idea $$
 ^^ you cook it then $$
 ^^ be it ready $$
+^^ a $$
 ^^ you be carry it very care $$
 ^^ it must be ready $$
 ^^ thank_you very much John $$
@@ -1340,9 +1366,10 @@
 ^^ you do carry thing very care $$
 ^^ oh $$
 ^^ what be this then $$
+^^ xxx $$
 ^^ cake and chip $$
 ^^ thank_you $$
-^^ it be only when you carry  drink and thing real you have to be very careful but yes $$
+^^ it be only when you carry er drink and thing real you have to be very careful but yes $$
 ^^ thank_you $$
 ^^ very good $$
 ^^ I shall need a plate very soon for all this food John $$
@@ -1355,7 +1382,7 @@
 ^^ right $$
 ^^ thank_you $$
 ^^ oh look $$
-^^ it be get a  $$
+^^ it be get a xxx $$
 ^^ okay $$
 ^^ that will be good $$
 ^^ thanks John $$

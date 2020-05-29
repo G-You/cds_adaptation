@@ -2,11 +2,13 @@
 ^^ what be this $$
 ^^ what be it $$
 ^^ what be it $$
+^^ www $$
 ^^ what be it Ruth $$
+^^ www $$
 ^^ Ruth $$
 ^^ what be we go to play with today $$
 ^^ go go go go go go go $$
-^^    do you want to read this again $$
+^^ do you wanna do you want to read this again $$
 ^^ no $$
 ^^ do you want to read another book again $$
 ^^ tell Anna what this be $$
@@ -15,6 +17,7 @@
 ^^ what be this $$
 ^^ a dodie $$
 ^^ hey $$
+^^ www $$
 ^^ okay $$
 ^^ let us count $$
 ^^ Ruth $$
@@ -71,6 +74,7 @@
 ^^ one two $$
 ^^ that be right $$
 ^^ that be right $$
+^^ www $$
 ^^ have some Pepsi_cola do not you $$
 ^^ you go to MacDonald do not you Ruth $$
 ^^ oh $$
@@ -91,7 +95,7 @@
 ^^ it be a grown book $$
 ^^ that be how grown laugh at child $$
 ^^ oh let us get your book that have the bit to it $$
-^^  where be the one that have bit to it $$
+^^ where's where be the one that have bit to it $$
 ^^ this one $$
 ^^ quiet as a mouse $$
 ^^ come on $$
@@ -105,6 +109,7 @@
 ^^ come on then $$
 ^^ sit down $$
 ^^ quiet $$
+^^ www $$
 ^^ Ruth $$
 ^^ go go go go go go go go go go go go go $$
 ^^ Jamie plant a pumpkin seed $$
@@ -187,10 +192,13 @@
 ^^ no $$
 ^^ okay $$
 ^^ as quiet as a mouse $$
+^^ www $$
 ^^ I listen and I listen and there be not a sound $$
 ^^ no $$
+^^ www $$
 ^^ do your sigh $$
 ^^ do your sigh bite $$
+^^ www $$
 ^^ a giggle $$
 ^^ oh Ruth $$
 ^^ just finish off the book now $$
@@ -198,6 +206,7 @@
 ^^ that worm be get a hat on $$
 ^^ look $$
 ^^ have you ever see a worm with a hat on $$
+^^ www $$
 ^^ be it go $$
 ^^ be it hide $$
 ^^ can you hide $$
@@ -215,11 +224,14 @@
 ^^ sit down $$
 ^^ do the book now $$
 ^^ right $$
+^^ www $$
 ^^ achoo $$
 ^^ achoo $$
+^^ www $$
 ^^ look out $$
 ^^ what be that $$
 ^^ it be a bee be not it $$
+^^ www $$
 ^^ yes $$
 ^^ you do that $$
 ^^ he be blow $$
@@ -228,12 +240,15 @@
 ^^ bee $$
 ^^ two bee $$
 ^^ that be right $$
+^^ www $$
 ^^ go go go go go go $$
 ^^ oh dear $$
 ^^ you be not much fun $$
+^^ www $$
 ^^ shout stop it $$
 ^^ stop it now $$
 ^^ good girl $$
+^^ www $$
 ^^ mhm $$
 ^^ ssh $$
 ^^ what song should we sing $$
@@ -241,6 +256,7 @@
 ^^ Bobby $$
 ^^ spider $$
 ^^ oh right $$
+^^ www $$
 ^^ along come a $$
 ^^ and sit down $$
 ^^ beside her $$
@@ -249,6 +265,7 @@
 ^^ good girl $$
 ^^ shall we do Bobby_Shafto $$
 ^^ spider again $$
+^^ www $$
 ^^ eat her curd and $$
 ^^ whey $$
 ^^ along come a $$
@@ -262,6 +279,8 @@
 ^^ you like that one normal $$
 ^^ we be not in a Bobby_Shafto day $$
 ^^ not today $$
+^^ www $$
+^^ a $$
 ^^ you want to look in there $$
 ^^ we will look a little bit later $$
 ^^ soon $$
@@ -270,8 +289,8 @@
 ^^ be you a choo train $$
 ^^ be you a choo train $$
 ^^ you be not $$
-^^  no $$
-^^     oh dear $$
+^^ no no $$
+^^ oh dear oh dear oh dear $$
 ^^ what be we go to do now $$
 ^^ hey $$
 ^^ will you like to do some $$
@@ -286,6 +305,7 @@
 ^^ what be that $$
 ^^ what be that $$
 ^^ it be not $$
+^^ www $$
 ^^ what be that $$
 ^^ you know what that be $$
 ^^ what be that $$
@@ -297,6 +317,7 @@
 ^^ crow $$
 ^^ that be who he be $$
 ^^ yeah $$
+^^ www $$
 ^^ crow be very jealous $$
 ^^ crow $$
 ^^ he fly to the wise $$
@@ -306,6 +327,7 @@
 ^^ you know who that be $$
 ^^ tell me who that be $$
 ^^ be you tire $$
+^^ www $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ we will look in there very soon $$
@@ -355,7 +377,7 @@
 ^^ do you $$
 ^^ you send that to Daddy do not you $$
 ^^ do you write on the inside of it $$
-^^    what do you do on the inside of it $$
+^^ what did you what do you do on the inside of it $$
 ^^ what do you give him on the inside of it $$
 ^^ what do you give Daddy $$
 ^^ what do you write to Daddy $$
@@ -383,7 +405,7 @@
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ that be not much fun $$
-^^     do you want to build your brick $$
+^^ do you wanna play do you want to build your brick $$
 ^^ I do not trust you $$
 ^^ there $$
 ^^ all ready $$
@@ -395,6 +417,7 @@
 ^^ do you want to see what Anna get in her bag $$
 ^^ well soon $$
 ^^ come to finish up $$
+^^ www $$
 ^^ listen $$
 ^^ let us play some music $$
 ^^ no $$
@@ -423,8 +446,8 @@
 ^^ well $$
 ^^ do she go there $$
 ^^ I be not sure about that pet $$
-^^    let us just get all the one in this one first $$
-^^     let us just  get it all together pet $$
+^^ let's just get let us just get all the one in this one first $$
+^^ let's just get all let us just take get it all together pet $$
 ^^ right $$
 ^^ now where be the next one $$
 ^^ where be the blue sky $$
@@ -433,7 +456,7 @@
 ^^ I think this go $$
 ^^ oh it be ease $$
 ^^ come here $$
-^^  your soldier $$
+^^ xxx your soldier $$
 ^^ where be this one go do you think $$
 ^^ there be one $$
 ^^ there be another one $$
@@ -447,7 +470,7 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^    those be those one darling $$
+^^ those those those those be those one darling $$
 ^^ yes $$
 ^^ that be right $$
 ^^ well it do go in there pet $$
@@ -457,6 +480,7 @@
 ^^ turn this one round $$
 ^^ there $$
 ^^ there we go $$
+^^ www $$
 ^^ there you go $$
 ^^ who be that $$
 ^^ two soldier $$
@@ -466,7 +490,7 @@
 ^^ they genmod be guard will not they $$
 ^^ yeah $$
 ^^ change of the guard at the palace $$
-^^ now  where do this one go $$
+^^ now er where do this one go $$
 ^^ that be the sky $$
 ^^ the sky go on the top $$
 ^^ put the sky on the top $$
@@ -474,6 +498,7 @@
 ^^ be you be pathetic $$
 ^^ there $$
 ^^ good $$
+^^ www $$
 ^^ there be more sky $$
 ^^ put the sky next to the sky $$
 ^^ that be it $$
@@ -507,10 +532,10 @@
 ^^ that be it $$
 ^^ clever $$
 ^^ yeah $$
-^^  no $$
+^^ er no $$
 ^^ I think we be miss a piece pet $$
 ^^ we be miss a piece pet $$
-^^ well  there be the rest of teddy $$
+^^ well there's there be the rest of teddy $$
 ^^ can you see the top of teddy head $$
 ^^ where be teddy there $$
 ^^ can you see teddy $$
@@ -538,7 +563,7 @@
 ^^ and who be that $$
 ^^ mhm $$
 ^^ that be a baba $$
-^^ and  who be that $$
+^^ and who's who be that $$
 ^^ will it go in there $$
 ^^ well get it right way round $$
 ^^ get this the way it go $$
@@ -546,7 +571,7 @@
 ^^ no $$
 ^^ I do not think it go there pet $$
 ^^ all these piece go together somehow $$
-^^  where be his eye $$
+^^ where's where be his eye $$
 ^^ where be his eye $$
 ^^ right $$
 ^^ put his eye next to his mouth $$
@@ -559,7 +584,7 @@
 ^^ oh $$
 ^^ you take the soldier head off $$
 ^^ there $$
-^^ now   where be his tooth $$
+^^ now where's where's where be his tooth $$
 ^^ that his $$
 ^^ what be that $$
 ^^ tail $$
@@ -605,6 +630,7 @@
 ^^ oh dear $$
 ^^ I think his head fall off then do not it $$
 ^^ no $$
+^^ a $$
 ^^ yeah $$
 ^^ that be right $$
 ^^ good $$
@@ -656,13 +682,16 @@
 ^^ just one more arm $$
 ^^ there $$
 ^^ oh $$
+^^ www $$
 ^^ what darling $$
 ^^ no $$
 ^^ you want the helicopter $$
 ^^ what $$
 ^^ two $$
 ^^ two what pet $$
+^^ www $$
 ^^ oh yes $$
+^^ www $$
 ^^ she be not here darling $$
 ^^ she be not come today $$
 ^^ baba be not come today $$
@@ -704,7 +733,7 @@
 ^^ and do you go in the middle $$
 ^^ do you go in the middle $$
 ^^ not you $$
-^^ be it  somebody else $$
+^^ be it another somebody else $$
 ^^ another Ruth $$
 ^^ or be it you $$
 ^^ now what be you do $$
@@ -718,9 +747,10 @@
 ^^ you be hide behind that $$
 ^^ I can see you $$
 ^^ I can see you $$
+^^ a $$
 ^^ I can see you through there $$
 ^^ yeah $$
-^^  what do you want $$
+^^ what what do you want $$
 ^^ teddy be here $$
 ^^ Ruth $$
 ^^ Ruth $$
@@ -728,9 +758,11 @@
 ^^ come here $$
 ^^ oh I have get a fish in my throat $$
 ^^ come on $$
+^^ www $$
 ^^ what be you do $$
 ^^ oh be that what you be after $$
 ^^ you want the helicopter $$
+^^ a $$
 ^^ what do we need $$
 ^^ what be you $$
 ^^ what be you $$
@@ -747,6 +779,7 @@
 ^^ hey $$
 ^^ you be a good doctor too $$
 ^^ mhm $$
+^^ www $$
 ^^ be we go to do any more puzzle $$
 ^^ go go go go go go go $$
 ^^ no $$
@@ -782,6 +815,7 @@
 ^^ no chance $$
 ^^ okay $$
 ^^ bring them through $$
+^^ www $$
 ^^ now listen $$
 ^^ before we start that I genmod like to put these puzzle away $$
 ^^ have you finish with the puzzle $$
@@ -827,7 +861,7 @@
 ^^ Anna drawing $$
 ^^ mhm $$
 ^^ no $$
-^^  no $$
+^^ no no $$
 ^^ just do it with Mummy $$
 ^^ what be we go to draw $$
 ^^ I do not know what that be $$
@@ -851,7 +885,7 @@
 ^^ I draw a eight $$
 ^^ that be a blue eight $$
 ^^ do you want another pencil $$
-^^  here be one Ruth $$
+^^ here here be one Ruth $$
 ^^ what color be that $$
 ^^ and do not say blue before you even think of it $$
 ^^ you just say that all the time $$
@@ -870,7 +904,7 @@
 ^^ you be move your finger $$
 ^^ how can I do it if you keep move your finger $$
 ^^ there $$
-^^    lift up your hand $$
+^^ take your hand lift up your hand $$
 ^^ hey $$
 ^^ that be your hand $$
 ^^ do not move your finger $$
@@ -903,6 +937,8 @@
 ^^ I think they be in the other room pet $$
 ^^ that be all there be up there $$
 ^^ mhm $$
+^^ www $$
+^^ a $$
 ^^ you could have bring the box through $$
 ^^ bring the box in $$
 ^^ that be it $$
@@ -947,7 +983,7 @@
 ^^ Ruth $$
 ^^ please come here pet $$
 ^^ okay $$
-^^ I will hold onto it for you but  I can not draw a picture $$
+^^ I will hold onto it for you but er I can not draw a picture $$
 ^^ look $$
 ^^ look at this $$
 ^^ do you want Mummy to do a tree $$
@@ -987,7 +1023,7 @@
 ^^ it be all stick to your sleeve be not it $$
 ^^ yeah it be $$
 ^^ oh you have start throw them round now $$
-^^  no $$
+^^ no no $$
 ^^ I can not do a b $$
 ^^ careful $$
 ^^ okay $$
@@ -1019,7 +1055,7 @@
 ^^ you be not a very nice girl sometimes $$
 ^^ this be Mummy flower $$
 ^^ leave Mummy flower alone $$
-^^ you    draw your own flower $$
+^^ you draw your own draw your own flower $$
 ^^ draw your own flower $$
 ^^ get away from Mummy flower $$
 ^^ get away $$
@@ -1055,6 +1091,7 @@
 ^^ put nice purple in the middle look $$
 ^^ like that $$
 ^^ and I will put a bit of green down here $$
+^^ xxx $$
 ^^ there $$
 ^^ do you like that $$
 ^^ do you like that $$
@@ -1094,11 +1131,13 @@
 ^^ can you say naughty $$
 ^^ yes $$
 ^^ clever $$
-^^   that be very good $$
+^^ that was that be very good $$
 ^^ naughty $$
+^^ www $$
 ^^ good girl $$
 ^^ be she naughty $$
 ^^ be she naughty $$
+^^ a $$
 ^^ right $$
 ^^ bend over for spank $$
 ^^ what do I say to you about scribble over my flower $$
@@ -1107,7 +1146,7 @@
 ^^ bend over $$
 ^^ hey Ruth $$
 ^^ gentle darling $$
-^^  watch your clothes $$
+^^ watch watch your clothes $$
 ^^ you be spank $$
 ^^ you be naughty be not you $$
 ^^ be you naughty $$
@@ -1134,8 +1173,10 @@
 ^^ what color be that $$
 ^^ I be get feed up of this and I know that you know what color they be now $$
 ^^ those be not face paint $$
+^^ www $$
 ^^ yeah $$
 ^^ that be a tiny one $$
+^^ www $$
 ^^ what color blue $$
 ^^ soon pick it $$
 ^^ we be put them over on the chair be we $$
@@ -1159,6 +1200,7 @@
 ^^ can you say naughty $$
 ^^ naughty $$
 ^^ naughty $$
+^^ www $$
 ^^ what darling $$
 ^^ be you a little French girl $$
 ^^ be you $$
@@ -1172,13 +1214,17 @@
 ^^ what will you like to eat $$
 ^^ what darling $$
 ^^ you want to go $$
+^^ xxx $$
+^^ www $$
 ^^ she go to the fridge so it be obvious some kind of food $$
+^^ www $$
 ^^ be you get all ready $$
 ^^ you will eat one bite of this and then you will decide you do not want it $$
 ^^ listen $$
-^^   can you $$
+^^ can you can you $$
 ^^ I will get a bib for you $$
-^^   do not do anything yet $$
+^^ don't don't do not do anything yet $$
+^^ www $$
 ^^ yeah $$
 ^^ you have that $$
 ^^ be you a little girl $$
@@ -1193,7 +1239,7 @@
 ^^ you be sleep in your own bed be not you $$
 ^^ mhm $$
 ^^ be you sleep in a big bed $$
-^^     what be in your cot the other night $$
+^^ what was in your what be in your cot the other night $$
 ^^ what be in your cot $$
 ^^ a spider $$
 ^^ well I do not think it be a spider $$
@@ -1211,6 +1257,7 @@
 ^^ you will not get into your cot $$
 ^^ just because there be a fly in it $$
 ^^ imagine a big thing like you be afraid of a fly $$
+^^ www $$
 ^^ be that nice $$
 ^^ be you make a mess $$
 ^^ Mummy will clear it up $$
@@ -1270,6 +1317,7 @@
 ^^ out $$
 ^^ Mummy push it in $$
 ^^ yeah $$
+^^ a $$
 ^^ in Anna chair $$
 ^^ no $$
 ^^ Anna in Anna chair $$
@@ -1297,13 +1345,13 @@
 ^^ do Mummy take you out $$
 ^^ and where do she put you $$
 ^^ where do Mummy put you $$
-^^    do Mummy put you back in the cot again $$
+^^ where did Mummy do Mummy put you back in the cot again $$
 ^^ where do she put you $$
 ^^ Mama $$
 ^^ Mummy sleep in there $$
 ^^ you sleep where $$
 ^^ where $$
-^^  do Mummy put you back in the cot $$
+^^ where do Mummy put you back in the cot $$
 ^^ where do she put you $$
 ^^ Mummy bed $$
 ^^ that be right $$
@@ -1366,9 +1414,11 @@
 ^^ they be poor $$
 ^^ oh $$
 ^^ poor eye $$
-^^  poor baba $$
+^^ a $$
+^^ a poor baba $$
 ^^ be they sore $$
 ^^ have she get sore eye $$
+^^ a $$
 ^^ go go go go go go go go $$
 ^^ right $$
 ^^ there $$
@@ -1395,6 +1445,7 @@
 ^^ give her a stroke $$
 ^^ oh $$
 ^^ well you might hurt her if you pat her very hard $$
+^^ a $$
 ^^ right $$
 ^^ be you do that $$
 ^^ oh $$
@@ -1407,6 +1458,7 @@
 ^^ where do you think they be $$
 ^^ where do you think they be $$
 ^^ have she lose her shoe $$
+^^ a $$
 ^^ be they hide $$
 ^^ Ruth $$
 ^^ Ruth $$
@@ -1416,6 +1468,7 @@
 ^^ let us have a look $$
 ^^ no $$
 ^^ oh dear $$
+^^ a $$
 ^^ that be one be not it $$
 ^^ where be the other one $$
 ^^ be it lose $$
@@ -1424,11 +1477,13 @@
 ^^ one shoe $$
 ^^ oh dear $$
 ^^ that be not very good be it $$
+^^ a $$
 ^^ on Mummy knee $$
 ^^ mhm $$
 ^^ go go go go go go go go go $$
 ^^ where be they go Ruth $$
 ^^ where be they go $$
+^^ www $$
 ^^ come on then $$
 ^^ what darling $$
 ^^ her clothes $$
@@ -1448,6 +1503,7 @@
 ^^ on the line be not they $$
 ^^ on the line $$
 ^^ be you go beepbeep $$
+^^ a $$
 ^^ beepbeep $$
 ^^ beepbeep $$
 ^^ beepbeep $$
@@ -1455,8 +1511,9 @@
 ^^ they be twin $$
 ^^ mhm $$
 ^^ be they lie up there $$
-^^    be they sleep $$
+^^ are they lying be they sleep $$
 ^^ what be they do $$
+^^ www $$
 ^^ what be wrong with their eye darling $$
 ^^ what be wrong with their eye $$
 ^^ she fall on her eye $$
@@ -1539,6 +1596,7 @@
 ^^ I have get a very sore eye $$
 ^^ oh I fall on my eye $$
 ^^ oh Mummy have to sleep $$
+^^ going going going going going going going going going going going going going going $$
 ^^ okay $$
 ^^ what $$
 ^^ go go go go go go go go go go go $$
@@ -1557,6 +1615,7 @@
 ^^ it be Anna $$
 ^^ can I turn round this way $$
 ^^ all right $$
+^^ xxx $$
 ^^ and my pillow go $$
 ^^ where be my pillow $$
 ^^ where be my pillow $$
@@ -1581,6 +1640,7 @@
 ^^ what be she do $$
 ^^ ahhah $$
 ^^ yeah $$
+^^ a $$
 ^^ they will be happy now they be together $$
 ^^ where be Bobby $$
 ^^ where be Bobby $$
@@ -1614,7 +1674,7 @@
 ^^ who be that $$
 ^^ yes $$
 ^^ it be Peter_rabbit be not it $$
-^^   who be this rabbit lose $$
+^^ what's this who be this rabbit lose $$
 ^^ what be he lose $$
 ^^ what be he lose $$
 ^^ what do you take off him this morning $$
@@ -1641,7 +1701,7 @@
 ^^ I do not think so $$
 ^^ go go go go go go go go go $$
 ^^ no $$
-^^   his hat do not come off pet $$
+^^ his hat his hat do not come off pet $$
 ^^ no $$
 ^^ it stay on $$
 ^^ what darling $$
@@ -1663,7 +1723,7 @@
 ^^ well what do you think $$
 ^^ you be almost right there pet $$
 ^^ you take it again $$
-^^  no $$
+^^ no no $$
 ^^ not that piece $$
 ^^ these two piece do go together $$
 ^^ no $$
@@ -1676,7 +1736,7 @@
 ^^ not yet $$
 ^^ let us find the rest of the piece then $$
 ^^ where be the rest of them $$
-^^ find the rest of the  sky $$
+^^ find the rest of the um sky $$
 ^^ find the rest of the sky $$
 ^^ there $$
 ^^ that be clever $$
@@ -1688,7 +1748,7 @@
 ^^ that be right $$
 ^^ good girl $$
 ^^ good girl $$
-^^  no $$
+^^ er no $$
 ^^ no $$
 ^^ that be not $$
 ^^ there be two teddy $$
@@ -1741,12 +1801,12 @@
 ^^ that be very good $$
 ^^ that be very good $$
 ^^ mhm $$
-^^   what be this $$
+^^ get out what be this $$
 ^^ this be the cat be not it $$
 ^^ cat $$
 ^^ that be right $$
 ^^ right $$
-^^  get all the cat out so you know where you be $$
+^^ get get all the cat out so you know where you be $$
 ^^ be that all the cat there $$
 ^^ there $$
 ^^ be that it $$
@@ -1762,6 +1822,7 @@
 ^^ be they go in the wash machine $$
 ^^ where be they go $$
 ^^ in the wash machine $$
+^^ www $$
 ^^ where do you put them $$
 ^^ where do you put them $$
 ^^ where do you put them $$
@@ -1813,8 +1874,8 @@
 ^^ you can come to me shop $$
 ^^ all right $$
 ^^ okay $$
-^^ and   I will be a shop and you ask for something $$
-^^ and I say  $$
+^^ and I'll say I will be a shop and you ask for something $$
+^^ and I say xxx $$
 ^^ I will give you some money as_well right $$
 ^^ there you go $$
 ^^ I will give you some money to go shop with $$
@@ -1829,7 +1890,7 @@
 ^^ you come through the door $$
 ^^ then you can come and buy $$
 ^^ excuse me please $$
-^^ this be  my shop $$
+^^ this be my my shop $$
 ^^ will you like something $$
 ^^ be you come shop $$
 ^^ right $$
@@ -1837,10 +1898,10 @@
 ^^ you want some pea $$
 ^^ well I will just check and see do I have any here then $$
 ^^ let me see $$
-^^  no pea $$
+^^ er no pea $$
 ^^ will cabbage do $$
 ^^ pea $$
-^^  no $$
+^^ er no $$
 ^^ no pea $$
 ^^ no pea $$
 ^^ excuse me please $$
@@ -1866,7 +1927,7 @@
 ^^ okay $$
 ^^ what else will you like $$
 ^^ will you like some chicken $$
-^^ oh I get some money for  nothing $$
+^^ oh I get some money for er nothing $$
 ^^ thank_you $$
 ^^ what else will you like $$
 ^^ what do you want $$
@@ -1883,6 +1944,7 @@
 ^^ what be it $$
 ^^ excuse me please $$
 ^^ a tin of salmon $$
+^^ www $$
 ^^ it be not $$
 ^^ you be buy the grocery $$
 ^^ you be buy the grocery $$
@@ -1911,6 +1973,7 @@
 ^^ well I will have to give you pretend pea $$
 ^^ there be some pea $$
 ^^ there you go $$
+^^ mm $$
 ^^ delicious pea $$
 ^^ be they dirt $$
 ^^ pea be dirt $$
@@ -1918,7 +1981,7 @@
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ other way darling $$
-^^  no $$
+^^ no no $$
 ^^ you have the right side $$
 ^^ put this one on top $$
 ^^ no $$
@@ -1931,7 +1994,8 @@
 ^^ good girl $$
 ^^ whee $$
 ^^ I be just about to complain to Anna that this be not good enough $$
-^^    push this one down $$
+^^ xxx $$
+^^ put this one push this one down $$
 ^^ like that $$
 ^^ there $$
 ^^ no $$
@@ -1958,6 +2022,7 @@
 ^^ blue $$
 ^^ what color be that $$
 ^^ blue baba $$
+^^ www $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
@@ -2035,6 +2100,7 @@
 ^^ who go in a train though $$
 ^^ who do you know that go in a train $$
 ^^ you go on a train $$
+^^ www $$
 ^^ you think you be go on a plane on holiday do not you $$
 ^^ do not you $$
 ^^ do you want to go on your holiday $$
@@ -2084,6 +2150,7 @@
 ^^ push it up $$
 ^^ that be it $$
 ^^ now you have get it $$
+^^ www $$
 ^^ be you too busy $$
 ^^ what do eat spaghetti make you do $$
 ^^ make you laugh do not it $$
@@ -2129,6 +2196,7 @@
 ^^ that be a very neat little line you be make there $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ real $$
+^^ www $$
 ^^ Ruth $$
 ^^ be you a good girl or a naughty girl $$
 ^^ be you $$
@@ -2169,14 +2237,16 @@
 ^^ be Mummy ever naughty $$
 ^^ no $$
 ^^ never ever naughty $$
-^^   what do you do when Mummy get mad and shout $$
+^^ what what what do you do when Mummy get mad and shout $$
 ^^ you be naughty $$
+^^ www $$
+^^ going going going going going going going going going going going going going $$
 ^^ a little farm $$
 ^^ or a house $$
 ^^ go go go go go go $$
 ^^ go go go go go go $$
 ^^ Nana $$
-^^     what be you make $$
+^^ what're you going to what be you make $$
 ^^ a house $$
 ^^ good girl $$
 ^^ what kind of house $$
@@ -2206,7 +2276,7 @@
 ^^ you keep building $$
 ^^ now do we want a door $$
 ^^ what else be in a house $$
-^^  a house $$
+^^ xxx a house $$
 ^^ this can be our door $$
 ^^ this will be our door $$
 ^^ you be fill in the door $$

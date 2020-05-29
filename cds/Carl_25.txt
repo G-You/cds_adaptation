@@ -142,7 +142,7 @@
 ^^ just use it anyway $$
 ^^ oh what be you do now $$
 ^^ that be good $$
-^^ we can not see   the scribble then can we $$
+^^ we can not see the writing the scribble then can we $$
 ^^ much good yeah $$
 ^^ terrible $$
 ^^ oh dear $$
@@ -155,9 +155,9 @@
 ^^ let us see if we can get it off $$
 ^^ well you just get another one $$
 ^^ let us just see if this will come off $$
-^^ no I think it be  $$
+^^ no I think it be er $$
 ^^ no $$
-^^ too far  go $$
+^^ too far er go $$
 ^^ you try $$
 ^^ what do you say $$
 ^^ slide $$
@@ -181,7 +181,7 @@
 ^^ it be a cat $$
 ^^ where be it $$
 ^^ be it in the garden $$
-^^ it be  it be not here $$
+^^ it be not it be not here $$
 ^^ what noise be it make $$
 ^^ what noise be it make $$
 ^^ it be make a water noise $$
@@ -223,6 +223,7 @@
 ^^ be that green $$
 ^^ be that a fun color that one $$
 ^^ well it be get a green lid $$
+^^ www $$
 ^^ no what color be that one $$
 ^^ that one not blue $$
 ^^ what color be that one $$
@@ -288,7 +289,7 @@
 ^^ it be purple $$
 ^^ you want to see what pink look like $$
 ^^ I do not know whether we have get a pink one $$
-^^ see  that be pink $$
+^^ see that's that be pink $$
 ^^ there be pink $$
 ^^ look that one pink $$
 ^^ you have not get a pink one $$
@@ -349,7 +350,7 @@
 ^^ it be a rain $$
 ^^ and you just put the finish touch on $$
 ^^ you sing a rain $$
-^^ shall we     put some of the lid back on $$
+^^ shall we put some of the put some of the lid back on $$
 ^^ Carl $$
 ^^ come on now $$
 ^^ what be Mummy say about just keep them all everywhere $$
@@ -394,7 +395,7 @@
 ^^ be they swim $$
 ^^ well find it $$
 ^^ it will be in that box $$
-^^ well put your hand in and move  the box about $$
+^^ well put your hand in and move the the box about $$
 ^^ have you get something in your eye $$
 ^^ what be the matter with your eye Carl $$
 ^^ be it sore $$
@@ -425,7 +426,7 @@
 ^^ clever boy $$
 ^^ clever boy $$
 ^^ that be green $$
-^^   what be this now $$
+^^ what's this what be this now $$
 ^^ be it a big road $$
 ^^ right okay $$
 ^^ Mummy help you $$
@@ -449,7 +450,7 @@
 ^^ hold it flat like that $$
 ^^ oh sorry Carl $$
 ^^ oh you be try real hard there $$
-^^  it be not do it for you be it $$
+^^ a it be not do it for you be it $$
 ^^ oh do not get frustrate $$
 ^^ come on $$
 ^^ try again $$
@@ -608,7 +609,7 @@
 ^^ right where be I go $$
 ^^ come on $$
 ^^ what be I do $$
-^^   what be we get $$
+^^ what're we what be we get $$
 ^^ oh $$
 ^^ poor Mummy $$
 ^^ up down up down $$
@@ -669,13 +670,13 @@
 ^^ look there be a pilot $$
 ^^ look can you see him $$
 ^^ see the little man $$
-^^ he be  what be he get on his head look $$
+^^ he be got what be he get on his head look $$
 ^^ what be that $$
 ^^ he be in the plane $$
 ^^ look he be get his hat on $$
 ^^ yeah $$
 ^^ can you see $$
-^^     be there a man in yours $$
+^^ is there a man be there a man in yours $$
 ^^ be there a man in that one $$
 ^^ I know there be a little man in the policecar $$
 ^^ look look $$
@@ -734,6 +735,7 @@
 ^^ oh dear $$
 ^^ you need your nose wipe $$
 ^^ I think you do $$
+^^ www $$
 ^^ right here we go $$
 ^^ right slow down $$
 ^^ stop $$
@@ -744,7 +746,7 @@
 ^^ oh dear $$
 ^^ have you get a cough as_well $$
 ^^ do you want some medicine $$
-^^  Annie and Clarabell $$
+^^ Annabel Annie and Clarabell $$
 ^^ be that right $$
 ^^ right Carl $$
 ^^ be you go to be able to do this without spill it $$
@@ -854,6 +856,7 @@
 ^^ grr $$
 ^^ you put him there $$
 ^^ put him there then $$
+^^ xxx $$
 ^^ oh look at this one $$
 ^^ look at this one $$
 ^^ grr $$
@@ -876,20 +879,20 @@
 ^^ they want to take you out tomorrow $$
 ^^ be you listen to me $$
 ^^ yeah you listen to me $$
-^^ they be go to take you to see   the baby pig on the farm $$
+^^ they be go to take you to see the little the baby pig on the farm $$
 ^^ and the horse $$
 ^^ you just do not care do you $$
 ^^ hm $$
 ^^ you listen to me $$
 ^^ Granddad be go to come tomorrow $$
 ^^ take Carl out $$
-^^ they might not take you    if you do not show any enthusiasm $$
+^^ they might not take you if you're not if you do not show any enthusiasm $$
 ^^ you just want to go around $$
 ^^ okay $$
 ^^ all right $$
 ^^ come on $$
 ^^ come on yourself $$
-^^   be that dinosaur have a drink $$
+^^ that's that be that dinosaur have a drink $$
 ^^ he be not do $$
 ^^ now what be he do $$
 ^^ he be go grr $$
@@ -907,7 +910,7 @@
 ^^ cup of tea $$
 ^^ and what else $$
 ^^ what else have he get Carl $$
-^^ do   they not fix together $$
+^^ do they not they not fix together $$
 ^^ there you go $$
 ^^ where be Percy go $$
 ^^ he be go to work be he $$
@@ -949,7 +952,7 @@
 ^^ what do he do one day $$
 ^^ he be play with the truck be he $$
 ^^ and then what do he do $$
-^^ Ben be  go to get more truck $$
+^^ Ben be got go to get more truck $$
 ^^ good $$
 ^^ right $$
 ^^ who be on the track $$
@@ -987,6 +990,7 @@
 ^^ Thomas good bring the breakdown train $$
 ^^ oh he can not go that way can he $$
 ^^ have to go this way $$
+^^ xxx $$
 ^^ right $$
 ^^ Thomas go and help Percy $$
 ^^ oh that be it $$
@@ -998,6 +1002,7 @@
 ^^ Percy happy $$
 ^^ be he smile $$
 ^^ mhm $$
+^^ www $$
 ^^ grr $$
 ^^ a big dinosaur be not there $$
 ^^ that be a stegosaurus $$
@@ -1075,6 +1080,7 @@
 ^^ can I have a kiss $$
 ^^ see you later $$
 ^^ I will go and buy some truck $$
+^^ www $$
 ^^ and Edward $$
 ^^ well only if you be a nice good boy $$
 ^^ okay byebye $$
@@ -1107,7 +1113,7 @@
 ^^ I see $$
 ^^ whoops $$
 ^^ be care $$
-^^ oh   he be lose the carriage $$
+^^ oh he's lost he be lose the carriage $$
 ^^ where be the station $$
 ^^ Percy go to the station $$
 ^^ look there be the station $$

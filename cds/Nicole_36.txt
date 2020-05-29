@@ -9,7 +9,7 @@
 ^^ yes $$
 ^^ I know you be go out soon $$
 ^^ but you be not go out yet $$
-^^ you be go to see  Nana be not you $$
+^^ you be go to see um Nana be not you $$
 ^^ Nana and Grandad $$
 ^^ with Daddy $$
 ^^ but you be not go yet because Nana not home $$
@@ -36,6 +36,7 @@
 ^^ I can not hear you $$
 ^^ they do do they $$
 ^^ do you want some more medicine to take the itch away $$
+^^ xxx $$
 ^^ yeah $$
 ^^ okay $$
 ^^ just get you some more medicine $$
@@ -69,7 +70,7 @@
 ^^ no $$
 ^^ you be go the wrong way $$
 ^^ that be why you be not do anything $$
-^^  will you like me to show you $$
+^^ would will you like me to show you $$
 ^^ yeah $$
 ^^ that will be a good idea will not it $$
 ^^ instead of do it all wrong $$
@@ -97,9 +98,9 @@
 ^^ just roll it backwards and forwards $$
 ^^ no need to do all that business $$
 ^^ do not get you anywhere do it $$
-^^ apart from  make a mess $$
+^^ apart from make make a mess $$
 ^^ there $$
-^^ stick that  back in there $$
+^^ stick that xxx back in there $$
 ^^ no $$
 ^^ you be not roll it Nicole $$
 ^^ that be where your problem come $$
@@ -113,7 +114,7 @@
 ^^ like that $$
 ^^ and back $$
 ^^ roll it $$
-^^  use your hand and roll it $$
+^^ use use your hand and roll it $$
 ^^ that be it $$
 ^^ and again $$
 ^^ that be it $$
@@ -207,10 +208,10 @@
 ^^ thank_you $$
 ^^ it be age since we have play with the play be not it $$
 ^^ what be you do $$
-^^ he be downstairs make a  $$
+^^ he be downstairs make a xxx $$
 ^^ because he need to ring somebody up $$
 ^^ can you cut your sausage up $$
-^^    can you count the piece be you be cut them $$
+^^ can you count can you count the piece be you be cut them $$
 ^^ one $$
 ^^ five $$
 ^^ say five $$
@@ -226,7 +227,7 @@
 ^^ give it a good squelch down $$
 ^^ yeah $$
 ^^ now $$
-^^  with you do that look $$
+^^ you with you do that look $$
 ^^ you have make those two one have not you $$
 ^^ because you have squash them down together $$
 ^^ they be two piece $$
@@ -278,7 +279,7 @@
 ^^ something $$
 ^^ we be go to have play for dinner be we $$
 ^^ oh $$
-^^ will not that be  $$
+^^ will not that be spiffing $$
 ^^ only pretend dinner be it $$
 ^^ can I make something $$
 ^^ oh dear $$
@@ -294,8 +295,8 @@
 ^^ take it out_of your mouth now $$
 ^^ oh $$
 ^^ can not I have any at all $$
-^^  that be not the play $$
-^^  that be blue $$
+^^ that that be not the play $$
+^^ that that be blue $$
 ^^ it be a lot heavy than play look $$
 ^^ oh dear $$
 ^^ will not you let me show you $$
@@ -455,7 +456,7 @@
 ^^ what do mhm mean $$
 ^^ mhm $$
 ^^ that be it $$
-^^ you take all the   blue off $$
+^^ you take all the play off blue off $$
 ^^ be you take everything off the wall then $$
 ^^ right $$
 ^^ okay $$
@@ -480,9 +481,9 @@
 ^^ what be we go to do after we have do this $$
 ^^ we have take all your picture off the wall $$
 ^^ what do you want to do next $$
-^^  well $$
+^^ just well $$
 ^^ we have just rung have not we $$
-^^ and   Nana not home yet $$
+^^ and Gran Grandma Nana not home yet $$
 ^^ so $$
 ^^ what shall we do $$
 ^^ shall we make some cheese scone for lunch $$
@@ -512,7 +513,7 @@
 ^^ do you want to wee $$
 ^^ where be you go $$
 ^^ you be not $$
-^^  not in sweet $$
+^^ not not in sweet $$
 ^^ they be not $$
 ^^ I ring up $$
 ^^ I will take you when they be in $$
@@ -524,7 +525,7 @@
 ^^ sit there look $$
 ^^ it be not medicine $$
 ^^ this be not medicine $$
-^^  just put your arm up $$
+^^ just just put your arm up $$
 ^^ this be call Calomine_lotion $$
 ^^ I be go to dab it on your spot $$
 ^^ it will help stop them itch $$
@@ -537,7 +538,7 @@
 ^^ oh $$
 ^^ you silly $$
 ^^ it do not hurt $$
-^^ and I be go to give you some  more of that medicine that stop you itch as_well $$
+^^ and I be go to give you some of more of that medicine that stop you itch as_well $$
 ^^ okay $$
 ^^ what do you have to eat at the party $$
 ^^ nothing $$
@@ -580,7 +581,7 @@
 ^^ oh $$
 ^^ go go go go go go go go go go go $$
 ^^ okay $$
-^^  do you want some lemonade or do you want some drink chocolate $$
+^^ do do you want some lemonade or do you want some drink chocolate $$
 ^^ right $$
 ^^ can you sit up here then $$
 ^^ alright then $$
@@ -638,7 +639,7 @@
 ^^ you can put this in the car can not you $$
 ^^ for when we go on holiday $$
 ^^ you do not open it $$
-^^  let Mummy show you look $$
+^^ let let Mummy show you look $$
 ^^ now $$
 ^^ you have get to get the picture like that $$
 ^^ so if Mummy do $$
@@ -647,7 +648,7 @@
 ^^ it be not a very good one either $$
 ^^ that be it $$
 ^^ right $$
-^^ let us see if you can get it  back right for Mummy $$
+^^ let us see if you can get it right back right for Mummy $$
 ^^ shall I show you $$
 ^^ you push that up there look $$
 ^^ oh $$
@@ -674,7 +675,7 @@
 ^^ right $$
 ^^ and you can color those in $$
 ^^ that make a pretty face $$
-^^ do you want Mummy to show you what  that can do $$
+^^ do you want Mummy to show you what that that can do $$
 ^^ and then there be some game here look $$
 ^^ you like these $$
 ^^ pick a kite $$
@@ -692,6 +693,7 @@
 ^^ who be fly this one $$
 ^^ round we go $$
 ^^ round $$
+^^ xxx $$
 ^^ there you go $$
 ^^ no $$
 ^^ there be always one miss $$
@@ -705,7 +707,7 @@
 ^^ put it away now $$
 ^^ shall I do the dot for you and see $$
 ^^ hey $$
-^^ shall we look for  the number on the dot $$
+^^ shall we look for the the number on the dot $$
 ^^ see what $$
 ^^ no $$
 ^^ do not you want to do that either $$
@@ -714,6 +716,7 @@
 ^^ I have roll it up $$
 ^^ oh dear $$
 ^^ this way $$
+^^ xxx $$
 ^^ that right $$
 ^^ well $$
 ^^ that way then $$
@@ -736,7 +739,7 @@
 ^^ why be I surprise at that $$
 ^^ hm $$
 ^^ where do you bump your head $$
-^^  I know where your head be $$
+^^ I I know where your head be $$
 ^^ I mean where do you bump your head $$
 ^^ yeah $$
 ^^ but where $$
@@ -787,7 +790,7 @@
 ^^ no $$
 ^^ close the door proper for me $$
 ^^ close the door proper look $$
-^^ pull that  $$
+^^ pull that xxx $$
 ^^ push it in like that $$
 ^^ yes $$
 ^^ push that one in $$
@@ -819,7 +822,7 @@
 ^^ I do not know who that be either $$
 ^^ do not ask me because I do not know $$
 ^^ I only know who Captain_Coconut be $$
-^^ that look like  a turkey actual $$
+^^ that look like a a turkey actual $$
 ^^ I do not know Nicole $$
 ^^ they $$
 ^^ well $$
@@ -901,10 +904,11 @@
 ^^ and I have get to cut them all $$
 ^^ they be long $$
 ^^ I do not realize they be as long as this $$
+^^ xxx $$
 ^^ what be the matter $$
 ^^ there please Nicole what $$
 ^^ mhm $$
-^^ I think you have  chicken Nicole $$
+^^ I think you have xxx chicken Nicole $$
 ^^ either that or a flea bite $$
 ^^ from the pussy $$
 ^^ have it $$
@@ -953,6 +957,7 @@
 ^^ it be not $$
 ^^ this be nice paper be not it $$
 ^^ what dog be on there $$
+^^ www $$
 ^^ pardon $$
 ^^ be they puppy $$
 ^^ you have get those puppy on a pair of pajamas have not you $$
@@ -995,7 +1000,7 @@
 ^^ yeah $$
 ^^ and it be very nice be not it $$
 ^^ no $$
-^^  I pay but I pay with your money $$
+^^ I I pay but I pay with your money $$
 ^^ why $$
 ^^ because you tell me to $$
 ^^ because you will not give the lady your money $$
@@ -1004,7 +1009,7 @@
 ^^ can not you reach $$
 ^^ well $$
 ^^ she genmod have bend down will not she and take it from you $$
-^^    she could bend down and take your money from you $$
+^^ she could bent she could bend down and take your money from you $$
 ^^ if you could not reach up $$
 ^^ why $$
 ^^ because she be like that $$
@@ -1019,7 +1024,7 @@
 ^^ it will come off in the bath will not it $$
 ^^ that will teach you to glue your leg up $$
 ^^ mhm $$
-^^     you have that puppy tape do not you $$
+^^ you had some puppy you have that puppy tape do not you $$
 ^^ do you like the noise that make $$
 ^^ mhm $$
 ^^ just get that one because it be come off $$
@@ -1027,14 +1032,14 @@
 ^^ you $$
 ^^ you always come back wear more paint than actual get on your picture $$
 ^^ your paint $$
-^^     do not they take your cardigan off $$
+^^ don't they take your do not they take your cardigan off $$
 ^^ it be dirt $$
 ^^ yes $$
 ^^ it be get paint on it $$
-^^  do not your teach take your cardigan off when you paint $$
+^^ don't do not your teach take your cardigan off when you paint $$
 ^^ Jean do do she $$
 ^^ Jean be not there today be she $$
-^^   Jean be at creche today be not she $$
+^^ Jean was Jean be at creche today be not she $$
 ^^ well $$
 ^^ I presume because she want to go there $$
 ^^ not to play $$
@@ -1053,7 +1058,7 @@
 ^^ no $$
 ^^ do not bother $$
 ^^ mhm $$
-^^ go to  count your money again $$
+^^ go to get count your money again $$
 ^^ how many penny have you get $$
 ^^ you count them then $$
 ^^ oh $$
@@ -1088,7 +1093,7 @@
 ^^ you have do it $$
 ^^ hm $$
 ^^ now $$
-^^ how come have you get glue  round there $$
+^^ how come have you get glue there round there $$
 ^^ we will get it off in a bath tonight you mean $$
 ^^ now $$
 ^^ how do you get glue down there $$
@@ -1184,10 +1189,13 @@
 ^^ say it proper $$
 ^^ a sea $$
 ^^ sea $$
+^^ www $$
+^^ www $$
 ^^ be you go to have a biscuit $$
 ^^ be you go to offer Caroline one $$
 ^^ mhm $$
 ^^ offer Caroline one $$
+^^ www $$
 ^^ do not rip it $$
 ^^ hold it by the bottom $$
 ^^ there $$
@@ -1202,15 +1210,16 @@
 ^^ what be that $$
 ^^ it be the man $$
 ^^ it be the man cut the hedge $$
-^^ or  cut the grass verge should I say $$
+^^ or cutting cut the grass verge should I say $$
 ^^ not the hedge $$
 ^^ why $$
 ^^ because it be long $$
 ^^ want cut $$
 ^^ and he be get those thing on his ear so he can not hear the noise $$
-^^ and those special glass on so the  grass do not fly in his face and hurt him $$
+^^ and those special glass on so the grass grass do not fly in his face and hurt him $$
 ^^ and that man get the weed kill $$
 ^^ the other man $$
+^^ www $$
 ^^ want another biscuit $$
 ^^ yes what $$
 ^^ have they go $$
@@ -1231,6 +1240,7 @@
 ^^ which be it $$
 ^^ Peter_had_tune or Wheels_on_bus $$
 ^^ do not know that one $$
+^^ www $$
 ^^ that be right $$
 ^^ well do $$
 ^^ you drive your daddy mad last week with that song do not you $$
@@ -1256,6 +1266,7 @@
 ^^ what be the matter $$
 ^^ want to wee $$
 ^^ tablet $$
+^^ xxx $$
 ^^ they be just tablet $$
 ^^ they be what your daddy have when he have a sore throat $$
 ^^ here $$
@@ -1265,6 +1276,7 @@
 ^^ there $$
 ^^ there be the other one $$
 ^^ you be not look at that because they be all the same $$
+^^ www $$
 ^^ what be the matter $$
 ^^ oh $$
 ^^ do not be so dirt $$
@@ -1343,11 +1355,13 @@
 ^^ that be confuse now be not it $$
 ^^ which be my right and which be my left now $$
 ^^ what be that one $$
+^^ www $$
 ^^ yes $$
 ^^ good girl $$
 ^^ oh $$
 ^^ be you cracker $$
 ^^ you be cracker $$
+^^ xxx $$
 ^^ be not you $$
 ^^ oh $$
 ^^ this your game be it $$
@@ -1375,9 +1389,13 @@
 ^^ no $$
 ^^ I do not $$
 ^^ you be go to what $$
+^^ www $$
 ^^ put them in the freeze $$
+^^ www $$
 ^^ yeah $$
 ^^ get the plug out then $$
+^^ xxx $$
+^^ www $$
 ^^ want some water in there $$
 ^^ that be your what $$
 ^^ put it in and put it out again be it $$
@@ -1397,6 +1415,7 @@
 ^^ you do not have to fill it up $$
 ^^ if I put more water in it will fill up $$
 ^^ let me just pop some more water in $$
+^^ www $$
 ^^ here look $$
 ^^ let me show you what $$
 ^^ you have to keep pump $$
@@ -1407,6 +1426,7 @@
 ^^ well $$
 ^^ it will lie down I suppose $$
 ^^ but not to do what you do in the bath $$
+^^ xxx $$
 ^^ what do you want to do now $$
 ^^ hm $$
 ^^ what will you like to play with now $$
@@ -1426,6 +1446,7 @@
 ^^ no $$
 ^^ you have to have it flat do not you on the bottom $$
 ^^ otherwise it will not pump the water up $$
+^^ www $$
 ^^ go on then $$
 ^^ off you go $$
 ^^ no $$
@@ -1447,7 +1468,7 @@
 ^^ look $$
 ^^ go down $$
 ^^ it be go back into the bath $$
-^^ because we be not pump it so it be go  back down again $$
+^^ because we be not pump it so it be go down back down again $$
 ^^ have to keep pump it to keep the water up look $$
 ^^ watch $$
 ^^ down $$
@@ -1456,6 +1477,7 @@
 ^^ be your hand dirt $$
 ^^ a fetish about clean hand you have $$
 ^^ do you want me to fill it up $$
+^^ www $$
 ^^ be that enough $$
 ^^ say when $$
 ^^ do you want some pot to wash $$
@@ -1475,7 +1497,7 @@
 ^^ because you have be play with it and it be get soap in the water and all sort $$
 ^^ it be dirt water now $$
 ^^ pardon $$
-^^  yeah $$
+^^ um yeah $$
 ^^ you have wash the pot with it have not you so it be dirt water $$
 ^^ enough wrong with you without get typhoid as_well $$
 ^^ think I genmod good get you a pin and you could wash up everyday $$
@@ -1485,17 +1507,20 @@
 ^^ why not $$
 ^^ mhm $$
 ^^ mhm $$
+^^ www $$
 ^^ what do you want to pour that in $$
 ^^ oh $$
 ^^ well do $$
 ^^ be you go to dry them $$
 ^^ oh right $$
 ^^ your cloth $$
+^^ xxx $$
 ^^ yeah $$
 ^^ that be right $$
 ^^ yes $$
 ^^ that be right $$
 ^^ good $$
+^^ www $$
 ^^ good girl $$
 ^^ you have be watch have not you $$
 ^^ and learn $$
@@ -1517,7 +1542,7 @@
 ^^ other way $$
 ^^ towards you $$
 ^^ towards you $$
-^^  you be close it then with your hand $$
+^^ you you be close it then with your hand $$
 ^^ do you want to get some water out $$
 ^^ twist it towards you $$
 ^^ yeah $$
@@ -1566,11 +1591,12 @@
 ^^ those $$
 ^^ look $$
 ^^ those first three toe have go straight $$
+^^ www $$
 ^^ have you do it now $$
 ^^ very good $$
 ^^ job well do that be not it $$
 ^^ careful $$
-^^  do not lean back $$
+^^ don't do not lean back $$
 ^^ go go go go go go go go go go go $$
 ^^ go go go go go go go go go go go go $$
 ^^ do we $$
@@ -1583,7 +1609,7 @@
 ^^ be you go to do it on your own then $$
 ^^ oh $$
 ^^ Caroline $$
-^^  need this look $$
+^^ need need this look $$
 ^^ no $$
 ^^ look $$
 ^^ look $$
@@ -1730,11 +1756,13 @@
 ^^ and what color be that $$
 ^^ that be purple $$
 ^^ and what fruit be that $$
-^^ what fruit be  this Nicole $$
+^^ what fruit be these this Nicole $$
 ^^ what fruit be it $$
+^^ xxx $$
 ^^ not apple $$
 ^^ they be grape $$
 ^^ oh dear $$
+^^ www $$
 ^^ do it $$
 ^^ that hurt $$
 ^^ hm $$
@@ -1782,7 +1810,7 @@
 ^^ caterpillar be get lot and lots_of little leg $$
 ^^ where a worm do not have leg $$
 ^^ hm $$
-^^ caterpillar be get antennae and   worm do not have antennae $$
+^^ caterpillar be get antennae and worm don't worm do not have antennae $$
 ^^ well $$
 ^^ I do not know why $$
 ^^ you will have to ask God when you see him $$
@@ -1797,7 +1825,7 @@
 ^^ well $$
 ^^ go on the settee then $$
 ^^ you can get on the settee $$
-^^ what color be this look  the necklace $$
+^^ what color be this look the the necklace $$
 ^^ what color be the necklace $$
 ^^ well $$
 ^^ look at it $$
@@ -1810,7 +1838,7 @@
 ^^ windmill $$
 ^^ where be your windmill $$
 ^^ I have take it upstairs with your shop trolley out the way $$
-^^  you get yourself comfy will not you $$
+^^ get you get yourself comfy will not you $$
 ^^ what color be this necklace Nicole $$
 ^^ look at the color $$
 ^^ have you lose your concentration $$
@@ -1869,7 +1897,7 @@
 ^^ get them out $$
 ^^ uhhum $$
 ^^ no $$
-^^  put them in there $$
+^^ put put them in there $$
 ^^ shall I get the puzzle out for you $$
 ^^ be not you go to get the puzzle out $$
 ^^ in there $$
@@ -1886,7 +1914,7 @@
 ^^ get Caroline toy out $$
 ^^ oh right $$
 ^^ can not they real $$
-^^  I be go to $$
+^^ I I be go to $$
 ^^ hang on $$
 ^^ she be go to do $$
 ^^ any second now $$
@@ -1909,9 +1937,11 @@
 ^^ hm $$
 ^^ hm $$
 ^^ she be fast asleep be not she $$
-^^  she miss us do not $$
+^^ she she miss us do not $$
+^^ xxx $$
 ^^ no $$
 ^^ we will have to give it to Mummy $$
+^^ xxx $$
 ^^ a knife $$
 ^^ mhm $$
 ^^ and that side $$
@@ -1919,6 +1949,7 @@
 ^^ wow $$
 ^^ oh $$
 ^^ be not they love $$
+^^ www $$
 ^^ oh look $$
 ^^ something else in here as_well $$
 ^^ play $$
@@ -1927,6 +1958,8 @@
 ^^ oh wow $$
 ^^ real play $$
 ^^ we have never have real play $$
+^^ xxx $$
+^^ www $$
 ^^ there $$
 ^^ oh $$
 ^^ smell nice $$
@@ -1935,27 +1968,31 @@
 ^^ what say ow for $$
 ^^ because it hurt $$
 ^^ course it be real $$
+^^ um $$
 ^^ it be $$
 ^^ I do not real know $$
-^^ I think Mummy will have to    show you how to do it $$
-^^  I do not know $$
+^^ I think Mummy will have to tell you teach show you how to do it $$
+^^ um I do not know $$
 ^^ go go go go go go go go go go $$
 ^^ and learn about out $$
 ^^ then I can teach you $$
+^^ www $$
 ^^ do you still feel sick Nicole $$
 ^^ pardon $$
 ^^ no $$
+^^ www $$
 ^^ yeah $$
 ^^ they have all get their own pot to go in $$
 ^^ oh $$
 ^^ we can make little man look $$
 ^^ say we can make them $$
 ^^ yes $$
-^^   what you do look $$
+^^ what you what you do look $$
 ^^ do you want a green man a white man or a yellow man $$
 ^^ oh $$
 ^^ look at that $$
 ^^ that be nice be not it $$
+^^ xxx $$
 ^^ I need to see $$
 ^^ I be just look for something $$
 ^^ that $$
@@ -1970,6 +2007,7 @@
 ^^ oh $$
 ^^ you put that on there $$
 ^^ it should squirt out should not it $$
+^^ www $$
 ^^ no $$
 ^^ you have get to put that $$
 ^^ you have get put it in there look $$
@@ -2007,6 +2045,7 @@
 ^^ yeah $$
 ^^ that be right $$
 ^^ but they need to go in the fridge first $$
+^^ www $$
 ^^ well $$
 ^^ let us just put them in the fridge shall we $$
 ^^ for two or three minute $$
@@ -2029,17 +2068,20 @@
 ^^ I can not do anything about the noise $$
 ^^ it be outside Nicole $$
 ^^ there $$
+^^ xxx $$
 ^^ be you go to push that in there look and make some shape $$
 ^^ mhm $$
 ^^ what $$
 ^^ what we happen $$
 ^^ I do not know $$
 ^^ what will happen you mean $$
+^^ www $$
 ^^ well $$
 ^^ we will have to wait and see will not we $$
 ^^ I know $$
 ^^ I do not either $$
 ^^ it will stop soon will not it $$
+^^ www $$
 ^^ it be only just start have not it $$
 ^^ now there $$
 ^^ if you push that in there like that look $$
@@ -2057,7 +2099,7 @@
 ^^ yeah $$
 ^^ put it on there like that then $$
 ^^ there $$
-^^   push it through $$
+^^ push it push it through $$
 ^^ push it right down $$
 ^^ that be it $$
 ^^ and then pick it off gentle $$
@@ -2066,8 +2108,11 @@
 ^^ see $$
 ^^ that be $$
 ^^ you have do that have not you $$
+^^ xxx $$
+^^ www $$
 ^^ let us have a look $$
 ^^ go go go go go go go go go $$
+^^ www $$
 ^^ just a stamp be not it $$
 ^^ for a fish $$
 ^^ mhm $$
@@ -2082,7 +2127,9 @@
 ^^ can you get it $$
 ^^ I can not $$
 ^^ because you be push it away from me $$
+^^ www $$
 ^^ there you go $$
+^^ www $$
 ^^ no $$
 ^^ this be what you be suppose to do $$
 ^^ watch $$
@@ -2120,6 +2167,7 @@
 ^^ oh $$
 ^^ you want some play first $$
 ^^ slide it on $$
+^^ xxx $$
 ^^ no $$
 ^^ you have to slide that on $$
 ^^ slide that on there $$
@@ -2139,19 +2187,23 @@
 ^^ well $$
 ^^ you can not do that with the whale $$
 ^^ that be good $$
+^^ www $$
 ^^ wow $$
 ^^ yeah $$
 ^^ I know $$
 ^^ it be the whale spout $$
 ^^ yes $$
+^^ xxx $$
 ^^ he be spout his water be not he $$
 ^^ see him do it have not you $$
 ^^ if you want $$
+^^ www $$
 ^^ it be love stuff $$
 ^^ look what I have make look $$
-^^   with the stamp $$
+^^ with the with the stamp $$
 ^^ with the whale stamp $$
 ^^ it be nice be not it $$
+^^ www $$
 ^^ where do you go yesterday at play $$
 ^^ at play $$
 ^^ what do they have yesterday $$
@@ -2173,6 +2225,7 @@
 ^^ smell a lot nice $$
 ^^ go to tell Caroline what you have for your lunch $$
 ^^ have four slice $$
+^^ www $$
 ^^ I will do in a minute $$
 ^^ and I will wash my hand when I have finish play $$
 ^^ mhm $$
@@ -2188,6 +2241,7 @@
 ^^ yes $$
 ^^ it do look like a flower do not it $$
 ^^ oh $$
+^^ www $$
 ^^ mhm $$
 ^^ let us put this in $$
 ^^ warm it up $$
@@ -2235,7 +2289,8 @@
 ^^ yeah $$
 ^^ a little $$
 ^^ have you open those up as_well $$
-^^ get to be  very $$
+^^ get to be very very $$
+^^ xxx $$
 ^^ there $$
 ^^ shall we what $$
 ^^ if you pull it you be go to cut it off $$
@@ -2248,10 +2303,12 @@
 ^^ where be you go $$
 ^^ you be not go to wash your hand again $$
 ^^ oh Nicole $$
+^^ xxx $$
 ^^ well $$
 ^^ hurry up $$
 ^^ hurry up $$
 ^^ hurry up $$
+^^ www $$
 ^^ I want you in here $$
 ^^ fix the whale on there $$
 ^^ wibbly wobble whale $$
@@ -2273,6 +2330,7 @@
 ^^ there $$
 ^^ he be in his house now $$
 ^^ mhm $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ it be on his head $$
@@ -2312,14 +2370,14 @@
 ^^ it be the wrong way round $$
 ^^ you put it in there $$
 ^^ but you want quite a bit more though $$
-^^ to make  a shape $$
+^^ to make a a shape $$
 ^^ that be it $$
-^^ have to push it  right in $$
+^^ have to push it right right in $$
 ^^ keep do it $$
 ^^ have to fill all the little space up look down here $$
 ^^ come on $$
 ^^ let me show you $$
-^^  fill it all up $$
+^^ fill fill it all up $$
 ^^ all the space $$
 ^^ all that down $$
 ^^ no $$
@@ -2328,7 +2386,7 @@
 ^^ do not be silly $$
 ^^ yeah $$
 ^^ you have to be gentle $$
-^^ you do not pull it out  like that $$
+^^ you do not pull it out that like that $$
 ^^ let me $$
 ^^ let $$
 ^^ do you want it out $$
@@ -2345,8 +2403,9 @@
 ^^ this be a polar bear $$
 ^^ do you want to wee $$
 ^^ you want to wee $$
+^^ www $$
 ^^ there $$
-^^  little knife $$
+^^ xxx little knife $$
 ^^ oh $$
 ^^ little $$
 ^^ well $$
@@ -2389,6 +2448,7 @@
 ^^ another pan $$
 ^^ mhm $$
 ^^ there $$
+^^ xxx $$
 ^^ that be your fish slice $$
 ^^ put it on your fish slice $$
 ^^ ready to put on your pan $$
@@ -2405,15 +2465,17 @@
 ^^ then you muddle the color up $$
 ^^ in there $$
 ^^ put it in there $$
-^^ see  open it $$
+^^ see xxx open it $$
 ^^ the stamp $$
 ^^ let us see $$
 ^^ oh $$
 ^^ have change color look $$
 ^^ oh $$
+^^ www $$
 ^^ it be cold $$
 ^^ mhm $$
 ^^ shall we put it back $$
+^^ www $$
 ^^ press it on there $$
 ^^ see what happen $$
 ^^ very hard $$
@@ -2429,6 +2491,7 @@
 ^^ move up then $$
 ^^ move up for Mummy $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
 ^^ squeeze in $$
 ^^ squeeze in $$
@@ -2448,6 +2511,7 @@
 ^^ Caroline will not get it for you darling $$
 ^^ no $$
 ^^ we will get it $$
+^^ xxx $$
 ^^ yes $$
 ^^ because you have get lots_of money have not you from your birth still $$
 ^^ so we will get you some color play $$
@@ -2458,13 +2522,15 @@
 ^^ so sorry $$
 ^^ what be you go to make with them $$
 ^^ that will not stop like that $$
-^^  that be it $$
+^^ that that be it $$
+^^ xxx $$
 ^^ there $$
 ^^ oh $$
 ^^ it be not $$
 ^^ you have not get it well balance $$
 ^^ have to be in the middle $$
 ^^ there $$
+^^ www $$
 ^^ it have not break $$
 ^^ just give it a good shove $$
 ^^ that be it $$
@@ -2480,6 +2546,7 @@
 ^^ come out_of the fridge please $$
 ^^ thank_you $$
 ^^ sit down then and I will $$
+^^ www $$
 ^^ do you want a glass $$
 ^^ no $$
 ^^ it be not trend all of a sudden be it to have glass $$
@@ -2494,8 +2561,9 @@
 ^^ oh $$
 ^^ Abigail $$
 ^^ not so new now $$
+^^ www $$
 ^^ she be call Abigail $$
-^^ Lauren  a big girl be not she like Nicole $$
+^^ Lauren big a big girl be not she like Nicole $$
 ^^ she be call Abigail $$
 ^^ uhhum $$
 ^^ have you $$
@@ -2532,11 +2600,12 @@
 ^^ think that be suppose to be a fishing $$
 ^^ a saw $$
 ^^ and a ice $$
+^^ xxx $$
 ^^ that be a fishing $$
 ^^ that be a saw for saw the ice $$
 ^^ that be a ice for make a hole in the ice and then saw round it $$
 ^^ and that be a fishing for fish in the hole to make a $$
-^^ fish to  get some dinner $$
+^^ fish to make get some dinner $$
 ^^ to get some fish out $$
 ^^ mhm $$
 ^^ fish out for your dinner $$
@@ -2558,7 +2627,7 @@
 ^^ that be a penguin $$
 ^^ shall we put him in that one $$
 ^^ oh $$
-^^  penguin $$
+^^ xxx penguin $$
 ^^ no $$
 ^^ it do not go in the bath $$
 ^^ because it be to play with outside the bath on the table $$
@@ -2568,6 +2637,7 @@
 ^^ have you get yours on $$
 ^^ you have get yours on $$
 ^^ mhm $$
+^^ www $$
 ^^ take your slipper off now $$
 ^^ what be we go to do Nicole for the next six week with no play $$
 ^^ hm $$
@@ -2580,6 +2650,7 @@
 ^^ her study finish $$
 ^^ do her $$
 ^^ do all her tape $$
+^^ www $$
 ^^ go go go go go go go go go $$
 ^^ okay $$
 ^^ uhhum $$
@@ -2599,7 +2670,7 @@
 ^^ yes $$
 ^^ yes $$
 ^^ I do not $$
-^^  I think it be  $$
+^^ I I think it be um $$
 ^^ oh $$
 ^^ what do they call them $$
 ^^ think it be a tortilla $$
@@ -2608,6 +2679,7 @@
 ^^ think it be $$
 ^^ not sure $$
 ^^ think it be $$
+^^ www $$
 ^^ right $$
 ^^ let us go upstairs $$
 ^^ have you put some water in your kettle $$
@@ -2621,8 +2693,10 @@
 ^^ probable have a car with them $$
 ^^ I know $$
 ^^ I know but you do not play with them any more do you $$
+^^ www $$
 ^^ let me move this out $$
-^^  that be it $$
+^^ that that be it $$
+^^ www $$
 ^^ and they be all thing you do not play with $$
 ^^ and this $$
 ^^ oh $$
@@ -2649,7 +2723,7 @@
 ^^ no $$
 ^^ it do not make a noise $$
 ^^ it be that that make a noise $$
-^^  that do not make a noise $$
+^^ that that do not make a noise $$
 ^^ it never have do $$
 ^^ be you go to get all those out $$
 ^^ hm $$
@@ -2672,6 +2746,7 @@
 ^^ not very good with number $$
 ^^ that be the one $$
 ^^ one $$
+^^ xxx $$
 ^^ that be the circle $$
 ^^ good girl $$
 ^^ what color be the circle $$
@@ -2714,6 +2789,7 @@
 ^^ hurry up then $$
 ^^ have you get it $$
 ^^ pardon $$
+^^ www $$
 ^^ pardon $$
 ^^ it be not switch off $$
 ^^ it be on $$
@@ -2723,6 +2799,7 @@
 ^^ you can not jump over it because it be too big $$
 ^^ you be a silly $$
 ^^ go to wake them up $$
+^^ xxx $$
 ^^ be you go to go to sleep with them under there $$
 ^^ be you go to go to sleep with them under there $$
 ^^ mhm $$
@@ -2758,6 +2835,7 @@
 ^^ night_night $$
 ^^ night_night $$
 ^^ night_night $$
+^^ www $$
 ^^ night_night $$
 ^^ night_night $$
 ^^ be it morning yet $$
@@ -2775,7 +2853,7 @@
 ^^ I know $$
 ^^ right $$
 ^^ have not it cool down yet $$
-^^     why do not you take your scale off $$
+^^ why don't you take why do not you take your scale off $$
 ^^ oh $$
 ^^ sorry $$
 ^^ it be alright $$

@@ -3,6 +3,7 @@
 ^^ I be good like that $$
 ^^ we near find you another recruit the other day do not we $$
 ^^ well Chris be Mummy be very interest be not she $$
+^^ www $$
 ^^ come on you $$
 ^^ get down $$
 ^^ you be be cheek $$
@@ -68,7 +69,7 @@
 ^^ wiggle worm $$
 ^^ yeah $$
 ^^ that sound about right $$
-^^ you like those  jelly one that we get from the shop do not you $$
+^^ you like those er jelly one that we get from the shop do not you $$
 ^^ well you eat enough of them $$
 ^^ we go up to the shop only yesterday and you have a wiggle worm $$
 ^^ come on $$
@@ -204,7 +205,7 @@
 ^^ right $$
 ^^ you have put it $$
 ^^ that be a very good idea $$
-^^ shall we have  a nut on the bottom to stop it wobble about $$
+^^ shall we have a a nut on the bottom to stop it wobble about $$
 ^^ you do not want a wobble smoke do you $$
 ^^ be you sure it quite need that Aran $$
 ^^ right $$
@@ -224,7 +225,7 @@
 ^^ have it get a bucket on it $$
 ^^ oh $$
 ^^ it be get a snow on it $$
-^^ be you go to  clear the track up to your farm $$
+^^ be you go to er clear the track up to your farm $$
 ^^ get all the snow off it $$
 ^^ I be sure the seat the other side Aran $$
 ^^ I be sure Daddy intend the other side to be the seat $$
@@ -236,7 +237,7 @@
 ^^ hm $$
 ^^ right $$
 ^^ what be you do now Farmer_Reed $$
-^^ be you  go to put a grass cut on the back of that or a seed drill $$
+^^ be you er go to put a grass cut on the back of that or a seed drill $$
 ^^ well you have good start think have not you $$
 ^^ the day be go and you have not do much work today have you $$
 ^^ what have you do $$
@@ -289,8 +290,8 @@
 ^^ what else be there on the farm for you to look after $$
 ^^ you have feed the chicken $$
 ^^ you be not shear the sheep today $$
-^^   you be not go to  milk the cow $$
-^^ so   where be Dobbin the farm horse $$
+^^ you're not you be not go to er milk the cow $$
+^^ so what what where be Dobbin the farm horse $$
 ^^ he be in the field $$
 ^^ do what $$
 ^^ oh somebody ride on him $$
@@ -328,6 +329,7 @@
 ^^ that be when Aunty_Billie be get marry be not it $$
 ^^ get marry with hair $$
 ^^ come on $$
+^^ xxx $$
 ^^ Aunty_Billie be marry Uncle_Tony be not she $$
 ^^ yes $$
 ^^ come on $$
@@ -405,7 +407,7 @@
 ^^ into the field to meet Dobbin $$
 ^^ have he $$
 ^^ the real Dobbin $$
-^^ well  I be not sure about this $$
+^^ well I I be not sure about this $$
 ^^ I think you have put Griselda somewhere $$
 ^^ where be Griselda the pig $$
 ^^ you have not put her in your Jordan lorry have you $$
@@ -436,7 +438,7 @@
 ^^ yes $$
 ^^ yes $$
 ^^ I will sell these animal for you $$
-^^ yes well  $$
+^^ yes well xxx $$
 ^^ what be that in there $$
 ^^ be it Griselda $$
 ^^ no $$
@@ -445,16 +447,16 @@
 ^^ no $$
 ^^ I do not either $$
 ^^ still in the field look for Dobbin $$
-^^ well I think it be very fun the way  she only arrive yesterday and now she be go already $$
+^^ well I think it be very fun the way Griselda she only arrive yesterday and now she be go already $$
 ^^ right $$
 ^^ be this the auction market $$
 ^^ come on $$
-^^ you have good lead your animal into the  auction $$
+^^ you have good lead your animal into the er auction $$
 ^^ into the pen have not you $$
 ^^ what $$
 ^^ but it be get to be open for you to lead them in have not it $$
 ^^ you shut it up after they have go in do not you $$
-^^ oh well  that be brilliant be not it $$
+^^ oh well that's that be brilliant be not it $$
 ^^ go on $$
 ^^ pick them up $$
 ^^ where be the cow $$
@@ -484,9 +486,9 @@
 ^^ right $$
 ^^ where be your truck Mister_Reed $$
 ^^ you need proper accommodation for these animal $$
-^^ you can not just  take them without  look after them proper $$
+^^ you can not just er take them without um look after them proper $$
 ^^ right $$
-^^ we will bring Lynn the cow  into the auction market $$
+^^ we will bring Lynn the cow into into the auction market $$
 ^^ now into the pen $$
 ^^ there be Lynn the cow $$
 ^^ now who be go to bid for this beautiful long horned cow $$
@@ -514,7 +516,7 @@
 ^^ you can not go wrong with Mary the sheep $$
 ^^ what be I bid for Mary the sheep $$
 ^^ a cow again $$
-^^ do I hear twenty pound for   Mary the sheep $$
+^^ do I hear twenty pound for Mary the Mary the sheep $$
 ^^ thirty pound $$
 ^^ do I hear forty pound $$
 ^^ do I hear fifty pound $$
@@ -626,7 +628,7 @@
 ^^ oh you be give a bath first be not you $$
 ^^ right $$
 ^^ well we have get a shirt here $$
-^^    oh the trouser be behind you be not they $$
+^^ we don't seem oh the trouser be behind you be not they $$
 ^^ go on $$
 ^^ you turn on the tap then $$
 ^^ what be doll get in the bath to play with $$
@@ -636,7 +638,7 @@
 ^^ boat $$
 ^^ sorry $$
 ^^ what else $$
-^^ have she get some of  those letter that you have get and number $$
+^^ have she get some of those those letter that you have get and number $$
 ^^ doll be go down the plug hole have she $$
 ^^ she be go down the plug hole $$
 ^^ you have save her have you $$
@@ -702,7 +704,7 @@
 ^^ you be wrap them up $$
 ^^ why be you wrap them up $$
 ^^ they can go to bed $$
-^^ well   I think be not those the top of doll pajamas $$
+^^ well I think I think be not those the top of doll pajamas $$
 ^^ shall we give doll a name $$
 ^^ hm $$
 ^^ well I do not know what the Spice_Girls be call darling $$
@@ -746,7 +748,7 @@
 ^^ well do we not need them for the roof $$
 ^^ hm $$
 ^^ oh dear $$
-^^     I be not sure I have get this right $$
+^^ I'm not sure I've I be not sure I have get this right $$
 ^^ not sure this be quite how you do it $$
 ^^ be that another one now at the entrance to stop the bad get in $$
 ^^ right $$
@@ -791,7 +793,7 @@
 ^^ well that picture gallery $$
 ^^ where they have those sculpture and those picture $$
 ^^ and Pingu and Robbie upset one of the sculpture do not they $$
-^^ and all  that one that be a mother and baby fall to piece do not it $$
+^^ and all that that one that be a mother and baby fall to piece do not it $$
 ^^ and they arrange it to be a horse $$
 ^^ do you remember that one $$
 ^^ you say you do not like that one $$
@@ -810,10 +812,10 @@
 ^^ I think he be young than that $$
 ^^ be you sure $$
 ^^ I think that Pingu be young than that because Pingu still go to school do not he $$
-^^ so how can he be twenty  if he be go to school $$
+^^ so how can he be twenty if if he be go to school $$
 ^^ because he just want to $$
 ^^ right so be he have a cake with twenty candle on $$
-^^ he want to go  in the snow do he $$
+^^ he want to go in in the snow do he $$
 ^^ Pingo $$
 ^^ I suppose so $$
 ^^ will not will not will not will not will not will not will not will not will not will not $$
@@ -901,7 +903,7 @@
 ^^ there we be $$
 ^^ be that it $$
 ^^ I do not think that one be go to go on $$
-^^    you have not get it on right Aran $$
+^^ you've got it you have not get it on right Aran $$
 ^^ this steeple be wobble again $$
 ^^ do you want mum to help you with that one $$
 ^^ that be it be not it $$
@@ -958,7 +960,7 @@
 ^^ now the yellow $$
 ^^ then the orange $$
 ^^ no $$
-^^   that be not orange $$
+^^ that's not that be not orange $$
 ^^ that be red $$
 ^^ that be orange $$
 ^^ and the red one $$
@@ -1013,7 +1015,7 @@
 ^^ it be a tomato just stick in a tin of salmon here $$
 ^^ there we be $$
 ^^ put the lid on the tin of salmon $$
-^^ well I be afraid I think Aran there be only three egg  be not there $$
+^^ well I be afraid I think Aran there be only three egg mm be not there $$
 ^^ you will have to have a three egg cake $$
 ^^ do not drop them $$
 ^^ they might break $$
@@ -1039,6 +1041,7 @@
 ^^ be you a carnivore then $$
 ^^ you will be if you eat him up $$
 ^^ you will take him out then $$
+^^ xxx $$
 ^^ I think you be $$
 ^^ I think you be a big boy now $$
 ^^ the train drive $$
@@ -1128,7 +1131,7 @@
 ^^ how many $$
 ^^ one two three four five six seven $$
 ^^ go on $$
-^^ flap your wing and  $$
+^^ flap your wing and xxx $$
 ^^ come on $$
 ^^ it be my turn again $$
 ^^ oh I have get some fish $$
@@ -1158,6 +1161,7 @@
 ^^ ssh $$
 ^^ all right $$
 ^^ byebye Stripy $$
+^^ www $$
 ^^ what be we do Stripy $$
 ^^ I do not know where it be darling $$
 ^^ you just go and show Anna the one and tell her what it be $$
@@ -1254,7 +1258,7 @@
 ^^ what be you go to do with it $$
 ^^ no $$
 ^^ you be not do that on the cushion $$
-^^   I be go to be serious please with you Aran $$
+^^ I'm not I be go to be serious please with you Aran $$
 ^^ I shall tell Nicola how silly you have be $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ will she $$
@@ -1297,7 +1301,7 @@
 ^^ I have get two bike $$
 ^^ no $$
 ^^ you can not find $$
-^^  no $$
+^^ no no $$
 ^^ it be no use $$
 ^^ you have not find the other one $$
 ^^ you have not find the other bucket and spade $$
@@ -1311,7 +1315,7 @@
 ^^ no $$
 ^^ you have not $$
 ^^ I have get all the birth cake $$
-^^   I have get two cow now $$
+^^ I've got I have get two cow now $$
 ^^ oh and I have get the dump truck $$
 ^^ well I have get them $$
 ^^ I have get two kite as_well $$
@@ -1445,12 +1449,12 @@
 ^^ oh $$
 ^^ do you buy it from Bowler $$
 ^^ oh I get mine from Bowler $$
-^^ I get these in  bulk from Bowler $$
+^^ I get these in bulk bulk from Bowler $$
 ^^ great big sack of it $$
 ^^ all for my hen $$
 ^^ do you feed them on grit as_well $$
 ^^ they do $$
-^^ they always eat the grit because it make    the egg shell nice and strong $$
+^^ they always eat the grit because it make a nice shell the egg shell nice and strong $$
 ^^ it do not make them dirt $$
 ^^ why do it make them dirt $$
 ^^ my hen house be the good hen house there be ever be $$
@@ -1531,7 +1535,7 @@
 ^^ well as we can see ninety percent of you it be not real very good at hide $$
 ^^ mhm $$
 ^^ come on $$
-^^ ask Anna  who be the silly boy that she have to come and see $$
+^^ ask Anna who who be the silly boy that she have to come and see $$
 ^^ I be not a boy $$
 ^^ no $$
 ^^ you be the naughty boy $$
@@ -1550,7 +1554,7 @@
 ^^ have you think about that $$
 ^^ well go on then $$
 ^^ you build a stable for the horse $$
-^^ well   I think we can safe assume that we have knock the hen house down have not we $$
+^^ well I think I think we can safe assume that we have knock the hen house down have not we $$
 ^^ well why do you do it then $$
 ^^ because you can not help being silly can you $$
 ^^ oh look $$
@@ -1568,6 +1572,7 @@
 ^^ who be go to look after you $$
 ^^ well Daddy be get to go out to work $$
 ^^ no $$
+^^ willn't willn't willn't willn't willn't willn't willn't willn't willn't $$
 ^^ he be get to go to work $$
 ^^ you can manage $$
 ^^ well that be just very very silly be not it $$
@@ -1662,6 +1667,7 @@
 ^^ what else do we do $$
 ^^ we see those dog do not we $$
 ^^ we see all those sheepdog do not we run over those thing and jump over those little fence $$
+^^ www $$
 ^^ still we enjoy ourselves do not we $$
 ^^ there be bag of room to run about $$
 ^^ and you like Punch and Judy do not you $$
@@ -1716,7 +1722,7 @@
 ^^ come on $$
 ^^ calm down $$
 ^^ you want to go to bed $$
-^^ well Anna be here to play and when Anna be go   shall we take Nicola birth present and see if we can go and find Uncle_John $$
+^^ well Anna be here to play and when Anna be go we'll take shall we take Nicola birth present and see if we can go and find Uncle_John $$
 ^^ and see all the sport car $$
 ^^ hm $$
 ^^ all right then $$
@@ -1726,7 +1732,7 @@
 ^^ and it be a long way in the traffic be not it $$
 ^^ perhaps we can go another time to see Nicola $$
 ^^ hm $$
-^^   you have throw doll knickers in the bath $$
+^^ you've thrown you have throw doll knickers in the bath $$
 ^^ they be all wet now $$
 ^^ no $$
 ^^ will not will not will not will not will not will not will not will not will not will not $$
@@ -1737,7 +1743,7 @@
 ^^ oh yes $$
 ^^ it might bring you out in a rash $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
-^^ we will   leave the bubble out $$
+^^ we will leave the leave the bubble out $$
 ^^ you can use it in that little machine you have get can not you $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ you know the one in the little house $$
@@ -1798,6 +1804,7 @@
 ^^ we do not do that to doll $$
 ^^ you be kind to doll $$
 ^^ she be always nice to you $$
+^^ a $$
 ^^ I be go to build something with these lego brick $$
 ^^ I think I will build a chair for doll to sit on $$
 ^^ what do you say to that Aran $$
@@ -1817,7 +1824,7 @@
 ^^ here we be $$
 ^^ famous last word $$
 ^^ here be doll chair $$
-^^ I think we will have to  try again $$
+^^ I think we will have to er try again $$
 ^^ hm $$
 ^^ well if we put that on there $$
 ^^ oh let me put it next to you and you can see what be happen $$
@@ -1860,6 +1867,7 @@
 ^^ oh well byebye then $$
 ^^ bye $$
 ^^ byebye $$
+^^ www $$
 ^^ Aran $$
 ^^ why not $$
 ^^ let us go downstairs again $$
@@ -1911,7 +1919,7 @@
 ^^ you have manage Aran $$
 ^^ come on $$
 ^^ let us put doll back together again now $$
-^^ well   I have get to put her back together again sometime have not I $$
+^^ well I've got I have get to put her back together again sometime have not I $$
 ^^ be we go to put doll some clothes on then $$
 ^^ Aran $$
 ^^ oh no $$
@@ -1971,7 +1979,7 @@
 ^^ doll be not a bad until she meet you $$
 ^^ they be what $$
 ^^ be that it $$
-^^ or be it   this one $$
+^^ or be it the one this one $$
 ^^ right $$
 ^^ be you go to use that to transport $$
 ^^ be that your snow mobile $$
@@ -2003,7 +2011,7 @@
 ^^ some barrier $$
 ^^ right $$
 ^^ be you go to fix them Mister_Reed $$
-^^ well   you fix them then $$
+^^ well you do you fix them then $$
 ^^ go on $$
 ^^ you get them fix at the front $$
 ^^ one two three $$
@@ -2109,8 +2117,8 @@
 ^^ what about this $$
 ^^ the famous chuckle $$
 ^^ come on $$
-^^ you get this track right and then   we can build the bridge $$
-^^ well  come on $$
+^^ you get this track right and then we can we can build the bridge $$
+^^ well er come on $$
 ^^ how be we have the track $$
 ^^ be we have it round $$
 ^^ right $$
@@ -2148,7 +2156,7 @@
 ^^ and $$
 ^^ yes $$
 ^^ like me $$
-^^  and do you think she need a clean dress $$
+^^ and and do you think she need a clean dress $$
 ^^ a clean frock $$
 ^^ and a clean sweater $$
 ^^ it might be cold in Scotland $$
@@ -2188,7 +2196,7 @@
 ^^ there be no twenty o'clock $$
 ^^ it be either eight o'clock or it be twenty hundred hour $$
 ^^ I do not think it be go as late as that $$
-^^ I think it be go at     ten past ten $$
+^^ I think it be go at er ten past eleven ten past ten $$
 ^^ right $$
 ^^ there we be $$
 ^^ that be the platform be it $$
@@ -2208,7 +2216,7 @@
 ^^ what have you do with it $$
 ^^ have you and Daddy lose it $$
 ^^ oh there it be $$
-^^ well   he be just get ready $$
+^^ well the driver's he be just get ready $$
 ^^ he want to talk to this lady first of all because she want to make sure of which train be come next $$
 ^^ do not she $$
 ^^ because you do not just get on any old train that stop do you $$
@@ -2257,7 +2265,7 @@
 ^^ what else do you have $$
 ^^ it go $$
 ^^ here we be $$
-^^ we be have   a telephone on the rail $$
+^^ we be have a tele a telephone on the rail $$
 ^^ on the platform $$
 ^^ it what the wrong way $$
 ^^ what do you mean $$
@@ -2275,7 +2283,7 @@
 ^^ be not she $$
 ^^ there we be $$
 ^^ we will have the carriage on the line $$
-^^ right now  do not forget $$
+^^ right now don't do not forget $$
 ^^ be this train go from London to Edinburgh $$
 ^^ be it $$
 ^^ stop there have it $$
@@ -2317,7 +2325,7 @@
 ^^ what will you like $$
 ^^ chip and ketchup $$
 ^^ well we do not serve chip and ketchup in here $$
-^^ we only serve snack so   you will have to have a sandwich or a cake $$
+^^ we only serve snack so you'll hafta you will have to have a sandwich or a cake $$
 ^^ those be much good for you than chip and ketchup $$
 ^^ what will you like $$
 ^^ a sandwich or a cake $$
@@ -2332,10 +2340,10 @@
 ^^ put it on a plate please $$
 ^^ right $$
 ^^ now $$
-^^ there be a little matter of  payment for this be not there $$
+^^ there be a little matter of payment payment for this be not there $$
 ^^ how much be it all go to cost $$
 ^^ you have eat your cake $$
-^^ well  it be a bit late or a bit early to be eat your cake if you have not pay for it be not it $$
+^^ well it's it be a bit late or a bit early to be eat your cake if you have not pay for it be not it $$
 ^^ how much be it do you think $$
 ^^ have you get enough money in your pocket $$
 ^^ have it go in your tum $$
@@ -2359,7 +2367,7 @@
 ^^ I be not surprise $$
 ^^ it be that full of cake and coffee $$
 ^^ oh well $$
-^^ the lady be get ready to go on   her journey now be not she $$
+^^ the lady be get ready to go on her er her journey now be not she $$
 ^^ the train be come into the station $$
 ^^ oh hello Mister_stationmaster $$
 ^^ which train be this $$
@@ -2424,7 +2432,7 @@
 ^^ hm $$
 ^^ if you have get the wrong ticket you be in trouble be not you $$
 ^^ why be you turn it off $$
-^^   which station be this that they be stop at $$
+^^ is this which station be this that they be stop at $$
 ^^ have they go up the East coast line $$
 ^^ and stop at Newcastle $$
 ^^ what be you give her $$
@@ -2437,7 +2445,7 @@
 ^^ and we go to the station to book Daddy ticket as_well do not we $$
 ^^ when he go to London $$
 ^^ well yes $$
-^^ it be   a bit crowd in that  carriage be not it $$
+^^ it be a bit a bit crowd in that er carriage be not it $$
 ^^ oh that lady be get out be she $$
 ^^ where be she get out at $$
 ^^ be she get out at Newcastle $$
@@ -2496,7 +2504,7 @@
 ^^ have you good get a ambulance of a fire out $$
 ^^ or a relief train $$
 ^^ go on $$
-^^    you get a fire something $$
+^^ you get a you get a fire something $$
 ^^ or a relief train at the very least $$
 ^^ you will have to get something $$
 ^^ you can not just leave person stick in the middle of nowhere can you $$
@@ -2535,7 +2543,7 @@
 ^^ on this other fire that be come up $$
 ^^ there $$
 ^^ I think we have get a very clever fire here $$
-^^     he be get the extend ladder $$
+^^ he's got the ladders he be get the extend ladder $$
 ^^ and he be get them onto the roof $$
 ^^ and he be go to climb on the roof like that $$
 ^^ and he be go to cut the roof open $$
@@ -2573,7 +2581,7 @@
 ^^ be you go to come and play or do you want to play with something different $$
 ^^ what do you want to play with $$
 ^^ look $$
-^^  what do Daddy say about play nice $$
+^^ what what do Daddy say about play nice $$
 ^^ will not will not will not will not will not will not $$
 ^^ come on $$
 ^^ come and play please $$
@@ -2683,6 +2691,7 @@
 ^^ shoot the egg off $$
 ^^ oh $$
 ^^ your gun be in the other room $$
+^^ www $$
 ^^ that be what it be be not it $$
 ^^ well no $$
 ^^ that be not what happen be it $$
@@ -2690,7 +2699,7 @@
 ^^ we be not go to play at shoot thing $$
 ^^ you can think again $$
 ^^ now we do not do that $$
-^^ well I be not go to put these up to look at   be I $$
+^^ well I be not go to put these up to look at are they be I $$
 ^^ you know what happen $$
 ^^ Norman_Price bang his gun do not he $$
 ^^ just as Dyllis be put some egg on the counter $$
@@ -2751,7 +2760,7 @@
 ^^ there be a row of tin $$
 ^^ no $$
 ^^ you can not shoot my egg $$
-^^  you have not tidy up all these vegetable $$
+^^ you've you have not tidy up all these vegetable $$
 ^^ no $$
 ^^ you be not shoot anything until you have tidy up the vegetable $$
 ^^ you get all those vegetable and bring them over here $$
@@ -2915,7 +2924,7 @@
 ^^ you put them on my hand $$
 ^^ snatch be not allow $$
 ^^ do you want your telephone $$
-^^ well what be you look for  Dyllis $$
+^^ well what be you look for Aran Dyllis $$
 ^^ your telephone $$
 ^^ well I be not sure your telephone there $$
 ^^ come on $$
@@ -2944,7 +2953,7 @@
 ^^ because I do not think you get very good food in prison $$
 ^^ I think I will have some chip $$
 ^^ I can sit and eat some chip can not I $$
-^^  delicious $$
+^^ mm delicious $$
 ^^ well if you have get the gun when P_C_Plod come $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
@@ -2964,7 +2973,7 @@
 ^^ right $$
 ^^ there be my egg $$
 ^^ no $$
-^^  you shoot your gun so it make a loud bang $$
+^^ you you shoot your gun so it make a loud bang $$
 ^^ and I drop the egg $$
 ^^ oh my egg $$
 ^^ you naughty boy $$
@@ -2973,7 +2982,7 @@
 ^^ he go out and he shoot his gun again and who drop his ice $$
 ^^ Aran and Nicola $$
 ^^ have ice do not they $$
-^^  oh $$
+^^ oh oh $$
 ^^ you have make me drop my ice $$
 ^^ you naughty boy Norman_Price $$
 ^^ I be go to tell my Uncle Fireman_Sam of you $$
@@ -2985,7 +2994,7 @@
 ^^ Percy $$
 ^^ he genmod fall off the bank $$
 ^^ well he be try to pull something up the bank $$
-^^  a car that have drive off the edge of the road $$
+^^ um a car that have drive off the edge of the road $$
 ^^ and Percy the tractor have to go out and pull this car back up the bank $$
 ^^ you dare $$
 ^^ oh $$
@@ -3061,7 +3070,7 @@
 ^^ be you go to give it to me $$
 ^^ all right $$
 ^^ we will be here all day $$
-^^  Postman_Pat $$
+^^ er Postman_Pat $$
 ^^ this one be not for me $$
 ^^ this one for Bella at the cafe $$
 ^^ I can $$
@@ -3079,7 +3088,7 @@
 ^^ I think I will sit down and open them $$
 ^^ be you come in Postman_Pat $$
 ^^ you have get what $$
-^^ well you come and show  these letter to Anna $$
+^^ well you come and show those these letter to Anna $$
 ^^ well you come in then and tell us what they be when you have post them $$
 ^^ well you post them first and then you can come in and tell us what they be $$
 ^^ right $$
@@ -3099,7 +3108,7 @@
 ^^ I manage to salvage that do not I $$
 ^^ s for Sam and s for Skippy be not it $$
 ^^ well you be play at Fireman_Sam after you genmod finish with Skippy be not you $$
-^^ and  whose bag be that $$
+^^ and whose whose bag be that $$
 ^^ and who be you $$
 ^^ walk home be you $$
 ^^ where to $$
@@ -3163,6 +3172,7 @@
 ^^ you can have them $$
 ^^ want to put them on your desk $$
 ^^ do not drop any $$
+^^ www $$
 ^^ come on Postman_Pat $$
 ^^ be you come in Postman_Pat $$
 ^^ be you go to come and help me paint my ceiling $$

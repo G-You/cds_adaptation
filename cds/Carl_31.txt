@@ -63,7 +63,7 @@
 ^^ you have to do it $$
 ^^ you have to make it $$
 ^^ where be the other bit $$
-^^ well   turn it round $$
+^^ well turn it turn it round $$
 ^^ can not see it like that can we $$
 ^^ there you go $$
 ^^ have a look $$
@@ -99,7 +99,7 @@
 ^^ I know the story where James break down $$
 ^^ do not the Fat_Controller come $$
 ^^ where be the Fat_Controller $$
-^^    what do he say to Thomas $$
+^^ what does he what do he say to Thomas $$
 ^^ be he get a ride as_well $$
 ^^ Carl $$
 ^^ who come to see you at the week $$
@@ -156,7 +156,7 @@
 ^^ who be that on your pants $$
 ^^ right $$
 ^^ one leg in $$
-^^  no $$
+^^ no no $$
 ^^ that be wrong $$
 ^^ come on $$
 ^^ look $$
@@ -185,7 +185,7 @@
 ^^ where be your new train Carl $$
 ^^ I can see it $$
 ^^ your new train that Aunty_Shirley buy you $$
-^^ be it  $$
+^^ be it xxx $$
 ^^ where be he $$
 ^^ not go to show him to me $$
 ^^ who can not $$
@@ -209,8 +209,8 @@
 ^^ it be a heavy train be not it $$
 ^^ Eve $$
 ^^ platform $$
-^^  platform $$
-^^    hey $$
+^^ plat platform $$
+^^ hey hey hey hey $$
 ^^ do you not like be over here on your own $$
 ^^ hm $$
 ^^ see $$
@@ -256,7 +256,7 @@
 ^^ so he can look where he be go $$
 ^^ look $$
 ^^ will he fit in $$
-^^ well  just place him in $$
+^^ well just just place him in $$
 ^^ you do not have to press him down do you $$
 ^^ there $$
 ^^ lift his head up $$
@@ -322,7 +322,7 @@
 ^^ in that box up there $$
 ^^ do not $$
 ^^ just get a few please $$
-^^  just the little one $$
+^^ that's just the little one $$
 ^^ no $$
 ^^ that be too big be not it $$
 ^^ go go go go go go go go go $$
@@ -345,7 +345,7 @@
 ^^ turn this one round look $$
 ^^ watch $$
 ^^ round it go $$
-^^     why do not you put it on there $$
+^^ put it on the why do not you put it on there $$
 ^^ on there like that $$
 ^^ make it go the other way $$
 ^^ look $$
@@ -432,7 +432,7 @@
 ^^ he be a daft sausage be not he $$
 ^^ what be that $$
 ^^ it be not a goat $$
-^^  what do you think that be $$
+^^ what's what do you think that be $$
 ^^ yeah $$
 ^^ who be get the carrot $$
 ^^ who eat carrot Carl $$
@@ -492,7 +492,7 @@
 ^^ that be right $$
 ^^ he make you a elephant $$
 ^^ it do go pop yeah $$
-^^ because  I think you burst it do not you $$
+^^ because you I think you burst it do not you $$
 ^^ pop $$
 ^^ it go pop $$
 ^^ oh $$
@@ -535,9 +535,11 @@
 ^^ shall we get Eve as_well $$
 ^^ do you think she want to hear the story $$
 ^^ it say Thomas be a Tank_Engine who live in a big station $$
+^^ www $$
 ^^ well I can not read it if you keep do $$
 ^^ oh $$
 ^^ I have miss a page $$
+^^ www $$
 ^^ look at him $$
 ^^ he be fast asleep $$
 ^^ we be go to have to get Eve now $$
@@ -594,11 +596,13 @@
 ^^ how do he manage that $$
 ^^ oh I can read it $$
 ^^ right $$
+^^ www $$
 ^^ a little bird $$
 ^^ he have not $$
 ^^ no $$
 ^^ that be a little girl $$
 ^^ that be a she $$
+^^ www $$
 ^^ they have have a accident $$
 ^^ the car hit them $$
 ^^ that naughty bird eat ice $$
@@ -615,6 +619,7 @@
 ^^ whee $$
 ^^ look $$
 ^^ they be all go to have a ice and ice loll $$
+^^ mm $$
 ^^ you have cut your lip Carl $$
 ^^ how do you do that $$
 ^^ no $$
@@ -623,18 +628,23 @@
 ^^ now what do you want to do $$
 ^^ all the book $$
 ^^ mhm $$
+^^ www $$
 ^^ it be Harriet on her way home $$
 ^^ that be right $$
 ^^ she be a helicopter $$
+^^ www $$
 ^^ oh dear $$
 ^^ go go go go go go $$
 ^^ he be on fire $$
+^^ www $$
 ^^ look $$
 ^^ she be push all the water over him $$
 ^^ get a big nose have not he $$
+^^ www $$
 ^^ and who be that $$
 ^^ the fire be not it $$
 ^^ he will put the water on the boat will he $$
+^^ www $$
 ^^ all back safe and sound $$
 ^^ stop that $$
 ^^ I do not hit it hard $$
@@ -658,7 +668,7 @@
 ^^ that be great $$
 ^^ be it $$
 ^^ do you want the other block Carl $$
-^^     what shall we build with them $$
+^^ what shall we build what shall we build with them $$
 ^^ watch that fall $$
 ^^ what shall we make $$
 ^^ that see $$
@@ -695,7 +705,7 @@
 ^^ that be the Fat_Controller $$
 ^^ what do he say $$
 ^^ oh Percy be go first $$
-^^ oh  no $$
+^^ oh no no $$
 ^^ Ben in there first be not he $$
 ^^ here he come $$
 ^^ it be Bill not Ben $$
@@ -785,12 +795,12 @@
 ^^ you can not catch me $$
 ^^ I be the gingerbread $$
 ^^ let us have a look $$
-^^   another big wall look $$
+^^ another big another big wall look $$
 ^^ put the elephant in there $$
 ^^ see $$
 ^^ put that one there $$
 ^^ Mummy be get a itch nose $$
-^^ have you get the  $$
+^^ have you get the xxx $$
 ^^ that be good $$
 ^^ that little man $$
 ^^ oh sorry $$
@@ -860,7 +870,7 @@
 ^^ he go cockadoodledoo $$
 ^^ now can you remember what that be $$
 ^^ Carl $$
-^^ do you know   what animal that be $$
+^^ do you know what that what animal that be $$
 ^^ oh you think it be Bambi $$
 ^^ no $$
 ^^ it be a goat $$
@@ -926,7 +936,7 @@
 ^^ what do you need $$
 ^^ you do not have a train at the car do you $$
 ^^ what do you need $$
-^^     what be it $$
+^^ what do you what what be it $$
 ^^ choochoo $$
 ^^ oh be careful $$
 ^^ no $$
@@ -947,6 +957,7 @@
 ^^ you go to go and buy some food in that shop basket $$
 ^^ oh it be not get a lid this one $$
 ^^ have to find another one $$
+^^ mm $$
 ^^ oh yes $$
 ^^ lots_of egg please $$
 ^^ what be that $$
@@ -957,15 +968,17 @@
 ^^ bless you $$
 ^^ oh $$
 ^^ hand over your mouth $$
+^^ mm $$
 ^^ what be come now $$
 ^^ oh cat $$
+^^ mm $$
 ^^ that be for the pussy be not it $$
 ^^ feed the pussy $$
 ^^ I do not want to eat that $$
 ^^ pass that to Mummy $$
 ^^ then you can put them in $$
 ^^ no $$
-^^  the basket $$
+^^ the the basket $$
 ^^ the basket $$
 ^^ Mummy put them in there $$
 ^^ this be all the thing we be go to buy $$
@@ -973,7 +986,9 @@
 ^^ what else do we need $$
 ^^ some apple $$
 ^^ can you find some $$
+^^ mm $$
 ^^ Carl like grape do not you $$
+^^ mm $$
 ^^ nice $$
 ^^ oh yes please $$
 ^^ thank_you $$
@@ -981,7 +996,7 @@
 ^^ oh you found that in that tin $$
 ^^ oh thank_you $$
 ^^ thank_you $$
-^^  taste $$
+^^ mm taste $$
 ^^ have you try them $$
 ^^ go to put the lid back on $$
 ^^ do you think we should buy those $$
@@ -1000,7 +1015,7 @@
 ^^ that be it $$
 ^^ she be go to watch you today $$
 ^^ yeah $$
-^^ what be your daft brother do  $$
+^^ what be your daft brother do eh $$
 ^^ oh dear $$
 ^^ be not that one break $$
 ^^ no $$
@@ -1013,12 +1028,14 @@
 ^^ why do not you build $$
 ^^ why do not you build that big thing that you build $$
 ^^ what have you find $$
-^^ be you talk this morning  $$
+^^ be you talk this morning eh $$
 ^^ that be not orange $$
 ^^ Daddy be get a apple $$
+^^ www $$
 ^^ it be break be it $$
 ^^ oh yeah $$
 ^^ what Carl $$
+^^ www $$
 ^^ Carl $$
 ^^ what be you say to me Carl $$
 ^^ Carl $$
@@ -1079,7 +1096,7 @@
 ^^ yeah $$
 ^^ yes $$
 ^^ your noise soldier be here $$
-^^ Mummy be go to feed Eve so   you show Anna how those soldier work $$
+^^ Mummy be go to feed Eve so you show you show Anna how those soldier work $$
 ^^ oh lots_of soldier $$
 ^^ oh $$
 ^^ what do you do with that then $$
@@ -1128,7 +1145,7 @@
 ^^ yeah $$
 ^^ where do it go $$
 ^^ Carl $$
-^^  that be my write $$
+^^ um that be my write $$
 ^^ yeah $$
 ^^ do you want to write your name Carl $$
 ^^ why do not you get some paper $$
@@ -1145,7 +1162,7 @@
 ^^ perhaps over here $$
 ^^ you have get a green pen for green paper $$
 ^^ will not will not will not will not will not $$
-^^     what be you go to do for us $$
+^^ what're you going to what be you go to do for us $$
 ^^ oh you be do Carl be you $$
 ^^ clever boy $$
 ^^ very good $$
@@ -1215,7 +1232,7 @@
 ^^ what be we go to draw on the card $$
 ^^ you do not like anything $$
 ^^ what do you want to draw a picture of for Clara $$
-^^   look $$
+^^ look look look $$
 ^^ oh look $$
 ^^ you can make thing out_of them look $$
 ^^ these be clever $$
@@ -1229,7 +1246,7 @@
 ^^ be you go to put some on $$
 ^^ be you go to stick that one on $$
 ^^ oh $$
-^^ it be stick on  $$
+^^ it be stick on xxx $$
 ^^ good boy $$
 ^^ you do it yes $$
 ^^ do it need some more $$
@@ -1237,7 +1254,7 @@
 ^^ what color should the flower be $$
 ^^ pink $$
 ^^ we have not get a pink $$
-^^ will red  do $$
+^^ will red be do $$
 ^^ be it not stick that one $$
 ^^ that be yellow $$
 ^^ that be right $$
@@ -1310,8 +1327,10 @@
 ^^ can you find a sausage $$
 ^^ I think the sausage might have appear $$
 ^^ oh dear $$
+^^ mm $$
 ^^ now who like cake $$
 ^^ oh thank_you $$
+^^ mm $$
 ^^ there might not be a sausage in there Carl $$
 ^^ oh yes please $$
 ^^ thank_you $$
@@ -1320,21 +1339,25 @@
 ^^ oh it do not matter $$
 ^^ I will eat it without $$
 ^^ oh yes please $$
-^^  thank_you $$
+^^ mm thank_you $$
 ^^ oh they be too hot be they $$
 ^^ what be we go to have with the chip $$
 ^^ what be we go to eat with the chip $$
 ^^ the chip be have a drink $$
 ^^ oh thank_you $$
+^^ mm $$
 ^^ no thank_you $$
 ^^ just pretend $$
 ^^ do I have to $$
 ^^ I will do it $$
 ^^ I will smell it $$
+^^ mm $$
 ^^ smell $$
 ^^ smell love $$
 ^^ okay then $$
+^^ mm $$
 ^^ that be love $$
+^^ www $$
 ^^ what be we eat with the chip $$
 ^^ be we go to have something with it $$
 ^^ that be a pear $$
@@ -1343,20 +1366,23 @@
 ^^ thank_you $$
 ^^ oh yes please $$
 ^^ thank_you $$
-^^  taste $$
+^^ mm taste $$
 ^^ nice and sweet $$
 ^^ oh yes $$
 ^^ sorry $$
+^^ mm $$
 ^^ I do not think Anna want it real $$
 ^^ okay $$
+^^ mm $$
 ^^ there be a grape in there be there $$
 ^^ oh $$
 ^^ nice $$
 ^^ oh look $$
-^^  there be some strawberry $$
+^^ there's there be some strawberry $$
 ^^ shall I get a plate for you $$
 ^^ you can make some dinner can not you $$
 ^^ oh yes $$
+^^ mm $$
 ^^ that be a very nice strawberry $$
 ^^ there you go $$
 ^^ what be go to go in the dish $$
@@ -1370,6 +1396,7 @@
 ^^ I do not like banana $$
 ^^ I will have one anyway shall I $$
 ^^ smell it $$
+^^ mm $$
 ^^ smell like a banana $$
 ^^ be you have one $$
 ^^ please $$
@@ -1382,14 +1409,17 @@
 ^^ you like corn on the cob $$
 ^^ corn $$
 ^^ smell it $$
+^^ www $$
 ^^ smell like corn $$
 ^^ put some butter on it $$
 ^^ get a knife $$
 ^^ put some butter on $$
+^^ mm $$
 ^^ oh I will have it now $$
 ^^ I will finish it off for you $$
 ^^ finish $$
 ^^ what else be I go to eat now $$
+^^ mm $$
 ^^ Carl like apple $$
 ^^ oh please yeah $$
 ^^ it be a big orange be not it $$
@@ -1412,11 +1442,13 @@
 ^^ there be a biscuit look $$
 ^^ there be a biscuit $$
 ^^ thank very much $$
+^^ mm $$
 ^^ it be a very nice biscuit $$
 ^^ oh have cream on it be we $$
 ^^ I know why that be $$
 ^^ oh yes $$
 ^^ put lot on please $$
+^^ mm $$
 ^^ you do not like that one $$
 ^^ what be it $$
 ^^ I be not throw anything $$
@@ -1429,6 +1461,7 @@
 ^^ oh thank_you $$
 ^^ you be go to be a air hostess be not you Carl $$
 ^^ just pick one off $$
+^^ mm $$
 ^^ do not throw them $$
 ^^ oh Mummy want to have a nice fruit salad $$
 ^^ I be go to have some fruit $$
@@ -1462,7 +1495,7 @@
 ^^ down here Carl $$
 ^^ Carl $$
 ^^ there near the basket of food $$
-^^   I can see it $$
+^^ you can I can see it $$
 ^^ near the food $$
 ^^ there $$
 ^^ put down the egg $$
@@ -1483,7 +1516,7 @@
 ^^ ugh $$
 ^^ I hear you do this $$
 ^^ oh well I will have it afterwards $$
-^^          look Mummy have get a horrible bottom to clean $$
+^^ you just put it down for Mummy because Mummy look Mummy have get a horrible bottom to clean $$
 ^^ yeah ugh $$
 ^^ oh Eve $$
 ^^ she do trump I think $$
@@ -1492,8 +1525,9 @@
 ^^ no $$
 ^^ yeah $$
 ^^ that be right $$
+^^ www $$
 ^^ yes $$
-^^ you have  drop it $$
+^^ you have got drop it $$
 ^^ you be all do now $$
 ^^ be that good $$
 ^^ yuck $$
@@ -1546,7 +1580,7 @@
 ^^ oh that be clever $$
 ^^ where do you find that one $$
 ^^ another bridge $$
-^^   hey $$
+^^ hey hey hey $$
 ^^ have enough have you $$
 ^^ come and see what Carl be do $$
 ^^ oh Eve come to see what you be do $$
@@ -1568,7 +1602,7 @@
 ^^ a hen $$
 ^^ be you hungry $$
 ^^ be you talk $$
-^^ two eye and  the wheel as_well $$
+^^ two eye and two the wheel as_well $$
 ^^ oh that be good $$
 ^^ that be the start of the car then be not it $$
 ^^ it be a fish now be it $$

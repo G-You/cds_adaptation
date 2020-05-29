@@ -55,6 +55,7 @@
 ^^ one there $$
 ^^ one there $$
 ^^ yeah $$
+^^ a $$
 ^^ ow $$
 ^^ elephant $$
 ^^ mhm $$
@@ -63,6 +64,7 @@
 ^^ huh $$
 ^^ no $$
 ^^ Mama $$
+^^ xxx $$
 ^^ that $$
 ^^ mhm $$
 ^^ huh $$
@@ -80,6 +82,7 @@
 ^^ yeah $$
 ^^ mhm $$
 ^^ huh $$
+^^ xxx $$
 ^^ tea $$
 ^^ mhm $$
 ^^ mhm $$
@@ -110,9 +113,9 @@
 ^^ oh $$
 ^^ no tea $$
 ^^ oh $$
-^^  in there $$
+^^ xxx in there $$
 ^^ yeah $$
-^^  baba tea there $$
+^^ baba baba tea there $$
 ^^ baba $$
 ^^ no $$
 ^^ baba tea $$
@@ -137,7 +140,7 @@
 ^^ in there $$
 ^^ in there $$
 ^^ mhm $$
-^^  bee $$
+^^ um bee $$
 ^^ yeah $$
 ^^ bee $$
 ^^ yeah $$
@@ -157,7 +160,7 @@
 ^^ there $$
 ^^ mhm $$
 ^^ in there $$
-^^  on there $$
+^^ xxx on there $$
 ^^ oh fall $$
 ^^ she fall $$
 ^^ yeah $$
@@ -199,9 +202,11 @@
 ^^ and baba $$
 ^^ baba $$
 ^^ in there $$
-^^  book $$
+^^ um book $$
 ^^ Mama $$
 ^^ mhm $$
+^^ a $$
+^^ a $$
 ^^ no $$
 ^^ there $$
 ^^ in there $$
@@ -236,6 +241,7 @@
 ^^ Dada $$
 ^^ mhm $$
 ^^ baba $$
+^^ xxx $$
 ^^ mhm $$
 ^^ a poo $$
 ^^ yeah $$
@@ -249,7 +255,7 @@
 ^^ go on there $$
 ^^ huh $$
 ^^ she fall $$
-^^  fall $$
+^^ um fall $$
 ^^ mhm $$
 ^^ oh $$
 ^^ baba on knee $$
@@ -324,7 +330,7 @@
 ^^ on there $$
 ^^ yeah $$
 ^^ in there $$
-^^  in there $$
+^^ xxx in there $$
 ^^ in there $$
 ^^ nana $$
 ^^ mhm $$
@@ -338,6 +344,8 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ here $$
+^^ xxx $$
+^^ a $$
 ^^ no $$
 ^^ go here $$
 ^^ no $$
@@ -387,7 +395,7 @@
 ^^ on there $$
 ^^ on there $$
 ^^ there $$
-^^  there $$
+^^ xxx there $$
 ^^ on there $$
 ^^ on there $$
 ^^ yeah $$
@@ -456,6 +464,7 @@
 ^^ in there $$
 ^^ oh $$
 ^^ there $$
+^^ xxx $$
 ^^ yellow $$
 ^^ nana $$
 ^^ down there $$
@@ -488,7 +497,8 @@
 ^^ on there $$
 ^^ no $$
 ^^ Anna the baba $$
-^^ oh  $$
+^^ oh xxx $$
+^^ xxx $$
 ^^ lie down $$
 ^^ down $$
 ^^ down baba $$
@@ -498,7 +508,7 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^  in there $$
+^^ xxx in there $$
 ^^ Anna $$
 ^^ Anna $$
 ^^ Anna $$
@@ -527,6 +537,7 @@
 ^^ hm $$
 ^^ mama $$
 ^^ dada $$
+^^ xxx $$
 ^^ dada $$
 ^^ ball $$
 ^^ mama $$

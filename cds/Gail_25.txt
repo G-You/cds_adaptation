@@ -10,7 +10,7 @@
 ^^ yeah $$
 ^^ where do this book come from $$
 ^^ where do it come from $$
-^^   who do you go with the get it $$
+^^ who did who do you go with the get it $$
 ^^ Alice $$
 ^^ right $$
 ^^ who be it about $$
@@ -40,7 +40,7 @@
 ^^ oh $$
 ^^ think it be soap but it might be a sponge $$
 ^^ you never know $$
-^^ and what be he  use for his face $$
+^^ and what be he do use for his face $$
 ^^ flannel $$
 ^^ yeah $$
 ^^ uhhum $$
@@ -63,7 +63,7 @@
 ^^ where do Mummy do them $$
 ^^ not at home do she $$
 ^^ that one $$
-^^  Mummy wear train do not she $$
+^^ Mummy Mummy wear train do not she $$
 ^^ Paddington be get bare foot look $$
 ^^ what be he look at himself in $$
 ^^ mhm $$
@@ -90,11 +90,12 @@
 ^^ that be right $$
 ^^ and what be they have $$
 ^^ what can you see $$
-^^  what be he stab with his fork there $$
+^^ what's what be he stab with his fork there $$
 ^^ mhm $$
 ^^ this $$
 ^^ that be the kettle there $$
 ^^ oh $$
+^^ xxx $$
 ^^ and what be he have there $$
 ^^ be that a cup of tea $$
 ^^ yes $$
@@ -103,6 +104,7 @@
 ^^ oh yeah $$
 ^^ he do there $$
 ^^ oh $$
+^^ xxx $$
 ^^ now $$
 ^^ what be happen $$
 ^^ what be this man get here $$
@@ -143,7 +145,9 @@
 ^^ snow $$
 ^^ and what be he do in this picture though $$
 ^^ that you do a_lot_of $$
+^^ xxx $$
 ^^ he be watch the television be not he $$
+^^ xxx $$
 ^^ oh $$
 ^^ what be he do there $$
 ^^ skate $$
@@ -166,7 +170,7 @@
 ^^ think you do do roll with Daddy $$
 ^^ no $$
 ^^ when you make biscuit $$
-^^ what be  there $$
+^^ what be xxx there $$
 ^^ hm $$
 ^^ no $$
 ^^ have you have enough of this book $$
@@ -218,9 +222,9 @@
 ^^ oh $$
 ^^ what be he get on like you $$
 ^^ arm $$
-^^  pink $$
+^^ xxx pink $$
 ^^ and your be yellow $$
-^^  do you know where he be here with all these book $$
+^^ what do you know where he be here with all these book $$
 ^^ where do you think he might be $$
 ^^ that be right $$
 ^^ well do $$
@@ -269,7 +273,7 @@
 ^^ you want my toy $$
 ^^ well $$
 ^^ go go go go go go go go go $$
-^^  you have to play with your toy first $$
+^^ first you have to play with your toy first $$
 ^^ until the tape finish $$
 ^^ what be those $$
 ^^ what be they $$
@@ -279,7 +283,7 @@
 ^^ binocular be not they $$
 ^^ so you can see $$
 ^^ no $$
-^^  make thing small that way $$
+^^ that's make thing small that way $$
 ^^ it be from your Explorer_set be not it $$
 ^^ I do not know where the rest of it be $$
 ^^ do you $$
@@ -337,8 +341,8 @@
 ^^ pardon $$
 ^^ hand in the way $$
 ^^ whose hand be in the way $$
-^^ can you find me  Elvis where he be splodged $$
-^^   what be he splodged $$
+^^ can you find me um Elvis where he be splodged $$
+^^ what's he what be he splodged $$
 ^^ can you remember $$
 ^^ be it $$
 ^^ that be not it though be it $$
@@ -439,6 +443,7 @@
 ^^ he must be in the house then $$
 ^^ he be not out work then be he $$
 ^^ we will see $$
+^^ www $$
 ^^ do he drive a taxi $$
 ^^ yes $$
 ^^ he do $$
@@ -459,6 +464,7 @@
 ^^ what be Krakatoa Gail $$
 ^^ what be Krakatoa $$
 ^^ it be Daniel band be not it $$
+^^ www $$
 ^^ Daniel be in a band $$
 ^^ and who be they good than $$
 ^^ be you listen $$
@@ -477,6 +483,7 @@
 ^^ do not think it be a helicopter $$
 ^^ it will be too far to go in a helicopter $$
 ^^ it be a aeroplane $$
+^^ www $$
 ^^ go in a aeroplane do not he $$
 ^^ with Angela $$
 ^^ on holiday $$
@@ -501,13 +508,14 @@
 ^^ John a $$
 ^^ police $$
 ^^ that be right $$
+^^ www $$
 ^^ what can you see $$
 ^^ can you see Mummy $$
 ^^ be I very small $$
 ^^ very tiny $$
 ^^ oh $$
 ^^ you can see me $$
-^^  the other way round $$
+^^ xxx the other way round $$
 ^^ look through the wrong end $$
 ^^ that be it $$
 ^^ no $$
@@ -535,6 +543,7 @@
 ^^ I can see you $$
 ^^ what be you do $$
 ^^ be you flop $$
+^^ www $$
 ^^ oh $$
 ^^ where be you off to $$
 ^^ no $$
@@ -546,6 +555,7 @@
 ^^ know where it be $$
 ^^ oh $$
 ^^ on there $$
+^^ xxx $$
 ^^ shall we play with Noddy $$
 ^^ what be the matter $$
 ^^ oh $$
@@ -631,6 +641,7 @@
 ^^ there it be $$
 ^^ look $$
 ^^ down there $$
+^^ xxx $$
 ^^ oh $$
 ^^ careful with that $$
 ^^ what be that noise $$
@@ -662,9 +673,10 @@
 ^^ do you find the doll that want her bottle $$
 ^^ I think I hear her cry $$
 ^^ think she be cry $$
+^^ xxx $$
 ^^ must be very hungry $$
 ^^ no $$
-^^  give her a bath $$
+^^ xxx give her a bath $$
 ^^ go go go go go go go go $$
 ^^ no $$
 ^^ oh dear $$
@@ -676,7 +688,7 @@
 ^^ no $$
 ^^ that be not the bath $$
 ^^ what be that $$
-^^  a poo in $$
+^^ xxx a poo in $$
 ^^ hope there be not one in there be there $$
 ^^ be there $$
 ^^ oh dear $$
@@ -708,6 +720,7 @@
 ^^ the tail go home have it $$
 ^^ oh $$
 ^^ how fun $$
+^^ a $$
 ^^ that be the Daddy be it $$
 ^^ be there a Mummy $$
 ^^ be not there $$
@@ -720,6 +733,7 @@
 ^^ oh $$
 ^^ the baby horse $$
 ^^ you will have to stroke him $$
+^^ www $$
 ^^ who be that $$
 ^^ Fudge be it $$
 ^^ you have a finger of fudge yesterday $$
@@ -733,6 +747,8 @@
 ^^ still there $$
 ^^ good $$
 ^^ be he like Caiinie $$
+^^ xxx $$
+^^ www $$
 ^^ it be another dog be it $$
 ^^ no $$
 ^^ oh no $$
@@ -748,6 +764,7 @@
 ^^ have a rest $$
 ^^ it be the Mummy pig be it $$
 ^^ be they lie down together $$
+^^ xxx $$
 ^^ oh $$
 ^^ another one $$
 ^^ what be the one with $$
@@ -791,7 +808,8 @@
 ^^ wow $$
 ^^ where do you see cock_a_doodle_doo $$
 ^^ that be right $$
-^^  be that another sheep with horn $$
+^^ www $$
+^^ um be that another sheep with horn $$
 ^^ a Mummy sheep be it $$
 ^^ no $$
 ^^ I do not know $$
@@ -807,6 +825,8 @@
 ^^ I do not know $$
 ^^ what be it $$
 ^^ ribbon $$
+^^ xxx $$
+^^ xxx $$
 ^^ pardon $$
 ^^ Paddington_bear $$
 ^^ no $$
@@ -824,6 +844,7 @@
 ^^ P_B_Bear do do not he $$
 ^^ do he $$
 ^^ make sure he be face the right way then $$
+^^ www $$
 ^^ what be that do you think $$
 ^^ sausage be it $$
 ^^ tomato $$
@@ -840,16 +861,17 @@
 ^^ close her eye $$
 ^^ well $$
 ^^ you choose what she $$
-^^ you  empty that out and choose what she want to wear $$
+^^ you um empty that out and choose what she want to wear $$
 ^^ then I will put them on $$
 ^^ what go with that $$
 ^^ be there anything else $$
 ^^ her collar not very white any more be it $$
+^^ www $$
 ^^ you do it then $$
-^^ I think we be go to have  $$
+^^ I think we be go to have xxx $$
 ^^ when you have take that off I will put this one on $$
 ^^ no $$
-^^   you can do it $$
+^^ you do you can do it $$
 ^^ pull the sleeve down $$
 ^^ like this $$
 ^^ be the sun come out $$
@@ -881,14 +903,16 @@
 ^^ oh $$
 ^^ do not she look good $$
 ^^ oh $$
+^^ xxx $$
 ^^ what be that noise $$
 ^^ do you hear $$
 ^^ Andy should say pardon should not he $$
 ^^ hm $$
+^^ xxx $$
 ^^ pardon $$
 ^^ pardon $$
 ^^ yes $$
-^^ do not she  look pretty $$
+^^ do not she look look pretty $$
 ^^ she could go to a party like that could not she $$
 ^^ do you think we will play game at the party $$
 ^^ what do you think we will play $$
@@ -911,7 +935,7 @@
 ^^ yeah $$
 ^^ that be what we think $$
 ^^ it should be in the bin do not we $$
-^^ but  he be test it be not he $$
+^^ but what he be test it be not he $$
 ^^ err $$
 ^^ mhm $$
 ^^ we think it be yuck do not we $$
@@ -931,6 +955,8 @@
 ^^ you bend them $$
 ^^ that be it $$
 ^^ that be it $$
+^^ xxx $$
+^^ xxx $$
 ^^ hair $$
 ^^ have not get a hair $$
 ^^ have not even get a doll brush actual $$
@@ -959,12 +985,14 @@
 ^^ you can get that out $$
 ^^ let us move it over here away from the tape because it be a bit noise $$
 ^^ there $$
+^^ www $$
 ^^ what can you make $$
 ^^ you find a drive $$
 ^^ he probable go in there do he $$
 ^^ little man $$
 ^^ oh $$
 ^^ it be a fence $$
+^^ xxx $$
 ^^ thank_you $$
 ^^ it do $$
 ^^ yeah $$
@@ -984,6 +1012,7 @@
 ^^ that be it $$
 ^^ perfect $$
 ^^ give horse a ride now can not you $$
+^^ www $$
 ^^ whoops $$
 ^^ will another animal fit in $$
 ^^ do you think so $$
@@ -1030,10 +1059,12 @@
 ^^ what a good idea $$
 ^^ be he a farm or be he a train drive $$
 ^^ oh yes $$
+^^ xxx $$
 ^^ what be big $$
 ^^ he be too big be he to go on $$
 ^^ he will $$
 ^^ yes $$
+^^ xxx $$
 ^^ have a nice ride on the elephant $$
 ^^ be that the noise elephant make $$
 ^^ that be good $$
@@ -1041,6 +1072,7 @@
 ^^ go go go go go go go go go $$
 ^^ go go go go go go go go $$
 ^^ okay $$
+^^ xxx $$
 ^^ what be this $$
 ^^ Percy $$
 ^^ be that Percy $$
@@ -1054,20 +1086,25 @@
 ^^ Grandpa $$
 ^^ for your birth $$
 ^^ I be not very good at build this actual $$
+^^ www $$
 ^^ shall we tip all the bit out $$
 ^^ mhm $$
-^^  do not we $$
+^^ xxx do not we $$
+^^ xxx $$
 ^^ picture $$
 ^^ mhm $$
+^^ xxx $$
 ^^ do you know how to do it Gail $$
 ^^ do you $$
 ^^ there $$
+^^ xxx $$
 ^^ Grandpa try this in hospital do not he $$
 ^^ can you do it $$
 ^^ that $$
 ^^ Grandpa thought there be something wrong with it do not he $$
 ^^ could not do it could he $$
 ^^ he be hope $$
+^^ xxx $$
 ^^ few more bend bit $$
 ^^ do you think that be right $$
 ^^ like that $$
@@ -1085,9 +1122,10 @@
 ^^ oh $$
 ^^ that be no good be it $$
 ^^ no $$
-^^  do not join $$
+^^ xxx do not join $$
 ^^ no $$
 ^^ Mummy can not do it can she $$
+^^ xxx $$
 ^^ will this do look $$
 ^^ we will just have him go into the siding $$
 ^^ sorry $$
@@ -1112,7 +1150,7 @@
 ^^ what have we get here $$
 ^^ two $$
 ^^ two control $$
-^^  two $$
+^^ xxx two $$
 ^^ shall we put them on the roof here $$
 ^^ they be stand up $$
 ^^ and another one $$
@@ -1129,7 +1167,7 @@
 ^^ what be he then $$
 ^^ he be get a spanner look $$
 ^^ for fix the train $$
-^^ and  what do you think he be $$
+^^ and what what do you think he be $$
 ^^ the guard $$
 ^^ guard $$
 ^^ do not know if he be actual $$
@@ -1141,7 +1179,8 @@
 ^^ and what be that $$
 ^^ what do you think this lady be $$
 ^^ a person $$
-^^ be she  $$
+^^ xxx $$
+^^ be she xxx $$
 ^^ she be a passenger be not she $$
 ^^ go go go go go go go go $$
 ^^ be they all stand in a row look $$
@@ -1176,11 +1215,13 @@
 ^^ not a very impressive trick be it $$
 ^^ no $$
 ^^ what be that put the carriage on $$
+^^ www $$
 ^^ what $$
 ^^ join Thomas with the carriage $$
 ^^ you mean like that $$
 ^^ there you be $$
 ^^ do $$
+^^ xxx $$
 ^^ I do not think $$
 ^^ Percy might go at the other end $$
 ^^ try him at the other end of the carriage then $$
@@ -1208,11 +1249,12 @@
 ^^ just the carriage $$
 ^^ join on the carriage $$
 ^^ oh no $$
+^^ www $$
 ^^ oh $$
 ^^ it do work $$
 ^^ silly Mummy $$
 ^^ why do not you put them in the tunnel then brick it up $$
-^^   like happen to Henry in his story $$
+^^ like Henry like happen to Henry in his story $$
 ^^ can you do that $$
 ^^ and where be the brick $$
 ^^ oh $$
@@ -1221,6 +1263,7 @@
 ^^ push $$
 ^^ oh $$
 ^^ where be the brick $$
+^^ xxx $$
 ^^ that be it $$
 ^^ be they $$
 ^^ oh $$
@@ -1256,6 +1299,7 @@
 ^^ oh my word $$
 ^^ what be happen $$
 ^^ they have all flop off have not they $$
+^^ xxx $$
 ^^ do you know what he need to fix them $$
 ^^ be that what he be do $$
 ^^ and what be he need to fix $$
@@ -1309,7 +1353,7 @@
 ^^ not sure $$
 ^^ do you want to play with something else $$
 ^^ pardon $$
-^^    put them all back then $$
+^^ put them all put them all back then $$
 ^^ well $$
 ^^ no $$
 ^^ there be some more thing to go in yet be not there $$
@@ -1345,13 +1389,14 @@
 ^^ there be two bit of paper be not there $$
 ^^ oh $$
 ^^ right over $$
+^^ xxx $$
 ^^ oh $$
 ^^ shut the lid down $$
 ^^ whoops $$
-^^  instead $$
-^^  proper $$
+^^ xxx instead $$
+^^ xxx proper $$
 ^^ do you $$
-^^  will not it $$
+^^ xxx will not it $$
 ^^ do you think $$
 ^^ okay $$
 ^^ let us put the tunnel next to it $$
@@ -1371,20 +1416,23 @@
 ^^ what about your jig with Postman_Pat $$
 ^^ shall we do that $$
 ^^ yeah $$
+^^ xxx $$
 ^^ not a big jig fan be you $$
 ^^ right $$
 ^^ shall we do some roll with that $$
-^^  the pad $$
+^^ xxx the pad $$
 ^^ and there be some chalk as_well $$
 ^^ we can use that in a bit $$
 ^^ can not we $$
 ^^ on the carpet $$
 ^^ it be a rug be not it $$
 ^^ a rug $$
+^^ xxx $$
 ^^ think we need to roll it on there first $$
 ^^ roll it on there $$
 ^^ no $$
 ^^ on the pad first $$
+^^ xxx $$
 ^^ oh $$
 ^^ now $$
 ^^ what be it do $$
@@ -1414,10 +1462,12 @@
 ^^ oh $$
 ^^ you know $$
 ^^ right $$
+^^ www $$
 ^^ mhm $$
 ^^ shall we have a clean $$
 ^^ shall we do it on the back $$
 ^^ there $$
+^^ xxx $$
 ^^ no $$
 ^^ you do not do it proper on the pad $$
 ^^ not enough ink on there be there $$
@@ -1435,11 +1485,12 @@
 ^^ look at all these teddy $$
 ^^ you do it this time $$
 ^^ on there $$
-^^  teddy $$
+^^ xxx teddy $$
 ^^ can you see what these be $$
 ^^ these be heart $$
 ^^ mhm $$
 ^^ in here look $$
+^^ xxx $$
 ^^ be you go to draw something for Mummy $$
 ^^ what about them $$
 ^^ oh dear $$
@@ -1467,6 +1518,7 @@
 ^^ yeah $$
 ^^ do he $$
 ^^ and a hat $$
+^^ xxx $$
 ^^ like that $$
 ^^ do not look like a hat do it $$
 ^^ and a eye $$
@@ -1483,6 +1535,7 @@
 ^^ shall I draw a van $$
 ^^ a van $$
 ^^ shall I do his van because his van red be not it $$
+^^ xxx $$
 ^^ what be what one $$
 ^^ this $$
 ^^ what be this one $$
@@ -1515,6 +1568,7 @@
 ^^ yeah $$
 ^^ because grass be green be not it $$
 ^^ yeah $$
+^^ xxx $$
 ^^ what do Alistair draw for you yesterday $$
 ^^ do you remember $$
 ^^ when she come $$
@@ -1525,12 +1579,13 @@
 ^^ sorry $$
 ^^ and why do he say that $$
 ^^ keep get in the wrong bed do not he $$
+^^ xxx $$
 ^^ it be the same be not it $$
 ^^ purple one here $$
-^^  what could be purple $$
+^^ um what could be purple $$
 ^^ a house $$
 ^^ purple house $$
-^^  do you think $$
+^^ xxx do you think $$
 ^^ do that look like a house $$
 ^^ window $$
 ^^ that be right $$
@@ -1546,6 +1601,7 @@
 ^^ little one $$
 ^^ be there one in there with no tail $$
 ^^ have a look $$
+^^ xxx $$
 ^^ have Daddy get a tail $$
 ^^ your Daddy get a tail $$
 ^^ no $$
@@ -1568,11 +1624,12 @@
 ^^ let us have a look $$
 ^^ be they anatomic $$
 ^^ oh yes $$
-^^  think that be the Daddy $$
+^^ um think that be the Daddy $$
 ^^ that be the Daddy $$
 ^^ and that be the Mummy $$
 ^^ you see milk come out there for the baby cow so that be the Mummy one $$
 ^^ yeah $$
+^^ xxx $$
 ^^ that be where milk come from $$
 ^^ you know when you have milk in your bottle $$
 ^^ in your beaker $$
@@ -1598,6 +1655,7 @@
 ^^ it be Winnie_the_Pooh $$
 ^^ I will put it in my bag $$
 ^^ go go go go go go go go go go $$
+^^ www $$
 ^^ that be luck $$
 ^^ cheese $$
 ^^ cheese $$
@@ -1617,6 +1675,7 @@
 ^^ there be a knock at the door sweet $$
 ^^ so I be just nip downstairs to let Sonia in $$
 ^^ okay $$
+^^ www $$
 ^^ eat those $$
 ^^ okay $$
 ^^ uhhum $$
@@ -1676,6 +1735,7 @@
 ^^ no $$
 ^^ the red one be lose age ago $$
 ^^ oh dear Andy $$
+^^ www $$
 ^^ flop right over have not he $$
 ^^ do not put it in your mouth $$
 ^^ have you get more tooth come $$
@@ -1727,8 +1787,10 @@
 ^^ write $$
 ^^ she be write $$
 ^^ she be write down what you say $$
+^^ www $$
 ^^ shall we open the other box $$
 ^^ yes $$
+^^ www $$
 ^^ it be be not it $$
 ^^ mhm $$
 ^^ be he $$
@@ -1807,21 +1869,25 @@
 ^^ here he be $$
 ^^ not the farm be he $$
 ^^ mind you $$
-^^ your farm  $$
+^^ your farm xxx $$
 ^^ he be the train drive $$
 ^^ uhhum $$
 ^^ what be you look for $$
 ^^ shall we pour it out $$
 ^^ there $$
 ^^ be there a monkey $$
+^^ www $$
+^^ www $$
 ^^ it be not $$
 ^^ yeah $$
 ^^ he do jump $$
 ^^ that be a big noise $$
+^^ xxx $$
 ^^ okay $$
 ^^ go on then $$
 ^^ no $$
 ^^ you do it $$
+^^ xxx $$
 ^^ be that a eye look $$
 ^^ oh no $$
 ^^ maybe not $$
@@ -1854,7 +1920,7 @@
 ^^ how do that get in there $$
 ^^ be you park your shoe $$
 ^^ no $$
-^^ shall we put that in the corner with  all those other shoe $$
+^^ shall we put that in the corner with all all those other shoe $$
 ^^ in the pile of shoe $$
 ^^ we be miss a car $$
 ^^ can you find it $$
@@ -1864,10 +1930,11 @@
 ^^ well $$
 ^^ go and get it then $$
 ^^ yeah $$
+^^ xxx $$
 ^^ well do $$
 ^^ right $$
-^^ let us see   what be $$
-^^ tell me  all the different thing you can do with this garage $$
+^^ let us see what what what be $$
+^^ tell me all all the different thing you can do with this garage $$
 ^^ what can you do with it $$
 ^^ what can you do with that though $$
 ^^ oh $$
@@ -1882,8 +1949,10 @@
 ^^ the lift be go without them $$
 ^^ what be that $$
 ^^ a lift be not it $$
+^^ xxx $$
 ^^ can you see this $$
 ^^ that say stop $$
+^^ xxx $$
 ^^ whoops $$
 ^^ oh dear $$
 ^^ oh dear $$
@@ -1891,6 +1960,7 @@
 ^^ there $$
 ^^ do it the wrong way round do not we $$
 ^^ oh $$
+^^ xxx $$
 ^^ whoops $$
 ^^ oh $$
 ^^ he be get to pay $$
@@ -1898,7 +1968,7 @@
 ^^ pay $$
 ^^ do he pay $$
 ^^ he be go in there be he $$
-^^   do he get his ticket $$
+^^ is he do he get his ticket $$
 ^^ yeah $$
 ^^ one pound be it $$
 ^^ oh $$
@@ -1958,11 +2028,12 @@
 ^^ there $$
 ^^ then they can go in $$
 ^^ hang on $$
-^^ be not that face the  $$
+^^ be not that face the xxx $$
 ^^ do they want some $$
 ^^ do they need some petrol in their car $$
 ^^ do they $$
 ^^ have to get a bit nearer will not they $$
+^^ www $$
 ^^ be there a hole to put the petrol in or not $$
 ^^ that be no good be it $$
 ^^ yes $$
@@ -1992,6 +2063,7 @@
 ^^ that be a stroke of luck $$
 ^^ look $$
 ^^ be not that one of them $$
+^^ xxx $$
 ^^ what be you do $$
 ^^ shall we put one on your head $$
 ^^ like that $$
@@ -2000,9 +2072,11 @@
 ^^ dear $$
 ^^ poor lady $$
 ^^ go go go go go go go go go go go go go go $$
+^^ xxx $$
 ^^ they wait here $$
-^^ and the lady lift the little girl  look $$
+^^ and the lady lift the little girl xxx look $$
 ^^ and look $$
+^^ xxx $$
 ^^ do you think they be have a milk or a apple one $$
 ^^ like Mummy $$
 ^^ mhm $$
@@ -2015,10 +2089,12 @@
 ^^ what be you do $$
 ^^ thing something go wrong with our hoover have not it $$
 ^^ she will not be long $$
+^^ xxx $$
 ^^ do not need to look do you $$
 ^^ I think you have get a bug in your hair $$
 ^^ come here $$
 ^^ come on $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ it be a bit of fluff $$
@@ -2047,6 +2123,7 @@
 ^^ because you get three do not you $$
 ^^ to keep in your bag $$
 ^^ where have they go $$
+^^ xxx $$
 ^^ shall we read that one then $$
 ^^ shall we $$
 ^^ what be it $$
@@ -2055,11 +2132,12 @@
 ^^ oh $$
 ^^ it be Miffy at the seaside $$
 ^^ that be a good one be not it $$
+^^ xxx $$
 ^^ what have you do $$
 ^^ what be the matter $$
 ^^ oh dear $$
 ^^ what be the matter $$
-^^ shall we  have a look at the seaside then $$
+^^ shall we read have a look at the seaside then $$
 ^^ you have be to the seaside $$
 ^^ do not expect that you can remember go to the seaside do you $$
 ^^ mhm $$
@@ -2102,7 +2180,8 @@
 ^^ there she be $$
 ^^ and then she be go for a paddle $$
 ^^ splash her Daddy $$
-^^ her Daddy call  $$
+^^ her Daddy call xxx $$
+^^ xxx $$
 ^^ be that her Daddy do you think or Miffy $$
 ^^ do not know $$
 ^^ I think it might be Daddy $$
@@ -2115,10 +2194,11 @@
 ^^ she be go home $$
 ^^ oh $$
 ^^ do you know where your other Miffy book be $$
+^^ www $$
 ^^ right $$
 ^^ shall we $$
 ^^ oh $$
-^^ what about this  one $$
+^^ what about this xxx one $$
 ^^ because this have get lots_of interesting thing to see in it have not it $$
 ^^ Nanny buy you $$
 ^^ yeah $$
@@ -2137,6 +2217,7 @@
 ^^ it be $$
 ^^ he be lose his shoe $$
 ^^ it be on the floor $$
+^^ xxx $$
 ^^ go go go go go go go go go go $$
 ^^ no $$
 ^^ what be they do over here $$
@@ -2154,6 +2235,7 @@
 ^^ have you $$
 ^^ oh $$
 ^^ be not I luck $$
+^^ xxx $$
 ^^ what be happen here $$
 ^^ what be this here $$
 ^^ do you know $$
@@ -2175,6 +2257,7 @@
 ^^ fly away $$
 ^^ wait a minute $$
 ^^ we be miss some page out here $$
+^^ xxx $$
 ^^ and then they be go to look for something else $$
 ^^ what can we see on this page $$
 ^^ what be this $$
@@ -2182,7 +2265,7 @@
 ^^ a what $$
 ^^ kite $$
 ^^ that be right $$
-^^ now  what do we do on a horse at the week $$
+^^ now what what do we do on a horse at the week $$
 ^^ do we go to the fair $$
 ^^ and do we ride on a horse together $$
 ^^ go round and round $$
@@ -2196,7 +2279,7 @@
 ^^ that be right $$
 ^^ go to see him on Sunday $$
 ^^ yeah $$
-^^  not on the beach $$
+^^ um not on the beach $$
 ^^ no $$
 ^^ go out for lunch $$
 ^^ and what be the other horse call $$
@@ -2214,7 +2297,7 @@
 ^^ well $$
 ^^ I do not think that be real true be it $$
 ^^ you be frighten be not you $$
-^^ but fortunate the man give Mummy  our money back $$
+^^ but fortunate the man give Mummy your our money back $$
 ^^ do not he $$
 ^^ that be luck $$
 ^^ because Mummy thought she genmod waste her money $$
@@ -2238,9 +2321,10 @@
 ^^ be that what you mean $$
 ^^ roof $$
 ^^ so you can carry luggage on the roof $$
-^^ think the bin have  be and take that box $$
+^^ think the bin have been be and take that box $$
+^^ xxx $$
 ^^ oh $$
-^^  over $$
+^^ xxx over $$
 ^^ what be we talk about $$
 ^^ we be talk about the fair be not we $$
 ^^ what do you have to eat $$
@@ -2269,12 +2353,12 @@
 ^^ what else do we do at the week $$
 ^^ can you remember $$
 ^^ we go $$
-^^  do we have a barbecue $$
+^^ did do we have a barbecue $$
 ^^ whose house do we go to for a barbecue $$
 ^^ Pa house for a barbecue $$
 ^^ what be you do $$
 ^^ Pa house for a barbecue $$
-^^  who do you play with there $$
+^^ who who do you play with there $$
 ^^ William do not you $$
 ^^ be you dance $$
 ^^ oh dear $$
@@ -2335,6 +2419,7 @@
 ^^ what you do $$
 ^^ what be that one $$
 ^^ what be it $$
+^^ xxx $$
 ^^ what be that one $$
 ^^ be that one from the library $$
 ^^ shall we have a look at it $$
@@ -2350,16 +2435,18 @@
 ^^ then we will be able to look at the toy $$
 ^^ oh $$
 ^^ what be that $$
+^^ xxx $$
 ^^ I hear a dog bark $$
 ^^ be you go to choose a book then $$
 ^^ quick $$
 ^^ otherwise you will not be able to play with Caroline toy will you $$
+^^ xxx $$
 ^^ get one $$
 ^^ oh $$
 ^^ what else can you find to play with $$
 ^^ you have to wait for those $$
 ^^ have to wait $$
-^^  we will just read a book and then it will be time I think $$
+^^ just we will just read a book and then it will be time I think $$
 ^^ yes $$
 ^^ oh $$
 ^^ read a book first and then you can have something $$
@@ -2382,12 +2469,14 @@
 ^^ will that be a good idea $$
 ^^ will it $$
 ^^ what $$
+^^ xxx $$
 ^^ a gorilla $$
 ^^ no $$
 ^^ what then $$
 ^^ oh $$
 ^^ that be not talk be it $$
 ^^ that be monkey noise $$
+^^ xxx $$
 ^^ uhuh $$
 ^^ no $$
 ^^ listen $$
@@ -2397,7 +2486,7 @@
 ^^ you be in a bit of silly mood $$
 ^^ be not you $$
 ^^ what be you do $$
-^^  be not it $$
+^^ xxx be not it $$
 ^^ gentle though $$
 ^^ what be you do now $$
 ^^ no no $$
@@ -2407,12 +2496,14 @@
 ^^ no $$
 ^^ no $$
 ^^ leave him please $$
+^^ xxx $$
 ^^ look $$
 ^^ you have upset him now $$
 ^^ he be do very well $$
 ^^ I think you be be a very silly girl today $$
 ^^ do not you $$
 ^^ you have not say a lot for Caroline to write down have you today $$
+^^ www $$
 ^^ I know you want Caroline toy but you know you have get to wait have not you $$
 ^^ nothing in there $$
 ^^ no $$
@@ -2443,6 +2534,7 @@
 ^^ they be in a queue be they $$
 ^^ oh $$
 ^^ wonder what it be $$
+^^ xxx $$
 ^^ do not know you know what a queue be $$
 ^^ next week we will not have any sofa to sit on will we $$
 ^^ the man be take them away be not he $$
@@ -2456,6 +2548,8 @@
 ^^ that be it $$
 ^^ other one there $$
 ^^ thank_you $$
+^^ xxx $$
+^^ xxx $$
 ^^ arm $$
 ^^ oh dear $$
 ^^ I should not get that one on $$
@@ -2485,11 +2579,12 @@
 ^^ tiny one $$
 ^^ a billy $$
 ^^ it be a Daddy goat $$
-^^  look $$
+^^ xxx look $$
 ^^ and little fluff tail $$
 ^^ watch your foot by Mummy tea $$
 ^^ do not need another cup spill $$
 ^^ have two yesterday do not you $$
+^^ www $$
 ^^ it be a pineapple $$
 ^^ watch your foot please $$
 ^^ be you put on $$
@@ -2512,18 +2607,22 @@
 ^^ Po $$
 ^^ be he a teddy $$
 ^^ do not think there be any track be there to that one $$
+^^ www $$
+^^ www $$
 ^^ oh $$
 ^^ be you push it round $$
 ^^ hm $$
 ^^ be the drive steer $$
 ^^ oh $$
 ^^ who be then $$
+^^ www $$
 ^^ it be a bof $$
 ^^ yes $$
 ^^ trump $$
 ^^ what do you have to say $$
 ^^ pardon do not you $$
 ^^ pardon me $$
+^^ www $$
 ^^ you be in the lounge $$
 ^^ Caroline toy be in the lounge too $$
 ^^ Mummy $$
@@ -2544,6 +2643,7 @@
 ^^ oh yeah $$
 ^^ oh $$
 ^^ hang on $$
+^^ www $$
 ^^ quick $$
 ^^ pardon $$
 ^^ oh no $$
@@ -2554,12 +2654,14 @@
 ^^ what be in that box then $$
 ^^ can you find me a whale $$
 ^^ oh oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ be there another one $$
 ^^ shall I find it $$
 ^^ ready $$
 ^^ tip it out $$
 ^^ what a racket $$
+^^ www $$
 ^^ do it $$
 ^^ I think it be just a fence $$
 ^^ it be not real for building $$
@@ -2592,13 +2694,14 @@
 ^^ what about the penguin drive the train $$
 ^^ oh dear $$
 ^^ be he too big $$
-^^  a small one $$
+^^ xxx a small one $$
 ^^ well $$
 ^^ the drive be in the truck there look $$
 ^^ by your hand $$
 ^^ no $$
 ^^ there be $$
 ^^ there should be another one $$
+^^ www $$
 ^^ too trick $$
 ^^ oh dear $$
 ^^ wet knickers $$
@@ -2611,6 +2714,7 @@
 ^^ take them off then but we do not want to see your bottom $$
 ^^ take them off and we will get some dry one later $$
 ^^ I hope this be not just a excuse to get them off $$
+^^ www $$
 ^^ I be sure you can get them off yourself $$
 ^^ go on then $$
 ^^ lift your foot up $$
@@ -2634,6 +2738,7 @@
 ^^ well $$
 ^^ you can do it $$
 ^^ why $$
+^^ xxx $$
 ^^ you be amaze $$
 ^^ no $$
 ^^ we do not want to tip any more out $$
@@ -2667,23 +2772,28 @@
 ^^ what do you say $$
 ^^ Gail $$
 ^^ go backwards $$
+^^ xxx $$
 ^^ go down the shute $$
 ^^ do not lose them $$
 ^^ they be Caroline $$
 ^^ you do $$
 ^^ yes $$
 ^^ can you find them $$
-^^ do you want to  $$
+^^ www $$
+^^ do you want to xxx $$
+^^ www $$
 ^^ go on $$
 ^^ just pull it then $$
 ^^ pull your play $$
 ^^ you be hope today be not you $$
+^^ xxx $$
 ^^ come on $$
 ^^ move your foot $$
 ^^ that be the first Little_Tykes toy you have manage to break there $$
 ^^ oh $$
 ^^ be it $$
 ^^ the swing $$
+^^ www $$
 ^^ yeah $$
 ^^ what have you get new $$
 ^^ what do we get new the other day for you $$
@@ -2697,8 +2807,10 @@
 ^^ it be great be not it $$
 ^^ you wash Daddy sock do not you $$
 ^^ when he get home from work $$
+^^ www $$
 ^^ you want to wash them do not you $$
 ^^ no $$
+^^ xxx $$
 ^^ what $$
 ^^ be something in the pond $$
 ^^ be your foot get wet $$
@@ -2719,6 +2831,7 @@
 ^^ press the button be not you $$
 ^^ so_that the shower squirt $$
 ^^ like at the swim pool $$
+^^ xxx $$
 ^^ craze $$
 ^^ yeah $$
 ^^ Caroline what $$
@@ -2740,7 +2853,10 @@
 ^^ oh $$
 ^^ oh $$
 ^^ the hoover seem to have recover $$
+^^ xxx $$
+^^ xxx $$
 ^^ it be be not it $$
+^^ xxx $$
 ^^ yeah $$
 ^^ it get mangle $$
 ^^ have to go in the bin $$
@@ -2753,6 +2869,7 @@
 ^^ you do not need to $$
 ^^ put it in the one behind the plant there $$
 ^^ the one behind the tellie $$
+^^ xxx $$
 ^^ yeah $$
 ^^ if you want $$
 ^^ no $$
@@ -2767,6 +2884,7 @@
 ^^ it be like Gail but it be not Gail be it $$
 ^^ it be a croissant $$
 ^^ do you put butter on it $$
+^^ www $$
 ^^ okay $$
 ^^ oh $$
 ^^ there he be $$
@@ -2777,6 +2895,7 @@
 ^^ you can get it can not you $$
 ^^ you laze bone $$
 ^^ thank_you $$
+^^ www $$
 ^^ Gail $$
 ^^ we be wait for you to talk $$
 ^^ be you go to talk $$
@@ -2785,9 +2904,11 @@
 ^^ have you show Caroline your new wash machine $$
 ^^ have you $$
 ^^ be you go to wash that glove $$
+^^ www $$
 ^^ you have to wash it first $$
 ^^ put it in the wash bite $$
 ^^ that be it $$
+^^ xxx $$
 ^^ wait a minute $$
 ^^ need to be on hot $$
 ^^ okay $$
@@ -2841,13 +2962,14 @@
 ^^ do not make a mess $$
 ^^ that be enough now I think $$
 ^^ go on then $$
+^^ xxx $$
 ^^ pardon $$
 ^^ oh right $$
-^^  strip the wall $$
+^^ xxx strip the wall $$
 ^^ think $$
 ^^ what about the fire $$
 ^^ Caroline have not see that either $$
-^^ Mummy will have to get a new  house $$
+^^ Mummy will have to get a new h house $$
 ^^ a Little_Tykes house $$
 ^^ for all your Little_Tykes toy in $$
 ^^ do you think $$
@@ -2876,13 +2998,16 @@
 ^^ that be the sheet there on the floor $$
 ^^ wipe it on there $$
 ^^ that be it $$
+^^ xxx $$
 ^^ what do you want $$
 ^^ I know it be shut $$
 ^^ what do you want out_of it $$
 ^^ the roll $$
+^^ xxx $$
 ^^ in the dark be it $$
 ^^ have a look then $$
 ^^ there $$
+^^ xxx $$
 ^^ bit of a mess in here be not it $$
 ^^ be this it $$
 ^^ yeah $$
@@ -2898,8 +3023,9 @@
 ^^ oh $$
 ^^ this be good tractor $$
 ^^ think Caroline might have draw that $$
+^^ www $$
 ^^ that be good $$
-^^  which one be it $$
+^^ which which one be it $$
 ^^ the teddy $$
 ^^ oh $$
 ^^ okay $$
@@ -2915,6 +3041,7 @@
 ^^ lots_of teddy $$
 ^^ do it look nice $$
 ^^ pardon $$
+^^ www $$
 ^^ wait a minute $$
 ^^ do not use too many bit of paper $$
 ^^ they will all be go $$
@@ -2943,7 +3070,8 @@
 ^^ nice color pencil $$
 ^^ like the rain $$
 ^^ yeah $$
-^^ go and use them on  your paper $$
+^^ xxx $$
+^^ go and use them on your your paper $$
 ^^ show what you can draw $$
 ^^ go on then $$
 ^^ black one $$
@@ -2960,9 +3088,11 @@
 ^^ will not be able to see that one $$
 ^^ can you see it $$
 ^^ no $$
+^^ xxx $$
 ^^ that be a green one $$
 ^^ that one show up $$
 ^^ no more page after this $$
+^^ xxx $$
 ^^ that be a blue one $$
 ^^ light blue $$
 ^^ uhuh $$
@@ -3003,8 +3133,9 @@
 ^^ think I can hear the bin $$
 ^^ they be already be and go $$
 ^^ they be take our black bag $$
-^^ take   our rubbish have not they $$
+^^ take our bin our rubbish have not they $$
 ^^ mhm $$
+^^ xxx $$
 ^^ what do you say $$
 ^^ lorry go on the food $$
 ^^ hm $$
@@ -3030,7 +3161,7 @@
 ^^ do we go out for a meal $$
 ^^ to a cafe $$
 ^^ do we $$
-^^ and  where do we go last night $$
+^^ and did where do we go last night $$
 ^^ for our tea $$
 ^^ we do not $$
 ^^ last night $$
@@ -3040,6 +3171,7 @@
 ^^ pardon $$
 ^^ no Andy $$
 ^^ MacDonalds $$
+^^ www $$
 ^^ oh $$
 ^^ go go go go go go go go go go $$
 ^^ look out $$
@@ -3071,10 +3203,12 @@
 ^^ this one $$
 ^^ have a look now $$
 ^^ oh $$
+^^ xxx $$
 ^^ go go go go $$
 ^^ go go go go go go go go go go go $$
 ^^ you silly thing $$
 ^^ do this toe $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ go out this afternoon $$
 ^^ with purple foot $$
@@ -3082,6 +3216,7 @@
 ^^ lift this foot up again $$
 ^^ do it tickle $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
 ^^ do not tread on it again until I shut it $$
 ^^ hm $$
@@ -3132,7 +3267,9 @@
 ^^ tuck those bit in $$
 ^^ look $$
 ^^ quick $$
+^^ xxx $$
 ^^ you have not press the button $$
+^^ xxx $$
 ^^ it be a design fault be not it $$
 ^^ do not make it very well $$
 ^^ hold it shut with your hand $$
@@ -3182,6 +3319,7 @@
 ^^ I can pretend can not I $$
 ^^ oh look $$
 ^^ it be a letter from Daddy $$
+^^ xxx $$
 ^^ this one a letter from Granny $$
 ^^ look $$
 ^^ it say happy_birthday to Mummy $$
@@ -3198,6 +3336,7 @@
 ^^ oh dear $$
 ^^ how do you do that $$
 ^^ oh $$
+^^ xxx $$
 ^^ why do not you come here $$
 ^^ oh $$
 ^^ look at $$
@@ -3210,6 +3349,8 @@
 ^^ she have not have it yesterday have she when she come to see us $$
 ^^ okay $$
 ^^ well $$
+^^ xxx $$
+^^ www $$
 ^^ think he be make a phone $$
 ^^ think he be be ring Daddy while you be on the loo $$
 ^^ do you think so $$
@@ -3251,6 +3392,7 @@
 ^^ do we see Daniel at the week $$
 ^^ Daniel and $$
 ^^ that be right $$
+^^ xxx $$
 ^^ who do you think might be go with Daddy $$
 ^^ Mark $$
 ^^ Andy $$
@@ -3273,6 +3415,7 @@
 ^^ they be come on Friday $$
 ^^ that be tomorrow $$
 ^^ mhm $$
+^^ xxx $$
 ^^ that will be nice will not it $$
 ^^ pardon $$
 ^^ you want a hug $$
@@ -3284,7 +3427,7 @@
 ^^ on his face $$
 ^^ what be he get $$
 ^^ a little cut $$
-^^ and  where do you think he might have to go $$
+^^ and what where do you think he might have to go $$
 ^^ go to hospital now $$
 ^^ no $$
 ^^ he will not have to go to hospital $$
@@ -3328,6 +3471,7 @@
 ^^ which one his shoe $$
 ^^ can you take his shoe off $$
 ^^ cold $$
+^^ xxx $$
 ^^ hm $$
 ^^ mhm $$
 ^^ good idea $$
@@ -3337,7 +3481,7 @@
 ^^ put what on the floor $$
 ^^ go on then $$
 ^^ where be his car $$
-^^  sit $$
+^^ xxx sit $$
 ^^ what be he do $$
 ^^ lick his hand be he $$
 ^^ be he hungry $$
@@ -3350,15 +3494,19 @@
 ^^ to listen to in the car $$
 ^^ it be call the Supernaturals $$
 ^^ Supernaturals $$
+^^ xxx $$
 ^^ yeah $$
 ^^ where do we go yesterday $$
 ^^ do we go to the park $$
 ^^ what happen there $$
+^^ www $$
 ^^ pig stamp $$
+^^ xxx $$
 ^^ and what do we play with $$
 ^^ we do $$
 ^^ blow great big big one do not we $$
 ^^ and do you see those fun man on the stage $$
+^^ xxx $$
 ^^ what do they have $$
 ^^ they do $$
 ^^ and you shout very loud $$
@@ -3384,6 +3532,7 @@
 ^^ mhm $$
 ^^ yeah $$
 ^^ that be right $$
+^^ xxx $$
 ^^ yeah $$
 ^^ I think there be a little boy as_well $$
 ^^ be there a goat $$
@@ -3395,11 +3544,13 @@
 ^^ no $$
 ^^ there be one more big than that $$
 ^^ the purple one $$
+^^ xxx $$
 ^^ no $$
 ^^ whoops $$
 ^^ roll away $$
 ^^ that be it $$
 ^^ that be the big $$
+^^ xxx $$
 ^^ there we be $$
 ^^ right down to the bottom $$
 ^^ and the pink one $$
@@ -3408,7 +3559,7 @@
 ^^ there be a green one $$
 ^^ no $$
 ^^ yellow one in $$
-^^ yellow one next  $$
+^^ yellow one next eh $$
 ^^ that be orange $$
 ^^ that be it $$
 ^^ orange $$
@@ -3426,7 +3577,7 @@
 ^^ I should not think so $$
 ^^ oh $$
 ^^ he definite do not want a egg do he $$
-^^ he  $$
+^^ he xxx $$
 ^^ you do not want a egg do you $$
 ^^ he do not want a egg do he $$
 ^^ no $$
@@ -3439,13 +3590,17 @@
 ^^ what be that noise $$
 ^^ mhm $$
 ^^ be you wriggle your toe $$
+^^ www $$
 ^^ yeah $$
+^^ www $$
 ^^ what be you do $$
 ^^ be it a lollipop $$
+^^ xxx $$
 ^^ you be be not you $$
 ^^ do not chew it $$
 ^^ no $$
 ^^ you be spoil it $$
+^^ eh $$
 ^^ stop it $$
 ^^ that be not yours be it $$
 ^^ no $$
@@ -3455,13 +3610,17 @@
 ^^ you have get some bug have not you $$
 ^^ yeah $$
 ^^ you have get bug in a pot $$
+^^ xxx $$
 ^^ mhm $$
 ^^ okay $$
+^^ xxx $$
 ^^ oh $$
 ^^ crash $$
 ^^ that make Andy jump $$
 ^^ oh $$
+^^ www $$
 ^^ do not think there be any track $$
+^^ www $$
 ^^ there $$
 ^^ have you get a animal in it $$
 ^^ a animal can have a ride now $$
@@ -3481,7 +3640,8 @@
 ^^ oh $$
 ^^ it be a very big house be not it $$
 ^^ hm $$
-^^  be not it $$
+^^ www $$
+^^ xxx be not it $$
 ^^ be you $$
 ^^ oh $$
 ^^ where be the wheel $$
@@ -3493,8 +3653,10 @@
 ^^ who be go to live in it $$
 ^^ curtain $$
 ^^ oh $$
+^^ www $$
 ^^ do you say person or curtain $$
 ^^ bed $$
+^^ www $$
 ^^ go go go go go go go go $$
 ^^ oh $$
 ^^ have to be careful then will not we $$
@@ -3502,7 +3664,7 @@
 ^^ oh good $$
 ^^ big stretch $$
 ^^ Daddy in bed be he $$
-^^  in the house $$
+^^ in in the house $$
 ^^ with the lion $$
 ^^ be he $$
 ^^ oh dear $$
@@ -3541,6 +3703,7 @@
 ^^ Daddy key $$
 ^^ yeah $$
 ^^ be you $$
+^^ xxx $$
 ^^ make Daddy a bed have you $$
 ^^ oh good $$
 ^^ underneath the shop basket $$
@@ -3549,7 +3712,7 @@
 ^^ underneath it $$
 ^^ yeah $$
 ^^ lift it up and it will be there $$
-^^ lift the  $$
+^^ lift the xxx $$
 ^^ there $$
 ^^ get it $$
 ^^ be another one be there $$
@@ -3564,12 +3727,13 @@
 ^^ can I eat it just like that $$
 ^^ it be get shell on $$
 ^^ we will have to cook it will not we $$
-^^ Caroline  $$
+^^ Caroline xxx $$
 ^^ thank_you $$
 ^^ thank_you $$
-^^ can you find Andy that rabbit that be hide   under the sofa look $$
+^^ can you find Andy that rabbit that be hide in the under the sofa look $$
 ^^ Andy might want to play with it might not he $$
 ^^ do you think $$
+^^ xxx $$
 ^^ on his wrist $$
 ^^ oh $$
 ^^ thank_you $$

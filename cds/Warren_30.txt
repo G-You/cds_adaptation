@@ -79,7 +79,7 @@
 ^^ can you see another piece with brick on $$
 ^^ that do go there $$
 ^^ it do $$
-^^    look $$
+^^ look look look look $$
 ^^ that do go there $$
 ^^ so what need to go here $$
 ^^ now be that the right piece $$
@@ -270,7 +270,7 @@
 ^^ hello $$
 ^^ course you can $$
 ^^ which one $$
-^^ well     let us put the kitten jig away first $$
+^^ well let's put the pup let us put the kitten jig away first $$
 ^^ put these away first $$
 ^^ dog $$
 ^^ well they have get a kitten on as_well have not they $$
@@ -281,7 +281,7 @@
 ^^ it do not $$
 ^^ that be right $$
 ^^ that be right $$
-^^ but you see         perhaps you have to get all the piece out until you find the right one $$
+^^ but you see you hafta look at all you hafta get perhaps you have to get all the piece out until you find the right one $$
 ^^ oh yes $$
 ^^ so it do $$
 ^^ why be he on the telephone $$
@@ -311,7 +311,7 @@
 ^^ where do we go yesterday $$
 ^^ no $$
 ^^ we do not go to Nana $$
-^^   where do you eat your breakfast yesterday $$
+^^ where were where do you eat your breakfast yesterday $$
 ^^ not at Grandma $$
 ^^ who sit with Warren and eat his breakfast $$
 ^^ yes Warren do $$
@@ -349,7 +349,7 @@
 ^^ Bramwell_Brown and a hat $$
 ^^ who be cry $$
 ^^ Little_Bear be $$
-^^  where be your little bear at the moment $$
+^^ where where be your little bear at the moment $$
 ^^ where be your teddy $$
 ^^ no $$
 ^^ he be not $$
@@ -364,7 +364,7 @@
 ^^ where be your teddy and rabbit $$
 ^^ mhm $$
 ^^ why be they in there $$
-^^    no $$
+^^ no no no no $$
 ^^ come back $$
 ^^ you can watch them later $$
 ^^ you come back and you can help Mummy to peg them out on the lie like Thread_Bear $$
@@ -381,6 +381,7 @@
 ^^ okay $$
 ^^ be it go to have a high high wall round it $$
 ^^ just a little one $$
+^^ xxx $$
 ^^ where be the person go on the train $$
 ^^ of course $$
 ^^ where be it go now $$
@@ -426,7 +427,7 @@
 ^^ have to dry myself off $$
 ^^ I know $$
 ^^ I see you $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ I will wipe you with this one $$
 ^^ get all the water on $$
 ^^ shall I wipe it off again $$
@@ -546,6 +547,7 @@
 ^^ what be that fun whine noise $$
 ^^ you do not know $$
 ^^ I think it a little whine boy $$
+^^ a $$
 ^^ what be the matter $$
 ^^ what be the matter $$
 ^^ what do you think $$
@@ -568,7 +570,7 @@
 ^^ we will have to leave them $$
 ^^ it be like a h for Harry $$
 ^^ actual I think that might fit on somewhere $$
-^^     can Mummy have a try $$
+^^ let Mummy have a can Mummy have a try $$
 ^^ try fit in over there $$
 ^^ no $$
 ^^ over here $$
@@ -656,7 +658,7 @@
 ^^ Nana be go to take us to the airport in her car $$
 ^^ then we will get on a plane $$
 ^^ and then where be we go $$
-^^ we be go to go on a coach that will take us to  where we be stay $$
+^^ we be go to go on a coach that will take us to our where we be stay $$
 ^^ you will fall asleep on the coach $$
 ^^ that be the idea $$
 ^^ that be the idea $$
@@ -705,9 +707,9 @@
 ^^ clever be not it $$
 ^^ special foot size hole be not they for that bull $$
 ^^ oh dear $$
-^^     oh dear $$
+^^ oh dear oh dear oh dear $$
 ^^ oh dear $$
-^^   oh dear $$
+^^ oh dear oh dear $$
 ^^ oh dear $$
 ^^ be that fun $$
 ^^ oh dear $$
@@ -731,6 +733,7 @@
 ^^ where Mummy and Daddy drive very slow $$
 ^^ what be you building now $$
 ^^ to put the animal in $$
+^^ a $$
 ^^ be that so the animal can get in and out $$
 ^^ well why do not you look for bit of tractor which have get blue sky on as_well $$
 ^^ you get off the piece pet $$
@@ -834,6 +837,7 @@
 ^^ no $$
 ^^ that one do not fit $$
 ^^ maybe you be not a prodigy $$
+^^ a $$
 ^^ turn it round $$
 ^^ turn that piece round $$
 ^^ you be go to end up like Aunty_Katy be not you like jig $$
@@ -852,6 +856,7 @@
 ^^ well you go and do one then Warren $$
 ^^ yeah well you come down $$
 ^^ you come down $$
+^^ www $$
 ^^ that be good be not it Warren $$
 ^^ right $$
 ^^ shall we get back to this tractor $$
@@ -959,7 +964,8 @@
 ^^ excellent $$
 ^^ you be miss lots_of sky $$
 ^^ that be right $$
-^^   crunch $$
+^^ mm $$
+^^ crunch crunch crunch $$
 ^^ when you eat carrot they be cook be not they $$
 ^^ you do not like raw carrot particular $$
 ^^ you come back and blow on the carrot $$
@@ -1048,14 +1054,15 @@
 ^^ just because I say pooh about your foot do not mean you can say it about mine do it $$
 ^^ because that be cheek $$
 ^^ no $$
-^^   ouch $$
-^^   bump $$
+^^ ouch ouch ouch $$
+^^ bumpy bumpy bump $$
+^^ a $$
 ^^ be rabbit give you a cuddle $$
 ^^ oh that be nice $$
 ^^ yeah $$
 ^^ do rabbit give Warren a kiss $$
 ^^ good old rabbit $$
-^^       be he go to watch while you do your jig puzzle $$
+^^ is he going to help you be he go to watch while you do your jig puzzle $$
 ^^ rabbit might help $$
 ^^ you go and sit over there and rabbit might help $$
 ^^ no $$
@@ -1093,12 +1100,14 @@
 ^^ silly Mummy $$
 ^^ right $$
 ^^ try some of the other piece $$
+^^ a $$
 ^^ mhm $$
 ^^ I do not think so $$
 ^^ she be be not she $$
 ^^ well you look for her pant $$
 ^^ shall we stand her up there and she can wait for her pant $$
 ^^ you find her pants $$
+^^ a $$
 ^^ right $$
 ^^ shall I hold the doll while you put her pants on $$
 ^^ mhm $$
@@ -1120,7 +1129,7 @@
 ^^ no $$
 ^^ I do not think she be $$
 ^^ I think she might help you with your shop $$
-^^  whose car be that $$
+^^ whose whose car be that $$
 ^^ be it $$
 ^^ well the tiger have good jump in it and drive it otherwise somebody might pinch it $$
 ^^ but the panda pinch it $$
@@ -1140,7 +1149,7 @@
 ^^ I do not know $$
 ^^ right $$
 ^^ well you look for the train $$
-^^  not sure that it be $$
+^^ um not sure that it be $$
 ^^ okay $$
 ^^ what a love noise $$
 ^^ oh yes $$
@@ -1157,6 +1166,7 @@
 ^^ oh he run over your finger $$
 ^^ that be a dangerous drive be not it $$
 ^^ not just craze $$
+^^ a $$
 ^^ what be that $$
 ^^ well that $$
 ^^ why do not you bring it over here and I can have a look $$
@@ -1192,6 +1202,7 @@
 ^^ well panda car $$
 ^^ that be what you call police car $$
 ^^ the train be have a crash $$
+^^ xxx $$
 ^^ he need a kiss $$
 ^^ oh naughty rabbit do not put his hand in front of his mouth $$
 ^^ that be it $$
@@ -1218,7 +1229,8 @@
 ^^ oh right $$
 ^^ I be sorry $$
 ^^ do Warren not go crash $$
-^^ you have  only get one blue brick on your tower have not you $$
+^^ a $$
+^^ you have got only get one blue brick on your tower have not you $$
 ^^ right at the bottom $$
 ^^ oh no $$
 ^^ it be fall off again $$
@@ -1261,6 +1273,7 @@
 ^^ what color be the piece that be stick out $$
 ^^ what about the other piece that be stick out $$
 ^^ yeah $$
+^^ a $$
 ^^ another tall tower $$
 ^^ what do you think I be do $$
 ^^ make what $$
@@ -1270,7 +1283,7 @@
 ^^ a bridge $$
 ^^ well I be not go to make a bridge no $$
 ^^ will you like me to make a bridge $$
-^^ this be  go to be a special bridge $$
+^^ this be special go to be a special bridge $$
 ^^ yes well I do not and this be my bridge $$
 ^^ no $$
 ^^ it be not $$
@@ -1329,6 +1342,7 @@
 ^^ I think we genmod just say that car should not go on pavement real $$
 ^^ oh yes $$
 ^^ where be he go $$
+^^ a $$
 ^^ what can he buy at the shop $$
 ^^ what kind of food $$
 ^^ pardon $$
@@ -1378,7 +1392,7 @@
 ^^ you should not knock the bridge down say she destroy it in the process $$
 ^^ there we go $$
 ^^ shall we get some $$
-^^    I genmod like a truck on my train $$
+^^ I want a I genmod like a truck on my train $$
 ^^ will you like a truck on yours $$
 ^^ will you like a Shell_oil truck $$
 ^^ there you go $$
@@ -1398,11 +1412,11 @@
 ^^ ow $$
 ^^ oh no $$
 ^^ you bump into it again $$
-^^  you be in the middle of the track boy $$
+^^ er you be in the middle of the track boy $$
 ^^ oh no $$
 ^^ I think my train be go to start slide backwards $$
 ^^ oh he can not get up the hill $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ oh slide backwards just like what be his name $$
 ^^ oh right $$
 ^^ oh yes $$
@@ -1431,11 +1445,12 @@
 ^^ yes $$
 ^^ well you just wait there while I get the crane from out here $$
 ^^ here it be $$
-^^    what have your Grandparents do to this crane $$
+^^ what has your what have your Grandparents do to this crane $$
 ^^ or what do you do to it $$
 ^^ well I have never see this bit come out_of here before $$
 ^^ right $$
 ^^ let us pick Henry up shall we $$
+^^ xxx $$
 ^^ shall we let down the hook $$
 ^^ help to pick him up $$
 ^^ pick up his tender first $$
@@ -1479,7 +1494,7 @@
 ^^ I think they need track to work proper $$
 ^^ have you good move that vehicle off the track $$
 ^^ be the crane go to get rid of the vehicle $$
-^^     I be hope you will see that $$
+^^ oh I thought you'd I be hope you will see that $$
 ^^ never mind $$
 ^^ I do not hide it well enough $$
 ^^ well I think the first thing you need to do be get rid of that vehicle off the track $$
@@ -1513,7 +1528,7 @@
 ^^ pooppoop $$
 ^^ oh $$
 ^^ good have $$
-^^ you genmod good  find some way of get rid of those bear $$
+^^ you genmod good move find some way of get rid of those bear $$
 ^^ how shall we move them $$
 ^^ but how be we go to move the bear $$
 ^^ do not run over that rhino $$
@@ -1550,7 +1565,7 @@
 ^^ good job Henry at the back push $$
 ^^ good job those bear be off the track $$
 ^^ be they $$
-^^  that be nice $$
+^^ a that be nice $$
 ^^ be they friend $$
 ^^ oh $$
 ^^ do not the polar bear like being kiss $$
@@ -1647,7 +1662,7 @@
 ^^ we will be eat cake $$
 ^^ Mummy will be eat cake as_well $$
 ^^ oh yes $$
-^^ well    I do not think they do cake $$
+^^ well I don't know I do not think they do cake $$
 ^^ well they might do cake like that $$
 ^^ oh I think it be Daddy $$
 ^^ but you can stay here because Daddy be very busy this morning and do not want disturb $$
@@ -1690,7 +1705,7 @@
 ^^ but $$
 ^^ well I do not think she have unless she be get one in her bag $$
 ^^ she might have a cake in the car $$
-^^           what be you go to put in your basket to buy $$
+^^ what are you going to buy and put in your what be you go to put in your basket to buy $$
 ^^ what be you look for $$
 ^^ the egg box $$
 ^^ there it be $$
@@ -1749,6 +1764,7 @@
 ^^ cat be very good at wash themselves you see $$
 ^^ cat do not real like being put in water like a bath $$
 ^^ well shall we try and find the sausage to go in it $$
+^^ www $$
 ^^ have the sausage go $$
 ^^ I tell you what $$
 ^^ shall we put a orange segment in it $$
@@ -1782,9 +1798,10 @@
 ^^ oh yes $$
 ^^ be that Warren ice $$
 ^^ oh that be very kind of you $$
+^^ mm $$
 ^^ that be love ice be not it $$
 ^^ okay $$
-^^  thank_you $$
+^^ mm thank_you $$
 ^^ what flavor be it Warren $$
 ^^ yes but what flavor ice $$
 ^^ be it vanilla ice or strawberry ice or chocolate $$
@@ -1876,7 +1893,7 @@
 ^^ because your dig be very mud $$
 ^^ why do not you scoop it up with the dust $$
 ^^ I can not see the brush anywhere $$
-^^  a lizard  $$
+^^ xxx a lizard xxx $$
 ^^ yeah $$
 ^^ you scoop thing up $$
 ^^ I can not find the brush $$
@@ -1891,6 +1908,7 @@
 ^^ have another look in here $$
 ^^ it might be hide right at the bottom $$
 ^^ must be $$
+^^ a $$
 ^^ it must be somewhere because I have see the bristle $$
 ^^ where be you go to put them when you have sweep them up $$
 ^^ back in the tip truck $$
@@ -1899,8 +1917,9 @@
 ^^ yes $$
 ^^ who make all the mess $$
 ^^ yes $$
-^^  the big one be a beef tomato $$
+^^ er the big one be a beef tomato $$
 ^^ I think that be a little apple $$
+^^ a $$
 ^^ there be a tin or worm $$
 ^^ look $$
 ^^ that be worm be not it in there $$
@@ -1912,7 +1931,7 @@
 ^^ you do not want to eat tin $$
 ^^ no $$
 ^^ we do not eat tin $$
-^^ we eat  what be inside tin $$
+^^ we eat what's what be inside tin $$
 ^^ oh do not jump on Mummy $$
 ^^ do not jump $$
 ^^ please $$
@@ -1965,7 +1984,7 @@
 ^^ because it be not a flat surface be it that lid for the train to stand on $$
 ^^ just try it like that $$
 ^^ that be it $$
-^^ because that be a     big brick be not it $$
+^^ because that be a big big piece big big brick be not it $$
 ^^ oh $$
 ^^ that be it $$
 ^^ that be it $$

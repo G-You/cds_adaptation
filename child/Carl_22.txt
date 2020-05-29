@@ -14,6 +14,7 @@
 ^^ I do it $$
 ^^ hm $$
 ^^ they paint $$
+^^ um $$
 ^^ paint it $$
 ^^ oh Mummy $$
 ^^ paint there paint $$
@@ -25,7 +26,7 @@
 ^^ that window $$
 ^^ that door $$
 ^^ that window $$
-^^   that window $$
+^^ that that that window $$
 ^^ paint $$
 ^^ mhm $$
 ^^ paint $$
@@ -84,7 +85,7 @@
 ^^ there you be $$
 ^^ Amy $$
 ^^ Amy in the garden $$
-^^ there the  $$
+^^ there the xxx $$
 ^^ oh there the picture $$
 ^^ the sky $$
 ^^ mhm $$
@@ -95,6 +96,7 @@
 ^^ that Amy $$
 ^^ that Amy $$
 ^^ that $$
+^^ xxx $$
 ^^ there Amy $$
 ^^ that Carl $$
 ^^ who this $$
@@ -158,7 +160,7 @@
 ^^ what see $$
 ^^ there $$
 ^^ there $$
-^^  that Carl $$
+^^ that that Carl $$
 ^^ there $$
 ^^ there Mummy $$
 ^^ that Mummy $$
@@ -193,7 +195,7 @@
 ^^ lady $$
 ^^ say lady $$
 ^^ Granddad and Amy $$
-^^ that Amy and  that lady $$
+^^ that Amy and that that lady $$
 ^^ that Amy $$
 ^^ that lady $$
 ^^ that lady $$
@@ -208,8 +210,8 @@
 ^^ that car $$
 ^^ that door of the car $$
 ^^ that car Daddy $$
-^^  that door $$
-^^  that brumbrum $$
+^^ that that door $$
+^^ that that brumbrum $$
 ^^ that car $$
 ^^ that paint $$
 ^^ that water $$
@@ -243,6 +245,7 @@
 ^^ that Gordon $$
 ^^ mhm $$
 ^^ hm $$
+^^ a $$
 ^^ oh what be in $$
 ^^ Mummy it off $$
 ^^ oh $$
@@ -315,23 +318,26 @@
 ^^ that orange $$
 ^^ apple $$
 ^^ apple $$
-^^  that nana $$
+^^ that that nana $$
 ^^ that egg $$
-^^ this  $$
-^^  that Daddy $$
+^^ this xxx $$
+^^ that that Daddy $$
 ^^ this one $$
+^^ mm $$
 ^^ biscuit $$
 ^^ nice $$
+^^ mm $$
 ^^ nice $$
 ^^ no $$
-^^   that cat $$
+^^ that that that cat $$
 ^^ cat eat din $$
+^^ mm $$
 ^^ it nice $$
 ^^ apple $$
 ^^ that the apple $$
 ^^ lemon $$
 ^^ there the biscuit $$
-^^  right $$
+^^ a right $$
 ^^ there apple $$
 ^^ oh $$
 ^^ away $$
@@ -342,9 +348,10 @@
 ^^ apple and apple $$
 ^^ that cake and a nana $$
 ^^ that nana $$
-^^  that cake $$
+^^ that that cake $$
 ^^ that $$
 ^^ that apple $$
+^^ xxx $$
 ^^ apple $$
 ^^ apple $$
 ^^ apple $$
@@ -360,6 +367,7 @@
 ^^ want that off $$
 ^^ off $$
 ^^ oh $$
+^^ mm $$
 ^^ Daddy tin $$
 ^^ Mummy $$
 ^^ on $$
@@ -374,9 +382,11 @@
 ^^ off $$
 ^^ oh off $$
 ^^ off $$
+^^ mm $$
 ^^ Mummy off $$
 ^^ Mummy $$
 ^^ mhm $$
+^^ mm $$
 ^^ that the orange $$
 ^^ lemon $$
 ^^ apple $$
@@ -399,11 +409,11 @@
 ^^ that orange $$
 ^^ mhm $$
 ^^ that orange $$
-^^  that cake $$
-^^   that $$
+^^ that that cake $$
+^^ that that that $$
 ^^ that biscuit $$
-^^   that lemon $$
-^^   that cat $$
+^^ that that that lemon $$
+^^ that that that cat $$
 ^^ that cat $$
 ^^ mhm $$
 ^^ that cake $$
@@ -414,22 +424,29 @@
 ^^ that cat $$
 ^^ there cat $$
 ^^ there one cat $$
-^^  cat $$
+^^ a cat $$
 ^^ mhm $$
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ tea $$
+^^ mm $$
+^^ mm $$
 ^^ cheers $$
+^^ mm $$
 ^^ want some more $$
 ^^ want some more $$
 ^^ want some more $$
 ^^ dog have a drink $$
+^^ mm $$
+^^ mm $$
+^^ xxx $$
 ^^ a drink $$
 ^^ that cat $$
 ^^ whoops $$
 ^^ oh no $$
 ^^ oh no $$
 ^^ whoops $$
+^^ a $$
 ^^ on there $$
 ^^ whoops $$
 ^^ oh egg $$
@@ -442,6 +459,7 @@
 ^^ that biscuit $$
 ^^ that cake $$
 ^^ oh $$
+^^ xxx $$
 ^^ there lemon $$
 ^^ lemon $$
 ^^ that orange $$
@@ -459,6 +477,7 @@
 ^^ Daddy fish $$
 ^^ the baby $$
 ^^ fish $$
+^^ a $$
 ^^ oh $$
 ^^ lady $$
 ^^ lady $$
@@ -467,7 +486,7 @@
 ^^ where baby $$
 ^^ where the baby $$
 ^^ where baby $$
-^^  that penguin $$
+^^ that that penguin $$
 ^^ that fish $$
 ^^ that Daddy fish $$
 ^^ that penguin $$
@@ -582,7 +601,7 @@
 ^^ that Thomas $$
 ^^ that Percy and train $$
 ^^ there Thomas on $$
-^^  Percy $$
+^^ a Percy $$
 ^^ there Percy $$
 ^^ there be Percy $$
 ^^ there Percy $$
@@ -599,9 +618,9 @@
 ^^ that Percy $$
 ^^ that Percy $$
 ^^ what those Percy $$
-^^ that  train $$
+^^ that xxx train $$
 ^^ back on the train $$
-^^  that Percy $$
+^^ that that Percy $$
 ^^ what those Percy $$
 ^^ bat $$
 ^^ what those Percy $$
@@ -637,7 +656,7 @@
 ^^ beep Percy $$
 ^^ Carl and $$
 ^^ that Carl $$
-^^   that Zita $$
+^^ that that that Zita $$
 ^^ that Daddy $$
 ^^ that Thomas $$
 ^^ cat $$
@@ -692,7 +711,7 @@
 ^^ there bag $$
 ^^ there shoe $$
 ^^ there pajamas $$
-^^  that pajamas $$
+^^ that that pajamas $$
 ^^ jump $$
 ^^ that Thomas $$
 ^^ that Percy $$
@@ -702,7 +721,9 @@
 ^^ Thomas $$
 ^^ that Thomas $$
 ^^ car $$
+^^ xxx $$
 ^^ boat $$
+^^ xxx $$
 ^^ choo $$
 ^^ choo $$
 ^^ choochoo $$
@@ -723,7 +744,7 @@
 ^^ one fish $$
 ^^ one $$
 ^^ one two fish $$
-^^  one fish $$
+^^ one one fish $$
 ^^ no $$
 ^^ that $$
 ^^ what be that $$
@@ -731,7 +752,7 @@
 ^^ that James $$
 ^^ there bus $$
 ^^ that Thomas $$
-^^  that Thomas $$
+^^ that that Thomas $$
 ^^ that Percy $$
 ^^ that James and car $$
 ^^ bus $$
@@ -760,10 +781,10 @@
 ^^ look $$
 ^^ there star $$
 ^^ there star and moon $$
-^^  that Thomas $$
+^^ that that Thomas $$
 ^^ that Thomas $$
 ^^ oh there James $$
-^^ James and  $$
+^^ James and xxx $$
 ^^ it sun $$
 ^^ shine $$
 ^^ choo $$
@@ -794,7 +815,7 @@
 ^^ there the truck and a penny $$
 ^^ there truck $$
 ^^ a penny in the truck $$
-^^  penny $$
+^^ a penny $$
 ^^ oh $$
 ^^ go $$
 ^^ all_gone $$
@@ -846,7 +867,7 @@
 ^^ one $$
 ^^ six $$
 ^^ one Toby $$
-^^ a six and a  $$
+^^ a six and a xxx $$
 ^^ six $$
 ^^ six seven six $$
 ^^ it a one $$
@@ -870,7 +891,7 @@
 ^^ there $$
 ^^ there Percy $$
 ^^ oh he cross $$
-^^  that Thomas $$
+^^ that that Thomas $$
 ^^ Thomas $$
 ^^ that Percy $$
 ^^ that Percy $$
@@ -902,6 +923,7 @@
 ^^ ow $$
 ^^ ouch $$
 ^^ hurt $$
+^^ a $$
 ^^ oh $$
 ^^ go away Tiggie $$
 ^^ go away $$
@@ -909,6 +931,7 @@
 ^^ go away Pooh $$
 ^^ go away Piglet $$
 ^^ stop that Eeyore $$
+^^ xxx $$
 ^^ stop that $$
 ^^ where Percy go $$
 ^^ where Pooh $$
@@ -937,9 +960,10 @@
 ^^ where pig $$
 ^^ where Toby $$
 ^^ where Percy Toby $$
-^^  where Percy go $$
+^^ where where Percy go $$
 ^^ Percy $$
 ^^ no more $$
+^^ xxx $$
 ^^ oh $$
 ^^ no bed $$
 ^^ oh $$
@@ -969,12 +993,13 @@
 ^^ truck $$
 ^^ oh $$
 ^^ where the penny go $$
-^^  that Kanga $$
+^^ that that Kanga $$
 ^^ that Roo $$
 ^^ ow $$
 ^^ ow $$
 ^^ din $$
 ^^ he like $$
+^^ xxx $$
 ^^ what you want $$
 ^^ want one $$
 ^^ all right $$
@@ -1001,7 +1026,7 @@
 ^^ teddy the pram $$
 ^^ teddy $$
 ^^ oh teddy in the pram $$
-^^ no no  $$
+^^ no no xxx $$
 ^^ go there teddy $$
 ^^ stop $$
 ^^ stop teddy $$
@@ -1026,6 +1051,7 @@
 ^^ oh no $$
 ^^ no $$
 ^^ what be that $$
+^^ xxx $$
 ^^ what be in there $$
 ^^ oh $$
 ^^ what be in there $$
@@ -1049,7 +1075,7 @@
 ^^ the car $$
 ^^ there car $$
 ^^ oh $$
-^^  car $$
+^^ xxx car $$
 ^^ where be the baby $$
 ^^ Daddy $$
 ^^ where baby go $$
@@ -1089,12 +1115,12 @@
 ^^ where the baby $$
 ^^ oh baby $$
 ^^ oh oooo $$
-^^    that cat $$
+^^ that that that that cat $$
 ^^ oh $$
 ^^ oh $$
 ^^ grr $$
 ^^ oh $$
-^^ what the  $$
+^^ what the xxx $$
 ^^ oh $$
 ^^ ow $$
 ^^ ow $$
@@ -1149,7 +1175,7 @@
 ^^ where baby on whee $$
 ^^ all right $$
 ^^ want the baby on whee $$
-^^  whee $$
+^^ a whee $$
 ^^ whoops $$
 ^^ oh no $$
 ^^ there the baby on whee $$
@@ -1164,7 +1190,7 @@
 ^^ apple $$
 ^^ where the nana $$
 ^^ orange $$
-^^   that orange $$
+^^ that that that orange $$
 ^^ oh $$
 ^^ teddy eat $$
 ^^ what teddy eat $$
@@ -1184,6 +1210,7 @@
 ^^ what you want $$
 ^^ what you want $$
 ^^ what you want $$
+^^ xxx $$
 ^^ I climb $$
 ^^ no $$
 ^^ no $$
@@ -1224,18 +1251,20 @@
 ^^ apple $$
 ^^ another one $$
 ^^ another one $$
+^^ xxx $$
 ^^ that orange $$
 ^^ that orange $$
 ^^ apple $$
 ^^ apple $$
 ^^ apple $$
 ^^ no $$
+^^ xxx $$
 ^^ where din $$
-^^ there  din teddy $$
+^^ there din_dins din teddy $$
 ^^ there din Mummy $$
 ^^ egg $$
 ^^ egg and another one $$
-^^ there  $$
+^^ there xxx $$
 ^^ sweet $$
 ^^ there biscuit $$
 ^^ there teddy $$
@@ -1257,6 +1286,7 @@
 ^^ there you be $$
 ^^ there spoon $$
 ^^ oh $$
+^^ mm $$
 ^^ nice $$
 ^^ spoon $$
 ^^ egg and $$
@@ -1304,6 +1334,7 @@
 ^^ Carl car $$
 ^^ oh no no no $$
 ^^ oh poor $$
+^^ xxx $$
 ^^ play with the car $$
 ^^ in the car $$
 ^^ Granddad in the car $$
@@ -1342,6 +1373,8 @@
 ^^ where Carl toy teddy $$
 ^^ there teddy $$
 ^^ no teddy $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh dear paint drink $$
 ^^ all right $$
 ^^ all right $$
@@ -1354,7 +1387,7 @@
 ^^ oh beep $$
 ^^ oh no $$
 ^^ oh foot $$
-^^ well  you be lose your sock $$
+^^ well you're you be lose your sock $$
 ^^ beepbeepbeepbeep $$
 ^^ no car $$
 ^^ no walk $$

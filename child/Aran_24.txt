@@ -47,7 +47,7 @@
 ^^ train red $$
 ^^ train red $$
 ^^ this $$
-^^ the  $$
+^^ the xxx $$
 ^^ climb it $$
 ^^ push $$
 ^^ Daddy truck $$
@@ -72,16 +72,18 @@
 ^^ sleep $$
 ^^ go $$
 ^^ man go $$
+^^ xxx $$
 ^^ go $$
 ^^ this boat $$
 ^^ dust go $$
 ^^ man $$
 ^^ kick $$
-^^     go $$
+^^ go go go go go $$
 ^^ dust $$
 ^^ no $$
 ^^ man here $$
 ^^ the man here $$
+^^ xxx $$
 ^^ sack $$
 ^^ throw $$
 ^^ train $$
@@ -111,7 +113,8 @@
 ^^ hair hot $$
 ^^ this $$
 ^^ teddy bump $$
-^^  boat $$
+^^ xxx boat $$
+^^ xxx $$
 ^^ break $$
 ^^ tractor $$
 ^^ boy $$
@@ -360,6 +363,7 @@
 ^^ park $$
 ^^ cut $$
 ^^ clip clip clip $$
+^^ xxx $$
 ^^ hen $$
 ^^ tree $$
 ^^ tree $$
@@ -437,11 +441,13 @@
 ^^ I need this $$
 ^^ no $$
 ^^ will not will not will not will not $$
+^^ a $$
 ^^ Mummy $$
 ^^ no hammer that there $$
 ^^ my $$
 ^^ this hoop $$
 ^^ here $$
+^^ a $$
 ^^ blue $$
 ^^ hat $$
 ^^ bang bang $$
@@ -465,8 +471,8 @@
 ^^ look $$
 ^^ there $$
 ^^ there $$
-^^ it a  $$
-^^ a  $$
+^^ it a xxx $$
+^^ a xxx $$
 ^^ a man $$
 ^^ on there $$
 ^^ in there $$
@@ -503,6 +509,7 @@
 ^^ I ride $$
 ^^ I want park $$
 ^^ go park $$
+^^ xxx $$
 ^^ Daniel cut lawn $$
 ^^ age $$
 ^^ Daniel $$
@@ -527,9 +534,11 @@
 ^^ mieow cat $$
 ^^ toy $$
 ^^ it toy $$
+^^ xxx $$
 ^^ there a spoon $$
 ^^ a bee $$
 ^^ apple $$
+^^ xxx $$
 ^^ apple $$
 ^^ fly $$
 ^^ it be fly $$
@@ -539,6 +548,8 @@
 ^^ I get the fly $$
 ^^ that fly $$
 ^^ a fly $$
+^^ xxx $$
+^^ xxx $$
 ^^ pen $$
 ^^ p $$
 ^^ there $$
@@ -567,7 +578,9 @@
 ^^ it queen $$
 ^^ mine $$
 ^^ car $$
+^^ xxx $$
 ^^ coat $$
+^^ xxx $$
 ^^ peach $$
 ^^ grape $$
 ^^ cat $$
@@ -609,11 +622,13 @@
 ^^ walk $$
 ^^ floor $$
 ^^ I want dig $$
+^^ a $$
 ^^ lady sit there $$
 ^^ lady sit there $$
 ^^ man sit there $$
 ^^ I throw $$
 ^^ I want $$
+^^ a $$
 ^^ I get down $$
 ^^ I want down $$
 ^^ train $$
@@ -623,6 +638,7 @@
 ^^ dark $$
 ^^ green there $$
 ^^ green $$
+^^ xxx $$
 ^^ throw $$
 ^^ get in boat $$
 ^^ other box $$
@@ -643,6 +659,7 @@
 ^^ oh $$
 ^^ on here bump $$
 ^^ bump $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ it a dig $$
@@ -670,13 +687,14 @@
 ^^ it break $$
 ^^ the top break $$
 ^^ bang $$
+^^ xxx $$
 ^^ this nose $$
 ^^ it a that $$
 ^^ it that $$
 ^^ brush $$
 ^^ brush $$
 ^^ crumb $$
-^^  it light $$
+^^ a it light $$
 ^^ one three $$
 ^^ three jump $$
 ^^ tea $$
@@ -763,12 +781,12 @@
 ^^ stop $$
 ^^ it on $$
 ^^ it on $$
-^^  it stop $$
+^^ it it stop $$
 ^^ stop $$
 ^^ knick $$
 ^^ dress $$
 ^^ dress $$
-^^  it knicks $$
+^^ knick it knicks $$
 ^^ no $$
 ^^ not $$
 ^^ he go $$
@@ -796,6 +814,7 @@
 ^^ car $$
 ^^ another car $$
 ^^ car $$
+^^ xxx $$
 ^^ man sit there $$
 ^^ man sit there $$
 ^^ stick $$
@@ -853,17 +872,21 @@
 ^^ I get the fly $$
 ^^ there $$
 ^^ the fly $$
+^^ xxx $$
 ^^ fly $$
 ^^ that fly $$
 ^^ fly $$
-^^   I want look $$
+^^ I want I want look $$
 ^^ wipe $$
 ^^ rub it $$
+^^ xxx $$
 ^^ monkey $$
+^^ xxx $$
 ^^ I do $$
 ^^ it floor $$
 ^^ floor $$
 ^^ fly $$
+^^ xxx $$
 ^^ wipe floor $$
 ^^ a fly $$
 ^^ floor $$
@@ -879,9 +902,11 @@
 ^^ bus stop $$
 ^^ bus stop $$
 ^^ a fly $$
+^^ a $$
 ^^ gribbet $$
 ^^ tree $$
 ^^ ribbet ribbet ribbet ribbet $$
+^^ xxx $$
 ^^ a duck $$
 ^^ it a duck $$
 ^^ bike $$
@@ -893,6 +918,7 @@
 ^^ green $$
 ^^ it green $$
 ^^ red $$
+^^ a $$
 ^^ red $$
 ^^ and green $$
 ^^ leaf green $$
@@ -915,6 +941,7 @@
 ^^ be $$
 ^^ be $$
 ^^ down down down $$
+^^ xxx $$
 ^^ bang $$
 ^^ bang $$
 ^^ tin $$
@@ -932,7 +959,8 @@
 ^^ Ted go $$
 ^^ hat $$
 ^^ come off $$
-^^ it  $$
+^^ xxx $$
+^^ it xxx $$
 ^^ come off $$
 ^^ come off $$
 ^^ Mummy $$
@@ -943,6 +971,7 @@
 ^^ nice $$
 ^^ hoop $$
 ^^ oh what this $$
+^^ xxx $$
 ^^ buy these $$
 ^^ buy a yellow lemon $$
 ^^ get $$
@@ -956,10 +985,11 @@
 ^^ yeah $$
 ^^ hot $$
 ^^ hat $$
-^^ it be  $$
+^^ it be er $$
 ^^ toy $$
 ^^ no not $$
 ^^ me $$
+^^ xxx $$
 ^^ out $$
 ^^ out $$
 ^^ hot $$
@@ -984,6 +1014,7 @@
 ^^ I want it on $$
 ^^ I want $$
 ^^ no $$
+^^ xxx $$
 ^^ no no $$
 ^^ like this $$
 ^^ bee $$
@@ -1028,7 +1059,7 @@
 ^^ no $$
 ^^ splat fly $$
 ^^ card there $$
-^^  Daddy $$
+^^ xxx Daddy $$
 ^^ Daddy $$
 ^^ why boy cry $$
 ^^ boy cry $$
@@ -1050,7 +1081,7 @@
 ^^ tractor live there $$
 ^^ cut grass $$
 ^^ tractor $$
-^^  cut the grass $$
+^^ cut cut the grass $$
 ^^ it that light $$
 ^^ light $$
 ^^ blue $$
@@ -1098,6 +1129,7 @@
 ^^ the fly $$
 ^^ Mummy $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ post $$
 ^^ in here $$
 ^^ one $$
@@ -1136,19 +1168,19 @@
 ^^ like that big one $$
 ^^ look a tractor $$
 ^^ hammer $$
-^^  want hammer $$
+^^ want want hammer $$
 ^^ want hammer $$
 ^^ want hammer $$
 ^^ want car $$
 ^^ park $$
-^^ want  $$
-^^ I   get a boy $$
+^^ want xxx $$
+^^ I got a get a boy $$
 ^^ get wet $$
 ^^ look get pipe burst $$
-^^ it get  $$
+^^ it get xxx $$
 ^^ it get $$
-^^ it  $$
-^^ the pipe   get $$
+^^ it xxx $$
+^^ the pipe got got get $$
 ^^ the pipe $$
 ^^ get wet $$
 ^^ it get wet $$
@@ -1162,20 +1194,26 @@
 ^^ pipe get burst $$
 ^^ wet $$
 ^^ it wet $$
-^^ get  $$
+^^ xxx $$
+^^ get xxx $$
 ^^ pipe $$
 ^^ fly there $$
-^^ get  $$
+^^ get xxx $$
 ^^ get a boy that $$
 ^^ mhm $$
 ^^ a pipe $$
-^^ it get  $$
+^^ it get xxx $$
 ^^ get boy $$
 ^^ it boy $$
+^^ xxx $$
+^^ xxx $$
 ^^ pipe get wet $$
 ^^ that $$
 ^^ big wet $$
-^^ a  $$
+^^ xxx $$
+^^ xxx $$
+^^ a xxx $$
+^^ xxx $$
 ^^ pipe $$
 ^^ pipe $$
 ^^ look a dust $$
@@ -1196,10 +1234,14 @@
 ^^ that spider $$
 ^^ spider $$
 ^^ come back $$
+^^ xxx $$
 ^^ the boy $$
 ^^ not wheel $$
 ^^ that get big $$
+^^ xxx $$
 ^^ back $$
+^^ xxx $$
+^^ um $$
 ^^ truck go $$
 ^^ lady go $$
 ^^ come back $$
@@ -1221,7 +1263,9 @@
 ^^ runaway train $$
 ^^ choo $$
 ^^ man sit there $$
+^^ xxx $$
 ^^ man sit $$
+^^ xxx $$
 ^^ eensie spider $$
 ^^ pipe $$
 ^^ what bit $$
@@ -1232,6 +1276,7 @@
 ^^ sit $$
 ^^ lion sit there $$
 ^^ and man sit there $$
+^^ eh $$
 ^^ giraffe ride $$
 ^^ crash $$
 ^^ man sit there $$
@@ -1241,6 +1286,7 @@
 ^^ a man there $$
 ^^ a man sit there $$
 ^^ a man sit there $$
+^^ xxx $$
 ^^ it put sand $$
 ^^ man sit there $$
 ^^ man go $$
@@ -1257,7 +1303,7 @@
 ^^ and dry the rain $$
 ^^ rain $$
 ^^ no $$
-^^ oh   spider sit there $$
+^^ oh spider sit spider sit there $$
 ^^ spider sit there $$
 ^^ spider sit there $$
 ^^ spider sit there $$
@@ -1297,7 +1343,7 @@
 ^^ Daddy sit there $$
 ^^ no $$
 ^^ no $$
-^^ Mummy  sit $$
+^^ Mummy sit sit $$
 ^^ Mummy sit there $$
 ^^ no $$
 ^^ let go $$
@@ -1306,7 +1352,7 @@
 ^^ might sit there $$
 ^^ eat there $$
 ^^ might $$
-^^  might sit $$
+^^ might might sit $$
 ^^ might sit there $$
 ^^ might $$
 ^^ might sit there $$
@@ -1353,12 +1399,13 @@
 ^^ no $$
 ^^ hat $$
 ^^ sit there $$
+^^ xxx $$
 ^^ me sit there $$
 ^^ that mine $$
 ^^ look $$
 ^^ not a big one $$
 ^^ it broke $$
-^^ it  broke $$
+^^ it xxx broke $$
 ^^ train $$
 ^^ dig $$
 ^^ key $$
@@ -1373,6 +1420,7 @@
 ^^ man drive sit there $$
 ^^ me sit there $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ put the sand grass $$
 ^^ cut the grass $$
 ^^ put $$
@@ -1383,14 +1431,16 @@
 ^^ want big one $$
 ^^ want big one $$
 ^^ want big one $$
-^^ big one  that $$
+^^ big one xxx that $$
 ^^ look look $$
 ^^ want a big one $$
+^^ xxx $$
 ^^ holiday $$
 ^^ holiday $$
 ^^ holiday $$
 ^^ holiday $$
 ^^ this boat $$
+^^ xxx $$
 ^^ need holiday $$
 ^^ boat $$
 ^^ tractor $$
@@ -1400,6 +1450,7 @@
 ^^ not no $$
 ^^ Goggle get $$
 ^^ Goggle get $$
+^^ xxx $$
 ^^ a tractor $$
 ^^ man sit there $$
 ^^ man sit there $$
@@ -1423,7 +1474,7 @@
 ^^ look Mummy $$
 ^^ Daddy $$
 ^^ no $$
-^^  Daddy $$
+^^ xxx Daddy $$
 ^^ lady repair $$
 ^^ Daddy repair $$
 ^^ boy $$
@@ -1440,13 +1491,13 @@
 ^^ byebye $$
 ^^ spot dog $$
 ^^ horse $$
-^^ eat  $$
+^^ eat xxx $$
 ^^ eat dirt $$
 ^^ eat $$
 ^^ boat $$
 ^^ boat $$
 ^^ slide $$
-^^  sit there $$
+^^ sit sit there $$
 ^^ spot dog $$
 ^^ dog hole $$
 ^^ door $$
@@ -1456,10 +1507,12 @@
 ^^ want house $$
 ^^ door $$
 ^^ stick $$
+^^ xxx $$
 ^^ no $$
 ^^ door $$
 ^^ stick there $$
 ^^ man in door $$
+^^ xxx $$
 ^^ ssh $$
 ^^ sleep $$
 ^^ sleep $$
@@ -1483,6 +1536,7 @@
 ^^ spot $$
 ^^ eat dirt $$
 ^^ spot $$
+^^ a $$
 ^^ tail $$
 ^^ oh $$
 ^^ mouth $$
@@ -1496,7 +1550,8 @@
 ^^ oh big bark $$
 ^^ a duck $$
 ^^ cry $$
-^^ big  $$
+^^ xxx $$
+^^ big a $$
 ^^ good boy $$
 ^^ good boy $$
 ^^ big dog park $$
@@ -1508,18 +1563,19 @@
 ^^ dog oh good boy $$
 ^^ poor dog cry $$
 ^^ a bite $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ no $$
 ^^ no no no $$
 ^^ house $$
 ^^ not house $$
 ^^ train $$
 ^^ that door $$
+^^ xxx $$
 ^^ a boat $$
 ^^ fly $$
 ^^ it not $$
 ^^ no $$
-^^ that   not a boat $$
+^^ that not a not a boat $$
 ^^ sit $$
 ^^ play sit that $$
 ^^ spot dog $$
@@ -1537,6 +1593,7 @@
 ^^ eat horse $$
 ^^ so $$
 ^^ want that $$
+^^ xxx $$
 ^^ cut the grass $$
 ^^ cut the grass $$
 ^^ cut grass $$
@@ -1551,10 +1608,11 @@
 ^^ eat boy $$
 ^^ eat $$
 ^^ eat the tractor $$
-^^  eat the tractor $$
+^^ eat eat the tractor $$
 ^^ grass $$
+^^ xxx $$
 ^^ ball $$
-^^  want it $$
+^^ want want it $$
 ^^ want it $$
 ^^ want it $$
 ^^ want it $$
@@ -1602,6 +1660,7 @@
 ^^ want the gun $$
 ^^ want gun $$
 ^^ want gun $$
+^^ xxx $$
 ^^ shoot $$
 ^^ dead $$
 ^^ dead $$
@@ -1614,6 +1673,7 @@
 ^^ dead dog $$
 ^^ dead dog $$
 ^^ boy dead man $$
+^^ xxx $$
 ^^ I shoot Mummy $$
 ^^ dead $$
 ^^ shoot a boy $$
@@ -1624,17 +1684,19 @@
 ^^ toy dead $$
 ^^ I shoot a train $$
 ^^ dead $$
-^^  get a truck $$
+^^ got get a truck $$
 ^^ a boat $$
 ^^ dead dog $$
 ^^ that $$
-^^  shoot a fly $$
+^^ shot shoot a fly $$
 ^^ shoot a fly $$
 ^^ not shoot a big one $$
 ^^ where fly $$
+^^ xxx $$
+^^ xxx $$
 ^^ clown dead $$
 ^^ dead $$
-^^ shoot a  $$
+^^ shoot a xxx $$
 ^^ dead $$
 ^^ that dead $$
 ^^ a man $$

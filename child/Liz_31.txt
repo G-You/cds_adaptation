@@ -11,9 +11,9 @@
 ^^ you want some more carrot $$
 ^^ there $$
 ^^ that for you $$
-^^ I   want a yellow fork $$
+^^ I want a want a yellow fork $$
 ^^ this be a red fork $$
-^^   it be break $$
+^^ it's it's it be break $$
 ^^ break $$
 ^^ break $$
 ^^ we have to get new one $$
@@ -29,6 +29,7 @@
 ^^ I bump my big toe $$
 ^^ I bang my hand $$
 ^^ a wash brush on my hand $$
+^^ xxx $$
 ^^ close the door $$
 ^^ get these off $$
 ^^ and put the light on $$
@@ -89,12 +90,13 @@
 ^^ I cook $$
 ^^ I want to cook your tea $$
 ^^ cook your tea $$
-^^ I just  take these $$
+^^ I just take take these $$
 ^^ take this $$
 ^^ take $$
 ^^ take this $$
+^^ xxx $$
 ^^ I cook them $$
-^^ this one  $$
+^^ this one xxx $$
 ^^ see it $$
 ^^ I see big plate $$
 ^^ see it $$
@@ -111,6 +113,7 @@
 ^^ get cheese as_well $$
 ^^ triangle cheese $$
 ^^ I want triangle cheese $$
+^^ xxx $$
 ^^ do not fit $$
 ^^ bit small $$
 ^^ these be mine $$
@@ -134,7 +137,7 @@
 ^^ I sit on your chair $$
 ^^ no $$
 ^^ I not $$
-^^ put this   in yours $$
+^^ put this in my in yours $$
 ^^ do lady $$
 ^^ yeah $$
 ^^ I go bump $$
@@ -158,6 +161,7 @@
 ^^ I like to go on a horse $$
 ^^ I be wobble $$
 ^^ I be wobble $$
+^^ a $$
 ^^ I fall $$
 ^^ oh $$
 ^^ oh $$
@@ -179,6 +183,7 @@
 ^^ that be fun $$
 ^^ get my hat on $$
 ^^ my hat on $$
+^^ xxx $$
 ^^ where be my comic $$
 ^^ we leave my comic at Nana $$
 ^^ I want a $$
@@ -192,7 +197,7 @@
 ^^ cat go to sleep $$
 ^^ come here $$
 ^^ come on $$
-^^   come and get me $$
+^^ come and come and get me $$
 ^^ get me $$
 ^^ come here $$
 ^^ get me $$
@@ -204,8 +209,9 @@
 ^^ he have some cow $$
 ^^ e i e i o $$
 ^^ now we go away $$
-^^ now I  $$
+^^ now I xxx $$
 ^^ farm $$
+^^ xxx $$
 ^^ come back $$
 ^^ stop $$
 ^^ can this go to be a bee $$
@@ -231,7 +237,7 @@
 ^^ and three want to go on the mat $$
 ^^ and four want to go on the mat $$
 ^^ and four want to go on the mat $$
-^^ one want to go     on the mat $$
+^^ one want to go on the on the on the mat $$
 ^^ no $$
 ^^ something to you $$
 ^^ look in that cup $$
@@ -244,20 +250,21 @@
 ^^ and this be a drink $$
 ^^ lemon and a little lemon $$
 ^^ this be big apple $$
-^^ and  this be only at Grandma $$
-^^ this only  chip $$
+^^ and this this be only at Grandma $$
+^^ this only chip chip $$
 ^^ only chip $$
 ^^ this be only big orange $$
 ^^ and some corn $$
 ^^ one to go to there $$
 ^^ one to go here $$
+^^ xxx $$
 ^^ one to go there $$
 ^^ I get the strawberry $$
 ^^ the strawberry $$
 ^^ the strawberry $$
 ^^ I go to get some strawberry $$
 ^^ this be a red ripe strawberry $$
-^^ this be  a brown  $$
+^^ this be a a brown er $$
 ^^ I do not know $$
 ^^ some bread $$
 ^^ this be a tin $$
@@ -267,6 +274,7 @@
 ^^ chicken $$
 ^^ put some $$
 ^^ I get some egg $$
+^^ xxx $$
 ^^ I get one leave $$
 ^^ only lot $$
 ^^ oh $$
@@ -288,6 +296,7 @@
 ^^ little tiger $$
 ^^ grr $$
 ^^ grr $$
+^^ xxx $$
 ^^ I get these $$
 ^^ cow $$
 ^^ that be a cow $$
@@ -321,7 +330,7 @@
 ^^ these cow want to go to bed $$
 ^^ yes $$
 ^^ in the corner $$
-^^ in  corner $$
+^^ in xxx corner $$
 ^^ up they go $$
 ^^ up they go $$
 ^^ up there $$
@@ -329,7 +338,7 @@
 ^^ up they go $$
 ^^ up they go $$
 ^^ go to sleep $$
-^^ go  $$
+^^ go xxx $$
 ^^ awake $$
 ^^ awake $$
 ^^ wake $$
@@ -337,7 +346,7 @@
 ^^ go back over there $$
 ^^ go back $$
 ^^ have a farm $$
-^^ he be get  two cow $$
+^^ he be get some two cow $$
 ^^ e i e i o $$
 ^^ they moomoo here $$
 ^^ they moomoo $$
@@ -363,7 +372,7 @@
 ^^ these go in the fridge $$
 ^^ go in the fridge $$
 ^^ fridge $$
-^^ they be go  in the fridge $$
+^^ they be go on in the fridge $$
 ^^ it be in the fridge $$
 ^^ I go to get some cheese $$
 ^^ cheese $$
@@ -378,14 +387,14 @@
 ^^ like that sausage butt $$
 ^^ like that sausage butt $$
 ^^ just put it right down $$
-^^ these one go   on the bottom $$
+^^ these one go on the on the bottom $$
 ^^ can these one go on $$
 ^^ that one $$
 ^^ I want to choose one this $$
 ^^ this be color big $$
 ^^ this be only color little $$
 ^^ the one a small little $$
-^^ one  $$
+^^ one xxx $$
 ^^ this orange big $$
 ^^ all do $$
 ^^ I brush $$
@@ -394,7 +403,7 @@
 ^^ there you be $$
 ^^ you want your hair comb $$
 ^^ I want more milk $$
-^^ go to get  my cup $$
+^^ go to get my my cup $$
 ^^ I want child on $$
 ^^ want mint $$
 ^^ mint $$
@@ -420,13 +429,14 @@
 ^^ oh $$
 ^^ what be that $$
 ^^ what be that $$
+^^ er $$
 ^^ there $$
 ^^ there be room $$
-^^ shall we  build brick mum $$
+^^ shall we build build brick mum $$
 ^^ yeah $$
 ^^ that be not off a plant $$
 ^^ Tots_tv $$
-^^  that be brumm $$
+^^ that's that be brumm $$
 ^^ on the back $$
 ^^ oh $$
 ^^ yeah $$
@@ -460,7 +470,7 @@
 ^^ that $$
 ^^ no $$
 ^^ no $$
-^^ I can not  do this $$
+^^ I can not do do this $$
 ^^ look at that on there $$
 ^^ chimney $$
 ^^ house $$
@@ -478,21 +488,22 @@
 ^^ this $$
 ^^ oh $$
 ^^ oh $$
-^^   I do a chimney $$
+^^ I do I do a chimney $$
 ^^ there be one here $$
-^^   it be trumpet $$
+^^ it's it's it be trumpet $$
 ^^ I get $$
 ^^ look $$
 ^^ near big as you Anna $$
 ^^ there be one leave $$
 ^^ the chimney broke $$
-^^ I go to build up   my chimney $$
+^^ I go to build up my my my chimney $$
 ^^ I do chimney top $$
 ^^ I do chimney top $$
 ^^ chimney top $$
 ^^ chimney top $$
 ^^ I do chimney top $$
 ^^ chimney top $$
+^^ xxx $$
 ^^ I go to get this one high enough up here $$
 ^^ wibbly wobble $$
 ^^ I go get these one $$
@@ -502,7 +513,7 @@
 ^^ it near fall on you $$
 ^^ it near fall on you today $$
 ^^ put these together up on top $$
-^^ what you do   to my chimney $$
+^^ what you do to my to my chimney $$
 ^^ good fix it $$
 ^^ I good have to fix it $$
 ^^ it near fall on me $$
@@ -524,7 +535,7 @@
 ^^ it be on accident $$
 ^^ some little brick $$
 ^^ little brick $$
-^^   it be just little brick $$
+^^ it's just it be just little brick $$
 ^^ okay $$
 ^^ little brick $$
 ^^ one two three $$
@@ -543,13 +554,14 @@
 ^^ there we go child $$
 ^^ there we go child $$
 ^^ there blanket $$
-^^ I go to get    my brown teddy $$
+^^ I go to get my my my my brown teddy $$
 ^^ yeah $$
 ^^ out your cot $$
 ^^ the white one $$
 ^^ it your white one $$
 ^^ blanket for my teddy bear on to your teddy bear $$
 ^^ do it again $$
+^^ a $$
 ^^ it be half past eight $$
 ^^ it be past eight $$
 ^^ it be past eight $$
@@ -558,6 +570,7 @@
 ^^ today we open number six $$
 ^^ I slip $$
 ^^ a big dinosaur $$
+^^ xxx $$
 ^^ dog a dinosaur $$
 ^^ dog a dinosaur $$
 ^^ a small trumpet $$
@@ -619,6 +632,7 @@
 ^^ you say what that be $$
 ^^ you say that be $$
 ^^ you say that be $$
+^^ xxx $$
 ^^ know what that be $$
 ^^ you want $$
 ^^ you $$
@@ -645,7 +659,7 @@
 ^^ can you tell me what these be $$
 ^^ you say what this be $$
 ^^ see nothing in there $$
-^^  there be four egg $$
+^^ there's there be four egg $$
 ^^ and one leave $$
 ^^ one leave $$
 ^^ mine $$
@@ -669,7 +683,7 @@
 ^^ and what be this $$
 ^^ and what be that $$
 ^^ pepper $$
-^^   it be not a pepper $$
+^^ it's not it be not a pepper $$
 ^^ do not know $$
 ^^ what be that $$
 ^^ and what be this $$
@@ -689,13 +703,14 @@
 ^^ that doll get dress up $$
 ^^ you sit there $$
 ^^ can you hold that doll $$
+^^ xxx $$
 ^^ go in there and pop out $$
 ^^ in there $$
 ^^ look $$
 ^^ my pepper in there $$
 ^^ lettuce $$
 ^^ lettuce $$
-^^  that be cabbage $$
+^^ that's that be cabbage $$
 ^^ lettuce $$
 ^^ pear $$
 ^^ I put them there $$
@@ -703,10 +718,11 @@
 ^^ and one two three four five in the cup $$
 ^^ one two $$
 ^^ kick $$
-^^   can you stand on the floor $$
+^^ can you can you stand on the floor $$
 ^^ stand on the floor $$
-^^  can you stand on the floor Mummy $$
+^^ can can you stand on the floor Mummy $$
 ^^ I want my sock on to kick $$
+^^ xxx $$
 ^^ I ready $$
 ^^ start now $$
 ^^ can you run with it $$
@@ -714,13 +730,14 @@
 ^^ shall we throw it $$
 ^^ that be a big one $$
 ^^ that be a $$
-^^ just do it   big $$
+^^ just do it big big big $$
 ^^ that be a big one $$
 ^^ I go to run $$
 ^^ let me have it $$
 ^^ I go get it $$
 ^^ I get it $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ see what them roll $$
 ^^ I rip this off $$
@@ -736,10 +753,10 @@
 ^^ that be a book $$
 ^^ can you read it $$
 ^^ can you $$
-^^   can you pull it up $$
-^^   can you sing it $$
+^^ can you can you pull it up $$
+^^ can you can you sing it $$
 ^^ can you sing these $$
-^^ you see that bird sit   on the flower $$
+^^ you see that bird sit on on on the flower $$
 ^^ this one $$
 ^^ this one $$
 ^^ that one $$
@@ -755,14 +772,14 @@
 ^^ Anna do stand up $$
 ^^ tin $$
 ^^ these sit up $$
-^^  just roll it like this $$
+^^ just just roll it like this $$
 ^^ bye $$
 ^^ I get a basket $$
 ^^ I get little basket $$
 ^^ I be shop $$
 ^^ some grape and apple and more grape $$
-^^ go to turn          my jump round $$
-^^   I bring this in to play with $$
+^^ go to turn my my my my my my my my my my jump round $$
+^^ I get I bring this in to play with $$
 ^^ I want Paddington $$
 ^^ yeah $$
 ^^ Anna to watch this $$
@@ -779,5 +796,5 @@
 ^^ here be a lemon $$
 ^^ and these $$
 ^^ there $$
-^^  orange $$
+^^ um orange $$
 ^^ I want that $$

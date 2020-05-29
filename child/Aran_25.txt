@@ -4,6 +4,7 @@
 ^^ cow $$
 ^^ cow $$
 ^^ it cow $$
+^^ a $$
 ^^ tea $$
 ^^ tea back there $$
 ^^ biscuit $$
@@ -30,7 +31,7 @@
 ^^ Daddy sit there $$
 ^^ brumm $$
 ^^ it truck $$
-^^  round there $$
+^^ round round there $$
 ^^ mhm $$
 ^^ dig $$
 ^^ tractor $$
@@ -44,15 +45,17 @@
 ^^ back car $$
 ^^ and back there $$
 ^^ back $$
+^^ xxx $$
 ^^ sand $$
 ^^ round there $$
 ^^ stop $$
 ^^ stop $$
-^^ I  I could drive that $$
+^^ I drive I could drive that $$
 ^^ I could drive that $$
 ^^ man sit down $$
 ^^ bump $$
 ^^ bump $$
+^^ xxx $$
 ^^ fire back there mhm $$
 ^^ these $$
 ^^ these $$
@@ -86,7 +89,7 @@
 ^^ that door $$
 ^^ there $$
 ^^ my wheel break off $$
-^^ that my  $$
+^^ that my xxx $$
 ^^ that one $$
 ^^ break off $$
 ^^ that one $$
@@ -117,7 +120,7 @@
 ^^ tell Daddy $$
 ^^ I tell Daddy that toe $$
 ^^ I tell Daddy about that toe $$
-^^     round $$
+^^ round round round round round $$
 ^^ Nicola $$
 ^^ round $$
 ^^ stop $$
@@ -136,6 +139,7 @@
 ^^ it hard that $$
 ^^ Mummy down $$
 ^^ brumm $$
+^^ xxx $$
 ^^ crash $$
 ^^ no $$
 ^^ push that $$
@@ -158,7 +162,7 @@
 ^^ Mummy $$
 ^^ one $$
 ^^ love $$
-^^  one Daddy $$
+^^ one one Daddy $$
 ^^ Daddy $$
 ^^ Daddy drink that $$
 ^^ Aran drink that $$
@@ -191,7 +195,7 @@
 ^^ Mummy car $$
 ^^ it out $$
 ^^ it outside $$
-^^ it  $$
+^^ it xxx $$
 ^^ it go $$
 ^^ there $$
 ^^ yeah $$
@@ -222,8 +226,8 @@
 ^^ yeah mhm $$
 ^^ I fly that $$
 ^^ a kite $$
-^^ I  $$
-^^  Daddy sit there $$
+^^ I xxx $$
+^^ um Daddy sit there $$
 ^^ key $$
 ^^ Daddy $$
 ^^ Mummy key $$
@@ -242,8 +246,11 @@
 ^^ where Daddy go $$
 ^^ yeah $$
 ^^ I go hide $$
-^^ hide the cushion and  $$
+^^ xxx $$
+^^ hide the cushion and xxx $$
 ^^ this $$
+^^ xxx $$
+^^ xxx $$
 ^^ back again $$
 ^^ my cushion $$
 ^^ that off $$
@@ -257,6 +264,7 @@
 ^^ one $$
 ^^ one $$
 ^^ one $$
+^^ xxx $$
 ^^ tractor $$
 ^^ tractor $$
 ^^ b $$
@@ -276,10 +284,11 @@
 ^^ fly $$
 ^^ that $$
 ^^ I do that $$
-^^ I can not  $$
+^^ xxx $$
+^^ I can not xxx $$
 ^^ that truck get me $$
 ^^ tree $$
-^^ I   take  it out $$
+^^ I take it take it it out $$
 ^^ truck $$
 ^^ brumm $$
 ^^ that $$
@@ -312,7 +321,7 @@
 ^^ I go home $$
 ^^ I go home $$
 ^^ I go out $$
-^^  get Daddy $$
+^^ get get Daddy $$
 ^^ sit there $$
 ^^ time Daddy sit there $$
 ^^ Daddy sit there $$
@@ -320,6 +329,7 @@
 ^^ sit on $$
 ^^ hit $$
 ^^ oh $$
+^^ www $$
 ^^ I go bang $$
 ^^ I go bang $$
 ^^ I go bang $$
@@ -329,6 +339,7 @@
 ^^ I go bang $$
 ^^ bang $$
 ^^ bang $$
+^^ xxx $$
 ^^ a drum $$
 ^^ key $$
 ^^ a key $$
@@ -341,10 +352,12 @@
 ^^ look Daddy tractor $$
 ^^ whee $$
 ^^ I go drive a tractor $$
+^^ xxx $$
 ^^ tractor whee $$
 ^^ no $$
+^^ xxx $$
 ^^ off there $$
-^^ my  $$
+^^ my xxx $$
 ^^ mhm $$
 ^^ that one $$
 ^^ yeah $$
@@ -355,6 +368,7 @@
 ^^ me $$
 ^^ I get that $$
 ^^ mine $$
+^^ xxx $$
 ^^ I throw $$
 ^^ a drink $$
 ^^ I throw $$
@@ -368,11 +382,12 @@
 ^^ Daddy $$
 ^^ mhm $$
 ^^ mhm $$
-^^ I go  $$
+^^ um um $$
+^^ I go xxx $$
 ^^ I go $$
 ^^ this lady mhm $$
 ^^ my hat $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ on here $$
 ^^ no $$
 ^^ no $$
@@ -392,6 +407,7 @@
 ^^ no $$
 ^^ no $$
 ^^ I not do that $$
+^^ xxx $$
 ^^ doll cry $$
 ^^ cry $$
 ^^ cold $$
@@ -406,10 +422,12 @@
 ^^ I bring that outside $$
 ^^ I bring that outside $$
 ^^ snap $$
+^^ xxx $$
 ^^ monkey drive that $$
 ^^ I take that outside $$
 ^^ put that in there $$
 ^^ them in there mhm $$
+^^ xxx $$
 ^^ I find more $$
 ^^ I find more $$
 ^^ I see Mummy $$
@@ -426,6 +444,7 @@
 ^^ want doll sleep there $$
 ^^ I want the doll sleep there $$
 ^^ mine $$
+^^ xxx $$
 ^^ I want sit $$
 ^^ my $$
 ^^ on there $$
@@ -453,7 +472,8 @@
 ^^ I drive that car $$
 ^^ I drive that car $$
 ^^ I go drive that $$
-^^ I  $$
+^^ xxx $$
+^^ I xxx $$
 ^^ knick $$
 ^^ my knicks $$
 ^^ mine $$
@@ -483,6 +503,7 @@
 ^^ that beach $$
 ^^ look park $$
 ^^ go park $$
+^^ xxx $$
 ^^ Daddy go work $$
 ^^ drop $$
 ^^ Daddy go to work $$
@@ -491,27 +512,33 @@
 ^^ it get a home $$
 ^^ lady I go home $$
 ^^ go home $$
-^^  the beach $$
-^^   go find house $$
+^^ er the beach $$
+^^ go find go find house $$
 ^^ I take out $$
 ^^ I take out $$
 ^^ I take out $$
 ^^ Daddy and Mummy castle $$
+^^ xxx $$
 ^^ go clean $$
 ^^ that boat off $$
 ^^ tractor Daddy $$
 ^^ it Daddy $$
 ^^ tractor $$
 ^^ Daddy go work $$
+^^ xxx $$
 ^^ I knock it down $$
 ^^ I no $$
 ^^ kite $$
+^^ xxx $$
 ^^ I take out $$
 ^^ I take out $$
+^^ xxx $$
+^^ xxx $$
 ^^ tractor on the beach $$
 ^^ I go get wet $$
 ^^ dry go home $$
 ^^ where the fly go $$
+^^ xxx $$
 ^^ mine $$
 ^^ tractor $$
 ^^ hat go beach $$
@@ -522,7 +549,7 @@
 ^^ no $$
 ^^ train $$
 ^^ get train $$
-^^ look look  $$
+^^ look look xxx $$
 ^^ go to beach $$
 ^^ I want dress doll $$
 ^^ I want dress doll $$
@@ -531,6 +558,7 @@
 ^^ doll $$
 ^^ flat toy $$
 ^^ go beach $$
+^^ xxx $$
 ^^ I get wet $$
 ^^ Aran hide $$
 ^^ here doll $$
@@ -566,7 +594,7 @@
 ^^ no $$
 ^^ green $$
 ^^ green $$
-^^ I have  $$
+^^ I have xxx $$
 ^^ that break off now $$
 ^^ buy fruit $$
 ^^ grape $$
@@ -591,11 +619,12 @@
 ^^ I drop now $$
 ^^ I drop now $$
 ^^ I drop now $$
+^^ xxx $$
 ^^ lady $$
-^^ down this  $$
-^^ down this  $$
+^^ down this xxx $$
+^^ down this xxx $$
 ^^ yeah $$
-^^   I go on the beach $$
+^^ I went I go on the beach $$
 ^^ yeah $$
 ^^ I find Gumdrop $$
 ^^ Gumdrop $$
@@ -615,14 +644,14 @@
 ^^ boy $$
 ^^ that me $$
 ^^ that me $$
-^^  that Daddy $$
+^^ that that Daddy $$
 ^^ that my friend $$
 ^^ my friend $$
 ^^ that my friend $$
 ^^ get lawn $$
 ^^ truck $$
 ^^ my boat $$
-^^  my boat $$
+^^ my my boat $$
 ^^ I go my boat $$
 ^^ Gumdrop $$
 ^^ it dark $$
@@ -642,6 +671,7 @@
 ^^ Daddy late $$
 ^^ Daddy in $$
 ^^ phone $$
+^^ xxx $$
 ^^ fish $$
 ^^ fish $$
 ^^ fish $$
@@ -657,8 +687,8 @@
 ^^ it eat grass $$
 ^^ yeah $$
 ^^ it dog $$
-^^  eat meat $$
-^^  eat chocolate $$
+^^ eat eat meat $$
+^^ er eat chocolate $$
 ^^ rat rat $$
 ^^ rat rat $$
 ^^ he eat meat $$
@@ -671,6 +701,7 @@
 ^^ eat my finger $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ bread $$
 ^^ floor $$
 ^^ puzzle $$
@@ -694,8 +725,8 @@
 ^^ that my $$
 ^^ tractor $$
 ^^ tractor $$
-^^   I can drive the car $$
-^^   I miss Mar_mar $$
+^^ I can I can drive the car $$
+^^ I miss I miss Mar_mar $$
 ^^ lady $$
 ^^ yeah $$
 ^^ I miss Daddy $$
@@ -708,12 +739,12 @@
 ^^ a key $$
 ^^ I sit there $$
 ^^ sit $$
-^^   a key $$
+^^ a a a key $$
 ^^ I get it $$
 ^^ the key $$
 ^^ start the boat this $$
 ^^ where key $$
-^^ that  $$
+^^ that xxx $$
 ^^ stop $$
 ^^ stick $$
 ^^ stick $$
@@ -722,6 +753,7 @@
 ^^ key $$
 ^^ put my key back the boat $$
 ^^ I move that key $$
+^^ xxx $$
 ^^ stick $$
 ^^ I am stick $$
 ^^ I stick my car lady $$
@@ -732,7 +764,7 @@
 ^^ truck $$
 ^^ truck $$
 ^^ car $$
-^^   this truck $$
+^^ this this this truck $$
 ^^ it a truck $$
 ^^ a truck $$
 ^^ stick $$
@@ -770,14 +802,14 @@
 ^^ no $$
 ^^ Daddy get my man $$
 ^^ no $$
-^^ put  that man in there $$
+^^ put that that man in there $$
 ^^ byebye $$
 ^^ stick $$
 ^^ my $$
 ^^ my $$
 ^^ me $$
 ^^ that door stick $$
-^^  that door stick $$
+^^ that that door stick $$
 ^^ there $$
 ^^ clown $$
 ^^ Nicola give that me $$
@@ -805,21 +837,31 @@
 ^^ tidy the floor $$
 ^^ move $$
 ^^ it that $$
+^^ xxx $$
 ^^ mine $$
 ^^ mine $$
+^^ xxx $$
 ^^ that Syrup $$
+^^ xxx $$
 ^^ Syrup the bean $$
+^^ a $$
 ^^ floor $$
 ^^ it pipe there $$
 ^^ down there $$
 ^^ bounce $$
+^^ a $$
+^^ a $$
+^^ a $$
+^^ a $$
 ^^ no $$
 ^^ this hair $$
 ^^ it be hair $$
 ^^ oh $$
+^^ a $$
 ^^ I want ball $$
 ^^ bean $$
 ^^ no $$
+^^ a $$
 ^^ bat $$
 ^^ I want my bat $$
 ^^ I look $$
@@ -831,7 +873,7 @@
 ^^ there $$
 ^^ I want $$
 ^^ I want my bat $$
-^^ I want  my bat $$
+^^ I want my my bat $$
 ^^ I want the truck $$
 ^^ in the car $$
 ^^ Mummy car $$
@@ -855,7 +897,7 @@
 ^^ no $$
 ^^ I want train $$
 ^^ I want that train $$
-^^  I drive $$
+^^ I I drive $$
 ^^ I drive $$
 ^^ Daddy there $$
 ^^ the car $$
@@ -889,7 +931,7 @@
 ^^ there $$
 ^^ a truck $$
 ^^ a truck $$
-^^ lady get  my truck $$
+^^ lady get my my truck $$
 ^^ Daddy get my truck yeah $$
 ^^ a truck a dog $$
 ^^ a man $$
@@ -903,9 +945,11 @@
 ^^ for Daddy $$
 ^^ cheese $$
 ^^ cheese $$
+^^ xxx $$
 ^^ mhm $$
 ^^ it be sausage $$
 ^^ broke $$
+^^ xxx $$
 ^^ stick $$
 ^^ stick egg $$
 ^^ couch $$
@@ -917,8 +961,9 @@
 ^^ that cheese $$
 ^^ that lady eat that $$
 ^^ eat that $$
-^^ I need  $$
-^^ I need a  $$
+^^ xxx $$
+^^ I need xxx $$
+^^ I need a xxx $$
 ^^ oh here nana $$
 ^^ that cheese $$
 ^^ where the bear go $$
@@ -931,6 +976,7 @@
 ^^ apple $$
 ^^ I get $$
 ^^ I get apple $$
+^^ xxx $$
 ^^ ice $$
 ^^ a what $$
 ^^ that $$
@@ -960,7 +1006,8 @@
 ^^ lady $$
 ^^ no $$
 ^^ no $$
-^^  oh I go that $$
+^^ a $$
+^^ I oh I go that $$
 ^^ I get it $$
 ^^ drink $$
 ^^ my cup hot $$
@@ -1002,6 +1049,7 @@
 ^^ a snake $$
 ^^ eat my hat $$
 ^^ eat $$
+^^ a $$
 ^^ oh $$
 ^^ I take green one $$
 ^^ yeah $$
@@ -1019,6 +1067,7 @@
 ^^ no $$
 ^^ sleep there $$
 ^^ sleep there $$
+^^ xxx $$
 ^^ whack $$
 ^^ whack $$
 ^^ put lady doll down there $$
@@ -1033,7 +1082,7 @@
 ^^ get that truck down there $$
 ^^ that truck $$
 ^^ I have get the truck $$
-^^  that money go now $$
+^^ that that money go now $$
 ^^ that money go now $$
 ^^ that grass cut down go now $$
 ^^ Daddy get my $$
@@ -1045,6 +1094,7 @@
 ^^ no $$
 ^^ that $$
 ^^ go round there $$
+^^ xxx $$
 ^^ I drive my grass cut $$
 ^^ brumm $$
 ^^ down lady $$
@@ -1057,24 +1107,26 @@
 ^^ lady my tea go $$
 ^^ look $$
 ^^ it go round there $$
-^^   round there $$
+^^ xxx round round there $$
 ^^ no $$
 ^^ not go round there lady $$
 ^^ look tractor down there $$
-^^ lady  take my nana away $$
+^^ lady take take my nana away $$
 ^^ my nana away $$
 ^^ no $$
 ^^ no $$
 ^^ hammer $$
 ^^ no $$
 ^^ hole $$
-^^ hole down  $$
+^^ hole down xxx $$
 ^^ I have get this big one $$
 ^^ down hole $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ yeah $$
-^^   wheel go round $$
+^^ wheel wheel wheel go round $$
 ^^ round $$
 ^^ wheel $$
 ^^ bus stop round $$
@@ -1089,7 +1141,7 @@
 ^^ floor $$
 ^^ yeah $$
 ^^ I want my Gumdrop $$
-^^    no $$
+^^ no no no no $$
 ^^ no $$
 ^^ Gumdrop $$
 ^^ I want floor down there $$
@@ -1116,6 +1168,7 @@
 ^^ open the door $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ lady take away $$
 ^^ I want my truck $$
 ^^ in there $$
@@ -1123,6 +1176,7 @@
 ^^ it fit in there $$
 ^^ it fit in there $$
 ^^ it fit in there $$
+^^ xxx $$
 ^^ back there $$
 ^^ that $$
 ^^ the truck in there $$
@@ -1136,7 +1190,7 @@
 ^^ this all_gone now $$
 ^^ a milk in there $$
 ^^ that $$
-^^ that  milk stick $$
+^^ that milkman milk stick $$
 ^^ truck $$
 ^^ lock the door $$
 ^^ yeah $$
@@ -1182,11 +1236,13 @@
 ^^ I want my ball $$
 ^^ I Mummy get that ball $$
 ^^ too hot $$
+^^ xxx $$
 ^^ down $$
 ^^ hoop $$
 ^^ mine $$
 ^^ I want my ball $$
 ^^ throw it lady the ball $$
+^^ xxx $$
 ^^ want my ball $$
 ^^ oh $$
 ^^ oh $$
@@ -1201,4 +1257,4 @@
 ^^ Daddy $$
 ^^ Daddy $$
 ^^ Daddy $$
-^^ there  $$
+^^ there xxx $$

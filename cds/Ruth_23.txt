@@ -20,7 +20,7 @@
 ^^ Anna $$
 ^^ Anna $$
 ^^ that be right $$
-^^   who be this here $$
+^^ is it who be this here $$
 ^^ be this John teddy bear $$
 ^^ be it $$
 ^^ he be get a nice yellow top on have not he $$
@@ -61,7 +61,9 @@
 ^^ you be teddy bear $$
 ^^ hello teddy bear $$
 ^^ can teddy bear give penguin a kiss $$
+^^ a $$
 ^^ be they give a cuddle $$
+^^ a $$
 ^^ get a big hug $$
 ^^ thank_you $$
 ^^ who be that $$
@@ -99,9 +101,10 @@
 ^^ oh $$
 ^^ be he tire Ruth $$
 ^^ be he tire $$
+^^ a $$
 ^^ be he a big teddy bear $$
 ^^ be he in there $$
-^^   be it a Mummy teddy bear $$
+^^ is it be it a Mummy teddy bear $$
 ^^ be it $$
 ^^ what be that $$
 ^^ careful $$
@@ -110,6 +113,7 @@
 ^^ what have you get in here $$
 ^^ you can put your finger through that $$
 ^^ who be that $$
+^^ a $$
 ^^ be he eat your finger $$
 ^^ ow $$
 ^^ grr $$
@@ -138,14 +142,14 @@
 ^^ no $$
 ^^ I do not think they do $$
 ^^ I do not know what these be $$
-^^ you get these   in your birth bag $$
+^^ you get these in your in your birth bag $$
 ^^ do not you $$
-^^  that $$
+^^ xxx that $$
 ^^ who be that $$
 ^^ a crab $$
 ^^ no $$
 ^^ it be not a crab $$
-^^   that be like a hen $$
+^^ that's a that be like a hen $$
 ^^ it be a fun kind of hen $$
 ^^ who be go to have some tea $$
 ^^ go go go go go go go $$
@@ -162,6 +166,7 @@
 ^^ it be tea $$
 ^^ I will have some tea first $$
 ^^ thank_you $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ do you sneeze $$
 ^^ who be that for $$
@@ -217,7 +222,7 @@
 ^^ thank_you darling $$
 ^^ oh be this more tea $$
 ^^ very nice $$
-^^ be you go to give  your baba some tea $$
+^^ be you go to give your your baba some tea $$
 ^^ oh Mummy get that $$
 ^^ and what about doll $$
 ^^ do doll want some tea $$
@@ -235,7 +240,7 @@
 ^^ what about doll get some $$
 ^^ or teddy $$
 ^^ yeah $$
-^^  doll $$
+^^ a doll $$
 ^^ be she sleep $$
 ^^ she be not sleep $$
 ^^ do you want to wake her up $$
@@ -252,6 +257,7 @@
 ^^ that be it $$
 ^^ what be you look for $$
 ^^ what be you look for $$
+^^ www $$
 ^^ mind the house $$
 ^^ what be that $$
 ^^ be it your chair $$
@@ -270,7 +276,7 @@
 ^^ look $$
 ^^ she be off again $$
 ^^ will not will not will not will not will not $$
-^^ you     tell her to sit down $$
+^^ you tell her to sit tell her to sit down $$
 ^^ oh she be off again $$
 ^^ oh look $$
 ^^ she be a bit like you be not she $$
@@ -278,7 +284,7 @@
 ^^ at tea time $$
 ^^ look $$
 ^^ she be go run round again $$
-^^    you have to be cross with her $$
+^^ you you be you have to be cross with her $$
 ^^ tell her to be a good girl $$
 ^^ go on $$
 ^^ tell her to be a good girl $$
@@ -335,7 +341,7 @@
 ^^ yeah it do $$
 ^^ it do $$
 ^^ yeah $$
-^^ and you go  do you $$
+^^ and you go a do you $$
 ^^ be there one in the car $$
 ^^ be there $$
 ^^ at the window $$
@@ -351,7 +357,7 @@
 ^^ do you remember $$
 ^^ pizza $$
 ^^ do not we $$
-^^        what be it $$
+^^ did you did you what did you what be it $$
 ^^ what be it $$
 ^^ oh some more tea for me $$
 ^^ and some more for me $$
@@ -376,6 +382,7 @@
 ^^ on her head $$
 ^^ do she fall on her head $$
 ^^ on her knee $$
+^^ a $$
 ^^ do you kiss it $$
 ^^ do you kiss it good $$
 ^^ that be nice $$
@@ -386,12 +393,13 @@
 ^^ do you fall $$
 ^^ the baba fall $$
 ^^ do Ruth fall $$
-^^  she be still have her tea $$
+^^ she's she be still have her tea $$
 ^^ there $$
 ^^ there $$
 ^^ do she like that $$
 ^^ I think she will like that $$
 ^^ yeah $$
+^^ mm $$
 ^^ look $$
 ^^ no $$
 ^^ what be wrong $$
@@ -403,7 +411,7 @@
 ^^ yeah $$
 ^^ we will just make pretend $$
 ^^ just pretend that the baba can have it $$
-^^   I do not want to put anything in it $$
+^^ I don't I do not want to put anything in it $$
 ^^ you want some in there $$
 ^^ what do you want $$
 ^^ what be in $$
@@ -441,9 +449,9 @@
 ^^ oh you be go to read to baba $$
 ^^ oh that be very nice $$
 ^^ you tell her all about it now $$
-^^  you read $$
+^^ you you read $$
 ^^ you sit down and read to baba $$
-^^   you sit down there and Mummy sit next to you $$
+^^ you sit you sit down there and Mummy sit next to you $$
 ^^ okay $$
 ^^ now I want you to tell baba all about this book $$
 ^^ you tell her $$
@@ -475,7 +483,7 @@
 ^^ and wheat $$
 ^^ and water $$
 ^^ oh look $$
-^^  how be carry that $$
+^^ he's how be carry that $$
 ^^ how be he carry that $$
 ^^ he be carry it on his head $$
 ^^ be not he $$
@@ -500,7 +508,7 @@
 ^^ who be this $$
 ^^ who be that $$
 ^^ I do not think I be one of them $$
-^^ oh   be that a Dada one $$
+^^ oh is that be that a Dada one $$
 ^^ what be it $$
 ^^ and that be a baba one $$
 ^^ right $$
@@ -518,6 +526,7 @@
 ^^ what be she sit on $$
 ^^ be she do a poo be she $$
 ^^ be she $$
+^^ a $$
 ^^ be she do a wee $$
 ^^ I want my pot $$
 ^^ where have the teddy bear go $$
@@ -530,8 +539,10 @@
 ^^ there must be something good $$
 ^^ the pot be the place say the queen $$
 ^^ oh be she sleep $$
+^^ www $$
 ^^ Ruth $$
 ^^ be you listen to this book $$
+^^ www $$
 ^^ what be she do $$
 ^^ be she run to her pot $$
 ^^ who else be there $$
@@ -547,6 +558,7 @@
 ^^ yeah $$
 ^^ he be go to fall on the orange be not he $$
 ^^ go to fall $$
+^^ www $$
 ^^ she be fall $$
 ^^ and sometimes the pot play trick on the little princess $$
 ^^ have you ever fall off your pot $$
@@ -572,6 +584,7 @@
 ^^ I can not see anything wrong with your finger $$
 ^^ let me see $$
 ^^ you have a major injury here look $$
+^^ a $$
 ^^ no $$
 ^^ let me see $$
 ^^ no $$
@@ -596,6 +609,7 @@
 ^^ your knee $$
 ^^ let me see $$
 ^^ I want to know why it be always this left knee that you hurt $$
+^^ a $$
 ^^ do you cry $$
 ^^ what do you do $$
 ^^ right $$
@@ -627,12 +641,15 @@
 ^^ it do $$
 ^^ dirt $$
 ^^ dirt $$
+^^ www $$
 ^^ what be dirt $$
 ^^ sleep $$
 ^^ be she sleep $$
 ^^ be she go to lie down again $$
 ^^ oh what be she get $$
+^^ www $$
 ^^ what be that Ruth $$
+^^ www $$
 ^^ what be that Ruth $$
 ^^ can you see there $$
 ^^ let us take them out_of the bag $$
@@ -640,6 +657,7 @@
 ^^ gosh $$
 ^^ we have get lot here for tea have not we $$
 ^^ what be that $$
+^^ xxx $$
 ^^ shall we lift these out $$
 ^^ oh_my_goodness $$
 ^^ where be the ring $$
@@ -681,6 +699,7 @@
 ^^ can mum have something $$
 ^^ Ruth $$
 ^^ what do we put on the pizza last night $$
+^^ eh $$
 ^^ a strawberry $$
 ^^ a strawberry on the pizza $$
 ^^ right $$
@@ -700,7 +719,7 @@
 ^^ let me look at her $$
 ^^ let me see $$
 ^^ do she need a nappie $$
-^^   oh $$
+^^ oh oh oh $$
 ^^ what happen $$
 ^^ hey $$
 ^^ she be love be not she $$
@@ -710,6 +729,7 @@
 ^^ no more baba $$
 ^^ that be the lot $$
 ^^ but Ruth look $$
+^^ a $$
 ^^ be not that nice $$
 ^^ be baba cold $$
 ^^ be she cold $$
@@ -730,6 +750,7 @@
 ^^ oh be it go on her head $$
 ^^ oh she can only have one dress on $$
 ^^ I have to take one off look $$
+^^ a $$
 ^^ be not she pretty $$
 ^^ do she look love $$
 ^^ do she go to a wedding like that $$
@@ -749,7 +770,7 @@
 ^^ shall we finish it off $$
 ^^ pull them all the way up $$
 ^^ can you give her to me $$
-^^  give the baba to me darling $$
+^^ give give the baba to me darling $$
 ^^ what be we do $$
 ^^ you be take them off again $$
 ^^ here $$
@@ -758,14 +779,15 @@
 ^^ have she be naughty $$
 ^^ have she $$
 ^^ shall I spank her bottom $$
+^^ a $$
 ^^ do you want me to take this one off $$
-^^   dear $$
+^^ dear dear dear $$
 ^^ she might go $$
 ^^ because she do not like be dress $$
 ^^ do you do that $$
 ^^ be this pretty $$
 ^^ do you like this one $$
-^^   which one shall I put on $$
+^^ which one which one shall I put on $$
 ^^ this one $$
 ^^ okay $$
 ^^ oh $$
@@ -829,6 +851,7 @@
 ^^ do you like her $$
 ^^ with you $$
 ^^ be she go to play with you $$
+^^ a $$
 ^^ that be her underpant $$
 ^^ what happen $$
 ^^ you fall $$
@@ -839,9 +862,10 @@
 ^^ there be some milk here for the baba $$
 ^^ be she hungry $$
 ^^ be she $$
-^^     be it warm $$
+^^ is is is it be it warm $$
 ^^ that be it $$
 ^^ no $$
+^^ www $$
 ^^ there you go $$
 ^^ all_gone $$
 ^^ oh what a clever girl $$
@@ -873,12 +897,14 @@
 ^^ oh look at that lip $$
 ^^ oh look at that lip $$
 ^^ be you cry $$
+^^ a $$
 ^^ you be a big girl $$
 ^^ this be for the baba $$
-^^    it be not for you $$
+^^ this is for it be not for you $$
 ^^ you be a big girl $$
 ^^ be not you $$
 ^^ oh $$
+^^ www $$
 ^^ can you find another one $$
 ^^ what have you find $$
 ^^ be she hungry darling $$
@@ -918,6 +944,7 @@
 ^^ I think you hurt his head there $$
 ^^ you throw him in and he hurt his head $$
 ^^ he do $$
+^^ a $$
 ^^ make him good $$
 ^^ there $$
 ^^ he can sit down now $$
@@ -945,6 +972,7 @@
 ^^ there be the other one $$
 ^^ let us see $$
 ^^ go go go go go go go go go $$
+^^ www $$
 ^^ let me see $$
 ^^ let Anna $$
 ^^ I will show you how to do it $$
@@ -956,12 +984,14 @@
 ^^ Anna get the baba $$
 ^^ okay $$
 ^^ right $$
+^^ www $$
 ^^ it be just as_well your shoe be not hard to put on be not it $$
 ^^ it certain be $$
 ^^ we genmod never get you to put them on yourself $$
 ^^ you be very clever $$
 ^^ you learn to put your own shoe on $$
 ^^ hey $$
+^^ www $$
 ^^ right $$
 ^^ there you go $$
 ^^ there she be $$
@@ -979,7 +1009,8 @@
 ^^ she be get her shoe on now $$
 ^^ have she get red shoe like you $$
 ^^ oh $$
-^^  later $$
+^^ later later $$
+^^ www $$
 ^^ oh you need not expect mum to put them back on again $$
 ^^ pull it from the back $$
 ^^ pull it from the back $$
@@ -995,10 +1026,10 @@
 ^^ you be do fine pet $$
 ^^ you be do very very well here $$
 ^^ Ruth $$
-^^    pull this down $$
+^^ take take this pull this down $$
 ^^ pull this down $$
 ^^ there $$
-^^   no $$
+^^ no no no $$
 ^^ pull it down $$
 ^^ down here $$
 ^^ there $$
@@ -1018,6 +1049,7 @@
 ^^ come on $$
 ^^ put her to bed now $$
 ^^ where be you go $$
+^^ www $$
 ^^ put her to bed in here $$
 ^^ just in here $$
 ^^ let us get a nice bed for her in here $$
@@ -1036,6 +1068,7 @@
 ^^ soon $$
 ^^ soon $$
 ^^ come on $$
+^^ a $$
 ^^ oh $$
 ^^ how about put her in this $$
 ^^ how about put her in this here $$
@@ -1072,12 +1105,13 @@
 ^^ do we $$
 ^^ have you get a very bad sore cough $$
 ^^ a bad old cough $$
+^^ www $$
 ^^ oh dear $$
 ^^ yes darling $$
 ^^ what darling $$
 ^^ daddy play cricket $$
 ^^ do we go and see him play cricket $$
-^^ who do we see when we go to  see him play cricket $$
+^^ who do we see when we go to play see him play cricket $$
 ^^ who do we see $$
 ^^ who do we see when daddy play cricket $$
 ^^ what darling $$
@@ -1148,12 +1182,12 @@
 ^^ that be a big noise be not it $$
 ^^ all right $$
 ^^ let us build a tower then $$
-^^ well  you good get the lego $$
+^^ well you you good get the lego $$
 ^^ lazybone $$
 ^^ oh $$
 ^^ that be red $$
 ^^ oh $$
-^^   do he go on there $$
+^^ does he do he go on there $$
 ^^ he do $$
 ^^ a little whale $$
 ^^ what darling $$

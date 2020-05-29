@@ -3,7 +3,7 @@
 ^^ that $$
 ^^ poor fox $$
 ^^ ear stick up again $$
-^^ I  knock house down $$
+^^ I knock knock house down $$
 ^^ one at the farm $$
 ^^ one at the farm $$
 ^^ yeah $$
@@ -16,8 +16,8 @@
 ^^ be move snow $$
 ^^ yeah $$
 ^^ yeah $$
-^^ where  $$
-^^ I  $$
+^^ where xxx $$
+^^ I xxx $$
 ^^ I eat one $$
 ^^ yeah $$
 ^^ I eat one $$
@@ -33,14 +33,14 @@
 ^^ yeah $$
 ^^ great concrete ball on it like that $$
 ^^ it knock the house down $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ a crane $$
 ^^ that my crane $$
-^^ that  my tractor $$
+^^ that my my tractor $$
 ^^ there my tractor $$
-^^   please make a steer wheel $$
+^^ I make please make a steer wheel $$
 ^^ a steer wheel $$
-^^   I look in that box $$
+^^ I look I look in that box $$
 ^^ they all in that box $$
 ^^ they not $$
 ^^ they have all_gone $$
@@ -62,7 +62,7 @@
 ^^ lose $$
 ^^ it be lose $$
 ^^ no $$
-^^  in the box $$
+^^ xxx in the box $$
 ^^ no $$
 ^^ I lose one $$
 ^^ I lose one $$
@@ -87,9 +87,10 @@
 ^^ oh dear $$
 ^^ I want do it $$
 ^^ I go turn it $$
-^^  it be a hand $$
+^^ it's it be a hand $$
 ^^ the hand $$
 ^^ I go get in the box $$
+^^ a $$
 ^^ I get in that $$
 ^^ I am get in the box $$
 ^^ oh yeah $$
@@ -110,7 +111,7 @@
 ^^ it a tractor Mummy $$
 ^^ tie $$
 ^^ that hook $$
-^^  it be a tractor hook on the back $$
+^^ it's it be a tractor hook on the back $$
 ^^ I go knock a house down $$
 ^^ Mummy house $$
 ^^ my tractor $$
@@ -121,16 +122,16 @@
 ^^ I hop on the back $$
 ^^ on the back $$
 ^^ oh $$
-^^ I  $$
+^^ I xxx $$
 ^^ I want sit front $$
 ^^ I sit on the back $$
-^^  please help me knock   a house down $$
+^^ please please help me knock a house a house down $$
 ^^ please build a house up $$
 ^^ please pick it up for me $$
 ^^ please pick it up for me Mummy $$
 ^^ yeah $$
 ^^ some bottom $$
-^^ this be  $$
+^^ this be xxx $$
 ^^ I knock the house down $$
 ^^ I go knock this down $$
 ^^ hey $$
@@ -143,19 +144,21 @@
 ^^ I can not put it on $$
 ^^ please put it up again $$
 ^^ this all like that $$
-^^   it be get sand on it $$
+^^ xxx $$
+^^ I got it be get sand on it $$
 ^^ it great big house $$
 ^^ yeah $$
-^^  please put it up $$
+^^ please please put it up $$
 ^^ please put it up for me $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ on there $$
 ^^ yeah $$
 ^^ do not give it a $$
 ^^ yeah $$
 ^^ it be get that $$
-^^   I want get back on my crane $$
+^^ I want I want get back on my crane $$
 ^^ yeah $$
 ^^ I want put my crane in the garage $$
 ^^ yeah $$
@@ -171,31 +174,31 @@
 ^^ it do not work $$
 ^^ where Christmas tree $$
 ^^ where the Christmas tree Mummy $$
-^^  Daddy $$
+^^ Daddy Daddy $$
 ^^ I be not damp Mummy $$
 ^^ damp $$
 ^^ no $$
 ^^ no $$
-^^ I do not  water $$
+^^ I do not xxx water $$
 ^^ that tea $$
-^^   a tea $$
+^^ a teapot a tea $$
 ^^ I be a little tea $$
 ^^ I can not be one $$
 ^^ be one $$
 ^^ please let me sing it $$
-^^    tea $$
-^^   a tea $$
+^^ teapot teapot teapot tea $$
+^^ a teapot a tea $$
 ^^ shout $$
 ^^ I little tea round and stout $$
 ^^ I can not $$
 ^^ no $$
-^^  I want guitar out $$
+^^ I I want guitar out $$
 ^^ string break $$
 ^^ Annie $$
 ^^ two wheel on my train $$
 ^^ yeah $$
 ^^ two wheel on my train $$
-^^ I  $$
+^^ I xxx $$
 ^^ two $$
 ^^ yeah $$
 ^^ two wheel on my wagon $$
@@ -205,6 +208,8 @@
 ^^ yeah $$
 ^^ I can not $$
 ^^ this fall down $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ do not put $$
 ^^ I can $$
@@ -240,10 +245,10 @@
 ^^ it be naughty one $$
 ^^ he can eat doll $$
 ^^ he be eat doll dress $$
-^^     it go crash $$
+^^ it go it go it go crash $$
 ^^ crash $$
 ^^ that be doll dress $$
-^^  where the motor car $$
+^^ where where the motor car $$
 ^^ those my one $$
 ^^ car $$
 ^^ no $$
@@ -254,6 +259,8 @@
 ^^ crash $$
 ^^ it crash $$
 ^^ it crash Bumbo $$
+^^ xxx $$
+^^ xxx $$
 ^^ milk $$
 ^^ where be my milk $$
 ^^ you get me some milk please $$
@@ -274,6 +281,7 @@
 ^^ that Pingu $$
 ^^ please put it on television $$
 ^^ what be that $$
+^^ a $$
 ^^ the monkey $$
 ^^ what be that $$
 ^^ a Pingu $$
@@ -303,15 +311,18 @@
 ^^ ow $$
 ^^ ow $$
 ^^ I bang monkey $$
+^^ xxx $$
 ^^ I want Pingu $$
 ^^ yeah $$
-^^   he eat Pingu friend $$
+^^ he eat he eat Pingu friend $$
 ^^ yeah $$
 ^^ I put that monkey in $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^     I want that in $$
+^^ I want I want I want that in $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -320,11 +331,11 @@
 ^^ yeah $$
 ^^ no $$
 ^^ lose $$
-^^ monkey  $$
+^^ monkey xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ want Pingu friend $$
-^^ I lose  $$
+^^ I lose xxx $$
 ^^ it be lose $$
 ^^ what be that $$
 ^^ it Pingu $$
@@ -332,7 +343,7 @@
 ^^ yeah $$
 ^^ Nanny $$
 ^^ fit Pingu $$
-^^   I want panda drive the car $$
+^^ I want I want panda drive the car $$
 ^^ I want Pingu friend $$
 ^^ brumm $$
 ^^ they go see friend at the zoo $$
@@ -343,7 +354,8 @@
 ^^ friend again $$
 ^^ no $$
 ^^ no $$
-^^   I not friend $$
+^^ xxx $$
+^^ I not I not friend $$
 ^^ Annie $$
 ^^ I do not like Annie $$
 ^^ no $$
@@ -370,6 +382,7 @@
 ^^ yeah $$
 ^^ no $$
 ^^ I go build up again $$
+^^ xxx $$
 ^^ I want that $$
 ^^ no $$
 ^^ she want wear knick $$
@@ -378,7 +391,7 @@
 ^^ those doll $$
 ^^ yeah $$
 ^^ the doll wee in those $$
-^^   I want the shoe on $$
+^^ I want I want the shoe on $$
 ^^ the blue dress $$
 ^^ doll want dance $$
 ^^ doll want dance $$
@@ -390,6 +403,7 @@
 ^^ yeah $$
 ^^ doll do dance $$
 ^^ it be lose $$
+^^ xxx $$
 ^^ yeah $$
 ^^ dance shoe $$
 ^^ dance shoe $$
@@ -397,14 +411,18 @@
 ^^ it go get cold $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ ring rose no $$
 ^^ no $$
 ^^ Grand_Duke $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ I do $$
-^^ I get a  $$
+^^ xxx $$
+^^ I get a xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -426,11 +444,13 @@
 ^^ sport car $$
 ^^ yeah $$
 ^^ crash $$
+^^ xxx $$
 ^^ some water $$
 ^^ yeah $$
 ^^ the sport car $$
-^^  please bring it downstairs $$
+^^ please please bring it downstairs $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ one $$
 ^^ no $$
@@ -455,14 +475,14 @@
 ^^ cover down $$
 ^^ with Mummy coat $$
 ^^ yeah $$
-^^     I go play with the toy $$
-^^     bring  some sheet downstairs $$
+^^ I go play with I go play with the toy $$
+^^ please get me some bring some some sheet downstairs $$
 ^^ please $$
 ^^ I want bring some my sheet down $$
 ^^ please $$
 ^^ please $$
-^^   please $$
-^^ I bring  $$
+^^ please please please $$
+^^ I bring xxx $$
 ^^ bring some more toy Annie $$
 ^^ please $$
 ^^ please $$
@@ -471,7 +491,7 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^ I like bring  my sheet down $$
+^^ I like bring my my sheet down $$
 ^^ please $$
 ^^ let me go upstairs $$
 ^^ please $$
@@ -488,7 +508,7 @@
 ^^ I want Dan_dog $$
 ^^ please let me have Dan_dog $$
 ^^ I want Dan_dog $$
-^^ Mummy  my brick $$
+^^ Mummy xxx my brick $$
 ^^ can not $$
 ^^ too late $$
 ^^ yeah $$
@@ -508,7 +528,7 @@
 ^^ it be too late $$
 ^^ it be too late $$
 ^^ can not $$
-^^ that  away $$
+^^ that xxx away $$
 ^^ me hide my tractor $$
 ^^ can not $$
 ^^ it be mine be $$
@@ -518,13 +538,13 @@
 ^^ it be no $$
 ^^ mine $$
 ^^ can not $$
-^^ it be  away $$
+^^ it be xxx away $$
 ^^ it be $$
 ^^ where be that hammer $$
 ^^ I throw it away $$
 ^^ no $$
-^^   I do not know $$
-^^  no $$
+^^ I don't I do not know $$
+^^ er no $$
 ^^ put this away $$
 ^^ put these back in $$
 ^^ where be those go $$
@@ -580,6 +600,7 @@
 ^^ it be mine $$
 ^^ I play with Mummy Anna $$
 ^^ no $$
+^^ xxx $$
 ^^ it be too late $$
 ^^ I put it away $$
 ^^ it be too late $$
@@ -593,7 +614,7 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^  just $$
+^^ just just $$
 ^^ it just get sheep on it $$
 ^^ sheep on it $$
 ^^ say baa $$
@@ -610,35 +631,38 @@
 ^^ eat Nicola up $$
 ^^ yes $$
 ^^ I think so $$
-^^ it  her bottom $$
+^^ it xxx her bottom $$
 ^^ yes $$
 ^^ I want one Nicola puppy $$
 ^^ Blue_Peter $$
 ^^ no $$
 ^^ I not call it Dan_dog $$
 ^^ Molly $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ no $$
 ^^ no $$
 ^^ go away $$
 ^^ no $$
 ^^ no $$
-^^   I go be lose $$
+^^ I gone I go be lose $$
 ^^ want play with Anna $$
 ^^ I do not want play with Anna $$
-^^    no $$
+^^ no no no no $$
 ^^ no $$
 ^^ no $$
 ^^ I not $$
+^^ xxx $$
 ^^ please let me in there $$
 ^^ yes $$
 ^^ yes $$
 ^^ I do not want play with Mummy $$
 ^^ I do not want play with Anna $$
 ^^ I want go get down $$
-^^     I go get lose $$
+^^ I go I go I go get lose $$
 ^^ I go get lose $$
 ^^ play with Anna $$
+^^ xxx $$
+^^ xxx $$
 ^^ write idea $$
 ^^ want write idea $$
 ^^ no $$
@@ -657,10 +681,11 @@
 ^^ it be a man $$
 ^^ it do not work $$
 ^^ it do work $$
+^^ xxx $$
 ^^ I want my phone $$
 ^^ I want my phone $$
 ^^ hello Sarah_Lastname $$
-^^  Sarah_Lastname $$
+^^ xxx Sarah_Lastname $$
 ^^ Sarah_Lastname get a car $$
 ^^ yeah $$
 ^^ yeah $$
@@ -670,6 +695,7 @@
 ^^ yeah $$
 ^^ o'clock $$
 ^^ bath time $$
+^^ xxx $$
 ^^ bye $$
 ^^ yeah $$
 ^^ this do not work $$
@@ -677,7 +703,7 @@
 ^^ it do not $$
 ^^ this do not $$
 ^^ this do not work $$
-^^    please turn it off $$
+^^ please turn it please turn it off $$
 ^^ hello man $$
 ^^ yeah $$
 ^^ yeah $$
@@ -688,9 +714,10 @@
 ^^ that nice posh car $$
 ^^ what that noise $$
 ^^ yes $$
-^^  no $$
-^^ I get  $$
+^^ er no $$
+^^ I get xxx $$
 ^^ I have get some more $$
+^^ xxx $$
 ^^ I can not ring Maxine $$
 ^^ I can not $$
 ^^ no $$
@@ -700,29 +727,30 @@
 ^^ Maxine out $$
 ^^ yeah $$
 ^^ yeah $$
-^^  no $$
+^^ er no $$
 ^^ can not $$
 ^^ this my phone $$
-^^ I  my hand $$
-^^   I just wipe my pen on my hand $$
+^^ I xxx my hand $$
+^^ I wipe I just wipe my pen on my hand $$
 ^^ where be the dog dirt $$
 ^^ yes $$
 ^^ yeah $$
 ^^ it just do some dirt on $$
-^^   on the window $$
+^^ on on on the window $$
+^^ xxx $$
 ^^ yes $$
 ^^ yes $$
 ^^ yeah $$
 ^^ he get one at Nanny $$
 ^^ no $$
-^^  no $$
+^^ er no $$
 ^^ that one a fly $$
-^^ get a  $$
-^^ I get  $$
+^^ get a xxx $$
+^^ I get xxx $$
 ^^ I can not go back $$
 ^^ I can not $$
 ^^ go in there $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ can not $$
 ^^ no $$
 ^^ Mummy $$
@@ -737,6 +765,7 @@
 ^^ can not $$
 ^^ no $$
 ^^ do not want it $$
+^^ xxx $$
 ^^ that be in there $$
 ^^ my spanner in here $$
 ^^ not $$
@@ -750,7 +779,7 @@
 ^^ want play on the floor $$
 ^^ my house down there $$
 ^^ I do not want play with Anna $$
-^^   play with my house $$
+^^ play with play with my house $$
 ^^ play with my house $$
 ^^ no $$
 ^^ can not go in there $$
@@ -770,7 +799,7 @@
 ^^ can not $$
 ^^ no $$
 ^^ it be a big one in my house $$
-^^  my house $$
+^^ xxx my house $$
 ^^ no $$
 ^^ bring these in my house $$
 ^^ Mummy come my house $$
@@ -804,7 +833,7 @@
 ^^ out there $$
 ^^ no $$
 ^^ I have get my slipper on $$
-^^ my foot  outside $$
+^^ my foot xxx outside $$
 ^^ outside whee $$
 ^^ I go in hut $$
 ^^ I want get on the back $$
@@ -820,8 +849,9 @@
 ^^ in there $$
 ^^ in my hut $$
 ^^ my house $$
+^^ xxx $$
 ^^ do not like me $$
-^^ that  $$
+^^ that xxx $$
 ^^ this throw me off again $$
 ^^ toss me off $$
 ^^ you do not toss me off $$
@@ -837,6 +867,7 @@
 ^^ want get on the back $$
 ^^ no $$
 ^^ down $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ get on my back $$
 ^^ give my tum kiss $$
@@ -845,21 +876,21 @@
 ^^ two three $$
 ^^ I want sit on my horse $$
 ^^ train $$
-^^    have that train get coal $$
+^^ that has that have that train get coal $$
 ^^ where panda $$
-^^  there be motor car $$
+^^ there there be motor car $$
 ^^ I can not see one $$
-^^  yes $$
+^^ er yes $$
 ^^ think so $$
-^^  those $$
-^^  sport car $$
+^^ xxx those $$
+^^ xxx sport car $$
 ^^ those sport car Anna $$
 ^^ drop them $$
 ^^ Anna $$
 ^^ Anna $$
 ^^ it be a $$
 ^^ no $$
-^^  what be it eat $$
+^^ it what be it eat $$
 ^^ crash $$
 ^^ crash $$
 ^^ yeah $$
@@ -877,13 +908,13 @@
 ^^ there be that man $$
 ^^ no $$
 ^^ no $$
-^^ on  my train there $$
+^^ on that my train there $$
 ^^ yeah $$
 ^^ no $$
 ^^ lose on the floor $$
 ^^ no $$
 ^^ leave that man $$
-^^   no $$
+^^ no no no $$
 ^^ can not $$
 ^^ no $$
 ^^ to nana be $$
@@ -911,19 +942,20 @@
 ^^ what be that $$
 ^^ eat doll toe $$
 ^^ yes $$
-^^  eat doll hair $$
+^^ eat eat doll hair $$
 ^^ no $$
 ^^ I can not $$
 ^^ no $$
 ^^ I think no $$
 ^^ it be have eat Pingu friend up $$
-^^   it eat tiger up $$
+^^ it eat it eat tiger up $$
 ^^ it eat Pingu friend up $$
-^^  eat the monkey up $$
-^^  eat the giraffe $$
-^^   it be eat Bumbo $$
+^^ eat eat the monkey up $$
+^^ eat eat the giraffe $$
+^^ it's eat it be eat Bumbo $$
 ^^ it be eat my finger $$
 ^^ it be eat my finger $$
+^^ xxx $$
 ^^ no $$
 ^^ I think no $$
 ^^ Anna $$
@@ -932,6 +964,7 @@
 ^^ Anna $$
 ^^ there $$
 ^^ it be the track $$
+^^ xxx $$
 ^^ crash $$
 ^^ yeah $$
 ^^ no $$
@@ -940,8 +973,8 @@
 ^^ where be the chimney $$
 ^^ chimney $$
 ^^ the chimney $$
-^^  where be the coal $$
-^^   baa $$
+^^ where's where be the coal $$
+^^ baa baa baa $$
 ^^ oh this $$
 ^^ that one hurt $$
 ^^ yes $$
@@ -954,8 +987,8 @@
 ^^ I hit the park over $$
 ^^ lie on them $$
 ^^ I hit $$
-^^   I hit the $$
-^^   I hit the park over $$
+^^ I hit I hit the $$
+^^ I hit I hit the park over $$
 ^^ I do not know $$
 ^^ I go get stick in that box $$
 ^^ box $$
@@ -969,6 +1002,7 @@
 ^^ get me out mum $$
 ^^ I get $$
 ^^ I go in $$
+^^ xxx $$
 ^^ get me out again $$
 ^^ get me out again $$
 ^^ the snake what be that eat $$
@@ -989,10 +1023,10 @@
 ^^ I lie on $$
 ^^ I want a pink one mum $$
 ^^ I want one $$
-^^    I lie on bottom $$
+^^ I lie on I lie on bottom $$
 ^^ I lie on that $$
 ^^ that be a bottom $$
-^^ please  in $$
+^^ please xxx in $$
 ^^ please wrap me up $$
 ^^ Anna $$
 ^^ Anna $$
@@ -1004,7 +1038,7 @@
 ^^ Anna $$
 ^^ Anna $$
 ^^ Anna $$
-^^ lie   on this box $$
+^^ lie on this on this box $$
 ^^ yes $$
 ^^ I go be a ghost $$
 ^^ please let me $$
@@ -1033,7 +1067,7 @@
 ^^ get on my back $$
 ^^ get on my back $$
 ^^ get on my back $$
-^^ I  $$
+^^ I xxx $$
 ^^ Anna $$
 ^^ Anna $$
 ^^ Anna $$
@@ -1042,7 +1076,7 @@
 ^^ I am jump off $$
 ^^ I jump off $$
 ^^ I go jump off $$
-^^ I  $$
+^^ I xxx $$
 ^^ what that horse call $$
 ^^ that horse name $$
 ^^ Dan $$
@@ -1072,12 +1106,12 @@
 ^^ smack $$
 ^^ can not $$
 ^^ can not $$
-^^     I smack a bottom and your tum $$
-^^  please  lift up a leg $$
+^^ I smack I smack I smack a bottom and your tum $$
+^^ please please xxx lift up a leg $$
 ^^ kick up $$
 ^^ lift me on my back $$
-^^  I  off $$
-^^ I  $$
+^^ I I xxx off $$
+^^ I xxx $$
 ^^ pull me out $$
 ^^ what be that $$
 ^^ crash $$
@@ -1096,8 +1130,8 @@
 ^^ that girl be get lipstick $$
 ^^ I want ride on the tiger back $$
 ^^ okay $$
-^^ I get  $$
-^^ I get  $$
+^^ I get xxx $$
+^^ I get xxx $$
 ^^ Anna $$
 ^^ can not $$
 ^^ Anna $$
@@ -1123,11 +1157,11 @@
 ^^ eat $$
 ^^ who buy these $$
 ^^ who buy me my hammer $$
-^^    who buy me this $$
+^^ who bought me who buy me this $$
 ^^ who buy these for me $$
 ^^ mhm $$
 ^^ I have get my shirt on today $$
-^^  my shirt wet $$
+^^ my my shirt wet $$
 ^^ my shirt wet because Mummy take it off $$
 ^^ Mummy be cross with me $$
 ^^ park $$
@@ -1135,22 +1169,24 @@
 ^^ park in the mud $$
 ^^ lose the bridge $$
 ^^ I think lose it $$
+^^ xxx $$
 ^^ Postman_Pat $$
 ^^ Postman_Pat be on the ramp $$
 ^^ motor car Mummy $$
-^^  where my motor car $$
+^^ where where my motor car $$
 ^^ car there $$
 ^^ I bring my neenaw $$
 ^^ I put that up $$
-^^     I have be sing with Nicola $$
+^^ xxx $$
+^^ I been I been I have be sing with Nicola $$
 ^^ with Mummy $$
 ^^ I sing with Nicola $$
 ^^ with Mummy $$
 ^^ yeah $$
 ^^ please let me play it $$
-^^  no $$
+^^ no no $$
 ^^ no $$
-^^  no $$
+^^ no no $$
 ^^ no $$
 ^^ you can not go out $$
 ^^ can not now $$
@@ -1163,7 +1199,7 @@
 ^^ I want play that game $$
 ^^ that game $$
 ^^ because it be my game $$
-^^  that be the bus drive $$
+^^ that that be the bus drive $$
 ^^ get some mud on it again $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1177,11 +1213,12 @@
 ^^ where be $$
 ^^ I put it just there $$
 ^^ I go climb down here $$
+^^ xxx $$
 ^^ noone can cross over $$
 ^^ noone can cross over $$
-^^     there $$
-^^    that $$
-^^  that $$
+^^ there there there there there $$
+^^ er that that that $$
+^^ that that $$
 ^^ yeah $$
 ^^ the girl be knock down $$
 ^^ can not $$
@@ -1202,7 +1239,7 @@
 ^^ it be too late $$
 ^^ yeah $$
 ^^ here my car $$
-^^ my car  lose $$
+^^ my car xxx lose $$
 ^^ here my car $$
 ^^ it be go $$
 ^^ knock the house down $$
@@ -1216,16 +1253,16 @@
 ^^ yes $$
 ^^ no $$
 ^^ you can not sit there $$
-^^  can not $$
-^^  no $$
-^^   I want $$
+^^ can't can not $$
+^^ no no $$
+^^ I want I want $$
 ^^ you can not sit there $$
-^^ you  can not $$
+^^ you can't can not $$
 ^^ just can not $$
 ^^ have sit over there $$
 ^^ yeah $$
 ^^ play with me $$
-^^  I do not take my shoe $$
+^^ I I do not take my shoe $$
 ^^ take my shoe $$
 ^^ my shoe $$
 ^^ Mummy have my shoe $$
@@ -1239,7 +1276,7 @@
 ^^ I can not $$
 ^^ want mend some car $$
 ^^ Annie $$
-^^   I fix this all day $$
+^^ I been I fix this all day $$
 ^^ yes $$
 ^^ I can not $$
 ^^ I have do it $$
@@ -1247,7 +1284,8 @@
 ^^ he be fall down there $$
 ^^ Anna $$
 ^^ what that dirt do on the floor $$
-^^   I do it over there $$
+^^ I done I do it over there $$
+^^ xxx $$
 ^^ oh yeah $$
 ^^ Anna $$
 ^^ I have be sit there $$
@@ -1257,24 +1295,25 @@
 ^^ that be not a screw $$
 ^^ it be not $$
 ^^ I want $$
-^^   I want $$
+^^ I want I want $$
 ^^ it be my book $$
 ^^ mine $$
 ^^ it be mine be $$
 ^^ I have get it at home $$
 ^^ I go tighten it $$
 ^^ I go tighten it $$
-^^  no $$
+^^ no no $$
 ^^ you can not $$
 ^^ I want tighten it round $$
 ^^ I tighten it round $$
-^^  that do it like that $$
+^^ that that do it like that $$
 ^^ I want turn it $$
 ^^ Anna $$
-^^   I go do that with Anna $$
+^^ I go I go do that with Anna $$
 ^^ Anna $$
 ^^ my brick in there $$
 ^^ there hammer $$
+^^ xxx $$
 ^^ my tractor Anna $$
 ^^ it be call Percy $$
 ^^ I have be up there $$
@@ -1284,12 +1323,13 @@
 ^^ too damp $$
 ^^ yes $$
 ^^ yeah $$
-^^  no no $$
-^^  I just  $$
+^^ er no no $$
+^^ I I just xxx $$
 ^^ that one be knock down $$
 ^^ that house on $$
+^^ xxx $$
 ^^ it be be knock down $$
-^^  be knock down $$
+^^ xxx be knock down $$
 ^^ no $$
 ^^ I be not $$
 ^^ I can not do it up $$
@@ -1302,7 +1342,7 @@
 ^^ because it be too late $$
 ^^ carrot $$
 ^^ yeah $$
-^^  where be the top $$
+^^ where where be the top $$
 ^^ where be the last piece $$
 ^^ that way $$
 ^^ what that girl do there $$
@@ -1318,7 +1358,7 @@
 ^^ that one Daddy game $$
 ^^ I go $$
 ^^ I am crawl through there $$
-^^ because it be  $$
+^^ because it be xxx $$
 ^^ no $$
 ^^ it be not rain $$
 ^^ get me off tractor $$
@@ -1337,11 +1377,12 @@
 ^^ it be too high up there $$
 ^^ I try climb on here $$
 ^^ Anna $$
+^^ xxx $$
 ^^ I try climb up here $$
 ^^ it be too high $$
 ^^ it be not $$
 ^^ it be not $$
-^^ that  I climb $$
+^^ that xxx I climb $$
 ^^ that I want have to climb up $$
 ^^ that be right $$
 ^^ I climb down again $$
@@ -1359,7 +1400,7 @@
 ^^ climb up $$
 ^^ climb down again $$
 ^^ get up $$
-^^ just climb down  $$
+^^ just climb down xxx $$
 ^^ I play hide seek $$
 ^^ I play hide seek $$
 ^^ I play hide seek $$
@@ -1396,13 +1437,14 @@
 ^^ bite $$
 ^^ yeah $$
 ^^ what those $$
+^^ xxx $$
 ^^ what that train can do $$
 ^^ that man out $$
 ^^ that man can not drive the train $$
 ^^ choo $$
 ^^ where Bumbo can go $$
 ^^ choo_choo $$
-^^     I lose the motor car $$
+^^ I lost I lost I lose the motor car $$
 ^^ they in the kitchen $$
 ^^ yes $$
 ^^ some naughty boy $$
@@ -1414,16 +1456,16 @@
 ^^ it be not $$
 ^^ no $$
 ^^ it be not $$
-^^ I take  this horse $$
-^^  it be stick on $$
-^^   it be mine be $$
+^^ I take this this horse $$
+^^ it's it be stick on $$
+^^ it's mine it be mine be $$
 ^^ it be go get leg stick in the hole $$
 ^^ bump $$
 ^^ it be poor $$
 ^^ yeah $$
 ^^ what those $$
 ^^ where be the $$
-^^  that be go in the hole $$
+^^ it's that be go in the hole $$
 ^^ not in the hole $$
 ^^ not in $$
 ^^ no $$
@@ -1437,9 +1479,10 @@
 ^^ be that medicine $$
 ^^ put that in $$
 ^^ that be medicine $$
+^^ mm $$
 ^^ yes $$
 ^^ this be poor $$
-^^ cow sleep   in the train $$
+^^ cow sleep in the in the train $$
 ^^ dead $$
 ^^ yeah $$
 ^^ brumm $$
@@ -1460,7 +1503,8 @@
 ^^ that be not a door $$
 ^^ and the back door just there $$
 ^^ I want build it $$
-^^ build it up  $$
+^^ build it up xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Annie $$
 ^^ want this $$
@@ -1472,7 +1516,7 @@
 ^^ have put there $$
 ^^ no no $$
 ^^ I have get the motor car $$
-^^   I want play with them please $$
+^^ I get I want play with them please $$
 ^^ Anna say okay $$
 ^^ what these $$
 ^^ ring $$
@@ -1507,7 +1551,7 @@
 ^^ not $$
 ^^ no $$
 ^^ what be that noise $$
-^^  this $$
+^^ xxx this $$
 ^^ open this $$
 ^^ not get a top on it $$
 ^^ these $$
@@ -1515,13 +1559,13 @@
 ^^ there be not one here $$
 ^^ be that a pear $$
 ^^ I like that $$
-^^   I do not like that $$
+^^ I like I do not like that $$
 ^^ Daddy do like it $$
 ^^ that be a pear $$
-^^ I  one $$
+^^ I xxx one $$
 ^^ no $$
 ^^ you say okay $$
-^^ I do not  $$
+^^ I do not xxx $$
 ^^ no $$
 ^^ I like those $$
 ^^ I want more orange juice $$
@@ -1532,18 +1576,18 @@
 ^^ squash $$
 ^^ what that neenaw do there $$
 ^^ it be park on there $$
-^^  neenaw $$
+^^ neenaw neenaw $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ that be my shop $$
 ^^ no no $$
-^^   I play hide seek again $$
+^^ I hafta I play hide seek again $$
 ^^ Annie not go $$
 ^^ Annie like me $$
 ^^ Annie $$
 ^^ Annie $$
 ^^ Annie $$
-^^  come in $$
+^^ xxx come in $$
 ^^ I come in Mummy bed $$
 ^^ Mummy not there $$
 ^^ yeah $$
@@ -1561,10 +1605,10 @@
 ^^ want play with my shop $$
 ^^ three pound $$
 ^^ three pound $$
-^^   I like that $$
+^^ I like I like that $$
 ^^ I like that $$
 ^^ I like that $$
-^^   I keep that top $$
+^^ put that I keep that top $$
 ^^ lollipop $$
 ^^ no $$
 ^^ that be ten pound $$
@@ -1576,7 +1620,7 @@
 ^^ no $$
 ^^ I like that $$
 ^^ I like those $$
-^^  I like those $$
+^^ I I like those $$
 ^^ I want some those $$
 ^^ I take all this $$
 ^^ I want that egg $$
@@ -1587,9 +1631,9 @@
 ^^ there no bean in there $$
 ^^ I want that $$
 ^^ that be too big to eat $$
-^^   these Annie toy $$
+^^ these these these Annie toy $$
 ^^ yeah $$
-^^   all Anna toy $$
+^^ these Anna's all Anna toy $$
 ^^ that be my brick $$
 ^^ I put it in panda car $$
 ^^ please $$
@@ -1599,5 +1643,6 @@
 ^^ it be mine be $$
 ^^ that be Anna $$
 ^^ Anna $$
-^^ back in this  $$
+^^ xxx $$
+^^ back in this xxx $$
 ^^ the monkey want play $$

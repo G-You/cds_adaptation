@@ -7,7 +7,7 @@
 ^^ now $$
 ^^ do not $$
 ^^ no $$
-^^  another boat $$
+^^ xxx another boat $$
 ^^ wow Mummy $$
 ^^ that be interesting $$
 ^^ I put that on top $$
@@ -27,22 +27,24 @@
 ^^ get some of these $$
 ^^ get some of these $$
 ^^ roll it up $$
-^^ make stuff like  $$
-^^  it do it $$
+^^ make stuff like xxx $$
+^^ xxx it do it $$
 ^^ do it Mummy $$
-^^ do this  $$
+^^ do this xxx $$
 ^^ it be some white $$
-^^   squash $$
+^^ squash squash squash $$
 ^^ I want to $$
 ^^ I get a little bit more pink $$
+^^ xxx $$
 ^^ there be some $$
 ^^ now I go to make one in a wiggle worm special wiggle worm $$
 ^^ no $$
 ^^ yeah $$
 ^^ no $$
-^^  this $$
+^^ xxx this $$
 ^^ what happen $$
-^^  fall out $$
+^^ xxx fall out $$
+^^ xxx $$
 ^^ now put some in here now $$
 ^^ no more white bit $$
 ^^ oh wow $$
@@ -53,7 +55,8 @@
 ^^ press it down $$
 ^^ can not get it off $$
 ^^ hey $$
-^^ let us  them up $$
+^^ xxx $$
+^^ let us xxx them up $$
 ^^ let us make some $$
 ^^ I know $$
 ^^ these be good $$
@@ -71,12 +74,13 @@
 ^^ that be a bit of worm $$
 ^^ wiggle worm $$
 ^^ not tangle $$
+^^ xxx $$
 ^^ clipclop $$
 ^^ put some in there $$
 ^^ and there $$
 ^^ and there $$
 ^^ here $$
-^^ want to get  some of this $$
+^^ want to get some some of this $$
 ^^ a little bit more $$
 ^^ yeah $$
 ^^ oh $$
@@ -94,13 +98,13 @@
 ^^ no $$
 ^^ no $$
 ^^ go go go go $$
-^^  no $$
+^^ no no $$
 ^^ no $$
 ^^ want some more $$
 ^^ I can make shape worm $$
 ^^ I make a flower shape $$
 ^^ this one $$
-^^  the flower $$
+^^ xxx the flower $$
 ^^ oh no $$
 ^^ that go to get a flower $$
 ^^ look $$
@@ -108,6 +112,7 @@
 ^^ no $$
 ^^ can find some more $$
 ^^ I can find some $$
+^^ a $$
 ^^ my make one $$
 ^^ course you can $$
 ^^ it be get into the flower $$
@@ -116,8 +121,8 @@
 ^^ that be a fun flower $$
 ^^ squash it up $$
 ^^ let us all make a star $$
-^^  make a star $$
-^^  like make a star $$
+^^ xxx make a star $$
+^^ xxx like make a star $$
 ^^ I have a good thought $$
 ^^ I need to put this there $$
 ^^ put this there $$
@@ -134,7 +139,7 @@
 ^^ Mummy $$
 ^^ oh no $$
 ^^ roll yours then I can make a car $$
-^^  car $$
+^^ xxx car $$
 ^^ I make stuff $$
 ^^ Daddy $$
 ^^ Daddy $$
@@ -146,7 +151,7 @@
 ^^ ugh $$
 ^^ get it off $$
 ^^ sit on $$
-^^ just put  $$
+^^ just put xxx $$
 ^^ I know $$
 ^^ can make a $$
 ^^ just get these one $$
@@ -175,20 +180,21 @@
 ^^ Mummy $$
 ^^ get some stuff here for you $$
 ^^ some stuff for you $$
-^^  one $$
+^^ xxx one $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ they like horse tail $$
 ^^ I take them $$
 ^^ clipclop $$
 ^^ he be call horse horse $$
-^^   horse $$
+^^ horsie horsie horse $$
 ^^ no $$
 ^^ I make some more $$
 ^^ I get some more $$
 ^^ some more $$
-^^  squash worm $$
-^^ and I go to help  these in $$
+^^ squash squash worm $$
+^^ and I go to help xxx these in $$
 ^^ I go to do it $$
 ^^ yeah $$
 ^^ maybe go right up in the air $$
@@ -197,18 +203,18 @@
 ^^ catch them Mummy $$
 ^^ catch them $$
 ^^ thank_you $$
-^^   squash $$
+^^ squash squash squash $$
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ take those worm $$
-^^  go $$
+^^ xxx go $$
 ^^ Mummy $$
 ^^ I just miss it $$
 ^^ just miss $$
 ^^ thank_you $$
 ^^ those be long worm $$
 ^^ and look $$
-^^ this be  and this be purple $$
+^^ this be xxx and this be purple $$
 ^^ yeah $$
 ^^ a change $$
 ^^ I put all these into there $$
@@ -222,7 +228,7 @@
 ^^ it be hard $$
 ^^ put them on my hand $$
 ^^ oh some drop on the floor $$
-^^   not be naughty $$
+^^ not being not be naughty $$
 ^^ get some of this $$
 ^^ put $$
 ^^ yeah $$
@@ -232,21 +238,24 @@
 ^^ break it $$
 ^^ roll out and some cut $$
 ^^ thank_you $$
-^^ I just  when I roll $$
-^^  shape $$
+^^ I just xxx when I roll $$
+^^ xxx shape $$
 ^^ watch $$
+^^ xxx $$
 ^^ hippo $$
 ^^ that be nice $$
 ^^ let us make another one $$
 ^^ let us make two $$
 ^^ that be very good stuff $$
+^^ xxx $$
 ^^ I go to cut out another hippo $$
 ^^ no $$
 ^^ do not take it apart $$
 ^^ stick stick stick stick stick stick $$
 ^^ have to get a prod stick to get it out $$
-^^    I can see it $$
+^^ I can see I can see it $$
 ^^ it be here $$
+^^ xxx $$
 ^^ be the hippo go to live $$
 ^^ these one $$
 ^^ these one $$
@@ -254,7 +263,7 @@
 ^^ over here $$
 ^^ it a lion $$
 ^^ I go grr at me $$
-^^   and they maybe bite $$
+^^ and they and they maybe bite $$
 ^^ I roll that out $$
 ^^ squash that bit $$
 ^^ squash this $$
@@ -285,12 +294,15 @@
 ^^ oh no $$
 ^^ I go to get you $$
 ^^ can get up now $$
+^^ xxx $$
 ^^ you go to fall $$
 ^^ go to $$
 ^^ yeah $$
 ^^ yes please $$
 ^^ yes please $$
 ^^ you can not get up $$
+^^ xxx $$
+^^ xxx $$
 ^^ get up $$
 ^^ get up $$
 ^^ get up with me lie on my arm $$
@@ -298,13 +310,13 @@
 ^^ please $$
 ^^ please $$
 ^^ please fall over $$
-^^   that be Daddy birth $$
+^^ now Daddy's that be Daddy birth $$
 ^^ no $$
 ^^ I just give Daddy this birth cake $$
 ^^ these one $$
 ^^ keep it off the lion leg $$
 ^^ yeah $$
-^^ I  $$
+^^ I xxx $$
 ^^ roll all that out $$
 ^^ I put it all the way round the lion $$
 ^^ and I do all of this round him $$
@@ -324,12 +336,12 @@
 ^^ it be not do anything here $$
 ^^ never mind $$
 ^^ no $$
-^^  no $$
+^^ no no $$
 ^^ just put it in like that $$
 ^^ I bash it $$
-^^  bang it $$
+^^ xxx bang it $$
 ^^ you can not hear it $$
-^^  slosh $$
+^^ slosh slosh $$
 ^^ you can not hear it $$
 ^^ a little bit $$
 ^^ Daddy $$
@@ -337,10 +349,11 @@
 ^^ hey $$
 ^^ let us put it here $$
 ^^ and he be get a elephant $$
+^^ xxx $$
 ^^ that be not nice $$
 ^^ no $$
 ^^ there $$
-^^   bang $$
+^^ bang bang bang $$
 ^^ Mummy $$
 ^^ a lady $$
 ^^ little lady $$
@@ -357,12 +370,12 @@
 ^^ only one $$
 ^^ now I know $$
 ^^ let us make a animal on there $$
-^^ where be  $$
+^^ where be xxx $$
 ^^ I put this too flat $$
 ^^ have to bump it up $$
 ^^ me $$
 ^^ please fall over $$
-^^   please fall over $$
+^^ please please please fall over $$
 ^^ it be go to $$
 ^^ push you $$
 ^^ no $$
@@ -384,8 +397,9 @@
 ^^ see what animal $$
 ^^ yeah $$
 ^^ need poke $$
+^^ xxx $$
 ^^ Mummy $$
-^^      if I squash this up and flatten it up with a tea set then I make another new birth cake $$
+^^ if I squash this up if I squash this up and flatten it up with a tea set then I make another new birth cake $$
 ^^ yeah $$
 ^^ put that there $$
 ^^ put that there $$
@@ -393,11 +407,14 @@
 ^^ make another birth cake $$
 ^^ and get it into the animal cake $$
 ^^ it be make another happy_birthday $$
+^^ xxx $$
 ^^ look $$
+^^ xxx $$
 ^^ I squash this up $$
 ^^ just do it $$
 ^^ Mummy bash it with me $$
 ^^ then I need it to cook for animal dinner $$
+^^ xxx $$
 ^^ it be just here $$
 ^^ it animal food $$
 ^^ I want some more animal food $$
@@ -416,7 +433,7 @@
 ^^ will not will not will not $$
 ^^ no $$
 ^^ no $$
-^^  no $$
+^^ no no $$
 ^^ do not $$
 ^^ just go to stand on my leg $$
 ^^ I can sit on $$
@@ -428,7 +445,7 @@
 ^^ I can not $$
 ^^ that be my dinner $$
 ^^ I have Lancaster $$
-^^  Lancaster $$
+^^ xxx Lancaster $$
 ^^ I get another one for this $$
 ^^ you like it $$
 ^^ yeah $$
@@ -438,12 +455,14 @@
 ^^ excuse me pooy $$
 ^^ I over here $$
 ^^ I over here $$
-^^  in $$
+^^ xxx in $$
+^^ xxx $$
 ^^ ugh $$
 ^^ yeah $$
 ^^ do not know where he be $$
 ^^ do not know $$
-^^  hey $$
+^^ xxx $$
+^^ hey hey $$
 ^^ I get one $$
 ^^ what be that $$
 ^^ that be the white stuff $$
@@ -451,7 +470,7 @@
 ^^ Daddy do not want his birth $$
 ^^ can eat his birth $$
 ^^ he can eat his birth $$
-^^  one two $$
+^^ um one two $$
 ^^ I maybe have three candle on my birth $$
 ^^ bucket of water $$
 ^^ bucket of water $$
@@ -464,14 +483,15 @@
 ^^ yeah $$
 ^^ break down Land_Rover $$
 ^^ yeah $$
+^^ xxx $$
 ^^ maybe on here $$
 ^^ no $$
 ^^ will not will not will not $$
 ^^ it maybe go on the top $$
-^^   and the break down wheel go into there $$
+^^ and the and the break down wheel go into there $$
 ^^ no $$
 ^^ no $$
-^^            car maybe see a break down lady $$
+^^ a broken down lady maybe a broken down lady maybe see car maybe see a break down lady $$
 ^^ somewhere $$
 ^^ oh there be a race car $$
 ^^ brumm $$
@@ -480,7 +500,7 @@
 ^^ that be ice lady $$
 ^^ the car have a ice $$
 ^^ lady be get a ice on her with a cherry on top $$
-^^ ice with   some nice bit of ice and a cherry on top $$
+^^ ice with a some some nice bit of ice and a cherry on top $$
 ^^ yes $$
 ^^ he be drive $$
 ^^ just put a hand on the drive $$
@@ -501,7 +521,7 @@
 ^^ stick on garage $$
 ^^ fall over $$
 ^^ no $$
-^^  this $$
+^^ this this $$
 ^^ no $$
 ^^ it just walk $$
 ^^ it want to lie down $$
@@ -526,12 +546,12 @@
 ^^ no $$
 ^^ no $$
 ^^ a baby lion maybe fit on here $$
-^^  no $$
+^^ no no $$
 ^^ that be for iron thing $$
 ^^ Mummy $$
 ^^ no $$
 ^^ no $$
-^^ I just  them out $$
+^^ I just xxx them out $$
 ^^ no $$
 ^^ horse next to the bus drive quiet $$
 ^^ no $$
@@ -539,23 +559,23 @@
 ^^ a man go on that $$
 ^^ a man be go on that side next to the lady and the lady be go on this side $$
 ^^ no $$
-^^  three do not fit $$
+^^ three three do not fit $$
 ^^ no $$
 ^^ it do not fit $$
 ^^ ahhah $$
 ^^ it do not eat ice $$
 ^^ there be no ice $$
-^^  next to the man $$
-^^ and   two man $$
+^^ xxx next to the man $$
+^^ and that men two man $$
 ^^ that one $$
 ^^ come come come come come $$
 ^^ I want one $$
 ^^ no $$
-^^ I  the man and the lady $$
+^^ I xxx the man and the lady $$
 ^^ well I want them $$
 ^^ oh there be the rotor $$
 ^^ I have it $$
-^^  that propel maybe $$
+^^ that that propel maybe $$
 ^^ no $$
 ^^ that man be check the propel spin round nice $$
 ^^ no $$
@@ -567,7 +587,7 @@
 ^^ no $$
 ^^ that man be check the rotor spin nice $$
 ^^ nobody $$
-^^    now he be go to just check the rotor $$
+^^ he's just checking now he be go to just check the rotor $$
 ^^ it be nice to spin them round $$
 ^^ that $$
 ^^ no $$
@@ -598,17 +618,18 @@
 ^^ no $$
 ^^ just there $$
 ^^ no $$
-^^     just by Thomas $$
+^^ just there by Henry just by Thomas $$
 ^^ no $$
 ^^ turn it upside down then it turn $$
 ^^ no Mummy $$
 ^^ just sit by Gordon $$
 ^^ now it go in here $$
 ^^ no $$
-^^     it be go into my hand now $$
+^^ it's gone into my it be go into my hand now $$
 ^^ pass me the key $$
 ^^ thank_you $$
 ^^ if I turn it like that that make it ease $$
+^^ xxx $$
 ^^ no $$
 ^^ just move out_of the way $$
 ^^ just move these $$
@@ -626,7 +647,7 @@
 ^^ that be a guard $$
 ^^ yeah $$
 ^^ this one in another hand $$
-^^ there be a  $$
+^^ there be a xxx $$
 ^^ Mummy $$
 ^^ hold another hand $$
 ^^ I want a drink in another hand $$
@@ -645,7 +666,7 @@
 ^^ I bump it into my knee $$
 ^^ Mummy $$
 ^^ this one break down car $$
-^^  and there be a truck to tow it $$
+^^ and and there be a truck to tow it $$
 ^^ that fit in that little hole for breakdown $$
 ^^ and this car be crash $$
 ^^ it do not want to go on a breakdown $$
@@ -656,6 +677,7 @@
 ^^ that be a lady $$
 ^^ yes $$
 ^^ no $$
+^^ xxx $$
 ^^ there something come out $$
 ^^ it be a police $$
 ^^ police and Thomas badge $$
@@ -664,6 +686,7 @@
 ^^ and my Thomas badge $$
 ^^ where be my badge bag $$
 ^^ where be it from off a badge bag $$
+^^ a $$
 ^^ I can not find it $$
 ^^ might be scare $$
 ^^ I go to raspberry creature $$
@@ -674,7 +697,7 @@
 ^^ hop $$
 ^^ Thomas badge back $$
 ^^ I do not maybe pick one my foot $$
-^^  on top $$
+^^ xxx on top $$
 ^^ let me on top $$
 ^^ please $$
 ^^ sorry $$
@@ -682,7 +705,7 @@
 ^^ yeah $$
 ^^ for my birth $$
 ^^ just put it there $$
-^^  just there $$
+^^ just just there $$
 ^^ fun $$
 ^^ two and a half $$
 ^^ maybe have four or three $$
@@ -720,8 +743,8 @@
 ^^ one one two three four five $$
 ^^ that vacuum be Daddy $$
 ^^ Daddy study $$
-^^ a  $$
-^^ sit on  $$
+^^ a xxx $$
+^^ sit on xxx $$
 ^^ yeah $$
 ^^ some nana $$
 ^^ some of these $$
@@ -744,7 +767,7 @@
 ^^ where be this lid to put one on $$
 ^^ it be a lid for that $$
 ^^ never mind $$
-^^ I  $$
+^^ I xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ have that $$
@@ -788,6 +811,8 @@
 ^^ it be some more shop $$
 ^^ yeah $$
 ^^ what be in there $$
+^^ xxx $$
+^^ xxx $$
 ^^ red $$
 ^^ and that not syrup $$
 ^^ after my shop I maybe play with those $$
@@ -798,7 +823,7 @@
 ^^ a bare doll $$
 ^^ here be bit of doll clothes $$
 ^^ here be doll be clothes $$
-^^  here $$
+^^ here's here $$
 ^^ Mummy $$
 ^^ let us put this on her $$
 ^^ I put it on her head $$
@@ -806,15 +831,17 @@
 ^^ look at this train $$
 ^^ look at that train $$
 ^^ look at other coach $$
-^^ now  not get bit on it $$
+^^ now got not get bit on it $$
 ^^ it have not get that man $$
 ^^ and not get a cab $$
 ^^ I can not $$
 ^^ I can not Mummy $$
+^^ xxx $$
 ^^ that be a trailer for a train $$
 ^^ that be a trailer for a train $$
 ^^ and where the cab $$
 ^^ I can not see a cab $$
+^^ a $$
 ^^ there be a cab $$
 ^^ there we be $$
 ^^ it be get much steam now $$
@@ -831,6 +858,7 @@
 ^^ one leg in that one $$
 ^^ this leg go in here $$
 ^^ no not $$
+^^ a $$
 ^^ Mummy $$
 ^^ Anna be get a giraffe $$
 ^^ two giraffe $$
@@ -839,7 +867,7 @@
 ^^ that could not fit on $$
 ^^ that can go on $$
 ^^ no $$
-^^ I just go  $$
+^^ I just go xxx $$
 ^^ I go play in a minute $$
 ^^ where be some more man $$
 ^^ Mummy $$
@@ -847,7 +875,7 @@
 ^^ I can see another man $$
 ^^ where be another man $$
 ^^ I found $$
-^^   and where be that man go to go $$
+^^ where's that and where be that man go to go $$
 ^^ no $$
 ^^ will not will not will not $$
 ^^ that maybe go on $$
@@ -860,7 +888,7 @@
 ^^ they all go now on the train $$
 ^^ choochoo $$
 ^^ the person come off a train $$
-^^  and here be her shorts $$
+^^ here and here be her shorts $$
 ^^ I good put her shorts on $$
 ^^ good put them on $$
 ^^ want her little dress $$
@@ -884,6 +912,7 @@
 ^^ it be a right foot $$
 ^^ this one $$
 ^^ that one $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ that bird eat my nuts $$
 ^^ some more nut $$
@@ -907,7 +936,7 @@
 ^^ that train be go now $$
 ^^ choochoo $$
 ^^ if we put his leg up $$
-^^ and  $$
+^^ and xxx $$
 ^^ there $$
 ^^ he can stand on here $$
 ^^ if I put his leg like this and put his arm like this $$
@@ -918,14 +947,14 @@
 ^^ no $$
 ^^ no thanks $$
 ^^ I just wipe it off on my hand $$
-^^   bump $$
+^^ bump bump bump $$
 ^^ no $$
 ^^ just do not $$
 ^^ it be go Mummy $$
-^^  bump $$
-^^ a truck be bump  behind those $$
+^^ bump bump $$
+^^ a truck be bump behind behind those $$
 ^^ truck be bump behind one when it go $$
-^^  stop $$
+^^ stop stop $$
 ^^ oh $$
 ^^ train be park $$
 ^^ and his cab be open $$
@@ -941,7 +970,7 @@
 ^^ and the cab have to close when it be rain $$
 ^^ yesterday it do not rain $$
 ^^ yeah $$
-^^  bump $$
+^^ bump bump $$
 ^^ and it pull very hard $$
 ^^ this be too heavy carriage $$
 ^^ no $$
@@ -951,7 +980,7 @@
 ^^ you have to $$
 ^^ can not go $$
 ^^ you have to bump into my couple $$
-^^   I be stick $$
+^^ I are I be stick $$
 ^^ yeah $$
 ^^ I stick $$
 ^^ push me $$

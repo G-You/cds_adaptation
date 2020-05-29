@@ -34,6 +34,7 @@
 ^^ yeah $$
 ^^ chimney $$
 ^^ chimney $$
+^^ um $$
 ^^ yeah $$
 ^^ door $$
 ^^ door $$
@@ -50,6 +51,7 @@
 ^^ chimney $$
 ^^ chimney $$
 ^^ yeah $$
+^^ xxx $$
 ^^ more window $$
 ^^ door $$
 ^^ no $$
@@ -288,7 +290,7 @@
 ^^ Liz in $$
 ^^ in $$
 ^^ in train $$
-^^ Liz   in pram $$
+^^ Liz in in in pram $$
 ^^ in pram $$
 ^^ oh $$
 ^^ oh $$
@@ -352,7 +354,7 @@
 ^^ play with toy $$
 ^^ yeah $$
 ^^ take lid off $$
-^^ here  $$
+^^ here xxx $$
 ^^ hat $$
 ^^ my hat $$
 ^^ slipper $$
@@ -410,6 +412,9 @@
 ^^ up $$
 ^^ turn round $$
 ^^ too hard $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ chimney $$
 ^^ chimney $$
 ^^ chimney $$
@@ -461,7 +466,7 @@
 ^^ here be some more $$
 ^^ here some more $$
 ^^ toy $$
-^^ here be some  more blue one $$
+^^ here be some more more blue one $$
 ^^ Liz in there $$
 ^^ up there $$
 ^^ Liz off chimney $$
@@ -477,7 +482,7 @@
 ^^ there go $$
 ^^ elephant on table $$
 ^^ here you go $$
-^^ want poo  pot $$
+^^ want poo po pot $$
 ^^ go pot $$
 ^^ other room $$
 ^^ there $$
@@ -558,7 +563,7 @@
 ^^ in these $$
 ^^ in basket $$
 ^^ in basket $$
-^^  in the basket $$
+^^ in in the basket $$
 ^^ off $$
 ^^ what you get $$
 ^^ off $$
@@ -652,7 +657,7 @@
 ^^ yeah $$
 ^^ doll $$
 ^^ straight to bed $$
-^^  doll $$
+^^ a doll $$
 ^^ straight to bed $$
 ^^ have a doll $$
 ^^ have a doll sick $$
@@ -694,7 +699,7 @@
 ^^ octopus $$
 ^^ what be in there $$
 ^^ owl $$
-^^ more  owl $$
+^^ more xxx owl $$
 ^^ yeah $$
 ^^ break it $$
 ^^ it break it $$
@@ -780,7 +785,7 @@
 ^^ bin $$
 ^^ pour out there $$
 ^^ where Daddy go $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ person in kitchen $$
 ^^ this $$
 ^^ tin $$
@@ -790,6 +795,7 @@
 ^^ drop it $$
 ^^ this cow $$
 ^^ read a book $$
+^^ xxx $$
 ^^ Mummy get out $$
 ^^ this $$
 ^^ yes Mummy please $$
@@ -889,7 +895,7 @@
 ^^ baa sheep $$
 ^^ oh go $$
 ^^ whoops $$
-^^ get these  all out $$
+^^ get these all all out $$
 ^^ these $$
 ^^ these $$
 ^^ out $$
@@ -925,12 +931,12 @@
 ^^ put it on hat $$
 ^^ yeah $$
 ^^ yeah $$
-^^ one  in there $$
+^^ one xxx in there $$
 ^^ push hard $$
 ^^ red one $$
 ^^ toy out $$
 ^^ brick out $$
-^^ two  brick $$
+^^ two brick brick $$
 ^^ two brick $$
 ^^ up there $$
 ^^ two $$
@@ -1037,10 +1043,10 @@
 ^^ here be the tunnel $$
 ^^ person build it in there $$
 ^^ person $$
-^^ go  in tunnel person $$
+^^ go in in tunnel person $$
 ^^ tunnel person $$
 ^^ child $$
-^^ go  in there $$
+^^ go in in there $$
 ^^ oh $$
 ^^ child $$
 ^^ go in $$
@@ -1053,14 +1059,14 @@
 ^^ want fence $$
 ^^ another fence $$
 ^^ fence $$
-^^  on fence $$
+^^ xxx on fence $$
 ^^ here be one $$
 ^^ there be one $$
 ^^ turn it tellie on $$
 ^^ want tellie on $$
 ^^ two ladder $$
 ^^ here please $$
-^^ one  up there $$
+^^ one up up there $$
 ^^ one up $$
 ^^ oh dear $$
 ^^ oh $$
@@ -1099,7 +1105,7 @@
 ^^ yeah $$
 ^^ Daddy suppose $$
 ^^ no $$
-^^  do not know $$
+^^ doesn't do not know $$
 ^^ Liz do not know $$
 ^^ Liz $$
 ^^ Mummy $$
@@ -1153,7 +1159,7 @@
 ^^ not there $$
 ^^ house $$
 ^^ no window $$
-^^ build  in there $$
+^^ build in in there $$
 ^^ Mummy $$
 ^^ Liz stand $$
 ^^ stand $$
@@ -1168,7 +1174,7 @@
 ^^ stay in there $$
 ^^ Liz in box $$
 ^^ in boat $$
-^^ Liz  in the water $$
+^^ Liz in in the water $$
 ^^ bus $$
 ^^ van $$
 ^^ make a van $$
@@ -1210,7 +1216,7 @@
 ^^ Toby $$
 ^^ what happen $$
 ^^ what happen $$
-^^  what happen $$
+^^ what what happen $$
 ^^ oh tum button $$
 ^^ tum button $$
 ^^ press $$
@@ -1237,7 +1243,7 @@
 ^^ in box $$
 ^^ yeah no $$
 ^^ house $$
-^^ Dad  in there $$
+^^ Dad in in there $$
 ^^ knock on the door $$
 ^^ be $$
 ^^ post $$
@@ -1251,8 +1257,9 @@
 ^^ look Liz $$
 ^^ on the slide $$
 ^^ where Dad $$
+^^ xxx $$
 ^^ on the frog $$
-^^   on seesaw $$
+^^ on the on seesaw $$
 ^^ and Spot $$
 ^^ where crocodile $$
 ^^ there bird $$
@@ -1265,6 +1272,7 @@
 ^^ drink of milk $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ George $$
 ^^ yeah $$
 ^^ Thomas $$
@@ -1308,7 +1316,7 @@
 ^^ for you $$
 ^^ in there $$
 ^^ in farm $$
-^^   in the chimney $$
+^^ in it in the chimney $$
 ^^ in chimney $$
 ^^ Anna open this $$
 ^^ farm $$
@@ -1334,7 +1342,7 @@
 ^^ no $$
 ^^ house $$
 ^^ please $$
-^^  down there $$
+^^ down down there $$
 ^^ man $$
 ^^ penguin on brick $$
 ^^ Liz on table $$
@@ -1436,6 +1444,7 @@
 ^^ out in the sun $$
 ^^ no $$
 ^^ no $$
+^^ a $$
 ^^ lock $$
 ^^ go $$
 ^^ go $$
@@ -1492,7 +1501,7 @@
 ^^ no $$
 ^^ no Mum $$
 ^^ blue $$
-^^ red  on there $$
+^^ red on on there $$
 ^^ yeah $$
 ^^ all right $$
 ^^ yeah $$
@@ -1532,7 +1541,7 @@
 ^^ blue brick $$
 ^^ that red $$
 ^^ brick $$
-^^   Mummy do it $$
+^^ I do Mummy do it $$
 ^^ Mummy $$
 ^^ put away $$
 ^^ put away $$
@@ -1596,7 +1605,7 @@
 ^^ this $$
 ^^ no $$
 ^^ tea Anna $$
-^^  tea Mummy $$
+^^ tea tea Mummy $$
 ^^ Mummy $$
 ^^ Anna $$
 ^^ yeah $$
@@ -1625,7 +1634,7 @@
 ^^ one you $$
 ^^ orange Mum $$
 ^^ for you $$
-^^  and Liz one $$
+^^ and and Liz one $$
 ^^ yellow $$
 ^^ Mummy $$
 ^^ red $$

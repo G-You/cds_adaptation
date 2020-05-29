@@ -1,4 +1,4 @@
-import csv, os, random, argparse
+import csv, os, random, argparse, fnmatch
 import networkx as nx
 from networkx import betweenness_centrality, diameter
 import warnings
@@ -31,7 +31,7 @@ def get_centrality(graph, targets):
 	#return target_measures
 	return sum(target_measures)/len(target_measures)
 
-def get_degree(graph, targets):
+def get_degree(graph):
 	degrees = graph.degree()
 	target_degrees = []
 	'''
@@ -46,21 +46,73 @@ def get_degree(graph, targets):
 		return 0.0
 
 
+def get_filenames(out_root):
+	fileids = []
+	for root, dirnames, filenames in os.walk(out_root):
+		for filename in fnmatch.filter(filenames, '*.csv'):
+			fileids.append(os.path.join(root, filename))
+	return (sorted(fileids))
+
+def get_measure(file_list):
+
+	measures = {}
+
+	for file in file_list:
+
+		filename = file.split("/")[-1]
+		edges = []
+
+		with open(file, "r") as f:
+			csvreader = csv.reader(f, delimiter="\t")
+			for line in csvreader:
+				edges += [(line[0],line[i]) for i in range(1, len(line))]
+
+		G = form_graph(edges)
+		G = clean_nodes(G)
+
+		measures[filename] = get_degree(G)
+
+	return measures
+
+
+
 parser = argparse.ArgumentParser()
-parser.add_argument("--graph", default="", type=str, help="speech register")
+parser.add_argument("--reg", default="", type=str, help="speech register")
 args = parser.parse_args()
 
-graph_file = open(args.graph, "r")
-csvreader = csv.reader(graph_file, delimiter="\t")
-caus_list = ['begin', 'boil', 'break', 'burn', 'change', 'close', 'destroy', 'dry', 'fill', 'finish', 'freeze', 'gather', 'kill', 'lose', 'melt', 'open', 'raise', 'roll', 'sink', 'spread', 'stop', 'teach', 'turn']
+caus_files = get_filenames("merged-%s/results/" % args.reg)
+random_files = get_filenames("merged-%s/random/" % args.reg)
+
+caus_measures = get_measure(caus_files)
+random_measures = get_measure(random_files)
+
+
+# write results
+with open("%s_results.csv" % args.reg,"w+") as results_file:
+	results_csvwriter = csv.writer(results_file, delimiter="\t")
+	results_csvwriter.writerow(["name","age","causative","random"])
+	for session in caus_measures:
+		results_csvwriter.writerow([session.split("-")[0],
+			session.split("-")[1][:2],
+			caus_measures[session],
+			random_measures[session]])
+
+		
+
+
+
+
+#caus_list = ['begin', 'boil', 'break', 'burn', 'change', 'close', 'destroy', 'dry', 'fill', 'finish', 'freeze', 'gather', 'kill', 'lose', 'melt', 'open', 'raise', 'roll', 'sink', 'spread', 'stop', 'teach', 'turn']
+'''
 edges = []
 
-for line in csvreader:
+for line in caus_csvreader:
 	edges += [(line[0],line[i]) for i in range(1, len(line))]
 
 G = form_graph(edges)
 G = clean_nodes(G)
-
+'''
+'''
 # plot
 positions = nx.spring_layout(G)
 caus_nodes = []
@@ -84,8 +136,8 @@ nx.draw_networkx_nodes(G,positions,
                        label="neighbors")
 #plt.legend(scatterpoints = 1)
 plt.show()
+'''
+#centrality = get_centrality(G, caus_list)
 
-centrality = get_centrality(G, caus_list)
-
-print(args.graph, get_degree(G, caus_list))
+#print(args.reg, get_degree(G, caus_list))
 #print(args.graph, centrality)

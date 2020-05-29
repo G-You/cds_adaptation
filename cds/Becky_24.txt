@@ -7,12 +7,13 @@
 ^^ pardon $$
 ^^ shall we put that away there $$
 ^^ yeah $$
-^^ let us get  $$
+^^ let us get xxx $$
 ^^ pardon $$
 ^^ a step $$
 ^^ oh $$
 ^^ there be a step there $$
 ^^ right $$
+^^ www $$
 ^^ go up the step $$
 ^^ maybe he could go up here as_well $$
 ^^ what be this Becky $$
@@ -24,7 +25,8 @@
 ^^ will not that go round $$
 ^^ round and round $$
 ^^ whoops $$
-^^ shall you put  him on the other end then $$
+^^ xxx $$
+^^ shall you put um him on the other end then $$
 ^^ do you think they be enjoy it $$
 ^^ shall we put the two little man on as_well $$
 ^^ where be the other little man go Becky $$
@@ -40,11 +42,12 @@
 ^^ who shall we put in the train $$
 ^^ hm $$
 ^^ do you want to put him in $$
-^^   who be this $$
+^^ who is who be this $$
 ^^ seal $$
 ^^ well he do not fit in very well $$
 ^^ sit him like this $$
 ^^ yeah $$
+^^ www $$
 ^^ why do not you sing something else for us $$
 ^^ can you sing $$
 ^^ happy_birthday $$
@@ -52,7 +55,7 @@
 ^^ and what be this here look $$
 ^^ and what $$
 ^^ you want to push it $$
-^^ what do we  put in it $$
+^^ what do we put put in it $$
 ^^ the fish $$
 ^^ fish fish $$
 ^^ and shall we have a little man push it $$
@@ -71,11 +74,12 @@
 ^^ you want him in there $$
 ^^ all right $$
 ^^ there we be look $$
+^^ www $$
 ^^ there you be $$
 ^^ how do the train go $$
 ^^ go go go go go go go go go $$
 ^^ you have get your leg in the way $$
-^^ go  $$
+^^ go xxx $$
 ^^ push it along here $$
 ^^ how be he go $$
 ^^ what $$
@@ -96,7 +100,7 @@
 ^^ strange smell $$
 ^^ and what be the matter with Sukie Becky $$
 ^^ what be we do this morning $$
-^^ have he  put on his ear $$
+^^ have he xxx put on his ear $$
 ^^ he be get a sore ear $$
 ^^ Sukie $$
 ^^ there we be $$
@@ -104,6 +108,7 @@
 ^^ hm $$
 ^^ I do not think Sukie can get him $$
 ^^ pardon $$
+^^ www $$
 ^^ where be Sukie now Becky $$
 ^^ where be he $$
 ^^ be he under the table $$
@@ -111,10 +116,13 @@
 ^^ do you think he want his dinner $$
 ^^ do you $$
 ^^ do you think Mummy good go and give it to him $$
+^^ www $$
 ^^ Mummy go to give Sukie some dinner $$
+^^ a $$
 ^^ choochoo $$
 ^^ oh $$
 ^^ here you be Sukie $$
+^^ www $$
 ^^ it be hard $$
 ^^ what be hard $$
 ^^ oh I see $$
@@ -125,6 +133,7 @@
 ^^ it be go round where $$
 ^^ Pingu house $$
 ^^ it be here $$
+^^ xxx $$
 ^^ can you get him out $$
 ^^ can you get the penguin out $$
 ^^ go on $$
@@ -139,7 +148,9 @@
 ^^ but why $$
 ^^ be he very sad $$
 ^^ oh $$
+^^ www $$
 ^^ Pingu be cry $$
+^^ www $$
 ^^ and what be this $$
 ^^ a tree $$
 ^^ shall we put it on there $$
@@ -148,7 +159,7 @@
 ^^ do you like go on them with your friend $$
 ^^ do you $$
 ^^ the man $$
-^^  one of the man $$
+^^ xxx one of the man $$
 ^^ here be one man $$
 ^^ do you want to put him on $$
 ^^ okay $$
@@ -159,8 +170,10 @@
 ^^ I know she be yours $$
 ^^ be that the noise she make $$
 ^^ be that what she make $$
+^^ www $$
 ^^ do you want to comb her hair $$
 ^^ it be here Becky $$
+^^ www $$
 ^^ fall down $$
 ^^ what be you do now $$
 ^^ hm $$
@@ -178,7 +191,7 @@
 ^^ juice $$
 ^^ what $$
 ^^ for doll $$
-^^  bite high up $$
+^^ xxx bite high up $$
 ^^ shall you sit her in her chair and give her some dinner $$
 ^^ yeah $$
 ^^ go on then $$
@@ -198,6 +211,7 @@
 ^^ for doll or for Becky $$
 ^^ dinner for Becky $$
 ^^ that make a change $$
+^^ xxx $$
 ^^ okay $$
 ^^ where be your spoon $$
 ^^ where be Becky spoon $$
@@ -208,6 +222,9 @@
 ^^ what be he do Becky $$
 ^^ he be in $$
 ^^ he be out now $$
+^^ www $$
+^^ www $$
+^^ www $$
 ^^ yes $$
 ^^ we have lose the spoon $$
 ^^ this one she call her spoon $$
@@ -230,10 +247,11 @@
 ^^ hm $$
 ^^ be it nice $$
 ^^ yes $$
+^^ mm $$
 ^^ be that good $$
 ^^ oh $$
 ^^ thank_you $$
-^^  I be a bit far away $$
+^^ I I be a bit far away $$
 ^^ give doll some $$
 ^^ be that lady $$
 ^^ yeah $$
@@ -264,6 +282,7 @@
 ^^ they be a bit sharp $$
 ^^ be they $$
 ^^ poor Sukie_Cat $$
+^^ xxx $$
 ^^ Sukie want to go to sleep $$
 ^^ do you think it be night time for him $$
 ^^ you just say night_night to him $$
@@ -278,7 +297,7 @@
 ^^ that will do now $$
 ^^ that will do Becky $$
 ^^ otherwise you will disturb him $$
-^^ and   he be be out all night $$
+^^ and he hasn't he be be out all night $$
 ^^ he be get some sleep $$
 ^^ no $$
 ^^ do not stand on him $$
@@ -288,13 +307,14 @@
 ^^ you be a one be not you $$
 ^^ leave Sukie alone $$
 ^^ you can not $$
-^^   come and put some lid on these pot for me look $$
+^^ come and come and put some lid on these pot for me look $$
 ^^ here be your knife $$
 ^^ want to cut something up $$
 ^^ for me $$
 ^^ thank_you $$
 ^^ she be finish $$
 ^^ do she enjoy it $$
+^^ xxx $$
 ^^ be there one more $$
 ^^ put this on $$
 ^^ put that on there $$
@@ -309,15 +329,17 @@
 ^^ what $$
 ^^ here $$
 ^^ please $$
-^^  do not pick at it Becky $$
-^^  it be a bit sore $$
+^^ don't do not pick at it Becky $$
+^^ xxx it be a bit sore $$
 ^^ what be it $$
+^^ xxx $$
 ^^ thank_you $$
 ^^ pardon $$
 ^^ be it mash potato $$
 ^^ be that what it be $$
 ^^ hm $$
-^^ oh  thank_you $$
+^^ www $$
+^^ oh that's thank_you $$
 ^^ I be full now $$
 ^^ thank_you $$
 ^^ I think it be all_gone $$
@@ -368,6 +390,7 @@
 ^^ be that cake $$
 ^^ it be ice $$
 ^^ ice nice be not it $$
+^^ mm $$
 ^^ bun $$
 ^^ oh I will hold it then $$
 ^^ do you want some $$
@@ -410,15 +433,16 @@
 ^^ pardon $$
 ^^ what be you $$
 ^^ oh Becky $$
-^^ you be go to fall and I can not  $$
+^^ you be go to fall and I can not xxx $$
 ^^ right $$
 ^^ that will do I think $$
-^^  no $$
+^^ that'll no $$
 ^^ that will do because you be hurt Mummy $$
 ^^ right $$
 ^^ do you want to do one of these puzzle that you get out before $$
 ^^ Becky $$
 ^^ do you want to do one of these puzzle $$
+^^ www $$
 ^^ what be this one look $$
 ^^ ride back $$
 ^^ no $$
@@ -431,7 +455,7 @@
 ^^ that be a train $$
 ^^ a horse go neigh $$
 ^^ pardon $$
-^^ you can  have the horse $$
+^^ you can have have the horse $$
 ^^ have the man ride on the horse $$
 ^^ yeah $$
 ^^ shall we do that $$
@@ -443,28 +467,32 @@
 ^^ oh $$
 ^^ no $$
 ^^ no $$
-^^ leave that  $$
+^^ leave that xxx $$
 ^^ round and round $$
 ^^ the wheel on the bus go round and round $$
 ^^ whoops $$
 ^^ can you put the piece together $$
 ^^ what be this $$
 ^^ egg $$
+^^ www $$
 ^^ do you like egg $$
 ^^ do you $$
 ^^ I be not sure if you do like egg $$
 ^^ how do you know that be a pear $$
 ^^ what be this $$
+^^ www $$
 ^^ and these be grape be not they $$
 ^^ do you want to look at the Duplo $$
+^^ www $$
 ^^ oh $$
 ^^ who be this $$
 ^^ a elephant $$
-^^ these be like yours  but more different one $$
+^^ these be like yours xxx but more different one $$
 ^^ who be this $$
 ^^ who be this $$
 ^^ a hippo $$
 ^^ yeah $$
+^^ www $$
 ^^ how do the tiger go $$
 ^^ and who be this $$
 ^^ penguin $$
@@ -502,6 +530,7 @@
 ^^ you want to tip it up $$
 ^^ oh $$
 ^^ very noise $$
+^^ xxx $$
 ^^ very noise $$
 ^^ be that what you be $$
 ^^ I will not eat it like that $$
@@ -517,7 +546,7 @@
 ^^ pizza $$
 ^^ and some biscuit $$
 ^^ and what be this $$
-^^ it be food  for Sukie_Cat $$
+^^ it be food for for Sukie_Cat $$
 ^^ and more biscuit look $$
 ^^ pardon $$
 ^^ they be all_gone now be they $$
@@ -528,7 +557,9 @@
 ^^ what be it $$
 ^^ that be a pear $$
 ^^ but that be a orange $$
+^^ www $$
 ^^ that be a tomato look Becky $$
+^^ www $$
 ^^ do you like tomato $$
 ^^ mhm $$
 ^^ they be in a box the egg be $$
@@ -555,9 +586,11 @@
 ^^ hm $$
 ^^ there $$
 ^^ get some shoe somewhere $$
+^^ www $$
 ^^ you want that one on now $$
 ^^ but we have just put this on $$
 ^^ so you want this one off $$
+^^ xxx $$
 ^^ do you think that will look pretty $$
 ^^ do you $$
 ^^ can you tell me what color the dress be Becky $$
@@ -566,6 +599,7 @@
 ^^ no $$
 ^^ it be blue be not it the dress $$
 ^^ Becky $$
+^^ www $$
 ^^ there we be $$
 ^^ be you go somewhere $$
 ^^ be you go on your holiday $$
@@ -588,6 +622,7 @@
 ^^ that be it $$
 ^^ right $$
 ^^ there $$
+^^ www $$
 ^^ there $$
 ^^ there be a hat for doll behind you $$
 ^^ shall we put this hat on $$
@@ -624,7 +659,7 @@
 ^^ hm $$
 ^^ do you like that pear $$
 ^^ no $$
-^^   it be not a real pear $$
+^^ you're not it be not a real pear $$
 ^^ no $$
 ^^ do not put it in your mouth $$
 ^^ look at the monkey $$
@@ -654,7 +689,7 @@
 ^^ be she walk be she $$
 ^^ have you get enough room there $$
 ^^ where be you go $$
-^^   you be go shop $$
+^^ you're going you be go shop $$
 ^^ oh right $$
 ^^ be you go to come back now $$
 ^^ Becky $$
@@ -663,6 +698,7 @@
 ^^ more what $$
 ^^ you go shop $$
 ^^ you have buy a_lot_of thing $$
+^^ www $$
 ^^ be you go to tell me what you have buy $$
 ^^ you have buy what $$
 ^^ that be cat $$
@@ -728,7 +764,7 @@
 ^^ be not that clever $$
 ^^ and the whale go in $$
 ^^ yes $$
-^^ whale  gate $$
+^^ whale xxx gate $$
 ^^ here $$
 ^^ hello $$
 ^^ oh $$
@@ -752,8 +788,11 @@
 ^^ hello $$
 ^^ they be all in there be not they $$
 ^^ I do not think the giraffe can get in that way look $$
+^^ xxx $$
+^^ www $$
 ^^ eye $$
-^^ I do not know  what they belong to $$
+^^ I do not know what what they belong to $$
+^^ www $$
 ^^ let us put them up there $$
 ^^ yeah $$
 ^^ so many animal in here $$
@@ -764,8 +803,8 @@
 ^^ not from over there $$
 ^^ find them from here $$
 ^^ can you see any more $$
-^^  there be one $$
-^^  take him off $$
+^^ Tig there be one $$
+^^ take take him off $$
 ^^ put him in $$
 ^^ if there be room $$
 ^^ that be it $$
@@ -806,6 +845,7 @@
 ^^ let us put that in as_well $$
 ^^ hippo $$
 ^^ pardon $$
+^^ www $$
 ^^ they be stand up $$
 ^^ who be stand up $$
 ^^ who be stand up $$
@@ -814,6 +854,7 @@
 ^^ orange $$
 ^^ orange $$
 ^^ egg $$
+^^ www $$
 ^^ what do you want to do now $$
 ^^ do you want to put all the piece back in that box $$
 ^^ be that a good idea $$
@@ -831,7 +872,7 @@
 ^^ where be you go $$
 ^^ you be go where $$
 ^^ where be you go $$
-^^ let me move out the way and  $$
+^^ let me move out the way and xxx $$
 ^^ bye $$
 ^^ where be you Becky $$
 ^^ Becky $$
@@ -899,6 +940,7 @@
 ^^ can I take one of you $$
 ^^ smile $$
 ^^ go to do a big pose for me $$
+^^ www $$
 ^^ pardon $$
 ^^ oh turtle $$
 ^^ do you want to put the shape in $$
@@ -944,7 +986,7 @@
 ^^ you tip them out then $$
 ^^ that be it $$
 ^^ no $$
-^^  hole for it $$
+^^ xxx hole for it $$
 ^^ no $$
 ^^ no $$
 ^^ yes $$
@@ -1034,6 +1076,7 @@
 ^^ be you ready $$
 ^^ oh $$
 ^^ oh $$
+^^ www $$
 ^^ whoops $$
 ^^ oh $$
 ^^ it be fall over $$
@@ -1041,6 +1084,7 @@
 ^^ wind it up then $$
 ^^ it will go proper $$
 ^^ give me the key then and I will do it $$
+^^ www $$
 ^^ your camera $$
 ^^ yes $$
 ^^ I know $$
@@ -1055,13 +1099,14 @@
 ^^ ready $$
 ^^ oh $$
 ^^ whoops $$
+^^ www $$
 ^^ you do what Becky $$
 ^^ what do you say $$
 ^^ your toy $$
 ^^ what be this $$
 ^^ a saucepan $$
 ^^ sit down $$
-^^   why do not you give doll some dinner $$
+^^ you want why do not you give doll some dinner $$
 ^^ yeah $$
 ^^ on the chair $$
 ^^ you want your dinner $$
@@ -1069,9 +1114,9 @@
 ^^ well you sit on the chair then $$
 ^^ oh $$
 ^^ right $$
-^^ be you go to make  some mash potato $$
+^^ be you go to make some some mash potato $$
 ^^ no $$
-^^  some bun $$
+^^ er some bun $$
 ^^ no bun $$
 ^^ no $$
 ^^ what about some cake $$
@@ -1082,10 +1127,12 @@
 ^^ oh your spoon $$
 ^^ mhm $$
 ^^ it have go have not it $$
+^^ www $$
 ^^ oh Becky $$
 ^^ I do not know what you have do with it $$
 ^^ pardon $$
 ^^ spoon $$
+^^ mm $$
 ^^ I can not find it Becky $$
 ^^ it can not be far away $$
 ^^ I have get your knife though $$
@@ -1109,6 +1156,7 @@
 ^^ in there $$
 ^^ no no no $$
 ^^ no thank_you $$
+^^ xxx $$
 ^^ shall I comb doll hair for her $$
 ^^ have she get pretty hair $$
 ^^ she be get a bobble in $$
@@ -1123,6 +1171,7 @@
 ^^ do I ever comb your hair with a saucepan $$
 ^^ I do do I $$
 ^^ be you go to comb my hair then $$
+^^ mm $$
 ^^ it do not work very well do it $$
 ^^ comb it with the comb $$
 ^^ comb Mummy hair with the comb $$
@@ -1152,8 +1201,9 @@
 ^^ come on $$
 ^^ let us get your doll house down then $$
 ^^ oh there be your fork $$
+^^ xxx $$
 ^^ you be go to have to sit on the floor I think to play with this $$
-^^  use the $$
+^^ xxx use the $$
 ^^ I suppose you could use the table $$
 ^^ do you want to use the table for it $$
 ^^ yeah $$
@@ -1166,13 +1216,16 @@
 ^^ shall I fetch it $$
 ^^ be you go to put them in their chair $$
 ^^ oh it be rain be it $$
+^^ xxx $$
 ^^ where be your person $$
 ^^ shall I spin it round for you $$
-^^ give me   the umbrella stick then $$
+^^ give me the the the umbrella stick then $$
 ^^ be you ready $$
 ^^ pardon $$
+^^ xxx $$
 ^^ what be the matter $$
 ^^ more abc $$
+^^ www $$
 ^^ there you be $$
 ^^ whoops $$
 ^^ shall I make your name $$
@@ -1204,10 +1257,11 @@
 ^^ they be number be not they $$
 ^^ number $$
 ^^ go and see if there be another letter on the fridge that you have forget $$
+^^ www $$
 ^^ you have find it $$
 ^^ right $$
 ^^ put it here then $$
-^^ because  letter d for Lastname $$
+^^ because xxx letter d for Lastname $$
 ^^ there $$
 ^^ that say your name there Becky $$
 ^^ it say Becky_Lastname $$
@@ -1225,6 +1279,7 @@
 ^^ Sukie_Cat $$
 ^^ hello Sukie $$
 ^^ can you say hello to Sukie $$
+^^ www $$
 ^^ can you say some number for me Becky $$
 ^^ I do not think Sukie want them $$
 ^^ can you say these number $$
@@ -1239,7 +1294,7 @@
 ^^ that be upside down now $$
 ^^ that number five be upside down $$
 ^^ it be $$
-^^ Sukie  $$
+^^ Sukie xxx $$
 ^^ Sukie probable want something to eat $$
 ^^ yes $$
 ^^ hm $$
@@ -1253,6 +1308,7 @@
 ^^ they be eat what $$
 ^^ they be eat the table $$
 ^^ crayon $$
+^^ www $$
 ^^ no $$
 ^^ they do not come off do they $$
 ^^ they be just draw on $$
@@ -1262,7 +1318,7 @@
 ^^ now $$
 ^^ okay $$
 ^^ be you go to $$
-^^     put the letter in there $$
+^^ put these letters in put the letter in there $$
 ^^ put them in there $$
 ^^ the number in there and I will put the letter in here $$
 ^^ shall we put the person back in the house $$
@@ -1294,7 +1350,7 @@
 ^^ hm $$
 ^^ they have go $$
 ^^ you need to sit proper at the table $$
-^^  stand up $$
+^^ stand stand up $$
 ^^ I will move your chair in $$
 ^^ oh $$
 ^^ there we be $$
@@ -1319,6 +1375,7 @@
 ^^ pardon $$
 ^^ oh $$
 ^^ what color be that $$
+^^ www $$
 ^^ what be you color $$
 ^^ what be this here $$
 ^^ a ladder $$
@@ -1343,7 +1400,7 @@
 ^^ yes $$
 ^^ no $$
 ^^ it be not a yellow cloth $$
-^^ it be  a red cloth and a orange cloth $$
+^^ it be a a red cloth and a orange cloth $$
 ^^ yeah $$
 ^^ a orange cloth $$
 ^^ pardon $$
@@ -1415,6 +1472,7 @@
 ^^ be it $$
 ^^ gosh $$
 ^^ you have get a good memory have not you $$
+^^ www $$
 ^^ Noddy in bed $$
 ^^ he be get his eye close $$
 ^^ can you close your eye $$
@@ -1440,12 +1498,14 @@
 ^^ ladybird be red be not they $$
 ^^ let us make it red $$
 ^^ more crayon $$
+^^ xxx $$
 ^^ it be a red ladybird $$
 ^^ red foot $$
 ^^ there $$
 ^^ I can see another ladybird I think $$
 ^^ more red shoe shall we do $$
 ^^ mhm $$
+^^ www $$
 ^^ pardon $$
 ^^ it be good $$
 ^^ good $$
@@ -1456,7 +1516,7 @@
 ^^ no $$
 ^^ there be no more beard there $$
 ^^ there $$
-^^ and Noddy can have some brown  $$
+^^ and Noddy can have some brown xxx $$
 ^^ there we go $$
 ^^ hm $$
 ^^ his ear be that $$
@@ -1485,7 +1545,7 @@
 ^^ melon $$
 ^^ and what be this $$
 ^^ it be a pineapple $$
-^^ that be  a bottle of juice or milk or something $$
+^^ that be er a bottle of juice or milk or something $$
 ^^ do you think Sukie want a drink from it $$
 ^^ do you $$
 ^^ hello Sukie $$
@@ -1528,13 +1588,15 @@
 ^^ Andy and teddy what $$
 ^^ you want to open this $$
 ^^ well I have not see all this fruit in here yet $$
-^^  have a look at it in a bit then shall we $$
+^^ xxx have a look at it in a bit then shall we $$
 ^^ you want me to open it or can you do it $$
 ^^ shall I do it $$
+^^ xxx $$
 ^^ whoops $$
 ^^ there $$
 ^^ do you remember this $$
 ^^ it be get animal in $$
+^^ www $$
 ^^ yes $$
 ^^ Sukie be have a look at these toy $$
 ^^ do you think he might want to play with them $$
@@ -1549,11 +1611,14 @@
 ^^ the baby whale $$
 ^^ what be you sing $$
 ^^ once I catch a fish alive $$
+^^ www $$
 ^^ how do the song go $$
+^^ www $$
 ^^ oh a hippo $$
 ^^ fish $$
 ^^ let us have a look $$
-^^  fish $$
+^^ xxx fish $$
+^^ mm $$
 ^^ on there $$
 ^^ it be what $$
 ^^ that be hay $$
@@ -1594,6 +1659,7 @@
 ^^ brummbrumm $$
 ^^ I do not think that will go on actual $$
 ^^ well it will but $$
+^^ xxx $$
 ^^ whee $$
 ^^ whee $$
 ^^ hm $$
@@ -1603,6 +1669,7 @@
 ^^ oh Becky $$
 ^^ come and have a cuddle $$
 ^^ Andy and teddy $$
+^^ www $$
 ^^ oh $$
 ^^ poor Becky $$
 ^^ it be no bad than when Sukie_cat scratch you though be it $$
@@ -1649,8 +1716,10 @@
 ^^ that do look bad do not it $$
 ^^ be you brave soldier though $$
 ^^ Andy be here look $$
+^^ www $$
 ^^ can you see the baby in there look $$
 ^^ be that Becky $$
+^^ www $$
 ^^ oh $$
 ^^ you know what that be do not you $$
 ^^ what be it $$
@@ -1675,7 +1744,9 @@
 ^^ when it be happy_birthday $$
 ^^ what be this Becky $$
 ^^ it be a tomato $$
+^^ www $$
 ^^ it be horrid meat Becky $$
+^^ www $$
 ^^ that be call a hot $$
 ^^ a hot $$
 ^^ it be a bun $$
@@ -1684,6 +1755,7 @@
 ^^ and we will put it in the bread to make a sandwich $$
 ^^ look $$
 ^^ a sandwich $$
+^^ eh $$
 ^^ yes $$
 ^^ that be what we do $$
 ^^ but do not bite it though $$
@@ -1699,7 +1771,9 @@
 ^^ Becky $$
 ^^ do you remember go strawberry pick yesterday $$
 ^^ and you eat lot and lots_of strawberry do not you $$
+^^ www $$
 ^^ I be very cross be not I $$
+^^ www $$
 ^^ thank_you $$
 ^^ eat $$
 ^^ oh it be nice $$
@@ -1710,6 +1784,8 @@
 ^^ a bread bun $$
 ^^ there be some lettuce here look $$
 ^^ you can put that with your cheese to make a sandwich $$
+^^ www $$
+^^ www $$
 ^^ be Andy have some $$
 ^^ he be eat a sandwich $$
 ^^ do you think he like it $$
@@ -1729,12 +1805,14 @@
 ^^ err $$
 ^^ horrible $$
 ^^ hm $$
+^^ www $$
 ^^ what be this $$
 ^^ grape $$
-^^ can you remember   what that be $$
+^^ can you remember what that what that be $$
 ^^ a pear $$
 ^^ there be more pear be there $$
 ^^ celery $$
+^^ mm $$
 ^^ celery nice be not it $$
 ^^ do not know $$
 ^^ lettuce $$
@@ -1750,6 +1828,7 @@
 ^^ yes $$
 ^^ and what be this $$
 ^^ more grape $$
+^^ www $$
 ^^ they have go have they $$
 ^^ oh there they be $$
 ^^ there $$
@@ -1801,8 +1880,10 @@
 ^^ oh that milk $$
 ^^ be you put milk on your strawberry $$
 ^^ then it be nice to eat be it $$
+^^ www $$
 ^^ do we have cream with our strawberry yesterday $$
 ^^ be it nice $$
+^^ mm $$
 ^^ it be all_gone have it $$
 ^^ pardon $$
 ^^ sandwich $$
@@ -1810,7 +1891,7 @@
 ^^ thank_you $$
 ^^ that be lettuce $$
 ^^ oh no $$
-^^  do not put it in your mouth $$
+^^ don't do not put it in your mouth $$
 ^^ horrible $$
 ^^ yes $$
 ^^ no $$
@@ -1821,6 +1902,7 @@
 ^^ and some egg $$
 ^^ more egg $$
 ^^ yes $$
+^^ www $$
 ^^ no $$
 ^^ there be no more $$
 ^^ that be all the egg $$
@@ -1837,6 +1919,7 @@
 ^^ and what be this $$
 ^^ cake $$
 ^^ that be icing $$
+^^ www $$
 ^^ be that nice to eat $$
 ^^ ugh $$
 ^^ I do not think it be actual $$
@@ -1863,7 +1946,7 @@
 ^^ go on $$
 ^^ see if he want some more $$
 ^^ no $$
-^^  give him the  the bottle $$
+^^ give give him the er the bottle $$
 ^^ no $$
 ^^ he do not want any more $$
 ^^ he be have enough $$
@@ -1880,7 +1963,7 @@
 ^^ see if he want some more $$
 ^^ lift up the bottle $$
 ^^ lift it up $$
-^^  a drink $$
+^^ xxx a drink $$
 ^^ do you think Andy be have enough now as_well $$
 ^^ yes $$
 ^^ no $$
@@ -1889,6 +1972,7 @@
 ^^ oh $$
 ^^ you have hurt your chin $$
 ^^ oh $$
+^^ www $$
 ^^ be you put it on for sympathy $$
 ^^ yeah $$
 ^^ you like sympathy do not you $$
@@ -1902,12 +1986,14 @@
 ^^ down $$
 ^^ where be you sit down $$
 ^^ mind your toe $$
-^^ what do you say to  the window $$
+^^ www $$
+^^ what do you say to that the window $$
+^^ xxx $$
 ^^ it do not come off there $$
 ^^ it do not come off $$
 ^^ do you say you want him to go through the window $$
 ^^ yeah $$
-^^ what  $$
+^^ what xxx $$
 ^^ this window $$
 ^^ what be he do $$
 ^^ the window $$
@@ -1919,10 +2005,10 @@
 ^^ what be happen $$
 ^^ fall down $$
 ^^ there we be $$
-^^  about a bit $$
+^^ xxx about a bit $$
 ^^ there we be $$
 ^^ what be he do $$
-^^  what do tiger do $$
+^^ what what do tiger do $$
 ^^ he go through $$
 ^^ shall he go through again $$
 ^^ what be he do $$
@@ -1931,6 +2017,7 @@
 ^^ there we be $$
 ^^ giraffe through $$
 ^^ oh $$
+^^ xxx $$
 ^^ he will have to put his head down to go through $$
 ^^ never mind $$
 ^^ Pingu through $$
@@ -1939,7 +2026,7 @@
 ^^ Pingu go through $$
 ^^ through there $$
 ^^ okay $$
-^^ I will put  together again $$
+^^ I will put xxx together again $$
 ^^ there we be $$
 ^^ shall we put this penguin through now $$
 ^^ tiger through again $$
@@ -1975,6 +2062,6 @@
 ^^ no $$
 ^^ you be knock it over look $$
 ^^ oh $$
-^^  be not they $$
+^^ xxx be not they $$
 ^^ shall we stand them up $$
 ^^ the baby tiger $$

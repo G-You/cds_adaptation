@@ -16,13 +16,15 @@
 ^^ be you a rascal $$
 ^^ be you a rascal $$
 ^^ be you a rascal $$
+^^ a $$
 ^^ and baba $$
 ^^ and baba $$
+^^ a $$
 ^^ there $$
 ^^ like that $$
 ^^ shall we have these off $$
 ^^ shall we $$
-^^   take your shoe off $$
+^^ take your take your shoe off $$
 ^^ Mummy take them off $$
 ^^ Ruth $$
 ^^ be these clean shoe or dirt shoe $$
@@ -39,7 +41,7 @@
 ^^ do not do that no $$
 ^^ listen $$
 ^^ come here $$
-^^  tell Anna what do we do $$
+^^ tell tell Anna what do we do $$
 ^^ do we go on holiday $$
 ^^ Ruth $$
 ^^ Ruth $$
@@ -57,7 +59,7 @@
 ^^ what darling $$
 ^^ tickle on there $$
 ^^ tickle $$
-^^   how do you get to the top of the mountain $$
+^^ what what how do you get to the top of the mountain $$
 ^^ do you walk to the top of the mountain $$
 ^^ well how do you get to the top $$
 ^^ you go in a back $$
@@ -92,7 +94,7 @@
 ^^ why do you not like a bath Ruth $$
 ^^ hey $$
 ^^ Mummy get you something nice to put in your bath have not she $$
-^^    do you remember what Mummy get you to put in your bath $$
+^^ do you know do you remember what Mummy get you to put in your bath $$
 ^^ what $$
 ^^ bubble $$
 ^^ that be right $$
@@ -132,6 +134,7 @@
 ^^ you forget to smack it $$
 ^^ you forget to smack that bottom $$
 ^^ oh $$
+^^ a $$
 ^^ Ruth $$
 ^^ I want you to tell me what animal we see on holiday $$
 ^^ what animal do we see $$
@@ -139,7 +142,7 @@
 ^^ what darling $$
 ^^ talk to you no $$
 ^^ hiya you no $$
-^^    you do not want me to talk to you $$
+^^ you don't want you do not want me to talk to you $$
 ^^ you do not want me to ask you any question $$
 ^^ be that what you be say right $$
 ^^ you do not want to make the effort to even think what we see on holiday $$
@@ -151,6 +154,7 @@
 ^^ you hide $$
 ^^ go go go go go go $$
 ^^ behind Anna chair $$
+^^ www $$
 ^^ go go go go go go go go go $$
 ^^ be you $$
 ^^ oh right $$
@@ -176,7 +180,7 @@
 ^^ you be suppose to hide $$
 ^^ shall Mummy hide $$
 ^^ go go go go go go $$
-^^  you count $$
+^^ you you count $$
 ^^ be you count $$
 ^^ I think you be look $$
 ^^ you be not suppose to look $$
@@ -202,7 +206,7 @@
 ^^ he be sleep $$
 ^^ that be right $$
 ^^ Ruth $$
-^^    be this a young bear or a old bear $$
+^^ is this a be this a young bear or a old bear $$
 ^^ it be a old bear be not it $$
 ^^ whose bear be he $$
 ^^ our bear $$
@@ -252,7 +256,7 @@
 ^^ I be your Mama be I $$
 ^^ be you a Mummy girl or a Daddy girl $$
 ^^ Daddy girl $$
-^^  well I do not care then $$
+^^ well well I do not care then $$
 ^^ be you Mummy girl $$
 ^^ I do not like you then $$
 ^^ I be not play with you $$
@@ -264,7 +268,7 @@
 ^^ be you $$
 ^^ that be nice $$
 ^^ you what $$
-^^ whose  whose baba be you $$
+^^ whose baba whose baba be you $$
 ^^ Anna baba $$
 ^^ you be Anna baba $$
 ^^ be you Mummy baba $$
@@ -344,7 +348,7 @@
 ^^ oh gentle $$
 ^^ just gentle $$
 ^^ that be good $$
-^^    who do you like to stroke $$
+^^ who did you who do you like to stroke $$
 ^^ Thomas $$
 ^^ you like to stroke Thomas do not you $$
 ^^ what darling $$
@@ -352,17 +356,17 @@
 ^^ do you get to say byebye to him $$
 ^^ tell Anna who he be $$
 ^^ Anna do not know who he be $$
-^^  who be Thomas $$
+^^ who's who be Thomas $$
 ^^ a cat $$
 ^^ yeah $$
 ^^ we like Thomas $$
 ^^ Thomas do not like us though $$
 ^^ oh $$
-^^    what $$
+^^ what what what what $$
 ^^ what do Thomas go downstairs for Ruth $$
 ^^ what do Thomas go downstairs for $$
 ^^ what do he go downstairs for $$
-^^    why do Thomas go downstairs $$
+^^ why did he why do Thomas go downstairs $$
 ^^ his Daddy take him downstairs do not he $$
 ^^ how can I talk to you when you be run round me in circle $$
 ^^ Ruth $$
@@ -417,7 +421,7 @@
 ^^ go go go go go go go go $$
 ^^ be you $$
 ^^ oh $$
-^^  your sock darling $$
+^^ you your sock darling $$
 ^^ well that be your sock pet $$
 ^^ go go go go go go go go go go $$
 ^^ it will maybe fit on Mummy toe but that will be it $$
@@ -463,7 +467,7 @@
 ^^ Ruth $$
 ^^ do Mummy pet the deer $$
 ^^ she do $$
-^^ she go  $$
+^^ she go a $$
 ^^ it be a love deer $$
 ^^ and who do Daddy feed $$
 ^^ who do Daddy feed $$
@@ -473,7 +477,7 @@
 ^^ a rabbit $$
 ^^ what darling $$
 ^^ no way $$
-^^  no $$
+^^ no no $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
@@ -482,6 +486,7 @@
 ^^ Anna go $$
 ^^ Anna go $$
 ^^ you be very excite to see Anna $$
+^^ www $$
 ^^ come on then $$
 ^^ why be you take your trouser down for $$
 ^^ why be you take your trouser down $$
@@ -496,6 +501,7 @@
 ^^ Nana garden $$
 ^^ be this the one $$
 ^^ Nana garden $$
+^^ www $$
 ^^ be you listen to this $$
 ^^ what be she put on $$
 ^^ what be this $$
@@ -511,6 +517,7 @@
 ^^ well you be not play with it Ruth $$
 ^^ just listen to the story first $$
 ^^ come on then $$
+^^ www $$
 ^^ do you not want this story $$
 ^^ you do not want Nana garden $$
 ^^ you do not want that either $$
@@ -581,7 +588,7 @@
 ^^ hooray $$
 ^^ where do the ball go $$
 ^^ where do the ball go $$
-^^ it be  near Anna chair $$
+^^ it be near near Anna chair $$
 ^^ it be beside Anna chair $$
 ^^ now listen $$
 ^^ be very careful with that $$
@@ -590,6 +597,7 @@
 ^^ no $$
 ^^ no $$
 ^^ you only hit the ball $$
+^^ www $$
 ^^ oh $$
 ^^ you hit them with the bat $$
 ^^ oh $$
@@ -597,9 +605,10 @@
 ^^ be you hide behind that $$
 ^^ Mummy hide too $$
 ^^ two of us hide $$
+^^ a $$
 ^^ gentle $$
 ^^ gentle $$
-^^   no $$
+^^ no no no $$
 ^^ go go go go go go go go go go go $$
 ^^ Mummy be hide $$
 ^^ hey $$
@@ -611,11 +620,13 @@
 ^^ okay $$
 ^^ you be hide your bat $$
 ^^ listen $$
+^^ www $$
 ^^ you have be build lots_of thing with this lego have not you $$
 ^^ what be you make $$
 ^^ a house $$
 ^^ right $$
 ^^ thank_you $$
+^^ www $$
 ^^ what darling $$
 ^^ what be you make now $$
 ^^ make a train $$
@@ -641,6 +652,7 @@
 ^^ that be right $$
 ^^ that be right $$
 ^^ because we do not have any big white piece $$
+^^ www $$
 ^^ no $$
 ^^ Mama white one $$
 ^^ that be right $$
@@ -678,6 +690,7 @@
 ^^ there be a little house for the cow $$
 ^^ shall we find a cow and put it in there $$
 ^^ come on then $$
+^^ a $$
 ^^ that be a black and white cow $$
 ^^ be that a Mummy or a Daddy cow Ruth $$
 ^^ how do you know $$
@@ -696,7 +709,7 @@
 ^^ put them away $$
 ^^ do you want to make a train pet $$
 ^^ right $$
-^^   where be the front of the engine $$
+^^ where's the where be the front of the engine $$
 ^^ where be the bit that go here $$
 ^^ I think what have happen be that this should go there $$
 ^^ I think this be the problem $$
@@ -743,7 +756,7 @@
 ^^ a Daddy cow be call a bull $$
 ^^ oh $$
 ^^ that be a Daddy pet $$
-^^   you can not take that off $$
+^^ you can't you can not take that off $$
 ^^ you do not get milk off a Daddy boo $$
 ^^ that be a Daddy pet $$
 ^^ it be definite a Daddy that $$
@@ -757,7 +770,7 @@
 ^^ good $$
 ^^ there we go $$
 ^^ be there a calf in there Ruth do you think $$
-^^ because   we have get a Mummy and we have get a Daddy and now we need a little calf $$
+^^ because we've got we have get a Mummy and we have get a Daddy and now we need a little calf $$
 ^^ a little baby cow $$
 ^^ do you think you could find a calf $$
 ^^ oh $$
@@ -765,6 +778,7 @@
 ^^ this be a nice horse $$
 ^^ right $$
 ^^ okay $$
+^^ a $$
 ^^ oh no $$
 ^^ what be that $$
 ^^ a deer $$
@@ -825,6 +839,7 @@
 ^^ it be a orange $$
 ^^ orange $$
 ^^ do you like orange $$
+^^ mm $$
 ^^ you have a baba orange $$
 ^^ just pretend $$
 ^^ just pretend $$
@@ -968,7 +983,7 @@
 ^^ no $$
 ^^ let me have it $$
 ^^ Ruth $$
-^^  what do Daddy like to drink $$
+^^ what what do Daddy like to drink $$
 ^^ oh be this for me $$
 ^^ biscuit $$
 ^^ it be a biscuit $$
@@ -989,7 +1004,7 @@
 ^^ that be a apple $$
 ^^ that be a little apple be not it $$
 ^^ very little apple $$
-^^  there be a Mama around somewhere $$
+^^ er there be a Mama around somewhere $$
 ^^ you have not play with doll today at all $$
 ^^ she be be complete ignore $$
 ^^ be it $$
@@ -1022,9 +1037,11 @@
 ^^ baba $$
 ^^ baba chair $$
 ^^ there $$
+^^ a $$
 ^^ Mummy bottom be too big darling $$
 ^^ Mummy will break the hat $$
 ^^ Mummy will break the hat if she sit on that $$
+^^ www $$
 ^^ oh be this chair for Mummy $$
 ^^ thank_you $$
 ^^ thank_you darling $$
@@ -1034,6 +1051,7 @@
 ^^ there $$
 ^^ be that nice $$
 ^^ there $$
+^^ a $$
 ^^ I feel like we be wait for a train here $$
 ^^ be we wait for a train $$
 ^^ you be not do that $$
@@ -1046,7 +1064,7 @@
 ^^ oh $$
 ^^ chicken $$
 ^^ you have some chicken today do not you $$
-^^ Mummy  $$
+^^ Mummy mm $$
 ^^ thank_you $$
 ^^ oh it be delicious chicken $$
 ^^ fresh roast $$
@@ -1063,6 +1081,7 @@
 ^^ go go go go go go go go go go go go go $$
 ^^ go go go go go go go go go $$
 ^^ and wash your hair $$
+^^ www $$
 ^^ what be wrong with your bath $$
 ^^ what be in your bath $$
 ^^ what $$
@@ -1093,6 +1112,7 @@
 ^^ can you say Sophie $$
 ^^ just eat your tea $$
 ^^ yeah $$
+^^ a $$
 ^^ thank_you darling $$
 ^^ thank_you $$
 ^^ chicken $$
@@ -1105,16 +1125,20 @@
 ^^ be you sit down there now $$
 ^^ oh $$
 ^^ there $$
+^^ a $$
 ^^ night_night $$
 ^^ night_night $$
+^^ www $$
 ^^ come on then $$
 ^^ do you have a nice sleep $$
 ^^ you do $$
+^^ www $$
 ^^ I have not kiss you yet $$
 ^^ now you know it be fun you do it even more do not you $$
 ^^ what be you do now $$
 ^^ I be wash your face $$
 ^^ I be wash your face $$
+^^ www $$
 ^^ which one be this one $$
 ^^ which one be this one $$
 ^^ be that the Mama one $$
@@ -1133,6 +1157,7 @@
 ^^ book $$
 ^^ which book do you want $$
 ^^ which book will you like $$
+^^ xxx $$
 ^^ which book will you like $$
 ^^ you want some juice $$
 ^^ all_gone juice $$
@@ -1158,14 +1183,15 @@
 ^^ there be duck story $$
 ^^ you have have juice Ruth $$
 ^^ that be all right $$
-^^   you do not $$
-^^ juice be not  Ruth $$
+^^ you don't you do not $$
+^^ juice be not xxx Ruth $$
 ^^ I be not force you to have any juice pet $$
 ^^ you do not have to have it $$
 ^^ we do not even have to discuss it $$
 ^^ right $$
 ^^ shall we read the story $$
 ^^ Ruth $$
+^^ www $$
 ^^ I be sorry Ruth but this be silly now $$
 ^^ now do you want this book $$
 ^^ come on then $$
@@ -1268,8 +1294,11 @@
 ^^ good girl $$
 ^^ and who be that $$
 ^^ it be frog be not it $$
+^^ um $$
 ^^ be that his name $$
+^^ um $$
 ^^ be he call frog $$
+^^ um $$
 ^^ have he get a new name $$
 ^^ be that your name for him $$
 ^^ oh right $$
@@ -1297,7 +1326,7 @@
 ^^ right $$
 ^^ it say she be make that $$
 ^^ that be right $$
-^^   who be that $$
+^^ is that who be that $$
 ^^ that be right $$
 ^^ it be that great big bear $$
 ^^ and there be the noise boy $$
@@ -1390,7 +1419,7 @@
 ^^ cat $$
 ^^ good girl $$
 ^^ it be cat $$
-^^   he be in the cupboard $$
+^^ he's he's he be in the cupboard $$
 ^^ imagine hide in the cupboard $$
 ^^ be he hide $$
 ^^ he be hide in the cupboard but he be ring a big bell be not he make a_lot_of noise $$
@@ -1431,7 +1460,7 @@
 ^^ be you play some music $$
 ^^ what $$
 ^^ Mummy play on that $$
-^^ oh  Mummy sing $$
+^^ oh Mummy Mummy sing $$
 ^^ Mummy just do this $$
 ^^ where be our bear book $$
 ^^ where be the little bear book $$
@@ -1451,6 +1480,7 @@
 ^^ they play all day $$
 ^^ when night come and the sun go down big bear take $$
 ^^ that be right $$
+^^ xxx $$
 ^^ you be make plenty of noise $$
 ^^ that be right $$
 ^^ yeah $$
@@ -1467,18 +1497,20 @@
 ^^ but little bear could not go to sleep $$
 ^^ you be make more noise $$
 ^^ I know $$
+^^ www $$
 ^^ I do not like the $$
 ^^ the dark $$
-^^    do you like the dark $$
+^^ www $$
+^^ do you like do you like the dark $$
 ^^ you do not like the dark $$
 ^^ you do not $$
 ^^ little bear what $$
 ^^ he like the dark do he $$
 ^^ little bear like the dark $$
 ^^ I do not think he do $$
-^^   I be not sure if he do or not $$
+^^ I don't I be not sure if he do or not $$
 ^^ Ruth $$
-^^   do you go to sleep in the dark $$
+^^ do you do you go to sleep in the dark $$
 ^^ no $$
 ^^ do you have a light on $$
 ^^ you sleep with Daddy bear $$
@@ -1505,6 +1537,7 @@
 ^^ no $$
 ^^ it be dark $$
 ^^ very dark $$
+^^ www $$
 ^^ now go to $$
 ^^ what do we say $$
 ^^ go to $$
@@ -1514,13 +1547,16 @@
 ^^ I can hard hear my book now $$
 ^^ right $$
 ^^ well I can hard read your story if you be make so much noise $$
+^^ www $$
 ^^ I do not like the $$
 ^^ dark say little bear $$
+^^ www $$
 ^^ no $$
 ^^ what do he say $$
 ^^ no $$
 ^^ it be only a $$
 ^^ it be only a tiny lamp $$
+^^ www $$
 ^^ I can not hear my story darling $$
 ^^ I be scare say little bear $$
 ^^ what be you scare of $$
@@ -1528,18 +1564,23 @@
 ^^ mhm $$
 ^^ be you listen to this or shall I put it away $$
 ^^ right $$
+^^ www $$
 ^^ how many lantern have he get now $$
 ^^ two lantern say big bear $$
 ^^ a tiny one and a $$
 ^^ a tiny one and a big one he say $$
+^^ www $$
+^^ www $$
 ^^ now go to $$
 ^^ that be right $$
+^^ www $$
 ^^ be it stick $$
+^^ www $$
 ^^ oh sweet $$
 ^^ what do you do $$
 ^^ do you hurt yourself $$
 ^^ oh it be a nasty big thing $$
-^^ oh do it get stick at the  top of our mouth $$
+^^ oh do it get stick at the back top of our mouth $$
 ^^ there it be there $$
 ^^ I will not do that darling because $$
 ^^ that be it $$
@@ -1548,12 +1589,15 @@
 ^^ okay $$
 ^^ oh dear $$
 ^^ ssh $$
+^^ www $$
 ^^ where be the dark $$
 ^^ show me be there any dark leave $$
 ^^ show me where the dark be $$
 ^^ that be right $$
+^^ www $$
 ^^ the night be dark be not it $$
 ^^ be the night dark $$
+^^ www $$
 ^^ where be they go $$
 ^^ out say big bear $$
 ^^ out into the dark say little bear $$
@@ -1562,9 +1606,11 @@
 ^^ he say yes $$
 ^^ yes $$
 ^^ out into the dark $$
+^^ www $$
 ^^ it be $$
 ^^ dark $$
 ^^ it be dark $$
+^^ www $$
 ^^ what do he see $$
 ^^ what do he see $$
 ^^ I have bring you the $$
@@ -1572,6 +1618,7 @@
 ^^ I have bring you the moon little bear say big bear $$
 ^^ the bright yellow moon and all the twinkle $$
 ^^ all the twinkle star $$
+^^ www $$
 ^^ that be a nice story be not it $$
 ^^ be that your favorite story $$
 ^^ be it $$
@@ -1620,6 +1667,7 @@
 ^^ your pot $$
 ^^ your pot upstairs darling $$
 ^^ beside your chair $$
+^^ www $$
 ^^ wait until you get them down $$
 ^^ wait a minute $$
 ^^ do not do anything yet $$
@@ -1635,7 +1683,7 @@
 ^^ go go go go go go go go $$
 ^^ right $$
 ^^ right $$
-^^ shall we   just do Harry_hippo first $$
+^^ shall we just put just do Harry_hippo first $$
 ^^ okay $$
 ^^ put these down $$
 ^^ try another piece $$
@@ -1664,7 +1712,7 @@
 ^^ well do $$
 ^^ who be this $$
 ^^ this be Kitty_kitten $$
-^^ shall I put it beside  Harry_hippo $$
+^^ shall I put it beside hippo Harry_hippo $$
 ^^ okay $$
 ^^ okay $$
 ^^ right $$
@@ -1704,7 +1752,7 @@
 ^^ do it fall down $$
 ^^ there $$
 ^^ now we have get the top of it have not we $$
-^^ we have get   the toptie have not we $$
+^^ we have get the top the toptie have not we $$
 ^^ yeah $$
 ^^ that be the top of the puzzle $$
 ^^ now we have get to get the rest of it $$
@@ -1743,7 +1791,7 @@
 ^^ good girl $$
 ^^ you want this down there now $$
 ^^ I do not know how we be go to do this $$
-^^    I need something to put it onto $$
+^^ I need something I need something to put it onto $$
 ^^ let me see $$
 ^^ see can Mum $$
 ^^ see can Mum come up with some intelligent idea $$
@@ -1839,6 +1887,7 @@
 ^^ we have lose one of these $$
 ^^ where be the other one $$
 ^^ where do it fall down $$
+^^ a $$
 ^^ there it be $$
 ^^ that be right $$
 ^^ thank_you $$
@@ -1874,14 +1923,16 @@
 ^^ oh be this for me $$
 ^^ thank_you very much $$
 ^^ that be a orange Ruth $$
-^^  love $$
+^^ mm love $$
 ^^ orange $$
 ^^ you want into there $$
+^^ a $$
 ^^ yes $$
 ^^ be you put her arm down $$
 ^^ do she have her arm up $$
 ^^ put her arm down $$
 ^^ right $$
+^^ a $$
 ^^ be not she beautiful $$
 ^^ but she must be cold $$
 ^^ do you think she be cold $$
@@ -1890,6 +1941,7 @@
 ^^ right $$
 ^^ she be cold $$
 ^^ here you be $$
+^^ a $$
 ^^ this be a very pretty dress $$
 ^^ have you get a pretty dress on today $$
 ^^ right $$
@@ -1913,7 +1965,7 @@
 ^^ good $$
 ^^ shall I put it on $$
 ^^ right $$
-^^   oh that be for $$
+^^ who's what's oh that be for $$
 ^^ I think that go on this dress do not it $$
 ^^ do it go like $$
 ^^ this be a collar $$
@@ -1933,11 +1985,12 @@
 ^^ okay $$
 ^^ here we go $$
 ^^ but she be lose her panties $$
+^^ www $$
 ^^ oh be they in Anna house $$
 ^^ oh right $$
 ^^ say it again $$
 ^^ cry $$
-^^   be she cry $$
+^^ is she be she cry $$
 ^^ no $$
 ^^ she be not cry $$
 ^^ no $$
@@ -1978,9 +2031,9 @@
 ^^ what kind of house be we do then $$
 ^^ right $$
 ^^ put the brick next to each_other $$
-^^    what be you make $$
+^^ what are you what be you make $$
 ^^ a house $$
-^^   shall I break it up $$
+^^ shall I shall I break it up $$
 ^^ that be a very pretty pattern $$
 ^^ it be very pretty $$
 ^^ shall I get some more $$
@@ -2067,7 +2120,7 @@
 ^^ you can do some of this as_well can we $$
 ^^ you want to do this $$
 ^^ you want to do some of this too $$
-^^  after paint $$
+^^ after after paint $$
 ^^ go on then $$
 ^^ well there be no more darling $$
 ^^ we only have four color $$
@@ -2076,7 +2129,7 @@
 ^^ go on $$
 ^^ go on $$
 ^^ go on $$
-^^  well this be Mummy good brush $$
+^^ a well this be Mummy good brush $$
 ^^ this be Mummy good brush $$
 ^^ no $$
 ^^ it be not your brush $$
@@ -2132,9 +2185,9 @@
 ^^ yeah $$
 ^^ do we go and see him go off $$
 ^^ we be go to go tonight again be not we to bring him back again $$
-^^       do you see Daddy aeroplane take off $$
+^^ did you see all the aeroplane do you see Daddy aeroplane take off $$
 ^^ do you $$
-^^    where do our paper go Ruth $$
+^^ where did our where do our paper go Ruth $$
 ^^ where do the paper go $$
 ^^ do I bring the paper in $$
 ^^ oh it do not matter $$
@@ -2146,7 +2199,8 @@
 ^^ be you frighten $$
 ^^ do you get frighten $$
 ^^ look down on a aeroplane $$
-^^  no $$
+^^ www $$
+^^ er no $$
 ^^ that be the wrong color be not it $$
 ^^ that be right $$
 ^^ I think we might need some more paint in here $$
@@ -2176,6 +2230,7 @@
 ^^ there you go $$
 ^^ plenty more of that $$
 ^^ yeah $$
+^^ xxx $$
 ^^ mhm $$
 ^^ do you want me to put some more red paint in $$
 ^^ okay $$
@@ -2183,7 +2238,7 @@
 ^^ go on then $$
 ^^ no $$
 ^^ there you go $$
-^^ now   you can do this one now $$
+^^ now you can you can do this one now $$
 ^^ there be plenty green paint in there $$
 ^^ oh that be good $$
 ^^ what be you drawing now $$
@@ -2192,6 +2247,7 @@
 ^^ what we should do with the box leave behind $$
 ^^ we should make up another color should not we $$
 ^^ we should make up another color $$
+^^ www $$
 ^^ mhm $$
 ^^ I be just try to see what the color make $$
 ^^ can not real tell yet $$
@@ -2245,6 +2301,7 @@
 ^^ do you like paint $$
 ^^ hey $$
 ^^ hey $$
+^^ www $$
 ^^ where be the red one go $$
 ^^ there you go $$
 ^^ oh $$
@@ -2280,7 +2337,7 @@
 ^^ shall we have a little welcome home Daddy $$
 ^^ and Mummy as_well $$
 ^^ right $$
-^^ oh  Mummy do it as_well $$
+^^ oh Mummy Mummy do it as_well $$
 ^^ no $$
 ^^ that be Mummy good one $$
 ^^ hey hey $$
@@ -2300,9 +2357,10 @@
 ^^ be it red and green again $$
 ^^ let us do some red here $$
 ^^ okay $$
-^^ now    this be the $$
+^^ now this is the this be the $$
 ^^ you have do the tree bit and this be the $$
 ^^ can not remember what it be $$
+^^ www $$
 ^^ there $$
 ^^ the tree $$
 ^^ there $$
@@ -2320,10 +2378,10 @@
 ^^ shall we have some red apple in the tree $$
 ^^ do you want to put some red apple in then $$
 ^^ there you go $$
-^^   you do the red $$
+^^ you you you do the red $$
 ^^ you do the red $$
 ^^ put some red apple in the tree $$
-^^  oh $$
+^^ oh oh $$
 ^^ what a_lot_of apple $$
 ^^ hey $$
 ^^ hey $$
@@ -2343,7 +2401,7 @@
 ^^ you want to do those now $$
 ^^ okay $$
 ^^ oh dear me $$
-^^  wait until Mummy come back a minute $$
+^^ wait wait until Mummy come back a minute $$
 ^^ oh dear $$
 ^^ be it stick on your finger $$
 ^^ let me see $$
@@ -2372,12 +2430,14 @@
 ^^ do you have a shower with Mummy today $$
 ^^ do you like have a shower $$
 ^^ well I do not know about that $$
+^^ www $$
 ^^ there be the towel $$
 ^^ now watch your paint $$
 ^^ can you dry your hand on the towel $$
 ^^ do not walk on your paint $$
 ^^ that be it $$
 ^^ good girl $$
+^^ www $$
 ^^ right then $$
 ^^ you want the story $$
 ^^ yes $$
@@ -2397,6 +2457,7 @@
 ^^ be you $$
 ^^ right $$
 ^^ be you ready $$
+^^ www $$
 ^^ there he be $$
 ^^ Puff the panda $$
 ^^ panda have $$
@@ -2412,8 +2473,10 @@
 ^^ what color be this $$
 ^^ that be right $$
 ^^ they be black and white be not they $$
+^^ www $$
 ^^ see $$
 ^^ it be a black and white house $$
+^^ www $$
 ^^ he have black $$
 ^^ what be these $$
 ^^ black $$
@@ -2438,6 +2501,7 @@
 ^^ hand $$
 ^^ and a black $$
 ^^ and the rest of him be white $$
+^^ www $$
 ^^ there be a bee $$
 ^^ how do you know he be a bee $$
 ^^ what color be he $$
@@ -2449,6 +2513,8 @@
 ^^ yellow $$
 ^^ yellow $$
 ^^ yellow $$
+^^ www $$
+^^ www $$
 ^^ what color be Oink $$
 ^^ what color be Oink $$
 ^^ no $$
@@ -2456,18 +2522,23 @@
 ^^ what color be this $$
 ^^ pink $$
 ^^ pink $$
+^^ www $$
 ^^ be all pig pink $$
 ^^ well mostly $$
+^^ www $$
 ^^ frog be all green mostly $$
 ^^ be frog green $$
 ^^ mostly yeah $$
+^^ www $$
 ^^ what be panda do $$
 ^^ have he paint himself $$
 ^^ he have $$
 ^^ have he paint himself yellow $$
 ^^ and black $$
+^^ www $$
 ^^ well he do look like a bee now do not he $$
 ^^ but he be a panda be not he $$
+^^ www $$
 ^^ what color be he paint himself $$
 ^^ what color be this $$
 ^^ what color be that $$
@@ -2478,6 +2549,7 @@
 ^^ no $$
 ^^ you know that color $$
 ^^ you be just being silly now $$
+^^ www $$
 ^^ who be that $$
 ^^ and who be that $$
 ^^ well who be this then $$
@@ -2485,8 +2557,10 @@
 ^^ pig $$
 ^^ that be right $$
 ^^ that be frog $$
+^^ www $$
 ^^ Puff $$
 ^^ Puff $$
+^^ www $$
 ^^ Puff $$
 ^^ black $$
 ^^ what $$
@@ -2497,11 +2571,15 @@
 ^^ Ruth $$
 ^^ we be only read one book at a time darling $$
 ^^ do not fiddle with it $$
+^^ www $$
 ^^ go go go go go go go go go go go go go go go go $$
+^^ www $$
 ^^ and a bright red $$
 ^^ hat $$
+^^ www $$
 ^^ this one $$
 ^^ this story $$
+^^ www $$
 ^^ be the man go $$
 ^^ look $$
 ^^ he be go up and down the pole $$
@@ -2510,15 +2588,18 @@
 ^^ they be run $$
 ^^ run into the fire because there be a fire $$
 ^^ they have get to get to the fire $$
+^^ www $$
 ^^ mhm $$
 ^^ that be right $$
 ^^ there they go $$
 ^^ what sound will they make $$
 ^^ what sound do they make $$
 ^^ neenaw $$
+^^ www $$
 ^^ there they go $$
 ^^ go go go go go go go go go go go $$
 ^^ look $$
+^^ www $$
 ^^ what be this $$
 ^^ what be it $$
 ^^ you be refuse to talk this morning be not you $$
@@ -2530,12 +2611,15 @@
 ^^ beside Mummy knee $$
 ^^ sit down beside Mummy $$
 ^^ go go go go go go go go go $$
+^^ www $$
+^^ www $$
 ^^ that be right $$
 ^^ be she asleep $$
 ^^ okay $$
 ^^ there you go $$
 ^^ do you want your drink $$
 ^^ no $$
+^^ www $$
 ^^ right $$
 ^^ what be happen $$
 ^^ what be happen $$
@@ -2858,6 +2942,7 @@
 ^^ right $$
 ^^ be these grape for me $$
 ^^ oh thank_you very much $$
+^^ xxx $$
 ^^ oh a aubergine as_well $$
 ^^ love $$
 ^^ can Mummy have some corn on the cob $$
@@ -2999,6 +3084,7 @@
 ^^ be this for Mummy now $$
 ^^ do you cook it $$
 ^^ do you cook it yourself $$
+^^ mm $$
 ^^ that be delicious $$
 ^^ right $$
 ^^ little tea $$
@@ -3050,6 +3136,7 @@
 ^^ Mummy what $$
 ^^ Mummy take the juice to you $$
 ^^ be I some kind of slave to you child $$
+^^ www $$
 ^^ be that nice juice $$
 ^^ be that nice juice $$
 ^^ what do you say $$
@@ -3076,6 +3163,7 @@
 ^^ what do you want $$
 ^^ Mummy up $$
 ^^ why darling $$
+^^ www $$
 ^^ what do you want $$
 ^^ you can have some apple if you want $$
 ^^ no $$
@@ -3091,7 +3179,7 @@
 ^^ what about take this box out $$
 ^^ shall we $$
 ^^ come on then $$
-^^  ow $$
+^^ ow ow $$
 ^^ get this big box out here $$
 ^^ oh $$
 ^^ do you want to blow and Mummy will hold $$
@@ -3124,12 +3212,12 @@
 ^^ and who be $$
 ^^ right $$
 ^^ right $$
-^^   show me your favorite doll $$
+^^ where where's show me your favorite doll $$
 ^^ show me your favorite doll $$
 ^^ that be right $$
 ^^ what doll be that $$
 ^^ nice doll $$
-^^   be this your favorite doll $$
+^^ is this be this your favorite doll $$
 ^^ what be this doll call $$
 ^^ who be she call $$
 ^^ I have never hear you call her that $$
@@ -3172,7 +3260,7 @@
 ^^ there be your brick $$
 ^^ do you want to build a big tower with your brick $$
 ^^ no $$
-^^  what else be in your box then $$
+^^ er what else be in your box then $$
 ^^ this box $$
 ^^ this box $$
 ^^ there be the juice $$
@@ -3195,6 +3283,8 @@
 ^^ right $$
 ^^ that be for the big baby be not it $$
 ^^ there $$
+^^ a $$
+^^ a $$
 ^^ bottle $$
 ^^ make a fun noise do not it $$
 ^^ what kind of noise do it make $$
@@ -3310,11 +3400,13 @@
 ^^ that be right $$
 ^^ mhm $$
 ^^ that one as_well $$
+^^ www $$
 ^^ right $$
 ^^ be you put Anna tower on top $$
 ^^ good $$
 ^^ do you have to knock it over $$
 ^^ do you $$
+^^ a $$
 ^^ have the tower fall down $$
 ^^ or be it knock down $$
 ^^ who knock it down $$
@@ -3323,6 +3415,7 @@
 ^^ right $$
 ^^ oh there be more of your bread here $$
 ^^ what be that $$
+^^ www $$
 ^^ who be that $$
 ^^ a horse $$
 ^^ actual Ruth $$
@@ -3440,14 +3533,14 @@
 ^^ okay $$
 ^^ you play with these now $$
 ^^ right $$
-^^      shall we get all the card out $$
+^^ shall we get all the shall we get all the card out $$
 ^^ one $$
 ^^ one duck $$
 ^^ two snail $$
 ^^ do you want to put them down there $$
 ^^ see what we can find with three of $$
 ^^ three wiggle worm $$
-^^  five butter $$
+^^ five five butter $$
 ^^ four $$
 ^^ what be they $$
 ^^ be you come back $$
@@ -3461,7 +3554,7 @@
 ^^ oh what be that you be put out $$
 ^^ right $$
 ^^ Ruth $$
-^^    I have get these card ready now $$
+^^ do you wanna I have get these card ready now $$
 ^^ huh $$
 ^^ oh $$
 ^^ be you have trouble $$
@@ -3478,6 +3571,7 @@
 ^^ go go go go go go go go go $$
 ^^ what be you do now $$
 ^^ who be that $$
+^^ www $$
 ^^ what darling $$
 ^^ yes $$
 ^^ right $$
@@ -3486,7 +3580,7 @@
 ^^ there $$
 ^^ how be that $$
 ^^ say thank_you $$
-^^  good girl $$
+^^ a good girl $$
 ^^ oh $$
 ^^ Mummy forget a card $$
 ^^ oh do you want me to hold baba $$
@@ -3518,7 +3612,7 @@
 ^^ okay $$
 ^^ you be go to bring the big box here $$
 ^^ right $$
-^^    shall we build another bridge $$
+^^ shall we build shall we build another bridge $$
 ^^ right $$
 ^^ you need two little piece and one big piece $$
 ^^ mhm $$
@@ -3555,7 +3649,7 @@
 ^^ that be right $$
 ^^ more baba $$
 ^^ you know Ruth $$
-^^    I tell you what $$
+^^ if you put I tell you what $$
 ^^ if you put a baba on top of each_other then you get a real big bridge $$
 ^^ right $$
 ^^ put another baba piece there $$
@@ -3591,6 +3685,8 @@
 ^^ well $$
 ^^ there be another white one $$
 ^^ be it $$
+^^ www $$
+^^ a $$
 ^^ you have get no bridge now $$
 ^^ we be into tower be we more than bridge $$
 ^^ there $$
@@ -3619,7 +3715,7 @@
 ^^ be not me $$
 ^^ no $$
 ^^ be not me $$
-^^     what be it $$
+^^ what did you think what be it $$
 ^^ a spider $$
 ^^ oh $$
 ^^ must have be a spider $$
@@ -3651,7 +3747,7 @@
 ^^ be that right $$
 ^^ he want some more juice $$
 ^^ hungry again $$
-^^ that be a very hungry  little doll $$
+^^ that be a very hungry little little doll $$
 ^^ there $$
 ^^ it be on top $$
 ^^ it be in the box $$
@@ -3674,7 +3770,7 @@
 ^^ mhm $$
 ^^ that be very kind of you share it $$
 ^^ oh can I have some $$
-^^  thank_you $$
+^^ mm thank_you $$
 ^^ she say it be very cold $$
 ^^ she say it be very cold $$
 ^^ I be feed her $$
@@ -3685,7 +3781,7 @@
 ^^ go go go go go go go go go $$
 ^^ there you go $$
 ^^ Ruth $$
-^^  where be Anna fire hat $$
+^^ where's where be Anna fire hat $$
 ^^ where be it $$
 ^^ be it $$
 ^^ do you want to play with it $$
@@ -3695,7 +3791,7 @@
 ^^ that be very nice $$
 ^^ be Anna a fire $$
 ^^ be she $$
-^^  a fire $$
+^^ xxx a fire $$
 ^^ Mummy take it out $$
 ^^ your tea $$
 ^^ I think it be $$
@@ -3710,7 +3806,7 @@
 ^^ there $$
 ^^ oh Ruth $$
 ^^ I do not think Anna can carry that $$
-^^ I think you have  drop it $$
+^^ I think you have er drop it $$
 ^^ can you give it to me $$
 ^^ I think Mummy want it Ruth $$
 ^^ come and give it to Mummy $$
@@ -3746,6 +3842,7 @@
 ^^ do you know what it be $$
 ^^ it be a orange $$
 ^^ be that a nice egg $$
+^^ a $$
 ^^ do you want the baba as_well $$
 ^^ keep it there $$
 ^^ okay $$
@@ -3768,6 +3865,7 @@
 ^^ mhm $$
 ^^ mhm $$
 ^^ it be so annoy be not it $$
+^^ www $$
 ^^ there you go $$
 ^^ have you drop it again $$
 ^^ right $$
@@ -3782,6 +3880,7 @@
 ^^ be she still hungry this baba $$
 ^^ I think probable she be have enough for one day $$
 ^^ oh $$
+^^ a $$
 ^^ be she play $$
 ^^ right $$
 ^^ back with Mummy $$
@@ -3789,7 +3888,7 @@
 ^^ be she go for a sleep now $$
 ^^ whee $$
 ^^ whee $$
-^^ oh be she  her clothes on $$
+^^ oh be she xxx her clothes on $$
 ^^ huh $$
 ^^ which one $$
 ^^ you want this one on $$
@@ -3825,6 +3924,7 @@
 ^^ oh be you sit on the bucket $$
 ^^ go go go go go go go go $$
 ^^ do not fall backwards $$
+^^ a $$
 ^^ you fall forward $$
 ^^ not backwards $$
 ^^ you fall forward $$
@@ -3852,7 +3952,7 @@
 ^^ there $$
 ^^ do you fall forward $$
 ^^ okay $$
-^^  fall backwards $$
+^^ fall fall backwards $$
 ^^ fall backwards $$
 ^^ that be it $$
 ^^ yeah $$
@@ -3874,8 +3974,8 @@
 ^^ go on $$
 ^^ go go go go go go go go go go go go go $$
 ^^ no $$
-^^    no $$
-^^    no $$
+^^ no no no no $$
+^^ no no no no $$
 ^^ be you lean against Mummy $$
 ^^ I have go to sleep $$
 ^^ Ruth $$
@@ -3917,14 +4017,14 @@
 ^^ huh $$
 ^^ mhm $$
 ^^ be it not here $$
-^^  there be some $$
+^^ er there be some $$
 ^^ no $$
-^^  well $$
+^^ a well $$
 ^^ I can not see any $$
 ^^ can you $$
 ^^ there be a tomato $$
 ^^ will that do $$
-^^  no $$
+^^ no no $$
 ^^ never mind $$
 ^^ chicken and chip go together well do not they $$
 ^^ no $$
@@ -3940,7 +4040,7 @@
 ^^ no $$
 ^^ it do not open $$
 ^^ you just have to pretend $$
-^^    do you want the open one $$
+^^ do you want do you want the open one $$
 ^^ I can not find the open one now $$
 ^^ there $$
 ^^ there $$
@@ -3956,6 +4056,6 @@
 ^^ can I have some chip with ketchup on $$
 ^^ oh thank_you $$
 ^^ some more $$
-^^  thank_you $$
+^^ mm thank_you $$
 ^^ that be very nice $$
 ^^ a bit more $$

@@ -33,7 +33,7 @@
 ^^ go to give it a stir $$
 ^^ careful you do not splash it out $$
 ^^ that be a good boy knock the drop off $$
-^^   be that nice $$
+^^ is that be that nice $$
 ^^ can I have some hot please $$
 ^^ can I have some hot in my red $$
 ^^ no $$
@@ -44,7 +44,8 @@
 ^^ well why do not you hand it to Anna then $$
 ^^ I do not think she can reach it down there $$
 ^^ oh thank_you $$
-^^  that be love $$
+^^ mm that be love $$
+^^ mm $$
 ^^ Anna be very thirst be not she $$
 ^^ be you thirst as_well $$
 ^^ can I have some hot please $$
@@ -56,6 +57,7 @@
 ^^ can you blow on it please $$
 ^^ thank_you $$
 ^^ see if that be good $$
+^^ mm $$
 ^^ just right $$
 ^^ oh thank_you $$
 ^^ be it cool for me now $$
@@ -82,7 +84,7 @@
 ^^ one $$
 ^^ oh $$
 ^^ mine do not work $$
-^^  after three again $$
+^^ after after three again $$
 ^^ one $$
 ^^ two what $$
 ^^ how many flower $$
@@ -97,6 +99,7 @@
 ^^ you press as_well do not you $$
 ^^ make a star $$
 ^^ Mummy make a flower $$
+^^ xxx $$
 ^^ yeah $$
 ^^ okay $$
 ^^ now since we can not find the pen $$
@@ -188,7 +191,7 @@
 ^^ shall we have a very wiggle road on this side $$
 ^^ a very bump road $$
 ^^ I that a good idea $$
-^^ you do not want a  real bump road $$
+^^ you do not want a bumpy real bump road $$
 ^^ you just want a bore road $$
 ^^ okay $$
 ^^ if you want a bore road mate you can have a bore road $$
@@ -212,14 +215,14 @@
 ^^ choochoo $$
 ^^ whoo down the bridge $$
 ^^ well that be fun $$
-^^     a coach at one end and a tanker at the other $$
+^^ a coach at the a coach at one end and a tanker at the other $$
 ^^ I have never see anything like that before $$
 ^^ where be they go now $$
 ^^ and Warren $$
 ^^ what do engine always do before they go through under bridge $$
 ^^ they go pooppoop $$
 ^^ well what do Henry say then if he do not say poop $$
-^^ yes  okay $$
+^^ yes Gordon okay $$
 ^^ Gordon say pooppoop $$
 ^^ what do Henry say $$
 ^^ Henry might say peeppeep $$
@@ -231,7 +234,7 @@
 ^^ it be a very long train be not it $$
 ^^ chuffchuff $$
 ^^ he be stop $$
-^^ well what will happen if Henry bring his  truck round $$
+^^ well what will happen if Henry bring his truck truck round $$
 ^^ shall we see what will happen $$
 ^^ oh $$
 ^^ the finger have move $$
@@ -278,7 +281,7 @@
 ^^ chuffchuff $$
 ^^ just stop in time do not he $$
 ^^ it be not that silly ambulance again be it $$
-^^  I do not know what the ambulance drive be think of $$
+^^ what I do not know what the ambulance drive be think of $$
 ^^ oh yeah $$
 ^^ well fine $$
 ^^ it be a good place to park than where he be park before be not it $$
@@ -381,7 +384,7 @@
 ^^ sit on the tiger be back and the tiger turn into a tame animal and go to sleep $$
 ^^ there be super pig $$
 ^^ be they all asleep now $$
-^^ we have not real get anything to use as a blanket  unless we use the doll dress or blouse $$
+^^ we have not real get anything to use as a blanket unless unless we use the doll dress or blouse $$
 ^^ could do $$
 ^^ we could line them all up $$
 ^^ shall we cover them up $$
@@ -426,7 +429,7 @@
 ^^ will not will not will not will not will not will not will not $$
 ^^ even if it knock the gate down it could not fit in because its wheel be too wide $$
 ^^ unless it climb over the top of the wall $$
-^^   I do not think it can $$
+^^ I don't I do not think it can $$
 ^^ I do not realize that be a ambulance $$
 ^^ I think it be a ordinary car $$
 ^^ or be it because it be the panda car $$
@@ -452,9 +455,9 @@
 ^^ well those be the only person that can bath you and put you to bed tonight because Daddy be go away $$
 ^^ so I think it genmod be nice if Paul do $$
 ^^ Paul come and see you the other night do not he $$
-^^ when    you be just have your story $$
+^^ when you'd just gone you be just have your story $$
 ^^ they be be not they $$
-^^   that tiger be go to run away very fast $$
+^^ that lion that tiger be go to run away very fast $$
 ^^ where be it $$
 ^^ where be the tiger go $$
 ^^ grr $$
@@ -463,8 +466,9 @@
 ^^ he be go to bite your nose $$
 ^^ oh $$
 ^^ shall it kiss your nose $$
+^^ mm $$
 ^^ lick your cheek $$
-^^   lick $$
+^^ lick lick lick $$
 ^^ oh no $$
 ^^ you have get a tiger on your knee $$
 ^^ oh $$
@@ -507,11 +511,13 @@
 ^^ right $$
 ^^ the tiger be go to come and frighten the car away $$
 ^^ grr $$
+^^ a $$
 ^^ brumm $$
 ^^ but the car be sneak $$
 ^^ go to come creep back and try and sneak in over the wall here $$
 ^^ but the tiger notice and it be go to come and frighten it away again $$
 ^^ grr $$
+^^ a $$
 ^^ Warren $$
 ^^ do you need your pot $$
 ^^ Warren $$
@@ -543,7 +549,7 @@
 ^^ oh where be all those brick $$
 ^^ oh they be hide underneath the box $$
 ^^ oh yes $$
-^^ oh  here be the Mummy $$
+^^ oh here's here be the Mummy $$
 ^^ be baby tiger go to have a ride on his Mummy back $$
 ^^ baby tiger will fit on you know $$
 ^^ there $$
@@ -612,11 +618,13 @@
 ^^ let us have a look for it $$
 ^^ should be in here somewhere with all the other animal and vehicle $$
 ^^ can not see it $$
+^^ a $$
 ^^ there it be $$
 ^^ little rabbit $$
 ^^ fit on the big rabbit $$
 ^^ have it $$
 ^^ where do it go on the aeroplane $$
+^^ a $$
 ^^ well it be call a beach buggy $$
 ^^ it be a special vehicle that drive on the sand $$
 ^^ because you have get the little trailer $$
@@ -654,7 +662,7 @@
 ^^ be it little rabbit $$
 ^^ have they $$
 ^^ be they $$
-^^   where be the miss rabbit $$
+^^ where are where be the miss rabbit $$
 ^^ on the kitchen door $$
 ^^ I do not think so $$
 ^^ Mummy do not have rabbit there $$
@@ -746,7 +754,7 @@
 ^^ maybe Mummy will have a go at mend it later $$
 ^^ no $$
 ^^ not real $$
-^^ the wheel  be break $$
+^^ the wheel are be break $$
 ^^ that be right $$
 ^^ engine be normal in bonnet $$
 ^^ you see beetle be usual because they have their engine at the back in the boot $$
@@ -788,6 +796,7 @@
 ^^ I shall have word with his Mother I think $$
 ^^ I suppose it could have be bad $$
 ^^ you want another little one $$
+^^ xxx $$
 ^^ we have not get many small vehicle you see $$
 ^^ oh that might fit under $$
 ^^ oh here be a small one $$
@@ -859,7 +868,7 @@
 ^^ I wonder how he get in and out $$
 ^^ what do you mean no $$
 ^^ oh he stay in $$
-^^ this one  make a much good noise $$
+^^ this one much make a much good noise $$
 ^^ much more gentle be not it $$
 ^^ he be go to reverse back $$
 ^^ he do do not he $$
@@ -952,12 +961,13 @@
 ^^ he be the baby tiger be not he $$
 ^^ here be a horse and a dolphin $$
 ^^ whoops $$
-^^ shall we    put the whale on $$
+^^ shall we put the big put the whale on $$
 ^^ you wait here $$
 ^^ you carry on play with the toy sweet $$
 ^^ I will just see who be at the door $$
 ^^ Warren $$
 ^^ shall we stay here $$
+^^ www $$
 ^^ yeah $$
 ^^ Nana and Granddad have just come have not they $$
 ^^ they be wait until Anna be go and then no doubt scrounge a cup of tea $$
@@ -991,6 +1001,7 @@
 ^^ ah $$
 ^^ there be one $$
 ^^ where be the other one $$
+^^ a $$
 ^^ how many now $$
 ^^ rubbish $$
 ^^ rubbish $$
@@ -1009,6 +1020,7 @@
 ^^ what be they talk about $$
 ^^ be they talk about all the animal they can see $$
 ^^ what can you hear $$
+^^ xxx $$
 ^^ I have no idea where it be $$
 ^^ it be a bee or a wasp or a fly or something $$
 ^^ well no $$
@@ -1020,10 +1032,10 @@
 ^^ it might have be that wasp that we see the other day in the bed $$
 ^^ it escape $$
 ^^ very beautiful $$
-^^  wobble $$
-^^  wobble $$
+^^ wobble wobble $$
+^^ wobble wobble $$
 ^^ poor Mummy $$
-^^   oh dear $$
+^^ oh dear oh dear $$
 ^^ you do $$
 ^^ hope there be nothing break in there $$
 ^^ okay $$
@@ -1087,7 +1099,7 @@
 ^^ oh do not break the egg $$
 ^^ it will make a mess on the carpet $$
 ^^ oh $$
-^^ well    there be lot more egg at one point $$
+^^ well there did used there be lot more egg at one point $$
 ^^ mhm $$
 ^^ some seem to have appear $$
 ^^ I think somebody be make omelette with Anna egg $$
@@ -1113,7 +1125,7 @@
 ^^ no $$
 ^^ you do not $$
 ^^ you genmod like a cup $$
-^^  shall we get a cup out_of your tea set $$
+^^ um shall we get a cup out_of your tea set $$
 ^^ you can pour the milk into it $$
 ^^ but we must remember it be your cup and not Anna cup $$
 ^^ she do not take it home with her $$
@@ -1127,6 +1139,7 @@
 ^^ be that nice $$
 ^^ oh thank_you $$
 ^^ love $$
+^^ mm $$
 ^^ fun $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ will not will not will not will not will not will not $$
@@ -1184,6 +1197,6 @@
 ^^ be that a good idea $$
 ^^ shall we leave those in there $$
 ^^ maybe some other child might be surprise as_well when they see strange thing in there $$
-^^ what be this do    in the shop basket $$
+^^ what be this do in the fruit in the shop basket $$
 ^^ where should it be $$
 ^^ oh here $$

@@ -3,7 +3,7 @@
 ^^ what be in there $$
 ^^ what be in there $$
 ^^ what be in there $$
-^^  what be in there $$
+^^ what's what be in there $$
 ^^ what be in there $$
 ^^ what be in there $$
 ^^ what be in there $$
@@ -35,16 +35,18 @@
 ^^ there s $$
 ^^ here a s $$
 ^^ s $$
+^^ xxx $$
 ^^ box $$
 ^^ the box later $$
 ^^ the box later $$
-^^  it be apple box $$
+^^ er it be apple box $$
 ^^ this in the box $$
 ^^ later $$
 ^^ other box $$
 ^^ later other box $$
 ^^ it be the nurse $$
 ^^ apple $$
+^^ xxx $$
 ^^ the apple $$
 ^^ this Mummy $$
 ^^ Mummy $$
@@ -52,7 +54,7 @@
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ Mummy do clock $$
-^^   it be a apple $$
+^^ it's it's it be a apple $$
 ^^ it be a red apple $$
 ^^ where apple go $$
 ^^ where this $$
@@ -99,7 +101,7 @@
 ^^ where it go $$
 ^^ box $$
 ^^ no $$
-^^ that be  $$
+^^ that be xxx $$
 ^^ thank_you $$
 ^^ other box $$
 ^^ another box $$
@@ -107,7 +109,7 @@
 ^^ in the box $$
 ^^ it be a number there $$
 ^^ number there $$
-^^ it be number  $$
+^^ it be number xxx $$
 ^^ x $$
 ^^ Mummy no $$
 ^^ find it $$
@@ -121,6 +123,7 @@
 ^^ I get number three $$
 ^^ I get number three $$
 ^^ three $$
+^^ xxx $$
 ^^ get $$
 ^^ whoops $$
 ^^ wood $$
@@ -135,6 +138,7 @@
 ^^ it be a number one $$
 ^^ it be a x $$
 ^^ two x $$
+^^ xxx $$
 ^^ wood $$
 ^^ a number $$
 ^^ six $$
@@ -149,6 +153,7 @@
 ^^ stick here $$
 ^^ stick number $$
 ^^ yeah $$
+^^ xxx $$
 ^^ the five back $$
 ^^ number two $$
 ^^ number seven back $$
@@ -161,6 +166,7 @@
 ^^ box over there $$
 ^^ it be Mummy $$
 ^^ house $$
+^^ xxx $$
 ^^ what be in there $$
 ^^ what be in there $$
 ^^ what be in there $$
@@ -173,11 +179,13 @@
 ^^ car $$
 ^^ car $$
 ^^ oh $$
+^^ xxx $$
 ^^ go here $$
 ^^ it go $$
 ^^ fix $$
 ^^ it a screw fix $$
 ^^ it screw $$
+^^ xxx $$
 ^^ I go $$
 ^^ behind you $$
 ^^ Mummy $$
@@ -189,11 +197,14 @@
 ^^ gate $$
 ^^ gate $$
 ^^ box $$
+^^ a $$
 ^^ screw $$
 ^^ screw $$
 ^^ right to the top $$
 ^^ it be a man there $$
 ^^ right to the top $$
+^^ xxx $$
+^^ xxx $$
 ^^ whoops $$
 ^^ screw $$
 ^^ screw $$
@@ -218,6 +229,7 @@
 ^^ it be another $$
 ^^ one gate $$
 ^^ go $$
+^^ xxx $$
 ^^ go in there $$
 ^^ my body $$
 ^^ body $$
@@ -225,6 +237,7 @@
 ^^ uhoh $$
 ^^ uhoh $$
 ^^ seat $$
+^^ xxx $$
 ^^ it be drum $$
 ^^ it be a drum $$
 ^^ drum kit $$
@@ -245,6 +258,7 @@
 ^^ box $$
 ^^ box in the car $$
 ^^ the box be in the car $$
+^^ a $$
 ^^ them out $$
 ^^ out $$
 ^^ the floor $$
@@ -265,6 +279,8 @@
 ^^ yeah $$
 ^^ bottom off $$
 ^^ Mummy do it $$
+^^ xxx $$
+^^ a $$
 ^^ asleep $$
 ^^ Mummy it a green one $$
 ^^ green one $$
@@ -318,6 +334,7 @@
 ^^ bread $$
 ^^ what be in Mummy do it $$
 ^^ back $$
+^^ a $$
 ^^ Mummy do it $$
 ^^ Mummy do it $$
 ^^ Mummy the top $$
@@ -325,15 +342,17 @@
 ^^ oh empty $$
 ^^ back $$
 ^^ put it back $$
-^^   piece of bread $$
+^^ piece of piece of bread $$
 ^^ piece of bread $$
 ^^ piece of bread $$
 ^^ ice $$
+^^ mm $$
 ^^ it go $$
 ^^ the top $$
 ^^ oh dear $$
 ^^ oh right $$
 ^^ oh right $$
+^^ mm $$
 ^^ clothes $$
 ^^ oh $$
 ^^ clothes doll $$
@@ -364,6 +383,7 @@
 ^^ top $$
 ^^ yes $$
 ^^ no $$
+^^ xxx $$
 ^^ out $$
 ^^ yes $$
 ^^ apple there $$
@@ -384,11 +404,13 @@
 ^^ hat $$
 ^^ find it $$
 ^^ cymbal $$
+^^ xxx $$
 ^^ yeah $$
 ^^ bell $$
 ^^ guitar this $$
 ^^ and a record $$
 ^^ John $$
+^^ xxx $$
 ^^ this record $$
 ^^ record $$
 ^^ well do John $$
@@ -411,10 +433,11 @@
 ^^ helicopter $$
 ^^ fast $$
 ^^ John $$
+^^ xxx $$
 ^^ drive John $$
 ^^ John $$
 ^^ yeah $$
-^^  Bronwyn $$
+^^ xxx Bronwyn $$
 ^^ this be Bronwyn pizza $$
 ^^ John pick nose $$
 ^^ pick nose $$
@@ -422,6 +445,7 @@
 ^^ get a doll $$
 ^^ my doll $$
 ^^ John doll $$
+^^ xxx $$
 ^^ press it $$
 ^^ the paper $$
 ^^ s $$
@@ -469,7 +493,7 @@
 ^^ break $$
 ^^ what happen $$
 ^^ it phone $$
-^^     box in the car $$
+^^ box in box in box in the car $$
 ^^ box in car $$
 ^^ my tape $$
 ^^ my tape $$
@@ -484,12 +508,14 @@
 ^^ watch $$
 ^^ watch $$
 ^^ watch $$
+^^ xxx $$
 ^^ back the box $$
 ^^ back in box $$
-^^  no $$
+^^ xxx no $$
 ^^ necklace $$
 ^^ necklace $$
 ^^ white one $$
+^^ xxx $$
 ^^ necklace $$
 ^^ Mummy necklace $$
 ^^ Mummy do it $$
@@ -498,7 +524,8 @@
 ^^ this for Mummy $$
 ^^ yellow $$
 ^^ that be a fire $$
-^^ get a  $$
+^^ xxx $$
+^^ get a xxx $$
 ^^ two $$
 ^^ here you go $$
 ^^ here you go $$
@@ -517,6 +544,7 @@
 ^^ I get John $$
 ^^ where tower $$
 ^^ where be tower $$
+^^ xxx $$
 ^^ box $$
 ^^ box $$
 ^^ box $$
@@ -549,6 +577,7 @@
 ^^ yellow $$
 ^^ behind you $$
 ^^ yellow one $$
+^^ xxx $$
 ^^ this one $$
 ^^ yes $$
 ^^ oh yeah $$
@@ -655,6 +684,7 @@
 ^^ eat tea $$
 ^^ tea $$
 ^^ car $$
+^^ xxx $$
 ^^ it be the panda $$
 ^^ hello $$
 ^^ hello $$
@@ -671,6 +701,7 @@
 ^^ baby one $$
 ^^ ice $$
 ^^ ice $$
+^^ mm $$
 ^^ it be mean it to be stick $$
 ^^ stick $$
 ^^ stick $$
@@ -687,6 +718,8 @@
 ^^ Mummy there $$
 ^^ Mummy coffee $$
 ^^ Mummy $$
+^^ xxx $$
+^^ xxx $$
 ^^ porridge $$
 ^^ porridge $$
 ^^ porridge $$
@@ -730,6 +763,7 @@
 ^^ giraffe $$
 ^^ giraffe $$
 ^^ giraffe $$
+^^ a $$
 ^^ lemon $$
 ^^ lemon $$
 ^^ taste $$
@@ -738,6 +772,7 @@
 ^^ cake $$
 ^^ a sausage $$
 ^^ sausage $$
+^^ a $$
 ^^ there you go $$
 ^^ there you go $$
 ^^ there you go $$
@@ -752,12 +787,14 @@
 ^^ ah $$
 ^^ cushion $$
 ^^ there you go $$
+^^ xxx $$
 ^^ there be two doll $$
 ^^ two doll $$
-^^  this John doll $$
+^^ a this John doll $$
 ^^ and Mummy doll $$
 ^^ and this my doll $$
 ^^ it cheek one $$
+^^ xxx $$
 ^^ there you go $$
 ^^ here you go $$
 ^^ no $$
@@ -779,12 +816,14 @@
 ^^ screw $$
 ^^ screw $$
 ^^ here you go $$
-^^ doll  $$
+^^ doll xxx $$
 ^^ in train $$
+^^ a $$
 ^^ doll sleep $$
 ^^ doll sleep $$
 ^^ doll be sleep $$
 ^^ doll be sleep $$
+^^ xxx $$
 ^^ a sneeze $$
 ^^ the phone $$
 ^^ phone Granny $$
@@ -801,6 +840,7 @@
 ^^ sit down $$
 ^^ sit down $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yellow hat $$
 ^^ I want hat on $$
 ^^ hat on $$
@@ -859,6 +899,7 @@
 ^^ no $$
 ^^ no go there $$
 ^^ no this $$
+^^ xxx $$
 ^^ that giraffe $$
 ^^ there giraffe $$
 ^^ that be a s $$
@@ -866,7 +907,7 @@
 ^^ tiny s $$
 ^^ s $$
 ^^ draw a small s $$
-^^ want  more s $$
+^^ want another more s $$
 ^^ m $$
 ^^ o $$
 ^^ ten $$
@@ -875,13 +916,15 @@
 ^^ number $$
 ^^ number $$
 ^^ number $$
+^^ xxx $$
 ^^ two $$
 ^^ more two $$
 ^^ a s Dad $$
-^^ I have some more  $$
+^^ I have some more xxx $$
 ^^ blue $$
 ^^ blue $$
 ^^ k $$
+^^ xxx $$
 ^^ x $$
 ^^ c $$
 ^^ f $$
@@ -910,6 +953,7 @@
 ^^ ten $$
 ^^ I get some more ten $$
 ^^ and draw that $$
+^^ xxx $$
 ^^ I get this $$
 ^^ rabbit dance $$
 ^^ it dance $$
@@ -924,7 +968,10 @@
 ^^ again $$
 ^^ up again $$
 ^^ o $$
+^^ xxx $$
 ^^ too big $$
+^^ xxx $$
+^^ xxx $$
 ^^ man stick drive $$
 ^^ crane $$
 ^^ crane $$
@@ -938,10 +985,10 @@
 ^^ sit down $$
 ^^ sit down the crane $$
 ^^ crane $$
-^^ get some  $$
+^^ get some xxx $$
 ^^ black $$
 ^^ black $$
-^^ make  a big tower $$
+^^ make a a big tower $$
 ^^ seat $$
 ^^ seat $$
 ^^ seat $$
@@ -959,6 +1006,7 @@
 ^^ yeah $$
 ^^ man not want the wheel $$
 ^^ I not like the wheel $$
+^^ xxx $$
 ^^ Daddy $$
 ^^ Daddy $$
 ^^ this be seat $$
@@ -969,12 +1017,13 @@
 ^^ cameraman $$
 ^^ ah $$
 ^^ man sit down $$
-^^ man  $$
+^^ man xxx $$
 ^^ oh $$
 ^^ uhoh $$
 ^^ straight up $$
 ^^ straight up $$
 ^^ arm straight up $$
+^^ xxx $$
 ^^ the candle $$
 ^^ the candle $$
 ^^ I get book with the candle $$
@@ -1002,23 +1051,25 @@
 ^^ it be black one $$
 ^^ cymbal $$
 ^^ guitar $$
+^^ xxx $$
 ^^ happy_birthday $$
 ^^ teddy $$
 ^^ and there be the tower $$
 ^^ that like John $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ it be a baby $$
 ^^ it be another tower $$
 ^^ another baby $$
-^^ what  to you $$
+^^ what xxx to you $$
 ^^ tortoise $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ two $$
 ^^ that $$
 ^^ neenaw $$
 ^^ neenaw $$
 ^^ dig $$
 ^^ train $$
+^^ xxx $$
 ^^ whee $$
 ^^ and go in there $$
 ^^ dig $$
@@ -1027,7 +1078,8 @@
 ^^ hello John $$
 ^^ that John $$
 ^^ two bike $$
-^^ I get  $$
+^^ xxx $$
+^^ I get xxx $$
 ^^ wheel $$
 ^^ I see a wheel $$
 ^^ that be a record $$
@@ -1037,12 +1089,15 @@
 ^^ tambourine $$
 ^^ tambourine $$
 ^^ press it $$
+^^ xxx $$
 ^^ not tire $$
 ^^ there be a baby $$
 ^^ there be a $$
 ^^ where be the record $$
 ^^ want see the drive $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ tambourine there $$
 ^^ tambourine $$
 ^^ tambourine $$
@@ -1060,6 +1115,7 @@
 ^^ Daddy $$
 ^^ Mum $$
 ^^ uhoh $$
+^^ xxx $$
 ^^ tiger $$
 ^^ tiger $$
 ^^ shoe $$
@@ -1077,9 +1133,9 @@
 ^^ dress back on $$
 ^^ dress $$
 ^^ back on $$
-^^  make it $$
-^^  need this $$
-^^  big one $$
+^^ xxx make it $$
+^^ xxx need this $$
+^^ a big one $$
 ^^ a small one $$
 ^^ here you be $$
 ^^ no $$
@@ -1109,12 +1165,12 @@
 ^^ lid $$
 ^^ lid on $$
 ^^ grape $$
-^^  this ice $$
+^^ this this ice $$
 ^^ here $$
 ^^ tomato $$
 ^^ it be in there $$
 ^^ it be in there $$
-^^  it be in there $$
+^^ it's it be in there $$
 ^^ it be in there $$
 ^^ it be in there $$
 ^^ it be in there $$
@@ -1127,6 +1183,7 @@
 ^^ top $$
 ^^ too big $$
 ^^ too big $$
+^^ xxx $$
 ^^ straight up $$
 ^^ straight up $$
 ^^ oh yes $$
@@ -1138,6 +1195,7 @@
 ^^ get it $$
 ^^ Anna do it $$
 ^^ that be me $$
+^^ xxx $$
 ^^ yeah $$
 ^^ that be small me $$
 ^^ that be big me $$
@@ -1154,11 +1212,14 @@
 ^^ another one $$
 ^^ another $$
 ^^ that $$
+^^ xxx $$
 ^^ that one $$
 ^^ that page $$
 ^^ lorry $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ that be like John bike $$
 ^^ yeah $$
 ^^ like that $$
@@ -1169,7 +1230,7 @@
 ^^ where my bike $$
 ^^ where be $$
 ^^ in the garden $$
-^^  in the garden $$
+^^ xxx in the garden $$
 ^^ it upstairs $$
 ^^ upstairs $$
 ^^ it be upstairs $$
@@ -1187,7 +1248,7 @@
 ^^ I get these $$
 ^^ I play $$
 ^^ Anna do it $$
-^^ what be  $$
+^^ what be xxx $$
 ^^ duck $$
 ^^ they go in there $$
 ^^ oh $$
@@ -1195,10 +1256,11 @@
 ^^ there $$
 ^^ what do there cat $$
 ^^ what do the cat $$
+^^ xxx $$
 ^^ watch $$
 ^^ Santa_Claus $$
 ^^ Santa_Claus $$
-^^ it be another  $$
+^^ it be another xxx $$
 ^^ drum $$
 ^^ one $$
 ^^ another one $$

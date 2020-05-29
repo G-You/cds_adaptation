@@ -104,8 +104,9 @@
 ^^ mine $$
 ^^ all_gone $$
 ^^ all_gone $$
-^^ my  in it $$
-^^ it look  $$
+^^ my xxx in it $$
+^^ xxx $$
+^^ it look xxx $$
 ^^ monkey $$
 ^^ tail $$
 ^^ tail $$
@@ -134,7 +135,7 @@
 ^^ yellow $$
 ^^ panda $$
 ^^ panda $$
-^^ Spot  $$
+^^ Spot xxx $$
 ^^ teddy $$
 ^^ teddy $$
 ^^ teddy $$
@@ -208,6 +209,7 @@
 ^^ orange $$
 ^^ one $$
 ^^ blue $$
+^^ xxx $$
 ^^ pink $$
 ^^ pink $$
 ^^ and the red $$
@@ -252,6 +254,7 @@
 ^^ yeah $$
 ^^ monkey $$
 ^^ monkey $$
+^^ xxx $$
 ^^ run $$
 ^^ no $$
 ^^ Squonk $$
@@ -304,6 +307,7 @@
 ^^ row row row $$
 ^^ seesaw $$
 ^^ seesaw $$
+^^ xxx $$
 ^^ wee $$
 ^^ not $$
 ^^ mine $$
@@ -404,6 +408,7 @@
 ^^ Daddy $$
 ^^ move $$
 ^^ Liz do it $$
+^^ a $$
 ^^ pen $$
 ^^ no $$
 ^^ there $$
@@ -514,6 +519,7 @@
 ^^ no want it $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ wee $$
 ^^ not $$
 ^^ shut door $$
@@ -529,6 +535,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ hello $$
+^^ xxx $$
 ^^ back again $$
 ^^ back again $$
 ^^ poo $$

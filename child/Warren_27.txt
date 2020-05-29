@@ -12,9 +12,14 @@
 ^^ yes $$
 ^^ boat $$
 ^^ boat $$
-^^  song $$
+^^ um song $$
 ^^ song $$
 ^^ Warren fall down $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yes $$
 ^^ the doctor $$
 ^^ doctor $$
@@ -26,8 +31,9 @@
 ^^ jump in the tree $$
 ^^ monkey $$
 ^^ one monkey $$
-^^ Warren put my foot on  my box $$
+^^ Warren put my foot on my my box $$
 ^^ kick $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
@@ -43,6 +49,7 @@
 ^^ Henry tend $$
 ^^ look at Henry $$
 ^^ Henry tend $$
+^^ xxx $$
 ^^ yes $$
 ^^ yes $$
 ^^ not this $$
@@ -50,7 +57,7 @@
 ^^ not this $$
 ^^ Henry go on bump road $$
 ^^ bump $$
-^^ he go on   this bump that one $$
+^^ he go on that bumpy this bump that one $$
 ^^ put the wall $$
 ^^ put the wall in there $$
 ^^ Mummy $$
@@ -63,14 +70,14 @@
 ^^ that wall stop train come out $$
 ^^ keep in the tunnel $$
 ^^ it be rain $$
-^^  Henry $$
+^^ xxx Henry $$
 ^^ Henry $$
 ^^ Henry come out $$
 ^^ stay in the tunnel $$
 ^^ it be rain $$
 ^^ yeah $$
 ^^ no $$
-^^     Gordon be go in there $$
+^^ Gordon's gone in the Gordon be go in there $$
 ^^ Gordon be go in there $$
 ^^ there be Henry come out $$
 ^^ more train $$
@@ -97,6 +104,7 @@
 ^^ this be the wrong way $$
 ^^ the wrong way $$
 ^^ it be here just there $$
+^^ xxx $$
 ^^ Warren knock it down again $$
 ^^ Warren knock it again $$
 ^^ knock it down $$
@@ -117,21 +125,21 @@
 ^^ Mummy make it again $$
 ^^ another one $$
 ^^ no $$
-^^    there $$
+^^ there there there there $$
 ^^ make a road $$
 ^^ make ramp the station $$
 ^^ make the ramp $$
 ^^ make the ramp $$
 ^^ this join the road $$
 ^^ make big road $$
-^^  the road $$
+^^ xxx the road $$
 ^^ the top $$
 ^^ the top road $$
-^^ make a  again $$
+^^ make a xxx again $$
 ^^ make a tower $$
 ^^ make a tower $$
 ^^ there be Warren station $$
-^^  station $$
+^^ xxx station $$
 ^^ Henry be come $$
 ^^ he be get his coach in there $$
 ^^ I knock it down $$
@@ -167,21 +175,22 @@
 ^^ yes $$
 ^^ in the box $$
 ^^ no not $$
-^^  train $$
+^^ xxx train $$
 ^^ where that van go $$
 ^^ where the train $$
 ^^ where the train $$
+^^ xxx $$
 ^^ that $$
 ^^ that $$
-^^ that  $$
+^^ that xxx $$
 ^^ the train $$
 ^^ Henry be push the train $$
 ^^ Henry be go in his tunnel $$
-^^ oh  oh dear $$
+^^ oh dear oh dear $$
 ^^ oh $$
 ^^ Henry tunnel fall down $$
 ^^ oh dear me $$
-^^ it be  down $$
+^^ it be xxx down $$
 ^^ let us make a $$
 ^^ yeah $$
 ^^ down $$
@@ -200,7 +209,7 @@
 ^^ want a wall at the front $$
 ^^ no $$
 ^^ this the wrong way $$
-^^  be that way $$
+^^ xxx be that way $$
 ^^ oh dear $$
 ^^ my bump road be come off $$
 ^^ oh dear $$
@@ -214,6 +223,7 @@
 ^^ the bump road away $$
 ^^ yes $$
 ^^ put the bump road away $$
+^^ xxx $$
 ^^ put it away $$
 ^^ put it away $$
 ^^ gentle $$
@@ -246,12 +256,13 @@
 ^^ Warren find another one $$
 ^^ another one $$
 ^^ another one $$
+^^ xxx $$
 ^^ another one $$
 ^^ get two Land_Rovers $$
 ^^ no $$
 ^^ no $$
 ^^ on Mummy $$
-^^  no $$
+^^ no no $$
 ^^ want Daddy $$
 ^^ I want Daddy $$
 ^^ I want my Daddy $$
@@ -320,17 +331,19 @@
 ^^ hot tea $$
 ^^ Warren have a straw $$
 ^^ no $$
+^^ xxx $$
 ^^ I want make animal $$
 ^^ want get down $$
-^^   on the fire $$
+^^ on the on the fire $$
 ^^ put it on the fire $$
+^^ xxx $$
 ^^ Warren put it on the carpet $$
 ^^ no $$
 ^^ on the fire $$
 ^^ no $$
 ^^ on the guard $$
 ^^ no $$
-^^ put it on  $$
+^^ put it on xxx $$
 ^^ no $$
 ^^ on the chair $$
 ^^ I bang $$
@@ -344,6 +357,7 @@
 ^^ oh $$
 ^^ it be all_gone $$
 ^^ Warren tip it all out $$
+^^ xxx $$
 ^^ climb in the box $$
 ^^ wobble $$
 ^^ box $$
@@ -356,6 +370,7 @@
 ^^ put these trouser on $$
 ^^ where be doll go $$
 ^^ where be doll $$
+^^ xxx $$
 ^^ oh no $$
 ^^ oh there $$
 ^^ hello $$
@@ -384,9 +399,10 @@
 ^^ come off $$
 ^^ off $$
 ^^ hello $$
-^^ where be  $$
-^^ where be  $$
-^^ where be  $$
+^^ where be xxx $$
+^^ where be xxx $$
+^^ where be xxx $$
+^^ xxx $$
 ^^ find the door $$
 ^^ where that man $$
 ^^ get a man $$
@@ -409,7 +425,7 @@
 ^^ put it sit there $$
 ^^ there $$
 ^^ put the baby tiger $$
-^^  put that baby tiger the roof $$
+^^ put put that baby tiger the roof $$
 ^^ find another man $$
 ^^ another man $$
 ^^ man man man man $$
@@ -426,8 +442,8 @@
 ^^ a ginger $$
 ^^ ginger pig $$
 ^^ a goat $$
-^^  go there $$
-^^ a  baby chicken $$
+^^ xxx go there $$
+^^ a baby baby chicken $$
 ^^ baby chick $$
 ^^ look at the baby duck $$
 ^^ chick $$
@@ -473,6 +489,7 @@
 ^^ that one go on that one $$
 ^^ yeah $$
 ^^ he ride it $$
+^^ xxx $$
 ^^ Henry water $$
 ^^ Henry $$
 ^^ look $$
@@ -480,6 +497,7 @@
 ^^ look $$
 ^^ look $$
 ^^ udder $$
+^^ xxx $$
 ^^ get it off $$
 ^^ take that one off $$
 ^^ where be that other one $$
@@ -496,9 +514,9 @@
 ^^ he go on there $$
 ^^ there $$
 ^^ hello $$
-^^  on there $$
+^^ xxx on there $$
 ^^ get two $$
-^^  off $$
+^^ xxx off $$
 ^^ that one go off there $$
 ^^ no $$
 ^^ no $$
@@ -508,8 +526,10 @@
 ^^ one three four five $$
 ^^ one two $$
 ^^ one two four five $$
+^^ xxx $$
 ^^ it be on this $$
 ^^ on this $$
+^^ xxx $$
 ^^ yes $$
 ^^ thank_you Anna $$
 ^^ thank_you Anna $$
@@ -528,6 +548,7 @@
 ^^ yeah $$
 ^^ put his trouser $$
 ^^ velcro $$
+^^ xxx $$
 ^^ that one go in there $$
 ^^ that one go in there $$
 ^^ oh $$
@@ -550,7 +571,7 @@
 ^^ monkey be go off $$
 ^^ want peace and quiet $$
 ^^ yes $$
-^^  fit $$
+^^ xxx fit $$
 ^^ no $$
 ^^ Warren keep it on the carpet $$
 ^^ Warren keep it on the carpet $$
@@ -563,6 +584,7 @@
 ^^ put away now $$
 ^^ oh the bad drive $$
 ^^ the drive drive $$
+^^ xxx $$
 ^^ give him some medicine $$
 ^^ give him some medicine $$
 ^^ give him some medicine $$
@@ -581,6 +603,7 @@
 ^^ pull that $$
 ^^ that go there $$
 ^^ there $$
+^^ xxx $$
 ^^ put this drive on $$
 ^^ drive the train $$
 ^^ put the drive $$
@@ -597,8 +620,9 @@
 ^^ that teddy do $$
 ^^ it do whee $$
 ^^ teddy be do wiggle wiggle wiggle $$
-^^ this  go $$
+^^ this go go $$
 ^^ put this his basket $$
+^^ a $$
 ^^ I have another one $$
 ^^ put it back in $$
 ^^ back it in $$
@@ -612,13 +636,14 @@
 ^^ a man $$
 ^^ oh $$
 ^^ I find that one $$
+^^ xxx $$
 ^^ that man go on the back $$
 ^^ go on the back $$
 ^^ now Warren find baby tiger $$
 ^^ look $$
 ^^ he be on the back $$
 ^^ two man $$
-^^   that go in the back $$
+^^ that that that go in the back $$
 ^^ there be on the front $$
 ^^ yes $$
 ^^ ready to go $$
@@ -635,6 +660,7 @@
 ^^ make it good $$
 ^^ Mummy a drink $$
 ^^ baby tiger saucer $$
+^^ xxx $$
 ^^ yes $$
 ^^ no $$
 ^^ there $$
@@ -644,10 +670,11 @@
 ^^ Warren put it out $$
 ^^ Warren do $$
 ^^ Warren go $$
-^^  go $$
+^^ xxx go $$
 ^^ he want to go pop $$
 ^^ Warren want to go pop $$
 ^^ go wiggle wiggle $$
+^^ xxx $$
 ^^ Warren want to do it $$
 ^^ I want to pull that piece out $$
 ^^ yes $$
@@ -681,6 +708,7 @@
 ^^ polar bear be in the truck $$
 ^^ get my money $$
 ^^ get my money $$
+^^ xxx $$
 ^^ he go back and get some more money $$
 ^^ get some more money $$
 ^^ he be come off $$
@@ -703,8 +731,9 @@
 ^^ the park $$
 ^^ he be stand in the mud and the water $$
 ^^ this play the water and ride in the park $$
+^^ xxx $$
 ^^ the man $$
-^^  Warren mend that lady again $$
+^^ Warren Warren mend that lady again $$
 ^^ no $$
 ^^ Mummy mend it again $$
 ^^ no $$
@@ -717,7 +746,7 @@
 ^^ see you tomorrow $$
 ^^ he be off the park $$
 ^^ he be off $$
-^^    he be go the park later tomorrow $$
+^^ he's going off he be go the park later tomorrow $$
 ^^ park tomorrow $$
 ^^ peeppeep $$
 ^^ want a trailer $$
@@ -726,7 +755,7 @@
 ^^ two trailer $$
 ^^ sometimes that go on $$
 ^^ snap on the trailer $$
-^^   get five trailer $$
+^^ got got get five trailer $$
 ^^ he have a drink $$
 ^^ sip $$
 ^^ five $$
@@ -734,18 +763,18 @@
 ^^ some oil $$
 ^^ make it oil up $$
 ^^ get five $$
-^^ that one   have nothing to eat $$
+^^ that one have have have nothing to eat $$
 ^^ have nothing to eat $$
 ^^ yes $$
-^^  pie $$
+^^ xxx pie $$
 ^^ get a pie $$
 ^^ have a brown sauce $$
 ^^ okay $$
 ^^ my tea set $$
 ^^ rest of my tea set out $$
 ^^ want my tea set $$
-^^ my  $$
-^^  get cake and munch the cake $$
+^^ my xxx $$
+^^ get get cake and munch the cake $$
 ^^ I get box $$
 ^^ where that tea go $$
 ^^ here $$
@@ -761,13 +790,13 @@
 ^^ okay $$
 ^^ Mummy cup of tea okay $$
 ^^ the tea $$
-^^  tea $$
-^^ get  hot tea $$
+^^ xxx tea $$
+^^ get xxx hot tea $$
 ^^ it be hot $$
 ^^ I want get a cup of tea $$
 ^^ yes $$
 ^^ that one $$
-^^  that $$
+^^ xxx that $$
 ^^ yes $$
 ^^ have a piece of cake $$
 ^^ give Anna hot coffee $$
@@ -777,15 +806,16 @@
 ^^ tip it all out $$
 ^^ get chocolate $$
 ^^ oh what a mess $$
+^^ xxx $$
 ^^ there be milk $$
-^^ there be milk  in the bowl $$
+^^ there be milk in in the bowl $$
 ^^ milk in the bowl $$
 ^^ it be milk $$
 ^^ need try and make it warm $$
 ^^ make it $$
 ^^ put milk on $$
 ^^ make it warm $$
-^^  this cool a minute a bit hot a minute $$
+^^ this this cool a minute a bit hot a minute $$
 ^^ okay $$
 ^^ try it $$
 ^^ yes $$
@@ -818,8 +848,8 @@
 ^^ Anna have cup of tea $$
 ^^ tea this time $$
 ^^ have a drink $$
-^^  in the box $$
-^^  there $$
+^^ xxx in the box $$
+^^ xxx there $$
 ^^ oh there it be $$
 ^^ just there $$
 ^^ just there $$
@@ -857,19 +887,20 @@
 ^^ yes $$
 ^^ get the drive $$
 ^^ yes $$
-^^  there be a cab $$
+^^ there's there be a cab $$
 ^^ there be the cab $$
 ^^ Bertie $$
 ^^ yes $$
 ^^ yes $$
 ^^ Bulgie $$
-^^ he be  just there over the mountain $$
+^^ he be just just there over the mountain $$
 ^^ yes $$
 ^^ he stick on the bridge $$
 ^^ on the bridge again $$
 ^^ there be a mountain again $$
 ^^ there be a mountain again $$
 ^^ there be a tunnel there $$
+^^ xxx $$
 ^^ it make a fun noise $$
 ^^ there Bulgie again $$
 ^^ Bertie $$
@@ -888,13 +919,14 @@
 ^^ he be asleep $$
 ^^ grr $$
 ^^ he be wake up $$
-^^  again $$
+^^ xxx again $$
 ^^ grr $$
 ^^ me find a train $$
 ^^ I find that train $$
-^^ there be that  $$
+^^ there be that xxx $$
 ^^ there be that $$
 ^^ that baby tiger in my box $$
+^^ xxx $$
 ^^ there be a post $$
 ^^ there be a post $$
 ^^ there be a post $$
@@ -957,8 +989,8 @@
 ^^ Warren want to read it again $$
 ^^ there $$
 ^^ on the road $$
-^^  on path $$
-^^ train  on track $$
+^^ on on path $$
+^^ train on on track $$
 ^^ on track $$
 ^^ Warren want to read that $$
 ^^ his name $$
@@ -970,10 +1002,10 @@
 ^^ there be a pig $$
 ^^ red and blue $$
 ^^ it be just pink $$
-^^   boing $$
+^^ boing boing boing $$
 ^^ there be one trailer there $$
 ^^ just find a trailer $$
-^^  line $$
+^^ xxx line $$
 ^^ passenger $$
 ^^ crash $$
 ^^ it be go that way $$
@@ -993,9 +1025,11 @@
 ^^ that way $$
 ^^ want that way $$
 ^^ want it that way $$
+^^ xxx $$
 ^^ where that another one $$
 ^^ where that another one $$
 ^^ go $$
+^^ xxx $$
 ^^ chuffchuff $$
 ^^ choochoo $$
 ^^ I get another one $$
@@ -1003,7 +1037,7 @@
 ^^ want to make a tower $$
 ^^ the brick $$
 ^^ make a tower $$
-^^  cross that bridge $$
+^^ cross cross that bridge $$
 ^^ Warren cross the bridge $$
 ^^ Warren cross this $$
 ^^ have a big house $$
@@ -1036,27 +1070,28 @@
 ^^ where baby tiger $$
 ^^ no $$
 ^^ just there on the box $$
+^^ xxx $$
 ^^ that here $$
 ^^ go there $$
 ^^ just there $$
-^^    boing $$
+^^ boing boing boing boing $$
 ^^ one two three four $$
 ^^ one two three $$
 ^^ put on the back again $$
-^^  back on again $$
-^^  on a $$
+^^ xxx back on again $$
+^^ xxx on a $$
 ^^ man go on the brick $$
 ^^ man go on there $$
 ^^ man go on that $$
 ^^ okay $$
 ^^ one $$
 ^^ they have a rest $$
-^^    boing $$
+^^ boing boing boing boing $$
 ^^ three $$
 ^^ two man on the bounce $$
 ^^ one two three $$
-^^   boing $$
-^^   boing $$
+^^ boing boing boing $$
+^^ boing boing boing $$
 ^^ oh dear $$
 ^^ put him back on again $$
 ^^ that fall over $$
@@ -1087,7 +1122,7 @@
 ^^ go on there $$
 ^^ penguin $$
 ^^ yes $$
-^^ he be in the  $$
+^^ he be in the xxx $$
 ^^ he be in the ride trailer $$
 ^^ brumm $$
 ^^ it stop $$
@@ -1099,7 +1134,7 @@
 ^^ train whistle $$
 ^^ peeppeep $$
 ^^ go whistle $$
-^^ that be go  $$
+^^ that be go xxx $$
 ^^ get some water in there $$
 ^^ that be get to go peeppeep $$
 ^^ oh that toy the train $$
@@ -1121,12 +1156,12 @@
 ^^ yuck $$
 ^^ yuck $$
 ^^ all out $$
-^^  these  $$
+^^ xxx these xxx $$
 ^^ Warren just bang my little toe $$
 ^^ mix $$
 ^^ mix $$
 ^^ on my knee $$
-^^  on my knee $$
+^^ xxx on my knee $$
 ^^ Warren leave it on the path $$
 ^^ leave it $$
 ^^ my knee stick $$
@@ -1138,10 +1173,12 @@
 ^^ want Daddy $$
 ^^ want Daddy $$
 ^^ yes $$
+^^ xxx $$
 ^^ pink $$
 ^^ I want get it out $$
+^^ xxx $$
 ^^ that one $$
-^^  that one sick $$
+^^ xxx that one sick $$
 ^^ make a plane $$
 ^^ yeah $$
 ^^ oh crikey $$
@@ -1151,21 +1188,25 @@
 ^^ Warren just cut it out $$
 ^^ there it be $$
 ^^ there it be $$
-^^  that plane $$
+^^ xxx that plane $$
 ^^ I want put it $$
 ^^ in the sky $$
-^^ it be  on the plane $$
-^^ it be  on the plane $$
+^^ it be xxx on the plane $$
+^^ it be xxx on the plane $$
 ^^ it go whiz $$
+^^ xxx $$
 ^^ there on the plane $$
 ^^ there on the plane $$
 ^^ aeroplane $$
 ^^ brumm $$
 ^^ yes $$
+^^ xxx $$
 ^^ it big enough $$
 ^^ I want to have it $$
 ^^ Warren roll it a bit $$
 ^^ yes $$
+^^ xxx $$
+^^ xxx $$
 ^^ where Granny $$
 ^^ want poke my finger $$
 ^^ want poke Granny out $$
@@ -1179,11 +1220,12 @@
 ^^ make a plane $$
 ^^ yeah $$
 ^^ get a aeroplane $$
+^^ xxx $$
 ^^ brumm $$
 ^^ Malta $$
 ^^ on the plane $$
 ^^ the plane $$
-^^  on the plane $$
+^^ xxx on the plane $$
 ^^ cow on the plane $$
 ^^ yes $$
 ^^ yes $$
@@ -1208,13 +1250,15 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ van go to Malta $$
 ^^ van go Malta $$
+^^ xxx $$
 ^^ van go Malta $$
 ^^ yes $$
 ^^ it be bit hard $$
 ^^ yes $$
+^^ xxx $$
 ^^ it be not small $$
 ^^ yes $$
 ^^ please $$
@@ -1223,7 +1267,7 @@
 ^^ it too hard $$
 ^^ it too hard Warren do it $$
 ^^ there be a big piece $$
-^^  out $$
+^^ xxx out $$
 ^^ prod my finger $$
 ^^ Warren squash it $$
 ^^ want to squash it $$
@@ -1231,11 +1275,13 @@
 ^^ make another van $$
 ^^ I want to squash it $$
 ^^ make another van now $$
+^^ xxx $$
 ^^ in the pot $$
 ^^ I take his wheel off $$
 ^^ I take his wheel off $$
 ^^ yes $$
 ^^ hey that bang $$
+^^ xxx $$
 ^^ bye $$
 ^^ oh $$
 ^^ what be happen $$
@@ -1244,6 +1290,7 @@
 ^^ have a ride $$
 ^^ there be a car $$
 ^^ a car $$
+^^ xxx $$
 ^^ this do not fit in there $$
 ^^ Granny on the $$
 ^^ yes $$
@@ -1251,15 +1298,16 @@
 ^^ that be Granny there $$
 ^^ no $$
 ^^ that be a lady $$
-^^   this call Daddy $$
+^^ this called this call Daddy $$
 ^^ this call Mummy $$
+^^ xxx $$
 ^^ Malta $$
 ^^ Malta $$
 ^^ go to Malta $$
 ^^ it be go Malta $$
 ^^ beepbeep $$
 ^^ choochoo $$
-^^  that be Granny $$
+^^ that's that be Granny $$
 ^^ lady $$
 ^^ Daddy $$
 ^^ yes $$
@@ -1273,18 +1321,20 @@
 ^^ no $$
 ^^ I do not know $$
 ^^ think maybe me prod out $$
+^^ xxx $$
 ^^ that one $$
 ^^ rhino $$
 ^^ it be a rhino $$
 ^^ two rhino $$
+^^ xxx $$
 ^^ hippo $$
 ^^ maybe make a bus $$
 ^^ I go press out a bus $$
 ^^ maybe $$
 ^^ this $$
-^^ it be  have a ride $$
+^^ it be have have a ride $$
 ^^ it be have a ride $$
-^^  ride $$
+^^ xxx ride $$
 ^^ that be have a ride $$
 ^^ beepbeep $$
 ^^ there be a bus $$
@@ -1295,14 +1345,15 @@
 ^^ Malta $$
 ^^ no $$
 ^^ she stay on the plane $$
-^^ get a  $$
+^^ get a xxx $$
 ^^ soft stuff have a ride $$
-^^ it be a  $$
+^^ it be a xxx $$
+^^ xxx $$
 ^^ Malta $$
 ^^ yes $$
 ^^ in plane $$
 ^^ yes $$
-^^ in the  $$
+^^ in the xxx $$
 ^^ he drive $$
 ^^ there be a car $$
 ^^ Warren find that car $$
@@ -1311,20 +1362,21 @@
 ^^ yes $$
 ^^ will not will not will not will not will not will not $$
 ^^ he be go in $$
+^^ xxx $$
 ^^ that be baby Jesus $$
 ^^ baby Warren $$
 ^^ that be Daddy $$
-^^  baby Jesus $$
+^^ in baby Jesus $$
 ^^ Granddad make $$
 ^^ I want to look in there $$
 ^^ want to take all out $$
 ^^ that be go in there $$
 ^^ this go in there $$
 ^^ red and blue $$
-^^ man   fit in there $$
+^^ man go in fit in there $$
 ^^ last one fit in there $$
 ^^ baby Jesus $$
-^^  fit in there $$
+^^ xxx fit in there $$
 ^^ one three four five $$
 ^^ lock in there like that $$
 ^^ lock $$
@@ -1338,7 +1390,7 @@
 ^^ tip it all out $$
 ^^ look all picture $$
 ^^ this fit in there $$
-^^  fit in there $$
+^^ xxx fit in there $$
 ^^ this go in there $$
 ^^ this do $$
 ^^ man the baby $$
@@ -1350,21 +1402,24 @@
 ^^ yes $$
 ^^ it be lock it $$
 ^^ yes $$
+^^ xxx $$
 ^^ Warren see what be in there $$
-^^  again $$
+^^ xxx again $$
 ^^ comb $$
 ^^ it be lock it $$
 ^^ yes $$
 ^^ no $$
 ^^ make a tower $$
 ^^ make a tower those brick $$
+^^ xxx $$
 ^^ Warren try that one $$
 ^^ that one $$
 ^^ red $$
-^^  another one $$
+^^ xxx another one $$
 ^^ oh $$
 ^^ that go on there $$
 ^^ that one $$
+^^ xxx $$
 ^^ red and blue $$
 ^^ just red $$
 ^^ there a blue tower $$
@@ -1372,23 +1427,24 @@
 ^^ make a tower $$
 ^^ that one be make a big blue tower $$
 ^^ Warren be make a tower $$
-^^   there be a wobble tower $$
+^^ there's a there be a wobble tower $$
 ^^ big field $$
 ^^ no $$
-^^   make another tower $$
+^^ making a make another tower $$
 ^^ oh find that one $$
-^^     oh this go on there $$
+^^ this go on the oh this go on there $$
 ^^ yes $$
 ^^ oh two one $$
 ^^ two one $$
 ^^ that go there $$
+^^ xxx $$
 ^^ put on two one $$
 ^^ make another $$
 ^^ just make a little tower $$
 ^^ Warren knock it down $$
 ^^ my leg stick $$
 ^^ oh dear $$
-^^ fall  $$
+^^ fall xxx $$
 ^^ stand it $$
 ^^ this happy_birthday $$
 ^^ it be happy_birthday $$
@@ -1396,10 +1452,10 @@
 ^^ Anna birth $$
 ^^ there be a man $$
 ^^ where be another man $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ that be a nice one $$
 ^^ look another one $$
-^^ where be that  $$
+^^ where be that xxx $$
 ^^ there be a cab $$
 ^^ no $$
 ^^ want my $$
@@ -1416,13 +1472,14 @@
 ^^ this one $$
 ^^ hold on hat $$
 ^^ find the monkey $$
+^^ xxx $$
 ^^ on the shelf $$
 ^^ yes $$
 ^^ monkey fit on there $$
 ^^ no $$
 ^^ not smoke and steam $$
 ^^ Mummy be get steam come out $$
-^^   that person be drive train $$
+^^ that person's that person be drive train $$
 ^^ person be drive train $$
 ^^ where that $$
 ^^ this $$
@@ -1430,7 +1487,7 @@
 ^^ no $$
 ^^ dungaree $$
 ^^ want take it off $$
-^^  to get trouser dirt $$
+^^ xxx to get trouser dirt $$
 ^^ get all dirt $$
 ^^ another tower $$
 ^^ two tower $$
@@ -1440,12 +1497,13 @@
 ^^ where be another person $$
 ^^ oh there it be $$
 ^^ a man on there $$
-^^  where be that another one $$
+^^ xxx $$
+^^ where where be that another one $$
 ^^ where this one $$
-^^  that be one $$
+^^ that's that be one $$
 ^^ that be a blue $$
 ^^ it be white $$
-^^  a big one $$
+^^ xxx a big one $$
 ^^ the color red and blue $$
 ^^ it be red and blue $$
 ^^ it be happy_birthday now $$
@@ -1468,12 +1526,13 @@
 ^^ that man there $$
 ^^ the man fit in there $$
 ^^ sit on there $$
-^^  he get out a cap $$
+^^ xxx he get out a cap $$
 ^^ get a cap $$
 ^^ red and blue $$
 ^^ just red $$
 ^^ a climb frame $$
 ^^ it be nice and warm $$
+^^ xxx $$
 ^^ it be nice and warm $$
 ^^ yes $$
 ^^ it be present $$
@@ -1502,8 +1561,9 @@
 ^^ the smoke $$
 ^^ it be park $$
 ^^ that train be park $$
-^^  move that roof $$
+^^ that move that roof $$
 ^^ it be a sun day $$
+^^ xxx $$
 ^^ he go to seaside $$
 ^^ his bucket spade $$
 ^^ his bucket and spade $$
@@ -1512,12 +1572,12 @@
 ^^ yes $$
 ^^ want a little huggle $$
 ^^ this back $$
-^^  have some  this $$
+^^ xxx have some er this $$
 ^^ get a orange $$
 ^^ make a orange $$
 ^^ yes $$
 ^^ me have it $$
-^^  get your orange $$
+^^ xxx get your orange $$
 ^^ my do not like it $$
 ^^ give a wash $$
 ^^ there be a orange $$
@@ -1537,18 +1597,21 @@
 ^^ Mummy get it off $$
 ^^ get it $$
 ^^ Mummy eat it all up $$
+^^ xxx $$
 ^^ Mummy want to peel it $$
 ^^ Mummy eat it all up $$
 ^^ the bin $$
 ^^ I throw the peel $$
+^^ xxx $$
 ^^ it be taste $$
-^^ Warren  again $$
+^^ Warren xxx again $$
 ^^ that one $$
 ^^ grape $$
 ^^ that be nice $$
 ^^ have a suck $$
 ^^ have a suck $$
 ^^ no think so $$
+^^ xxx $$
 ^^ put that on my head $$
 ^^ pump $$
 ^^ no $$
@@ -1568,7 +1631,7 @@
 ^^ want make a horse $$
 ^^ a horse $$
 ^^ no $$
-^^ Mummy see can make  the horse $$
+^^ Mummy see can make a the horse $$
 ^^ I want see brace $$
 ^^ do my brace $$
 ^^ yes $$
@@ -1578,12 +1641,14 @@
 ^^ no $$
 ^^ no $$
 ^^ Warren want a drink $$
+^^ xxx $$
+^^ xxx $$
 ^^ my want to walk $$
 ^^ yes $$
 ^^ there $$
 ^^ just over there $$
 ^^ yes $$
-^^ just over there  by the house $$
+^^ just over there near by the house $$
 ^^ yes $$
 ^^ no $$
 ^^ no $$
@@ -1591,7 +1656,8 @@
 ^^ go home $$
 ^^ yes $$
 ^^ go sleep in bed $$
-^^  the bird $$
+^^ xxx the bird $$
+^^ xxx $$
 ^^ peck a nut the bird $$
 ^^ start to get dark $$
 ^^ yes $$
@@ -1611,5 +1677,6 @@
 ^^ look at that $$
 ^^ make a horse stop $$
 ^^ oh dear $$
-^^ Jolly  $$
+^^ xxx $$
+^^ Jolly xxx $$
 ^^ oh dear $$

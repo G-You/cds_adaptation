@@ -70,10 +70,11 @@
 ^^ yes $$
 ^^ you have get to be careful $$
 ^^ it be very hot today $$
-^^    hot $$
+^^ hot hot hot hot $$
 ^^ oh $$
 ^^ right $$
 ^^ I will do it once $$
+^^ www $$
 ^^ we all fall down $$
 ^^ fish fish fish fish fish $$
 ^^ fish fish fish fish fish $$
@@ -84,7 +85,7 @@
 ^^ that be once $$
 ^^ that be enough $$
 ^^ be you dizzy $$
-^^   help $$
+^^ help help help $$
 ^^ help $$
 ^^ me $$
 ^^ go go go go go go go go go go go $$
@@ -98,7 +99,8 @@
 ^^ ah $$
 ^^ shall I squash you $$
 ^^ oh $$
-^^   I might real squash you though $$
+^^ I might I might real squash you though $$
+^^ a $$
 ^^ do I squash you $$
 ^^ I think not Liz $$
 ^^ I do not want to do that darling $$
@@ -106,7 +108,7 @@
 ^^ oh you be very good at jump be not you $$
 ^^ I do not think I be that good $$
 ^^ oh you be very good at it $$
-^^  Mummy be knacker now $$
+^^ Mummy Mummy be knacker now $$
 ^^ a hard jump $$
 ^^ oh $$
 ^^ oh yes $$
@@ -116,13 +118,13 @@
 ^^ make out_of triangle $$
 ^^ yeah $$
 ^^ pen $$
-^^  be they in the other room $$
+^^ um be they in the other room $$
 ^^ let us go and see $$
 ^^ they must be in here somewhere Liz $$
-^^    they be not in there $$
+^^ they're not in they be not in there $$
 ^^ unless Daddy be hide them $$
 ^^ there be a pencil here $$
-^^  will this pencil be all right $$
+^^ would will this pencil be all right $$
 ^^ bit of a tat old one mind but $$
 ^^ it be good than nothing be not it $$
 ^^ be you $$
@@ -132,6 +134,7 @@
 ^^ mhm $$
 ^^ oh dear $$
 ^^ you near bump your leg $$
+^^ xxx $$
 ^^ thank_you $$
 ^^ okay $$
 ^^ mhm $$
@@ -192,12 +195,15 @@
 ^^ be you ready $$
 ^^ lady $$
 ^^ I have not start yet $$
+^^ www $$
+^^ www $$
 ^^ hm $$
 ^^ see_saw_marjorie_daw $$
 ^^ be it $$
 ^^ Johnny shall have a new master $$
 ^^ he shall have but a penny a day $$
 ^^ because he can not work any fast $$
+^^ www $$
 ^^ on that bit you mean $$
 ^^ I can not do it with just one leg love $$
 ^^ that leg get very tire $$
@@ -205,6 +211,8 @@
 ^^ you can go on both leg and I can do it yeah $$
 ^^ yeah $$
 ^^ be that okay $$
+^^ www $$
+^^ www $$
 ^^ oh $$
 ^^ oh $$
 ^^ this leg $$
@@ -216,6 +224,7 @@
 ^^ can you keep still $$
 ^^ whoo $$
 ^^ all fall down $$
+^^ www $$
 ^^ get me wear out Liz $$
 ^^ in there $$
 ^^ and what will happen to it $$
@@ -232,6 +241,7 @@
 ^^ Can $$
 ^^ Nana be go to visit Can today $$
 ^^ well they be suppose to be $$
+^^ www $$
 ^^ well do Liz $$
 ^^ I do not know you could switch it off $$
 ^^ oh $$
@@ -247,14 +257,14 @@
 ^^ yeah $$
 ^^ I do not know sweet $$
 ^^ which comic $$
-^^ there be  a Mister_man comic there by the chair $$
-^^ and  the one you buy yesterday be probable in the other room be not it $$
+^^ there be um a Mister_man comic there by the chair $$
+^^ and your the one you buy yesterday be probable in the other room be not it $$
 ^^ do not know $$
 ^^ have not see it $$
 ^^ oh we do leave one at Nana on Monday do not we $$
 ^^ yeah $$
 ^^ Rupert_the_Bear we leave do not we $$
-^^ well we will see what be in the shop next week  $$
+^^ well we will see what be in the shop next week eh $$
 ^^ there be not Rupert this week be there $$
 ^^ your sock on $$
 ^^ have you get cold foot $$
@@ -271,6 +281,7 @@
 ^^ you be be a muck pup this morning $$
 ^^ come here $$
 ^^ come here $$
+^^ www $$
 ^^ come and get me $$
 ^^ I be wear out Liz $$
 ^^ you come and get me $$
@@ -283,7 +294,7 @@
 ^^ mhm $$
 ^^ your child on $$
 ^^ well I tell you what $$
-^^ we will have those on in a little bit  $$
+^^ we will have those on in a little bit eh $$
 ^^ you have get down there have you $$
 ^^ you and your bottle $$
 ^^ oh dear $$
@@ -293,6 +304,7 @@
 ^^ oh I bet it be $$
 ^^ have you feel it $$
 ^^ you feel how cold it be $$
+^^ a $$
 ^^ give it a kiss $$
 ^^ oh love $$
 ^^ be it nice $$
@@ -331,7 +343,7 @@
 ^^ it be yeah $$
 ^^ we know a story about that do not we $$
 ^^ I like that story $$
-^^   it be some bread $$
+^^ it's a it be some bread $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ that be right $$
@@ -409,7 +421,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ you might need this one $$
-^^   I think yeah $$
+^^ I think I think yeah $$
 ^^ you need the one off Anna $$
 ^^ be that one big than the red one $$
 ^^ which one the big $$
@@ -421,9 +433,10 @@
 ^^ yeah $$
 ^^ oh can I have a lick $$
 ^^ oh $$
+^^ mm $$
 ^^ that be a nice ice $$
 ^^ oh can I have some too $$
-^^  thank_you $$
+^^ mm thank_you $$
 ^^ you be brush me with it $$
 ^^ thank_you $$
 ^^ thanks $$
@@ -469,21 +482,23 @@
 ^^ oh $$
 ^^ it be a knock at the door $$
 ^^ we do not have knock at the door do we Liz $$
+^^ www $$
 ^^ Grandma be go to brew up $$
 ^^ be not that nice $$
 ^^ oh thank_you sweet $$
 ^^ I be just ready for a sandwich as_well $$
-^^  that be nice $$
+^^ mm that be nice $$
 ^^ be you_all right $$
 ^^ what be the matter $$
 ^^ what be up love $$
 ^^ hm $$
 ^^ be you tire $$
 ^^ be you asleep $$
+^^ eh $$
 ^^ oh love love be not you $$
 ^^ yes $$
 ^^ you can if you like yeah $$
-^^ well  I will just sit here with Anna for a minute $$
+^^ well I'll I will just sit here with Anna for a minute $$
 ^^ it be not very nice to leave your guest on their own $$
 ^^ Grandmas be different because they be family $$
 ^^ oh $$
@@ -538,7 +553,7 @@
 ^^ whose hair be it $$
 ^^ yes it be blue $$
 ^^ you be right $$
-^^ well  who wear the glass $$
+^^ well who who wear the glass $$
 ^^ there yeah $$
 ^^ it be Tom be not it $$
 ^^ there we go $$
@@ -546,7 +561,7 @@
 ^^ be it stick to your finger $$
 ^^ there you be $$
 ^^ oh right $$
-^^ so there be  only  Tiny to do be not there $$
+^^ so there be only only er Tiny to do be not there $$
 ^^ yeah $$
 ^^ that be Tiny hair $$
 ^^ that be it $$
@@ -622,6 +637,7 @@
 ^^ you good have $$
 ^^ oh $$
 ^^ there we go $$
+^^ www $$
 ^^ do it $$
 ^^ well $$
 ^^ oh yeah $$
@@ -633,7 +649,7 @@
 ^^ thank_you $$
 ^^ okay $$
 ^^ oh I will not dream of it Liz $$
-^^   I will just watch $$
+^^ I'll just I will just watch $$
 ^^ mhm $$
 ^^ oh $$
 ^^ now it be big be not it $$
@@ -641,6 +657,7 @@
 ^^ no $$
 ^^ I see you push it $$
 ^^ it be not a accident when you push it be it $$
+^^ eh $$
 ^^ it be on purpose then $$
 ^^ there be some behind you $$
 ^^ try to escape $$
@@ -657,6 +674,7 @@
 ^^ that one big be not it $$
 ^^ yeah $$
 ^^ go go go go go go go go go $$
+^^ www $$
 ^^ there we go $$
 ^^ be that from your magic show on Sunday they say that $$
 ^^ your brown teddy $$
@@ -667,6 +685,7 @@
 ^^ mhm $$
 ^^ yeah $$
 ^^ boo $$
+^^ a $$
 ^^ half past eight be it $$
 ^^ oh it be past eight o'clock yeah $$
 ^^ will not will not will not will not will not will not will not will not will not $$
@@ -679,6 +698,7 @@
 ^^ be he $$
 ^^ four trumpet $$
 ^^ do you need to wee sweet $$
+^^ eh $$
 ^^ okay $$
 ^^ okay $$
 ^^ yeah $$
@@ -692,7 +712,7 @@
 ^^ oh $$
 ^^ it fall down all over me then $$
 ^^ be you $$
-^^ I think we will break them all up      when we put them away $$
+^^ I think we will break them all up when we put them together when we put them away $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ be that heavy that $$
 ^^ a castle $$
@@ -701,7 +721,7 @@
 ^^ it be a onion yeah $$
 ^^ that be a lemon $$
 ^^ yes that be a lemon $$
-^^  do you know what it be $$
+^^ er do you know what it be $$
 ^^ I think it be some nectarine $$
 ^^ yeah $$
 ^^ yeah $$
@@ -734,23 +754,23 @@
 ^^ there you go $$
 ^^ yeah $$
 ^^ oh yeah $$
-^^  I think it be some bread $$
+^^ um I think it be some bread $$
 ^^ yeah $$
 ^^ a plum yes $$
 ^^ that be right $$
 ^^ can you manage $$
 ^^ that be some more bread $$
-^^  I think it be a pepper $$
+^^ er I think it be a pepper $$
 ^^ a red pepper $$
 ^^ you can get green one as_well $$
 ^^ well what do you think it be $$
 ^^ no $$
 ^^ okay $$
 ^^ I think it be a pepper $$
-^^  be that a cabbage $$
+^^ um be that a cabbage $$
 ^^ or a very large sprout $$
 ^^ cabbage $$
-^^  tomato I think $$
+^^ er tomato I think $$
 ^^ that be some cider $$
 ^^ I do not think it come off $$
 ^^ I think you have to pretend $$
@@ -758,6 +778,7 @@
 ^^ I think your tooth be more likely to come off $$
 ^^ yes he have $$
 ^^ oh dear $$
+^^ www $$
 ^^ be that heavy be it love $$
 ^^ can you manage $$
 ^^ what $$
@@ -774,7 +795,7 @@
 ^^ wow $$
 ^^ we have get them all in there $$
 ^^ yeah $$
-^^  I think  it be here $$
+^^ er I think it's it be here $$
 ^^ oh no $$
 ^^ that be cabbage be not it $$
 ^^ I think that be a pear sweet $$
@@ -874,7 +895,7 @@
 ^^ oh no do not $$
 ^^ no $$
 ^^ because those be Anna toy $$
-^^ we  do not break them $$
+^^ we don't do not break them $$
 ^^ well I know where the other orange be $$
 ^^ I be go to get it when Anna be go otherwise it will appear again $$
 ^^ and two lemon $$
@@ -917,9 +938,11 @@
 ^^ this be one $$
 ^^ this be one $$
 ^^ here we go $$
+^^ www $$
 ^^ well that be not one real $$
 ^^ that be just the front page $$
 ^^ yeah $$
+^^ www $$
 ^^ have I get to $$
 ^^ yes $$
 ^^ beepbeep $$
@@ -932,9 +955,11 @@
 ^^ this be the last one be not it $$
 ^^ hey diddle diddle $$
 ^^ here $$
+^^ www $$
 ^^ pappap $$
 ^^ pap $$
 ^^ it be all due to Daddy be not it $$
+^^ eh $$
 ^^ oh yeah $$
 ^^ excuse me $$
 ^^ yeah $$
@@ -965,6 +990,7 @@
 ^^ yeah $$
 ^^ yes $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not $$
+^^ eh $$
 ^^ there be the little orange over there by the table $$
 ^^ do you want that as_well $$
 ^^ oh $$

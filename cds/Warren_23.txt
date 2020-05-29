@@ -136,7 +136,7 @@
 ^^ there be two man on the back of this trailer $$
 ^^ they be have a chat be not they $$
 ^^ oh dear $$
-^^  he drive off a bit fast do not he $$
+^^ that he drive off a bit fast do not he $$
 ^^ those poor man $$
 ^^ what shall we do with them $$
 ^^ where shall we put them $$
@@ -237,7 +237,7 @@
 ^^ yes where do Warren go to watch the aeroplane $$
 ^^ yeah you see them in the sky in the garden $$
 ^^ but we go somewhere where we see them on the ground $$
-^^  well they be on the ground and take off and land $$
+^^ taking well they be on the ground and take off and land $$
 ^^ where do we go $$
 ^^ yeah where else do you see plane $$
 ^^ see plane in the sky $$
@@ -363,6 +363,7 @@
 ^^ row row row your $$
 ^^ if you see a $$
 ^^ do not forget to scream $$
+^^ a $$
 ^^ what do crocodile do $$
 ^^ snap snap snap snap snap snap snap $$
 ^^ they snap $$
@@ -453,6 +454,7 @@
 ^^ yes that be it $$
 ^^ the orange one $$
 ^^ and Mummy be get the pink one $$
+^^ a $$
 ^^ Mummy be get the pink one and the orange one $$
 ^^ two balloon $$
 ^^ one two $$
@@ -531,7 +533,7 @@
 ^^ be it a blue one $$
 ^^ mhm $$
 ^^ yeah Edward be $$
-^^  what be he call $$
+^^ er what be he call $$
 ^^ Thomas be blue $$
 ^^ can you go and shut the door please Warren $$
 ^^ thank_you $$
@@ -541,7 +543,7 @@
 ^^ this toy box have not be the same since Gary come have it $$
 ^^ brumm $$
 ^^ oh no $$
-^^ well shall we find  something to carry the break car away on $$
+^^ well shall we find some something to carry the break car away on $$
 ^^ can you put the break car on the trailer and then we can take it away to be mend $$
 ^^ take it away round here $$
 ^^ whoops $$
@@ -607,7 +609,7 @@
 ^^ the mini car be go round the track now $$
 ^^ back wheel seem to have seize up $$
 ^^ go to go past $$
-^^  it be go to go past Thomas again $$
+^^ the it be go to go past Thomas again $$
 ^^ hello Thomas $$
 ^^ and go over the bridge $$
 ^^ past the cow $$
@@ -633,7 +635,9 @@
 ^^ yes it be break because the back wheel do not work $$
 ^^ why be the car say neenaw $$
 ^^ it do not look like a policecar $$
+^^ xxx $$
 ^^ never mind $$
+^^ um $$
 ^^ I do not understand the question Warren $$
 ^^ I have never see a policecar with a trailer Warren $$
 ^^ and with big flood light on the top of it $$
@@ -865,7 +869,7 @@
 ^^ brilliant $$
 ^^ what about that one $$
 ^^ put the other blue circle in $$
-^^ no   you have get it the wrong way round again $$
+^^ no that's the you have get it the wrong way round again $$
 ^^ that be still the wrong way round $$
 ^^ that way round $$
 ^^ because look $$
@@ -893,7 +897,7 @@
 ^^ be they go to the cow $$
 ^^ what be you look for $$
 ^^ what $$
-^^     shall I get the plastic cow out $$
+^^ shall I get the shall I get the plastic cow out $$
 ^^ she be in here somewhere $$
 ^^ there be that one $$
 ^^ what be it $$
@@ -1146,7 +1150,7 @@
 ^^ okay $$
 ^^ you have get to take her arm out $$
 ^^ that be it $$
-^^ now  take the other arm out $$
+^^ now pull take the other arm out $$
 ^^ that $$
 ^^ pull her trouser off $$
 ^^ that be it $$
@@ -1219,7 +1223,7 @@
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ you put the dress on her $$
 ^^ no $$
-^^ dress  $$
+^^ dress um $$
 ^^ leg do not go through hole in dress $$
 ^^ arm go through the hole in dress $$
 ^^ thread her arm through into the hole $$
@@ -1253,7 +1257,7 @@
 ^^ except the purple ring be much big than the red one $$
 ^^ the doll be watch to see what you be do $$
 ^^ she be interest to see what you do $$
-^^ with  the person in the trailer $$
+^^ with your the person in the trailer $$
 ^^ what kind of person be in the trailer $$
 ^^ be you tidy up $$
 ^^ yeah $$
@@ -1263,7 +1267,7 @@
 ^^ can you remember what that be Warren $$
 ^^ can you remember what animal this be $$
 ^^ too small $$
-^^  Warren $$
+^^ er Warren $$
 ^^ have you do that right $$
 ^^ look $$
 ^^ look at those ring $$
@@ -1300,6 +1304,7 @@
 ^^ oh $$
 ^^ all the ring be off $$
 ^^ you have get to put all the ring back on now sweet $$
+^^ a $$
 ^^ be that the right ring $$
 ^^ no $$
 ^^ that be correct $$
@@ -1382,7 +1387,7 @@
 ^^ they be the fish $$
 ^^ yes you do $$
 ^^ they have go all over the floor now have not they $$
-^^ why do not you  collect your brick up and put them back in the brick box $$
+^^ why do not you pick collect your brick up and put them back in the brick box $$
 ^^ be you put them back in the box $$
 ^^ there be another one $$
 ^^ look $$

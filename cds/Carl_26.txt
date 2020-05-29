@@ -54,9 +54,11 @@
 ^^ your egg $$
 ^^ oh no that be go away now $$
 ^^ yeah he have a white ice $$
+^^ mm $$
 ^^ be you eat a egg $$
 ^^ be it nice $$
 ^^ oh can I have one too $$
+^^ mm $$
 ^^ oh $$
 ^^ what do you do then $$
 ^^ you drop it $$
@@ -65,6 +67,7 @@
 ^^ what other food can you see $$
 ^^ it be a cake $$
 ^^ oh thank_you $$
+^^ mm $$
 ^^ it be not real $$
 ^^ just pretend bite $$
 ^^ do you think I be real $$
@@ -80,6 +83,7 @@
 ^^ be that good $$
 ^^ come on $$
 ^^ back through $$
+^^ mm $$
 ^^ smooch it $$
 ^^ whatie $$
 ^^ oh you be kiss me $$
@@ -127,7 +131,7 @@
 ^^ it be all_gone $$
 ^^ where be it now $$
 ^^ where be that banana now $$
-^^   that be the last one $$
+^^ haven't got that be the last one $$
 ^^ what about a apple $$
 ^^ dirt $$
 ^^ Mummy get you a real one $$
@@ -137,7 +141,7 @@
 ^^ let us get a real apple then $$
 ^^ Postman_Pat $$
 ^^ what about $$
-^^   what else do you sing $$
+^^ what about what else do you sing $$
 ^^ Carl $$
 ^^ the wheel on my bike $$
 ^^ the wheel do not go blingieblingbling $$
@@ -155,7 +159,7 @@
 ^^ Daddy Iain $$
 ^^ oh where be the sunshine go $$
 ^^ it be not a star that $$
-^^ it be  Mister sunshine $$
+^^ it be the Mister sunshine $$
 ^^ mhm $$
 ^^ take your foot out_of your pot $$
 ^^ why have you left that bit $$
@@ -187,7 +191,7 @@
 ^^ what be it then $$
 ^^ what make the noise $$
 ^^ what say beepbeep $$
-^^  thank_you $$
+^^ mm thank_you $$
 ^^ how many bit have you get now $$
 ^^ peekaboo peekaboo $$
 ^^ peekaboo peekaboo $$
@@ -291,14 +295,15 @@
 ^^ sorry $$
 ^^ what do you say $$
 ^^ Mummy be tum be rumble $$
-^^ what  you go on the big slide $$
+^^ what you you go on the big slide $$
 ^^ yoghurt $$
+^^ www $$
 ^^ there be a big slide $$
 ^^ it be like a rocket be not it $$
 ^^ I do not remember any yoghurt $$
 ^^ what have you get there $$
 ^^ what sort of car though $$
-^^  not with your mouth open please $$
+^^ er not with your mouth open please $$
 ^^ it be a police car $$
 ^^ it be a police $$
 ^^ oh that be a workman look in his truck $$
@@ -331,11 +336,11 @@
 ^^ you genmod good fix him then $$
 ^^ we have not feed the fish today have we Carl $$
 ^^ you do not know $$
-^^    he be not have his breakfast have he $$
+^^ has he not he be not have his breakfast have he $$
 ^^ you genmod good give it to him $$
 ^^ be you go to give him some breakfast $$
 ^^ you want to climb it do you $$
-^^  well only with help from Mummy $$
+^^ er well only with help from Mummy $$
 ^^ stand still $$
 ^^ do not wiggle $$
 ^^ oh $$
@@ -359,7 +364,7 @@
 ^^ say hello $$
 ^^ that be right $$
 ^^ that be his breakfast $$
-^^  be care $$
+^^ um be care $$
 ^^ shall we get down now $$
 ^^ whoops $$
 ^^ that be what happen $$
@@ -389,7 +394,7 @@
 ^^ be you struggle $$
 ^^ all right $$
 ^^ I be wait $$
-^^   you go down $$
+^^ you went you go down $$
 ^^ yeah $$
 ^^ will not will not will not will not will not will not will not will not $$
 ^^ and Mummy can draw Harold $$
@@ -498,6 +503,7 @@
 ^^ Carl $$
 ^^ be you go to come and eat your breakfast $$
 ^^ Mummy be eat hers $$
+^^ mm $$
 ^^ lose him $$
 ^^ I can see him so he can not be lose can he $$
 ^^ okay $$
@@ -527,6 +533,7 @@
 ^^ peekaboo peekaboo peekaboo peekaboo peekaboo peekaboo peekaboo $$
 ^^ mhm $$
 ^^ stop mmhmming $$
+^^ mm $$
 ^^ oh $$
 ^^ oh dear $$
 ^^ you silly boy $$
@@ -544,7 +551,7 @@
 ^^ eat your breakfast first though $$
 ^^ see look $$
 ^^ no no look $$
-^^  Mummy be just go to do Carl $$
+^^ Mummy Mummy be just go to do Carl $$
 ^^ yeah but we be not draw just at the minute $$
 ^^ eat your breakfast first please $$
 ^^ no because Mummy be put it away now $$
@@ -563,6 +570,7 @@
 ^^ come on $$
 ^^ well quick $$
 ^^ eat it $$
+^^ mm $$
 ^^ whoops $$
 ^^ I know $$
 ^^ I do do not I $$
@@ -584,7 +592,7 @@
 ^^ and Carl go on yeah $$
 ^^ can not sit at your train $$
 ^^ why not $$
-^^ oh Carl be wave at the window  be not you $$
+^^ oh Carl be wave at the window were be not you $$
 ^^ oh that be right $$
 ^^ Granny give you some sweet do not she $$
 ^^ through the window $$
@@ -616,6 +624,7 @@
 ^^ you go shop with them do not you $$
 ^^ Carl $$
 ^^ you eat it all $$
+^^ mm $$
 ^^ that be nice $$
 ^^ Mummy like that $$
 ^^ eat your corn first $$
@@ -649,7 +658,7 @@
 ^^ oh look out $$
 ^^ mhm $$
 ^^ will you like to read a book Carl $$
-^^ look    it be the one about that big dog $$
+^^ look it's the big it be the one about that big dog $$
 ^^ that be right $$
 ^^ mhm $$
 ^^ do you know what sort of fish it be $$
@@ -694,7 +703,7 @@
 ^^ it be Carl look $$
 ^^ there be a fun face there $$
 ^^ where $$
-^^ maybe   oh I will put one there $$
+^^ maybe I'll put oh I will put one there $$
 ^^ it be go to be blue be it $$
 ^^ right $$
 ^^ Mummy be go to draw the moon $$
@@ -741,7 +750,7 @@
 ^^ just put this down for a second $$
 ^^ get a tissue $$
 ^^ where be they Carl $$
-^^   where be your Thomas tissue $$
+^^ where's your where be your Thomas tissue $$
 ^^ come on $$
 ^^ let us find Thomas $$
 ^^ oh where be they $$
@@ -793,7 +802,7 @@
 ^^ right let us do Carl $$
 ^^ shall we do it inside Mummy $$
 ^^ right let us just put that down for a minute $$
-^^  let us do this $$
+^^ you let us do this $$
 ^^ whoops $$
 ^^ I be knock you over $$
 ^^ it be go to tickle $$
@@ -819,6 +828,7 @@
 ^^ right $$
 ^^ ice $$
 ^^ thank_you $$
+^^ mm $$
 ^^ it be nice $$
 ^^ a ice $$
 ^^ clever boy $$
@@ -830,7 +840,7 @@
 ^^ yellow $$
 ^^ clever boy $$
 ^^ Mummy what $$
-^^   they be for Mummy be they $$
+^^ they're both they be for Mummy be they $$
 ^^ we have not get a baby to give that bottle to $$
 ^^ you have lose the baby $$
 ^^ oh dear $$
@@ -845,7 +855,7 @@
 ^^ how be he manage that $$
 ^^ he be get to clean it $$
 ^^ will not will not will not will not will not will not $$
-^^ look  he be paint $$
+^^ look he's he be paint $$
 ^^ and he be spill the paint $$
 ^^ what a silly man $$
 ^^ splash $$
@@ -982,9 +992,10 @@
 ^^ big fat finger $$
 ^^ one $$
 ^^ two $$
+^^ xxx $$
 ^^ you have not get six finger $$
 ^^ what do you say $$
-^^ no  let us use this pen because it do not get as much on you $$
+^^ no let's let us use this pen because it do not get as much on you $$
 ^^ last time this $$
 ^^ okay $$
 ^^ let us count your finger as we do them $$
@@ -1075,7 +1086,7 @@
 ^^ now do you remember what shape that be $$
 ^^ no that be not a square $$
 ^^ what shape be that $$
-^^   that be a square $$
+^^ it's not that be a square $$
 ^^ what shape be that $$
 ^^ you know what shape that be $$
 ^^ a circle $$
@@ -1114,7 +1125,9 @@
 ^^ can you shout $$
 ^^ can you shout $$
 ^^ oh Daddy milk $$
-^^  that be one way of look at it Carl $$
+^^ that's that be one way of look at it Carl $$
+^^ www $$
+^^ mm $$
 ^^ make a what $$
 ^^ yum $$
 ^^ do not put it in my mouth real please $$
@@ -1261,6 +1274,8 @@
 ^^ on there as_well $$
 ^^ why do not you get some pen so you can draw Thomas $$
 ^^ you be go to do it with those $$
+^^ www $$
+^^ www $$
 ^^ oh $$
 ^^ I think it be my turn $$
 ^^ that be it $$
@@ -1381,7 +1396,7 @@
 ^^ why do not you draw Mummy a picture $$
 ^^ you draw Mummy a fish $$
 ^^ draw Mummy a fish $$
-^^ well  you draw Thomas $$
+^^ well you you draw Thomas $$
 ^^ Mummy will draw Thomas and you draw Thomas $$
 ^^ Mummy draw Thomas face $$
 ^^ you draw Thomas $$
@@ -1456,7 +1471,7 @@
 ^^ to play with $$
 ^^ be that what you say $$
 ^^ oh look Carl $$
-^^    look at this fun snow $$
+^^ look at this look at this fun snow $$
 ^^ Carl $$
 ^^ come and look in here $$
 ^^ come and look at the toy $$
@@ -1519,7 +1534,7 @@
 ^^ who be that $$
 ^^ Gordon stop $$
 ^^ oh dear $$
-^^ well he genmod good move have not he because   Thomas be come $$
+^^ well he genmod good move have not he because J Carl Thomas be come $$
 ^^ I will get his name right in a minute $$
 ^^ come on Gordon $$
 ^^ move $$
@@ -1554,7 +1569,7 @@
 ^^ it be not Henry $$
 ^^ oh okay $$
 ^^ oh that be a good noise $$
-^^  what do you say $$
+^^ er what do you say $$
 ^^ I think so $$
 ^^ not you do it $$
 ^^ all aboard $$
@@ -1584,7 +1599,7 @@
 ^^ what else could we eat out_of the basket $$
 ^^ what could we have for dinner Carl $$
 ^^ can you get that off $$
-^^ well just  be care $$
+^^ well just be be care $$
 ^^ put it down $$
 ^^ put it down $$
 ^^ what a big strong boy $$
@@ -1622,7 +1637,7 @@
 ^^ who be the house belong to Carl $$
 ^^ it be get big now $$
 ^^ why do not you bring it over here $$
-^^  that be it $$
+^^ that's that be it $$
 ^^ it be okay $$
 ^^ bring it care $$
 ^^ that be good $$
@@ -1631,6 +1646,7 @@
 ^^ oh it be tough $$
 ^^ be you go to feed the baby Carl $$
 ^^ be she wake up for her dinner $$
+^^ a $$
 ^^ she be hungry $$
 ^^ she tell me she be hungry $$
 ^^ be you go to give her some dinner $$
@@ -1642,11 +1658,13 @@
 ^^ a egg $$
 ^^ be that what baby eat $$
 ^^ it be hot be it $$
+^^ mm $$
 ^^ eat it care $$
 ^^ do not want it to burn your tongue $$
 ^^ blow on it $$
 ^^ do I have to blow it as_well $$
 ^^ it be a sausage yeah $$
+^^ mm $$
 ^^ she be get a real nice health dinner there $$
 ^^ chip sausage and egg $$
 ^^ look like hard work that $$
@@ -1664,7 +1682,7 @@
 ^^ oh that be good $$
 ^^ keep her foot warm $$
 ^^ oh you have make the house for the baby $$
-^^  that be nice $$
+^^ a that be nice $$
 ^^ good boy $$
 ^^ that be nice $$
 ^^ what a nice boy $$
@@ -1789,10 +1807,11 @@
 ^^ that be right $$
 ^^ it be a apple $$
 ^^ oh be this for me $$
+^^ mm $$
 ^^ thank_you $$
 ^^ do not real bite it $$
 ^^ pretend $$
-^^ oh   no I do not like orange $$
+^^ oh I don't no I do not like orange $$
 ^^ I will just have the apple $$
 ^^ oh look Carl $$
 ^^ there be a tiny baby orange look $$
@@ -1803,6 +1822,7 @@
 ^^ come on $$
 ^^ pretend $$
 ^^ I will have the apple $$
+^^ mm $$
 ^^ what else can we have to eat Carl $$
 ^^ it be good be it $$
 ^^ taste nice $$
@@ -1818,7 +1838,7 @@
 ^^ you be go to break thing $$
 ^^ it be take the lego car $$
 ^^ where be he take it $$
-^^ well     I do not think it can do it $$
+^^ well I don't think it I do not think it can do it $$
 ^^ no it can not do it $$
 ^^ see look $$
 ^^ the car be not get anywhere that you can put it on look $$

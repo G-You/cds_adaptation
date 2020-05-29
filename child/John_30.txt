@@ -40,14 +40,14 @@
 ^^ big horse $$
 ^^ tractor $$
 ^^ and the man $$
-^^ and the man sit  on the tractor $$
+^^ and the man sit on on the tractor $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ look $$
 ^^ this be the wheel round and round $$
 ^^ this $$
 ^^ and the steer wheel $$
-^^ and  $$
+^^ and xxx $$
 ^^ the steer wheel $$
 ^^ I walk this $$
 ^^ look $$
@@ -96,6 +96,7 @@
 ^^ break $$
 ^^ oh $$
 ^^ uhoh $$
+^^ xxx $$
 ^^ the farm please $$
 ^^ have the farm $$
 ^^ farm $$
@@ -110,6 +111,7 @@
 ^^ John and Daddy go on the blue tractor $$
 ^^ big $$
 ^^ big tractor $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ mhm $$
@@ -124,6 +126,7 @@
 ^^ man $$
 ^^ yellow car $$
 ^^ man be in the truck $$
+^^ xxx $$
 ^^ look $$
 ^^ car $$
 ^^ look $$
@@ -149,6 +152,7 @@
 ^^ the gate $$
 ^^ look $$
 ^^ a gate $$
+^^ xxx $$
 ^^ put the pig $$
 ^^ no $$
 ^^ mhm $$
@@ -159,7 +163,7 @@
 ^^ more horse $$
 ^^ gate $$
 ^^ open the door $$
-^^  the horse be peep the gate $$
+^^ peeping the horse be peep the gate $$
 ^^ peep the gate $$
 ^^ he peep the gate $$
 ^^ uhoh $$
@@ -193,7 +197,8 @@
 ^^ the red car $$
 ^^ red car $$
 ^^ green $$
-^^  like see Daddy $$
+^^ xxx like see Daddy $$
+^^ xxx $$
 ^^ Nicole $$
 ^^ Nicole $$
 ^^ Nicole $$
@@ -211,7 +216,8 @@
 ^^ grass $$
 ^^ the farm $$
 ^^ no $$
-^^ animal the farm    and they eat the grass $$
+^^ animal the farm and they eating and they eat the grass $$
+^^ xxx $$
 ^^ oh $$
 ^^ tape stop $$
 ^^ round and round $$
@@ -241,8 +247,9 @@
 ^^ brumm $$
 ^^ fast $$
 ^^ yellow $$
-^^  on John $$
+^^ xxx on John $$
 ^^ John go on the train $$
+^^ xxx $$
 ^^ John go on a noise train $$
 ^^ John go on a noise train $$
 ^^ mhm $$
@@ -262,8 +269,9 @@
 ^^ mhm $$
 ^^ train $$
 ^^ John go on a noise train $$
-^^ go on  money $$
-^^   wheel on the train go round and round $$
+^^ xxx $$
+^^ go on xxx money $$
+^^ wheels on wheel on the train go round and round $$
 ^^ round and round $$
 ^^ round and round $$
 ^^ cow $$
@@ -349,7 +357,7 @@
 ^^ find animal $$
 ^^ find animal $$
 ^^ oh another cow $$
-^^  there be a bull $$
+^^ there's there be a bull $$
 ^^ there be a cow $$
 ^^ the cow sleep $$
 ^^ the cow $$
@@ -365,7 +373,7 @@
 ^^ throw the bag $$
 ^^ throw the bag $$
 ^^ all_gone $$
-^^  there be wheel tractor $$
+^^ there's there be wheel tractor $$
 ^^ wheel in the garden $$
 ^^ hm $$
 ^^ strawberry $$
@@ -388,7 +396,7 @@
 ^^ Humpty_Dumpty sit on a wall $$
 ^^ one egg $$
 ^^ where be another egg $$
-^^     play the farm $$
+^^ play the play the play the farm $$
 ^^ little lamb $$
 ^^ little lamb $$
 ^^ go in the basket $$
@@ -411,11 +419,11 @@
 ^^ crisp $$
 ^^ look crisp $$
 ^^ another crisp $$
-^^  a bank $$
+^^ xxx a bank $$
 ^^ a book in there $$
 ^^ that book $$
 ^^ I find that other strawberry $$
-^^  get out $$
+^^ xxx get out $$
 ^^ yeah $$
 ^^ they come in the bag $$
 ^^ mhm $$
@@ -442,7 +450,7 @@
 ^^ mhm $$
 ^^ sit on Mummy $$
 ^^ whoops $$
-^^  John $$
+^^ xxx John $$
 ^^ whoops $$
 ^^ oh ding dong bell $$
 ^^ ding dong bell $$
@@ -466,9 +474,9 @@
 ^^ Daddy $$
 ^^ mhm $$
 ^^ get out $$
-^^ get up  $$
+^^ get up xxx $$
 ^^ pig cry $$
-^^   pig cry $$
+^^ pig pig pig cry $$
 ^^ pig cry $$
 ^^ yeah $$
 ^^ farm be cry $$
@@ -508,8 +516,9 @@
 ^^ strawberry $$
 ^^ on the ice $$
 ^^ eat $$
+^^ xxx $$
 ^^ stair $$
-^^  put on the ice $$
+^^ xxx put on the ice $$
 ^^ the ice on the floor $$
 ^^ fall on the floor $$
 ^^ Wibbly_Pig be very sad $$
@@ -526,11 +535,12 @@
 ^^ go back in there $$
 ^^ tape be round and round $$
 ^^ no $$
+^^ xxx $$
 ^^ play the animal $$
 ^^ animal $$
 ^^ some porridge $$
 ^^ put the thing away $$
-^^   the toy  in the bag $$
+^^ the things the toy in in the bag $$
 ^^ the toy in the bag now $$
 ^^ yeah $$
 ^^ mhm $$
@@ -570,7 +580,7 @@
 ^^ yeah $$
 ^^ black $$
 ^^ black $$
-^^ where the  $$
+^^ where the xxx $$
 ^^ oh yeah $$
 ^^ radiator $$
 ^^ aga $$
@@ -619,12 +629,13 @@
 ^^ fair $$
 ^^ fair $$
 ^^ fair $$
+^^ xxx $$
 ^^ hedgehog $$
 ^^ and a rabbit $$
 ^^ and a rabbit $$
 ^^ and a hedgehog $$
 ^^ and a mouse $$
-^^  away $$
+^^ xxx away $$
 ^^ oh see the red car $$
 ^^ oh there be a red car $$
 ^^ see $$
@@ -655,7 +666,7 @@
 ^^ twist $$
 ^^ I twist $$
 ^^ not twist $$
-^^ there  $$
+^^ there xxx $$
 ^^ wheel round and round $$
 ^^ boat $$
 ^^ boat in the sea $$
@@ -700,6 +711,7 @@
 ^^ balloon $$
 ^^ the balloon $$
 ^^ elephant in the farm $$
+^^ xxx $$
 ^^ look $$
 ^^ oh look $$
 ^^ oh look $$
@@ -731,7 +743,7 @@
 ^^ crash $$
 ^^ hm $$
 ^^ brumm $$
-^^  Mummy $$
+^^ xxx Mummy $$
 ^^ cow $$
 ^^ o $$
 ^^ o $$
@@ -744,8 +756,10 @@
 ^^ there be a number one $$
 ^^ there be a f $$
 ^^ yes $$
+^^ xxx $$
 ^^ I do it $$
-^^ paint  $$
+^^ paint xxx $$
+^^ xxx $$
 ^^ green $$
 ^^ red $$
 ^^ yellow $$
@@ -754,12 +768,16 @@
 ^^ again $$
 ^^ another one $$
 ^^ orange $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ one by one $$
 ^^ elephant $$
 ^^ crocodile be paint $$
 ^^ yellow $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ hide $$
 ^^ hello $$
 ^^ hello $$
@@ -799,6 +817,8 @@
 ^^ yeah $$
 ^^ eat it $$
 ^^ oh $$
+^^ mm $$
+^^ xxx $$
 ^^ doll $$
 ^^ look $$
 ^^ there be the doll $$
@@ -811,10 +831,10 @@
 ^^ cow $$
 ^^ cow $$
 ^^ bull $$
-^^  where be the bull $$
+^^ where where be the bull $$
 ^^ bull asleep $$
 ^^ this cow sleep $$
-^^  cow sleep $$
+^^ cow cow sleep $$
 ^^ the hen sleep $$
 ^^ no eye $$
 ^^ no eye $$
@@ -850,6 +870,8 @@
 ^^ lamb sleep $$
 ^^ Mummy drive the train $$
 ^^ Mummy $$
+^^ xxx $$
+^^ xxx $$
 ^^ pig $$
 ^^ little horse $$
 ^^ little horse $$
@@ -877,7 +899,7 @@
 ^^ break $$
 ^^ happen the train $$
 ^^ it happen the train $$
-^^  push the train $$
+^^ push push the train $$
 ^^ yes $$
 ^^ on there $$
 ^^ hello $$
@@ -906,20 +928,21 @@
 ^^ quiet $$
 ^^ baby be $$
 ^^ this baby cry $$
+^^ xxx $$
 ^^ noise $$
 ^^ mhm $$
 ^^ mhm $$
 ^^ Manchester $$
 ^^ Mummy $$
 ^^ yuck $$
-^^  animal in there $$
+^^ um animal in there $$
 ^^ I be Tesco $$
 ^^ Manchester on the train $$
 ^^ I go on the train $$
 ^^ where be it go $$
 ^^ on the train $$
 ^^ on the train $$
-^^  on train $$
+^^ xxx on train $$
 ^^ train $$
 ^^ the train $$
 ^^ animal $$
@@ -956,19 +979,20 @@
 ^^ look $$
 ^^ no $$
 ^^ no $$
-^^     no $$
-^^     no $$
-^^  no $$
+^^ no no no no no $$
+^^ no no no no no $$
+^^ no no $$
 ^^ buy crisp $$
 ^^ yeah $$
 ^^ chocolate and $$
-^^  want chocolate $$
-^^   I want eat all my chocolate $$
-^^  in there $$
+^^ want want chocolate $$
+^^ I want I want eat all my chocolate $$
+^^ xxx $$
+^^ xxx in there $$
 ^^ no $$
 ^^ yes $$
 ^^ clip fit in there $$
-^^    nail clip in there $$
+^^ nail clippers in nail clip in there $$
 ^^ nail clip $$
 ^^ yeah $$
 ^^ Mummy $$
@@ -1017,6 +1041,7 @@
 ^^ oh $$
 ^^ bee $$
 ^^ big fly $$
+^^ a $$
 ^^ oh hello $$
 ^^ hello $$
 ^^ want rocket $$
@@ -1030,16 +1055,17 @@
 ^^ alligator again $$
 ^^ again $$
 ^^ want a rocket $$
-^^  thank_you $$
+^^ a thank_you $$
 ^^ hello $$
 ^^ money $$
 ^^ money $$
+^^ xxx $$
 ^^ Daddy $$
 ^^ Mummy $$
 ^^ the spider $$
-^^  spider $$
+^^ xxx spider $$
 ^^ me want big $$
-^^    I make a car $$
+^^ I make snow I make a car $$
 ^^ a car $$
 ^^ a car $$
 ^^ do it $$
@@ -1047,6 +1073,8 @@
 ^^ small one $$
 ^^ gosh $$
 ^^ a big one $$
+^^ xxx $$
+^^ mm $$
 ^^ oh money $$
 ^^ there $$
 ^^ oh look $$
@@ -1069,10 +1097,11 @@
 ^^ my finger $$
 ^^ my finger $$
 ^^ Daddy $$
-^^  finger $$
+^^ xxx finger $$
 ^^ Mummy finger $$
 ^^ ball $$
 ^^ car $$
+^^ xxx $$
 ^^ lady in $$
 ^^ it get a lady in $$
 ^^ open the door $$
@@ -1092,11 +1121,15 @@
 ^^ another one $$
 ^^ yeah $$
 ^^ I make it on there $$
-^^  press it $$
+^^ xxx press it $$
+^^ xxx $$
 ^^ these $$
+^^ xxx $$
+^^ xxx $$
 ^^ sausage $$
 ^^ sausage $$
 ^^ pea $$
+^^ xxx $$
 ^^ Mummy make another one $$
 ^^ another one $$
 ^^ yeah $$
@@ -1113,9 +1146,10 @@
 ^^ six seven eight nine $$
 ^^ nine ten eleven twelve $$
 ^^ fourteen $$
+^^ xxx $$
 ^^ love fish $$
 ^^ aga $$
-^^ little  $$
+^^ little xxx $$
 ^^ wheel $$
 ^^ it be a wheel $$
 ^^ I make a wheel $$
@@ -1128,16 +1162,18 @@
 ^^ it be apple juice $$
 ^^ mhm $$
 ^^ love $$
+^^ mm $$
 ^^ spider $$
 ^^ yeah $$
 ^^ a spider $$
 ^^ spider $$
 ^^ spider $$
 ^^ yeah $$
-^^  one two three four five $$
+^^ um one two three four five $$
 ^^ spider $$
 ^^ whee $$
-^^  my sock $$
+^^ xxx $$
+^^ my my sock $$
 ^^ oh $$
 ^^ yes $$
 ^^ one two three $$
@@ -1147,25 +1183,29 @@
 ^^ spider $$
 ^^ there spider $$
 ^^ uhoh $$
+^^ xxx $$
 ^^ oh look $$
-^^ look at  $$
+^^ look at xxx $$
 ^^ want the magic dragon $$
 ^^ my corn $$
 ^^ my toast $$
 ^^ my toast $$
 ^^ mhm $$
+^^ mm $$
 ^^ my juice $$
 ^^ my orange $$
 ^^ my orange $$
 ^^ my orange $$
 ^^ scare spider $$
 ^^ scare spider $$
-^^  spider $$
+^^ xxx spider $$
 ^^ scare spider $$
+^^ xxx $$
+^^ xxx $$
 ^^ Anna $$
 ^^ round and round $$
 ^^ oh this round and round $$
-^^  round and round $$
+^^ xxx round and round $$
 ^^ another one $$
 ^^ look $$
 ^^ another one $$
@@ -1193,7 +1233,9 @@
 ^^ there you be $$
 ^^ on the floor $$
 ^^ I make a lobster $$
-^^  little fork $$
+^^ xxx $$
+^^ xxx $$
+^^ little little fork $$
 ^^ door $$
 ^^ tractor $$
 ^^ tractor $$
@@ -1203,6 +1245,7 @@
 ^^ tractor $$
 ^^ tractor $$
 ^^ I play skip $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ mhm $$
@@ -1216,6 +1259,7 @@
 ^^ oh sick $$
 ^^ sick $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh sick $$
 ^^ oh $$
 ^^ spider $$
@@ -1231,6 +1275,7 @@
 ^^ oh yeah $$
 ^^ that one $$
 ^^ go $$
+^^ xxx $$
 ^^ play $$
 ^^ Mummy open it $$
 ^^ Mummy open it $$
@@ -1249,8 +1294,10 @@
 ^^ it be black $$
 ^^ it be black $$
 ^^ not yellow $$
+^^ xxx $$
 ^^ key $$
 ^^ yeah $$
+^^ xxx $$
 ^^ key in $$
 ^^ key in $$
 ^^ John see $$
@@ -1259,10 +1306,13 @@
 ^^ box of tape $$
 ^^ a box of tape $$
 ^^ box of tape $$
+^^ xxx $$
 ^^ Anna tape $$
+^^ xxx $$
 ^^ a ball $$
 ^^ three four five six seven eight nine ten eleven $$
-^^  small ball $$
+^^ xxx small ball $$
+^^ xxx $$
 ^^ another one on there $$
 ^^ my hat $$
 ^^ yeah $$
@@ -1277,12 +1327,16 @@
 ^^ brumm $$
 ^^ a noise $$
 ^^ mhm $$
-^^ I go    buy some food $$
+^^ I go buy some shop buy some food $$
 ^^ I buy some food $$
+^^ mm $$
 ^^ want that $$
 ^^ want that $$
 ^^ plum $$
+^^ mm $$
 ^^ nice $$
+^^ mm $$
+^^ xxx $$
 ^^ animal in my box $$
 ^^ want a chicken $$
 ^^ want chicken $$
@@ -1290,7 +1344,12 @@
 ^^ please $$
 ^^ doll $$
 ^^ in there $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Daddy $$
+^^ xxx $$
+^^ xxx $$
 ^^ horn $$
 ^^ goat have horn $$
 ^^ train $$
@@ -1330,7 +1389,7 @@
 ^^ mhm $$
 ^^ headlight $$
 ^^ boot $$
-^^  open it $$
+^^ um open it $$
 ^^ oh $$
 ^^ Mummy up $$
 ^^ bump $$
@@ -1340,10 +1399,11 @@
 ^^ yeah $$
 ^^ brumm $$
 ^^ man see that $$
-^^ see all the  $$
+^^ see all the xxx $$
 ^^ honey $$
 ^^ oh yes $$
 ^^ horse $$
+^^ xxx $$
 ^^ look $$
 ^^ it on here $$
 ^^ man get out $$
@@ -1356,19 +1416,21 @@
 ^^ that sit on there $$
 ^^ on my farm $$
 ^^ that be another yellow trough $$
+^^ xxx $$
 ^^ no $$
 ^^ there some leave $$
 ^^ mhm $$
 ^^ no $$
 ^^ I want it $$
-^^   I do not want $$
+^^ I want I do not want $$
 ^^ my doll $$
-^^  Anna bag $$
+^^ xxx $$
+^^ Anna Anna bag $$
 ^^ yeah $$
 ^^ money $$
 ^^ yes $$
 ^^ oh $$
-^^  it $$
+^^ xxx it $$
 ^^ panda drive $$
 ^^ John farm $$
 ^^ another one $$
@@ -1426,6 +1488,7 @@
 ^^ I do not see $$
 ^^ look $$
 ^^ I do not see $$
+^^ xxx $$
 ^^ yeah $$
 ^^ upstairs $$
 ^^ Daddy $$
@@ -1433,9 +1496,19 @@
 ^^ mhm $$
 ^^ please $$
 ^^ me $$
+^^ xxx $$
+^^ mm $$
 ^^ nice $$
+^^ mm $$
+^^ mm $$
+^^ mm $$
+^^ mm $$
+^^ mm $$
 ^^ mhm $$
+^^ mm $$
+^^ mm $$
 ^^ oh yes $$
 ^^ me have it $$
-^^ this be  $$
+^^ this be xxx $$
 ^^ turn it on $$
+^^ xxx $$

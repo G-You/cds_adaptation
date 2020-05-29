@@ -1,3 +1,4 @@
+^^ xxx $$
 ^^ other animal $$
 ^^ a green truck there $$
 ^^ a red truck there $$
@@ -21,13 +22,13 @@
 ^^ no $$
 ^^ I can $$
 ^^ you take off $$
-^^ shall we   shall we do shape $$
+^^ shall we do do shall we do shape $$
 ^^ like this $$
 ^^ I can put this next to yours $$
 ^^ and I can get this next to mine $$
 ^^ and you put on mine $$
 ^^ and I can get a little brick here $$
-^^ and you can put a green one next to  those $$
+^^ and you can put a green one next to um those $$
 ^^ yeah $$
 ^^ be it all right to put another one there $$
 ^^ shall we put this one $$
@@ -55,12 +56,13 @@
 ^^ put yellow on that one $$
 ^^ I will put some on that one $$
 ^^ I will put some more on this one $$
-^^ I will put some   on that one $$
-^^ I put   some green on that one $$
+^^ I will put some on on on that one $$
+^^ I put some on some green on that one $$
 ^^ I can not fit $$
+^^ xxx $$
 ^^ I can not do them $$
 ^^ a big square $$
-^^ I  now $$
+^^ I xxx now $$
 ^^ thank_you $$
 ^^ now I get it like that $$
 ^^ yeah $$
@@ -68,7 +70,7 @@
 ^^ another one $$
 ^^ yeah $$
 ^^ I can stand up $$
-^^  it be too high $$
+^^ it's it be too high $$
 ^^ oh $$
 ^^ very high $$
 ^^ no $$
@@ -97,7 +99,7 @@
 ^^ we can not put the big one $$
 ^^ shall we do some more $$
 ^^ mess it all up $$
-^^ and  we can do it again $$
+^^ and we we can do it again $$
 ^^ and do tower again $$
 ^^ so we can do it again $$
 ^^ now we can play with it again $$
@@ -106,12 +108,12 @@
 ^^ I can put this to you there $$
 ^^ I can do that one there $$
 ^^ I do that one there next to yours $$
-^^ I  do this one next to mine $$
+^^ I do do this one next to mine $$
 ^^ and I will do one here $$
 ^^ I want more green one $$
-^^    I want another blue one $$
+^^ I want another I want another blue one $$
 ^^ I think I will do a red here $$
-^^ and  $$
+^^ and xxx $$
 ^^ and yellow on there $$
 ^^ do that on there $$
 ^^ do that on there $$
@@ -120,7 +122,7 @@
 ^^ yeah $$
 ^^ I like red $$
 ^^ do you like red $$
-^^   I want to get blue there $$
+^^ I want I want to get blue there $$
 ^^ and I want to get blue in the middle there $$
 ^^ and $$
 ^^ yeah $$
@@ -153,7 +155,7 @@
 ^^ this be big one $$
 ^^ shall we do it again $$
 ^^ shall we $$
-^^   I want to count these Mum $$
+^^ now we I want to count these Mum $$
 ^^ I just go to put them on there $$
 ^^ and I want to put this one on $$
 ^^ and this $$
@@ -275,6 +277,7 @@
 ^^ Winnie_Pooh be play with the blue balloon $$
 ^^ he fall over $$
 ^^ red and blue make the color purple $$
+^^ xxx $$
 ^^ they eat food do not they $$
 ^^ I like that one $$
 ^^ and I like two purple $$
@@ -298,7 +301,7 @@
 ^^ he be make a snow $$
 ^^ and a blue scarf $$
 ^^ no $$
-^^  he be fly his kite $$
+^^ um he be fly his kite $$
 ^^ I can $$
 ^^ they be mark be not they $$
 ^^ there another mark $$
@@ -310,7 +313,7 @@
 ^^ yeah $$
 ^^ and all the color $$
 ^^ and do $$
-^^  and I will put this there $$
+^^ and and I will put this there $$
 ^^ we just put it into lump $$
 ^^ yeah $$
 ^^ stand on them $$
@@ -319,8 +322,8 @@
 ^^ and do not squeak it $$
 ^^ I will squeak it $$
 ^^ yeah $$
-^^    squeak $$
-^^    squeak $$
+^^ squeak squeak squeak squeak $$
+^^ squeak squeak squeak squeak $$
 ^^ I want a wee $$
 ^^ you just $$
 ^^ you wait $$
@@ -332,12 +335,12 @@
 ^^ whoops $$
 ^^ bump $$
 ^^ a little paddle pool $$
-^^ I have not get all my clothes on but  I have not get pants on $$
+^^ I have not get all my clothes on but I I have not get pants on $$
 ^^ but I get some jeans $$
 ^^ yeah $$
 ^^ but I get very very small jeans $$
 ^^ and mine a bit small $$
-^^    my jeans a bit too big for you $$
+^^ mine's a bit my jeans a bit too big for you $$
 ^^ thank_you $$
 ^^ put it $$
 ^^ my mum have get big jeans as_well $$
@@ -353,10 +356,10 @@
 ^^ I stick here $$
 ^^ you just sit on my arm $$
 ^^ I go to squeak it with my foot $$
-^^   I just squeak  the frog with my foot $$
+^^ I just I just squeak my the frog with my foot $$
 ^^ no $$
 ^^ again $$
-^^ we do them  in lump $$
+^^ we do them in in lump $$
 ^^ I want something $$
 ^^ out the box $$
 ^^ I will get it $$
@@ -378,7 +381,7 @@
 ^^ I can not $$
 ^^ I can not get them $$
 ^^ thank_you $$
-^^ I can not  $$
+^^ I can not xxx $$
 ^^ thank_you $$
 ^^ say thank_you $$
 ^^ and do one here for me $$
@@ -393,6 +396,7 @@
 ^^ I get it $$
 ^^ I do not need them in my pile $$
 ^^ I get a bee $$
+^^ xxx $$
 ^^ I get them $$
 ^^ think I just get that one because that be my bee $$
 ^^ yeah $$
@@ -470,6 +474,7 @@
 ^^ I do not need them $$
 ^^ you have them now $$
 ^^ I just have enough of them $$
+^^ xxx $$
 ^^ I do not want my knickers $$
 ^^ I do not want $$
 ^^ no $$
@@ -495,7 +500,7 @@
 ^^ there it be $$
 ^^ there you be $$
 ^^ eight $$
-^^ and which teddy bear  do you like Anna $$
+^^ and which teddy bear do do you like Anna $$
 ^^ that be ten be not it $$
 ^^ ten $$
 ^^ one $$
@@ -520,17 +525,17 @@
 ^^ I have not get number two $$
 ^^ I just stand on Paddington $$
 ^^ there be number two there $$
-^^ do you  like number seven $$
+^^ do you want like number seven $$
 ^^ I get number seven $$
 ^^ look $$
 ^^ seven $$
 ^^ and put him there $$
 ^^ do you like this number $$
-^^  ten $$
+^^ um ten $$
 ^^ yeah $$
 ^^ no $$
 ^^ I have not get number four $$
-^^  do not know $$
+^^ um do not know $$
 ^^ yeah $$
 ^^ lose him $$
 ^^ there $$
@@ -539,7 +544,7 @@
 ^^ I get number three for you $$
 ^^ you get all the teddy $$
 ^^ yeah $$
-^^       can   you just watch me there $$
+^^ shall we can you put them can you just you just watch me there $$
 ^^ where be number two go $$
 ^^ oh there it be $$
 ^^ there $$
@@ -548,19 +553,19 @@
 ^^ I just miss that one $$
 ^^ you stay there $$
 ^^ and number one go in his hole $$
-^^ and I move  $$
+^^ and I move xxx $$
 ^^ you get few $$
 ^^ but all watch be in there $$
 ^^ and number five go in next to two $$
 ^^ where be number eight go $$
-^^  that be number eight cushion be not it $$
+^^ um that be number eight cushion be not it $$
 ^^ go next to five $$
 ^^ where be number seven go $$
 ^^ this go there next to eight $$
 ^^ and where be ten go $$
-^^  ten go next to seven $$
-^^  and where be nine go $$
-^^  go there  next to number seven $$
+^^ there's ten go next to seven $$
+^^ and and where be nine go $$
+^^ er go there next_to next to number seven $$
 ^^ and go in $$
 ^^ where be number three go $$
 ^^ oh $$
@@ -606,10 +611,10 @@
 ^^ the back $$
 ^^ there $$
 ^^ yeah $$
-^^  like Percy $$
+^^ like like Percy $$
 ^^ chuffchuff $$
 ^^ there $$
-^^ I find  another cow $$
+^^ I find another another cow $$
 ^^ and look $$
 ^^ I find it $$
 ^^ I get sheep $$
@@ -619,7 +624,8 @@
 ^^ think that be all the animal $$
 ^^ can not find any more can we $$
 ^^ at nursery we have to have that again $$
-^^  yeah $$
+^^ um yeah $$
+^^ xxx $$
 ^^ oh $$
 ^^ what be this $$
 ^^ it be a sheep $$
@@ -631,7 +637,7 @@
 ^^ chick $$
 ^^ oh another cow $$
 ^^ oh $$
-^^  do not want $$
+^^ don't do not want $$
 ^^ go sleep $$
 ^^ you $$
 ^^ stay there $$
@@ -643,25 +649,25 @@
 ^^ they be all together $$
 ^^ four little cow $$
 ^^ and two Daddy one $$
-^^  think that be  $$
+^^ xxx think that be xxx $$
 ^^ oh a pig $$
 ^^ a pig $$
 ^^ shall we put it in my oven to cook $$
-^^   be this pig to cook $$
+^^ is that be this pig to cook $$
 ^^ I go to cook it in my microwave $$
 ^^ cook all of them $$
 ^^ yeah $$
 ^^ they be cook $$
-^^   do you want one on a blue plate $$
+^^ don't want do you want one on a blue plate $$
 ^^ all of them on the plate $$
 ^^ I just cook them $$
 ^^ they be very hot $$
 ^^ yeah $$
 ^^ I have to blow them $$
 ^^ because they be very hot $$
-^^ but  I have to cool them down a bit $$
+^^ but we I have to cool them down a bit $$
 ^^ I be cool them $$
-^^  I have to cool them down $$
+^^ I I have to cool them down $$
 ^^ because they be very hot $$
 ^^ I have to cool them down $$
 ^^ they be very hot $$
@@ -671,14 +677,14 @@
 ^^ do you like them all on a plate $$
 ^^ on a green plate $$
 ^^ that be the green plate be not it sheep $$
-^^ I get them all    on the green plate now $$
+^^ I get them all on the blue on the green plate now $$
 ^^ here you be $$
 ^^ can you eat the cow $$
 ^^ that be not hot $$
-^^   these be all hot $$
+^^ these are these be all hot $$
 ^^ and this one be all right $$
 ^^ here you be $$
-^^ this   it be not too bad $$
+^^ this one's is it be not too bad $$
 ^^ eat that one $$
 ^^ put these one there $$
 ^^ but they be wet be not they $$
@@ -689,7 +695,7 @@
 ^^ eat it $$
 ^^ put them down now $$
 ^^ eat that one $$
-^^   I will put them down $$
+^^ I will I will put them down $$
 ^^ okay $$
 ^^ I will put them down $$
 ^^ okay $$
@@ -710,13 +716,13 @@
 ^^ it be your party $$
 ^^ yeah $$
 ^^ it be your party today $$
-^^  it be your great big party today $$
+^^ it's it be your great big party today $$
 ^^ yes it be $$
 ^^ that be surprise $$
 ^^ they be in the oven $$
 ^^ they be in the oven $$
 ^^ you can eat them next $$
-^^   you have get empty tum $$
+^^ you have you have get empty tum $$
 ^^ all_gone $$
 ^^ can you play with them with me $$
 ^^ you play with me $$
@@ -731,7 +737,7 @@
 ^^ oh $$
 ^^ yeah $$
 ^^ there be the train $$
-^^  I be get this in the train $$
+^^ I'm I be get this in the train $$
 ^^ I have a poo $$
 ^^ I do $$
 ^^ I do a wee and a poo $$
@@ -740,7 +746,7 @@
 ^^ look $$
 ^^ do $$
 ^^ I do a wee and a poo $$
-^^ well I be get  $$
+^^ well I be get xxx $$
 ^^ have you get a big basket $$
 ^^ have you get a big basket $$
 ^^ have you get that big one $$
@@ -773,52 +779,52 @@
 ^^ big orange $$
 ^^ a big orange $$
 ^^ you want a wee $$
-^^  I be come upstairs $$
+^^ I'm I be come upstairs $$
 ^^ I have a wee in a moment $$
 ^^ that be a big orange $$
 ^^ shall we throw them $$
 ^^ shall we just throw them in your hand $$
 ^^ it be go now $$
-^^  a boy $$
+^^ a a boy $$
 ^^ yeah $$
 ^^ Kate $$
-^^  I just see Kate $$
+^^ I I just see Kate $$
 ^^ at my school $$
 ^^ she be $$
 ^^ yeah $$
 ^^ I be $$
 ^^ I just kick my doll $$
-^^  Friday $$
+^^ er Friday $$
 ^^ Friday $$
 ^^ yeah $$
 ^^ he be $$
 ^^ I get my farm out today $$
-^^ I just get  this out today $$
+^^ I just get my this out today $$
 ^^ I get this out today Anna $$
 ^^ I just get this together $$
 ^^ a strawberry $$
 ^^ strawberry $$
 ^^ strawberry $$
-^^ I go to put  $$
+^^ I go to put xxx $$
 ^^ yeah $$
 ^^ use another piece $$
 ^^ one be big $$
-^^   this one be big $$
+^^ this one this one be big $$
 ^^ this one be big now $$
 ^^ big $$
 ^^ big $$
 ^^ that be not dry $$
-^^  be the nana today $$
-^^  no $$
+^^ is be the nana today $$
+^^ um no $$
 ^^ can you help me $$
 ^^ can not do it $$
 ^^ be a nana there $$
 ^^ yeah $$
 ^^ I squeeze it $$
-^^   squeeze $$
+^^ squeeze squeeze squeeze $$
 ^^ no $$
 ^^ I have not do $$
-^^ shall we do  a strawberry now $$
+^^ shall we do a a strawberry now $$
 ^^ I have to do this $$
 ^^ no $$
 ^^ squeeze it together $$
@@ -826,11 +832,11 @@
 ^^ a strawberry $$
 ^^ I go to do it again $$
 ^^ there be a strawberry $$
-^^  oh a circle $$
+^^ a oh a circle $$
 ^^ there be a strawberry $$
 ^^ and I want to do a aeroplane $$
 ^^ yes $$
-^^   I want to do this please $$
+^^ I wanna I want to do this please $$
 ^^ yeah $$
 ^^ okay $$
 ^^ it be heavy $$
@@ -895,7 +901,7 @@
 ^^ and I squeeze it $$
 ^^ there be a horse $$
 ^^ horse $$
-^^ shall we do  this $$
+^^ shall we do er this $$
 ^^ whoops $$
 ^^ there be a chicken $$
 ^^ look what I make $$
@@ -907,7 +913,7 @@
 ^^ I be open the window and the door $$
 ^^ oh $$
 ^^ one door open $$
-^^ two  $$
+^^ two xxx $$
 ^^ what you do $$
 ^^ you do the ladybird $$
 ^^ you do the ladybird $$
@@ -1013,10 +1019,10 @@
 ^^ I will get these $$
 ^^ and you get them $$
 ^^ I get a handbag $$
-^^ shall we  just  tip these out $$
+^^ shall we just just get tip these out $$
 ^^ oh $$
 ^^ oh here be a cow $$
-^^   there be a cow in your bag $$
+^^ there's a there be a cow in your bag $$
 ^^ yeah $$
 ^^ he should be in the box $$
 ^^ should not he $$
@@ -1068,7 +1074,7 @@
 ^^ all of them $$
 ^^ can you put these in the oven $$
 ^^ there you be $$
-^^ put them all in  your hand $$
+^^ put them all in your your hand $$
 ^^ leave them all in your hand $$
 ^^ leave them all in your hand and do not drop them $$
 ^^ yeah $$
@@ -1108,7 +1114,7 @@
 ^^ house $$
 ^^ yeah $$
 ^^ house $$
-^^   there be a carrot $$
+^^ there's a there be a carrot $$
 ^^ there be a onion $$
 ^^ there be a house $$
 ^^ whoops $$
@@ -1116,11 +1122,11 @@
 ^^ a little one house $$
 ^^ a little one house $$
 ^^ a triangle $$
-^^ a     shape $$
-^^   shape $$
-^^  shape $$
-^^    shape $$
-^^   shape $$
+^^ a shape shape shape shape shape $$
+^^ shape shape shape $$
+^^ shape shape $$
+^^ shape shape shape shape $$
+^^ shape shape shape $$
 ^^ look $$
 ^^ a little one house $$
 ^^ can I make it as_well $$
@@ -1133,7 +1139,7 @@
 ^^ yeah $$
 ^^ it do roll away $$
 ^^ because there be not a_lot_of room $$
-^^  be it $$
+^^ xxx be it $$
 ^^ no $$
 ^^ his other leg be miss $$
 ^^ yeah $$
@@ -1168,12 +1174,13 @@
 ^^ it be a special book $$
 ^^ Pingu and the kite $$
 ^^ whoops $$
+^^ xxx $$
 ^^ three $$
 ^^ and I remember that number and that number $$
 ^^ five and four $$
-^^  Hannah near four $$
+^^ Hannah Hannah near four $$
 ^^ yeah $$
-^^    what be that do $$
+^^ what's the what's what be that do $$
 ^^ the kite do $$
 ^^ whoops $$
 ^^ they have to fix another old one $$

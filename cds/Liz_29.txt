@@ -1,4 +1,5 @@
 ^^ Lucky $$
+^^ www $$
 ^^ shall I wind him up again $$
 ^^ why do not you just go back to bed and have a rest hey $$
 ^^ that be a good idea $$
@@ -47,7 +48,7 @@
 ^^ do you $$
 ^^ do you want some help with it Liz $$
 ^^ right then $$
-^^ turn all the piece so we can see what be on them  $$
+^^ turn all the piece so we can see what be on them eh $$
 ^^ okey_dokey $$
 ^^ where be some sheep now $$
 ^^ now where be the rest of it $$
@@ -155,6 +156,7 @@
 ^^ no not for you $$
 ^^ can you manage $$
 ^^ thank_you $$
+^^ www $$
 ^^ mhm $$
 ^^ you eat it sweet $$
 ^^ I have get one thank_you $$
@@ -208,6 +210,7 @@
 ^^ mhm $$
 ^^ oh yeah $$
 ^^ do you $$
+^^ www $$
 ^^ Lucky $$
 ^^ do not be a pest or you will have to go out $$
 ^^ be you $$
@@ -221,6 +224,8 @@
 ^^ hello $$
 ^^ what be behind there Liz $$
 ^^ mhm $$
+^^ www $$
+^^ www $$
 ^^ hey what be you do sweet $$
 ^^ oh cause havoc $$
 ^^ oh now what have I get here $$
@@ -239,7 +244,7 @@
 ^^ you be Simple_Simon be you $$
 ^^ oh right $$
 ^^ do Simple_Simon say put your hand on your head $$
-^^  I see $$
+^^ a I see $$
 ^^ yeah later we will have Liz on the tellie $$
 ^^ yeah $$
 ^^ you have have your nursery rhyme today $$
@@ -264,12 +269,14 @@
 ^^ Baa_Baa white sheep $$
 ^^ look over there $$
 ^^ see the little bunny rabbit go to the fair $$
-^^ white tail and white  $$
+^^ white tail and white xxx $$
 ^^ white curl hair $$
 ^^ see the little bunny rabbit go to the fair $$
 ^^ which one love $$
 ^^ oh right $$
+^^ www $$
 ^^ knock at the door $$
+^^ www $$
 ^^ we be only sing you daft dog $$
 ^^ no sit down $$
 ^^ sit $$
@@ -311,16 +318,17 @@
 ^^ you have $$
 ^^ oh excuse me $$
 ^^ pan $$
-^^  I do not think Anna have a pan $$
+^^ er I do not think Anna have a pan $$
 ^^ do she $$
 ^^ you have get a pan $$
-^^ well I do not know where it be because  the lid $$
+^^ well I do not know where it be because er the lid $$
 ^^ oh I bet it be in the garden full of mud $$
 ^^ I bet that be where it be $$
 ^^ mhm $$
 ^^ oh you drink that quick do not you $$
 ^^ mhm $$
 ^^ mhm $$
+^^ www $$
 ^^ you be eat your ice be you $$
 ^^ oh be it nice $$
 ^^ what flavor be it $$
@@ -384,6 +392,7 @@
 ^^ yeah $$
 ^^ grr $$
 ^^ grr $$
+^^ um $$
 ^^ where be the other tiger $$
 ^^ oh that be the giraffe $$
 ^^ oh can not see the other tiger $$
@@ -484,6 +493,7 @@
 ^^ a big cuddle off my Liz $$
 ^^ be you_all right there $$
 ^^ pardon $$
+^^ a $$
 ^^ thank_you $$
 ^^ I feel so much good for that $$
 ^^ do not I $$
@@ -500,6 +510,7 @@
 ^^ oh I be wear out Liz $$
 ^^ I should have have you when I be twenty one and have lots_of energy $$
 ^^ not thirty four and be knacker $$
+^^ eh $$
 ^^ well where do you want me to put them $$
 ^^ like that $$
 ^^ I can only put one up at a time $$
@@ -516,6 +527,7 @@
 ^^ well you be the wrong way round $$
 ^^ do you want to turn round $$
 ^^ ready $$
+^^ www $$
 ^^ pardon $$
 ^^ you want to get up $$
 ^^ yes I know $$
@@ -528,6 +540,7 @@
 ^^ yeah $$
 ^^ pardon $$
 ^^ the sausage $$
+^^ um $$
 ^^ in the basket $$
 ^^ still in the basket $$
 ^^ mhm $$
@@ -549,8 +562,8 @@
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ and then the leg be take off to eat $$
 ^^ mhm $$
-^^  because some person eat chicken leg $$
-^^   oh it do come off $$
+^^ um because some person eat chicken leg $$
+^^ I don't oh it do come off $$
 ^^ sorry $$
 ^^ there you go $$
 ^^ mhm $$
@@ -561,7 +574,7 @@
 ^^ do not pull the label off please $$
 ^^ that be Anna toy $$
 ^^ thank_you $$
-^^  it be a tin of salmon I think $$
+^^ er it be a tin of salmon I think $$
 ^^ pretend $$
 ^^ tin of salmon $$
 ^^ salmon $$
@@ -588,7 +601,7 @@
 ^^ salmon $$
 ^^ where $$
 ^^ where $$
-^^ oh  that look like a lemon $$
+^^ oh er that look like a lemon $$
 ^^ a orange $$
 ^^ yeah I will do you one in a second $$
 ^^ we need to put these toy away for Anna in a bit $$
@@ -640,6 +653,7 @@
 ^^ yeah $$
 ^^ thank_you love $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
+^^ eh $$
 ^^ that be my coffee $$
 ^^ what can not you reach love $$
 ^^ oh those brick $$
@@ -647,7 +661,7 @@
 ^^ just a minute while I put my drink down $$
 ^^ okay $$
 ^^ tip it upside down and it will come out love $$
-^^ yeah you need to  turn it upside down and it will fall out $$
+^^ yeah you need to turn turn it upside down and it will fall out $$
 ^^ there we go $$
 ^^ mhm $$
 ^^ yeah $$
@@ -669,12 +683,12 @@
 ^^ what do you want me to do $$
 ^^ well who be this here $$
 ^^ oh I do not know what his name be $$
-^^ that be  $$
+^^ that be um $$
 ^^ let us see $$
 ^^ I think that be Ernie $$
 ^^ or Bert $$
 ^^ which one be which $$
-^^   be this Ernie $$
+^^ is this be this Ernie $$
 ^^ no this must be Bert then $$
 ^^ be it $$
 ^^ mhm $$
@@ -686,6 +700,7 @@
 ^^ yeah $$
 ^^ do you want to put these away then and I will get Percy out $$
 ^^ well you will have to move them out_of the way a bit because Percy take up all this room do not he $$
+^^ eh $$
 ^^ shoe $$
 ^^ oh $$
 ^^ beepbeep $$
@@ -713,7 +728,7 @@
 ^^ it be a bit stiff now that daddy be tighten it be not it $$
 ^^ that way $$
 ^^ shall I finish it off $$
-^^ because  it be get stiff now because it be near finish you see $$
+^^ because it's it be get stiff now because it be near finish you see $$
 ^^ that be it $$
 ^^ yeah $$
 ^^ go go go go go go go go go go go go $$
@@ -756,6 +771,7 @@
 ^^ uhoh $$
 ^^ oh dear $$
 ^^ now Percy and Harold do not get on as it be do they $$
+^^ eh $$
 ^^ I do not know but they be always have argue be not they $$
 ^^ oh $$
 ^^ oh dear $$
@@ -794,13 +810,13 @@
 ^^ grape $$
 ^^ oh $$
 ^^ I will get you some in a minute $$
-^^    I do not want to upset Lucky by go in the kitchen you see $$
+^^ I don't want I do not want to upset Lucky by go in the kitchen you see $$
 ^^ yeah $$
 ^^ shall I put that one out $$
 ^^ over there $$
 ^^ have you get the bridge $$
 ^^ that be right $$
-^^    do you want to put it on or shall I $$
+^^ do you want do you want to put it on or shall I $$
 ^^ yeah $$
 ^^ okay $$
 ^^ okay $$
@@ -836,6 +852,7 @@
 ^^ you have hold of him a minute ago $$
 ^^ there you be $$
 ^^ you be noise you be not you $$
+^^ eh $$
 ^^ bye $$
 ^^ what be you do Liz $$
 ^^ oh I see $$
@@ -872,9 +889,10 @@
 ^^ oh yeah $$
 ^^ I can set Percy go $$
 ^^ oh dear $$
-^^  well I think we will be have Anna toy in a minute $$
+^^ www $$
+^^ um well I think we will be have Anna toy in a minute $$
 ^^ so we genmod good not build a tunnel just yet $$
-^^ you can build one later  $$
+^^ you can build one later eh $$
 ^^ it take forever do not it $$
 ^^ yeah $$
 ^^ yeah we will later $$
@@ -885,6 +903,7 @@
 ^^ oh yes we have yes $$
 ^^ but we do not want to get them mix up do we $$
 ^^ yeah well we could build one with Anna brick when they come in could not we $$
+^^ eh $$
 ^^ will that be all right $$
 ^^ yeah $$
 ^^ fancy that $$
@@ -900,7 +919,7 @@
 ^^ do you want me to wind it up $$
 ^^ yeah $$
 ^^ you have to pull the switch do not you $$
-^^  I be not sure $$
+^^ um I be not sure $$
 ^^ it might be Elmo $$
 ^^ we do not watch Sesame_Street do we $$
 ^^ come here $$
@@ -914,12 +933,13 @@
 ^^ yeah $$
 ^^ right we need these one $$
 ^^ can you pass Percy $$
-^^  make sure it be tall enough $$
+^^ make make sure it be tall enough $$
+^^ eh $$
 ^^ we need to make another tower that big $$
 ^^ can you do that $$
 ^^ no another one the same $$
 ^^ at the side there $$
-^^  a tunnel I think $$
+^^ um a tunnel I think $$
 ^^ be you $$
 ^^ I need that long one in a minute $$
 ^^ right $$
@@ -941,7 +961,7 @@
 ^^ there be a tunnel $$
 ^^ right $$
 ^^ we need Percy now $$
-^^ over there    by the box $$
+^^ over there by the um by the box $$
 ^^ over there $$
 ^^ behind Postman_Pat van he be $$
 ^^ can you see him $$
@@ -1051,6 +1071,7 @@
 ^^ at the pet shop $$
 ^^ mhm $$
 ^^ oh $$
+^^ www $$
 ^^ and what else do we see $$
 ^^ bird $$
 ^^ rabbit $$
@@ -1062,13 +1083,15 @@
 ^^ oh there be two of the Mister_men book $$
 ^^ this one $$
 ^^ I know $$
+^^ www $$
 ^^ be we ready $$
 ^^ okay $$
+^^ www $$
 ^^ but Bertie be very close behind be not he $$
 ^^ it be a near thing I think $$
 ^^ he have $$
 ^^ yeah $$
-^^ it must have be wind  $$
+^^ it must have be wind eh $$
 ^^ okay $$
 ^^ do you want another one $$
 ^^ mhm $$
@@ -1138,6 +1161,7 @@
 ^^ if the sky be clear he can see the moon and the star $$
 ^^ every time Percy stop at a station the man load the mail bag $$
 ^^ when the last bag have be deliver Percy set off for the engine shed $$
+^^ www $$
 ^^ yeah $$
 ^^ which one do you want $$
 ^^ this one about the pony $$
@@ -1158,7 +1182,7 @@
 ^^ maybe that be why he be a fat $$
 ^^ he be a big horse be not he $$
 ^^ well that be the ride $$
-^^ because   you can ride on horse $$
+^^ because you can you can ride on horse $$
 ^^ we have see person ride horse have not we $$
 ^^ on the road $$
 ^^ and that be the ride $$
@@ -1222,13 +1246,14 @@
 ^^ do you $$
 ^^ right $$
 ^^ I will get you some in a minute $$
-^^ yeah   we can have a bit of tellie in a minute sweet $$
+^^ yeah we can we can have a bit of tellie in a minute sweet $$
 ^^ oh dear $$
 ^^ hello $$
 ^^ shall I get the pen out now $$
 ^^ do you want to bring the paper in there while Anna be still here $$
 ^^ bring the paper through there $$
 ^^ well if we can go through there I can draw $$
+^^ www $$
 ^^ yeah $$
 ^^ what be he do $$
 ^^ climb $$
@@ -1253,6 +1278,7 @@
 ^^ which one do you want $$
 ^^ oh no not that one $$
 ^^ there be no story in that one be there $$
+^^ eh $$
 ^^ shall we have one with a story in $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1394,9 +1420,11 @@
 ^^ count them up $$
 ^^ each come to six $$
 ^^ bless you $$
+^^ www $$
 ^^ it be a birth cake be not it $$
 ^^ be it a birth cake $$
 ^^ oh bless you darling $$
+^^ www $$
 ^^ look at all those present $$
 ^^ that be what it will be like soon $$
 ^^ it will be Christmas $$
@@ -1410,19 +1438,23 @@
 ^^ hey $$
 ^^ have you have enough of this book $$
 ^^ we can do the other book if you want $$
+^^ www $$
 ^^ what be you do $$
 ^^ go go go go go go go go go go go go go $$
+^^ www $$
 ^^ see his apple fall out $$
 ^^ mhm yes $$
 ^^ just wonder why $$
+^^ www $$
 ^^ he be only get two left now $$
 ^^ go go go go go go go go go go go go $$
+^^ www $$
 ^^ yes I know you be $$
 ^^ oh hold on $$
 ^^ do you want to do this book $$
 ^^ yes $$
 ^^ oh I have get a itch nose Liz $$
-^^   it be that dog and her hair $$
+^^ it's that it be that dog and her hair $$
 ^^ have you $$
 ^^ do you want it scratch $$
 ^^ okay $$
@@ -1468,6 +1500,7 @@
 ^^ dull day $$
 ^^ and fun day $$
 ^^ like party and thing $$
+^^ www $$
 ^^ okay $$
 ^^ be you hide $$
 ^^ oh there you be $$
@@ -1605,7 +1638,7 @@
 ^^ well we do not need doll in the tower do we $$
 ^^ yeah you could do $$
 ^^ yeah $$
-^^  do you want to do these kind first $$
+^^ do do you want to do these kind first $$
 ^^ yeah $$
 ^^ pardon $$
 ^^ very cold $$
@@ -1639,7 +1672,7 @@
 ^^ because it be get big be not it $$
 ^^ yeah $$
 ^^ that be it $$
-^^ that might be ease  $$
+^^ that might be ease eh $$
 ^^ look at these two $$
 ^^ they be already join together $$
 ^^ that be it $$
@@ -1654,7 +1687,7 @@
 ^^ wow $$
 ^^ it be very big $$
 ^^ you be right $$
-^^  a red one $$
+^^ um a red one $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ mhm $$
@@ -1739,7 +1772,7 @@
 ^^ very very care $$
 ^^ yeah $$
 ^^ oh $$
-^^ oh  $$
+^^ oh um $$
 ^^ I do not know what else could go on real $$
 ^^ what else could go on it $$
 ^^ oh right $$
@@ -1876,7 +1909,7 @@
 ^^ okay $$
 ^^ okay $$
 ^^ that be you that $$
-^^ oh do you mean the baby  up with the Daddy $$
+^^ oh do you mean the baby up up with the Daddy $$
 ^^ they be just have a cuddle I think $$
 ^^ get to know each_other $$
 ^^ because when you get a new baby you do not know it do you $$
@@ -1929,14 +1962,14 @@
 ^^ what be in here $$
 ^^ these be good be they $$
 ^^ mhm $$
-^^ well  there be some big circle that you do $$
+^^ well there's there be some big circle that you do $$
 ^^ orange and yellow circle $$
 ^^ what else do you do $$
 ^^ oh that be just some scribble be not it $$
 ^^ oh here you be $$
 ^^ that be the elephant that Daddy do be not it $$
 ^^ Nellie the elephant $$
-^^ well this be the  panda that you color in their arm and leg and their ear have not you $$
+^^ well this be the um panda that you color in their arm and leg and their ear have not you $$
 ^^ and then a mouse $$
 ^^ and you color in his arm and his ear $$
 ^^ and then you color in a triangle $$
@@ -1946,4 +1979,4 @@
 ^^ whoops $$
 ^^ what be you get love $$
 ^^ the pen be over here sweet $$
-^^ they be there  by the chair that Anna be sit on $$
+^^ they be there by by the chair that Anna be sit on $$

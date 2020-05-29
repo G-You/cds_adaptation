@@ -11,10 +11,12 @@
 ^^ on his flash light $$
 ^^ neenaw $$
 ^^ look at that $$
+^^ xxx $$
 ^^ look at that $$
 ^^ neenaw $$
 ^^ it be very small $$
 ^^ neenaw $$
+^^ xxx $$
 ^^ pump $$
 ^^ oh look $$
 ^^ no road there $$
@@ -34,9 +36,9 @@
 ^^ oh silly $$
 ^^ go back home and get some $$
 ^^ yeah $$
-^^  no $$
+^^ no no $$
 ^^ it be stick $$
-^^  it be stop on the line $$
+^^ it's it be stop on the line $$
 ^^ it stop and turn round $$
 ^^ brumm $$
 ^^ that one stop $$
@@ -50,7 +52,7 @@
 ^^ neenaw $$
 ^^ will not will not will not will not $$
 ^^ ouch $$
-^^ oh not  $$
+^^ oh not xxx $$
 ^^ yeah $$
 ^^ and look $$
 ^^ there be a break caravan $$
@@ -114,11 +116,11 @@
 ^^ that one $$
 ^^ the wrong way round $$
 ^^ that $$
-^^  can see that one $$
+^^ um can see that one $$
 ^^ that go over there $$
 ^^ just there $$
 ^^ that go there $$
-^^  there that one $$
+^^ um there that one $$
 ^^ that go there $$
 ^^ there $$
 ^^ yes $$
@@ -132,6 +134,7 @@
 ^^ where be another one $$
 ^^ there that one $$
 ^^ where be another eye $$
+^^ xxx $$
 ^^ that be another piece that one $$
 ^^ that can not fit $$
 ^^ that can go there $$
@@ -140,7 +143,7 @@
 ^^ that piece $$
 ^^ that go there $$
 ^^ near finish $$
-^^ one more piece  $$
+^^ one more piece xxx $$
 ^^ that go there $$
 ^^ and another piece there fit $$
 ^^ there we be $$
@@ -168,6 +171,8 @@
 ^^ put it down there $$
 ^^ I do not want make a puzzle $$
 ^^ I want to play that one $$
+^^ xxx $$
+^^ xxx $$
 ^^ happy_birthday $$
 ^^ oh $$
 ^^ oh $$
@@ -182,9 +187,9 @@
 ^^ that go there $$
 ^^ near finish $$
 ^^ bird $$
-^^  two three $$
+^^ um two three $$
 ^^ a fly $$
-^^ one two three four five six seven eight nine ten eleven twelve  thirteen $$
+^^ one two three four five six seven eight nine ten eleven twelve thirteen thirteen $$
 ^^ yeah $$
 ^^ oh look $$
 ^^ it be in my sock $$
@@ -209,12 +214,14 @@
 ^^ ouch $$
 ^^ ouch $$
 ^^ ouch $$
+^^ xxx $$
 ^^ another piece come off $$
 ^^ want my mat out $$
+^^ xxx $$
 ^^ oh $$
 ^^ knock my cup off $$
 ^^ no $$
-^^   I want some more $$
+^^ I want I want some more $$
 ^^ want some more $$
 ^^ want some more please $$
 ^^ I want some now $$
@@ -224,14 +231,15 @@
 ^^ t $$
 ^^ yeah $$
 ^^ brumm $$
+^^ a $$
 ^^ it be drive on the track $$
 ^^ oh $$
 ^^ I want it on a road $$
-^^  prod $$
+^^ xxx prod $$
 ^^ I stand $$
-^^    wobble $$
+^^ wobble wobble wobble wobble $$
 ^^ oh I do not want sit on the mat $$
-^^ it be not  $$
+^^ it be not xxx $$
 ^^ I need a wee $$
 ^^ yes $$
 ^^ Daddy in toilet $$
@@ -256,7 +264,7 @@
 ^^ no $$
 ^^ no $$
 ^^ I want look at my pig $$
-^^  my pig $$
+^^ xxx my pig $$
 ^^ Mummy prod $$
 ^^ Mummy $$
 ^^ Mummy $$
@@ -264,6 +272,7 @@
 ^^ nothing $$
 ^^ I want toy rabbit $$
 ^^ yes $$
+^^ xxx $$
 ^^ want some more $$
 ^^ when Daddy be come back I have some more $$
 ^^ make a tower $$
@@ -300,7 +309,7 @@
 ^^ excuse me $$
 ^^ I need another wee $$
 ^^ I put a new trailer $$
-^^  new trailer $$
+^^ xxx new trailer $$
 ^^ it be new $$
 ^^ yes $$
 ^^ where be my trailer $$
@@ -312,7 +321,7 @@
 ^^ nobody sit in it $$
 ^^ just the panda $$
 ^^ panda be $$
-^^  that be a mini car $$
+^^ it's that be a mini car $$
 ^^ one two three $$
 ^^ it be look on the back $$
 ^^ neenaw $$
@@ -322,11 +331,12 @@
 ^^ it a policecar mini car $$
 ^^ a police mini car $$
 ^^ oh it be stop $$
-^^  where be the pants for him $$
+^^ where's where be the pants for him $$
 ^^ where be the pants $$
 ^^ that be the drive $$
 ^^ drive need to go in the trailer $$
 ^^ that man need to go on there $$
+^^ xxx $$
 ^^ yes $$
 ^^ Warren $$
 ^^ yes $$
@@ -361,7 +371,7 @@
 ^^ big bridge $$
 ^^ car go under $$
 ^^ I get that piece $$
-^^  another piece on the gate $$
+^^ xxx another piece on the gate $$
 ^^ I get a piece here $$
 ^^ I put it there $$
 ^^ oh sorry Mummy $$
@@ -411,7 +421,7 @@
 ^^ sausage with something $$
 ^^ the train go off $$
 ^^ yes $$
-^^   where be my trailer $$
+^^ where's my where be my trailer $$
 ^^ where be my trailer $$
 ^^ ahhah $$
 ^^ ahhah $$
@@ -422,12 +432,12 @@
 ^^ where be another man $$
 ^^ oh ahhah $$
 ^^ here be this another man $$
-^^ I put them  up top $$
+^^ I put them up up top $$
 ^^ can watch the car go out $$
 ^^ that can go there $$
 ^^ oh sorry $$
 ^^ put them there $$
-^^  off $$
+^^ xxx off $$
 ^^ put them there safe $$
 ^^ and watch a car $$
 ^^ safe $$
@@ -444,7 +454,7 @@
 ^^ what be that tweet outside $$
 ^^ have a look outside $$
 ^^ there be that man $$
-^^  fall off $$
+^^ xxx fall off $$
 ^^ horse $$
 ^^ one two three $$
 ^^ one $$
@@ -457,7 +467,7 @@
 ^^ toottoot $$
 ^^ monkey stay there $$
 ^^ have a sleep $$
-^^ actual  can not fit on $$
+^^ actual xxx can not fit on $$
 ^^ can not fit on there $$
 ^^ he be drive $$
 ^^ what a fun train $$
@@ -465,7 +475,7 @@
 ^^ beep $$
 ^^ choochoo $$
 ^^ brumm $$
-^^     want my soft stuff $$
+^^ I want my stuff want my soft stuff $$
 ^^ get soft stuff in Nana $$
 ^^ yes $$
 ^^ I want to go $$
@@ -499,7 +509,7 @@
 ^^ and that fun $$
 ^^ who be that $$
 ^^ who that do it outside $$
-^^  outside $$
+^^ xxx outside $$
 ^^ I want some $$
 ^^ want make a little bridge $$
 ^^ a bridge $$
@@ -513,7 +523,7 @@
 ^^ here be another one $$
 ^^ here be another one $$
 ^^ and here be another one $$
-^^  now $$
+^^ xxx now $$
 ^^ two gate $$
 ^^ one $$
 ^^ and one gate a back $$
@@ -527,9 +537,9 @@
 ^^ I need a shove $$
 ^^ no $$
 ^^ do not want that one $$
-^^  actual $$
+^^ actually actual $$
 ^^ actual this want to push that $$
-^^ this go a little  a push $$
+^^ this go a little xxx a push $$
 ^^ that be push $$
 ^^ that gap can push a train $$
 ^^ yes $$
@@ -564,7 +574,7 @@
 ^^ neenaw $$
 ^^ that get a bump the cow $$
 ^^ Granddad be go to mend those tyre $$
-^^  and $$
+^^ and and $$
 ^^ and that one $$
 ^^ and that one $$
 ^^ and it be get a spare wheel $$
@@ -581,9 +591,9 @@
 ^^ I want put that there $$
 ^^ I make two fence $$
 ^^ oh these be hard $$
-^^ my brick  $$
+^^ my brick xxx $$
 ^^ my brick be hard $$
-^^     Anna get some more $$
+^^ Anna Anna Anna got Anna get some more $$
 ^^ look Anna $$
 ^^ Anna $$
 ^^ where be Nana go $$
@@ -591,7 +601,9 @@
 ^^ actual $$
 ^^ want a hat on $$
 ^^ then I put a tall neck on $$
+^^ xxx $$
 ^^ put a tall neck on $$
+^^ xxx $$
 ^^ let me see $$
 ^^ oh yeah $$
 ^^ look at these $$
@@ -610,7 +622,7 @@
 ^^ can $$
 ^^ I can $$
 ^^ hey $$
-^^  that $$
+^^ xxx that $$
 ^^ look $$
 ^^ no $$
 ^^ let us do it again $$
@@ -620,7 +632,7 @@
 ^^ oh $$
 ^^ oh it be long $$
 ^^ oh actual that $$
-^^ let us go  $$
+^^ let us go xxx $$
 ^^ go in and out in that $$
 ^^ bump $$
 ^^ there be his foot $$
@@ -633,7 +645,7 @@
 ^^ put that there $$
 ^^ and he make a small car $$
 ^^ make a small car $$
-^^  put that on there $$
+^^ xxx put that on there $$
 ^^ no $$
 ^^ I can not $$
 ^^ brumm $$
@@ -653,12 +665,14 @@
 ^^ it be some cheese in there $$
 ^^ yeah $$
 ^^ yeah $$
-^^ oh that be  $$
+^^ oh that be xxx $$
 ^^ make that $$
 ^^ yeah $$
-^^  here $$
+^^ um here $$
+^^ xxx $$
 ^^ yeah $$
-^^   that be very tall $$
+^^ that's very that be very tall $$
+^^ a $$
 ^^ oh $$
 ^^ look at this brick $$
 ^^ it be go to fall $$
@@ -673,8 +687,9 @@
 ^^ now I put some more in $$
 ^^ tip that out $$
 ^^ I put more in there $$
+^^ xxx $$
 ^^ I just make house $$
-^^  house $$
+^^ xxx house $$
 ^^ let me see $$
 ^^ Mummy $$
 ^^ make a little house $$
@@ -696,11 +711,14 @@
 ^^ oh yeah $$
 ^^ yeah $$
 ^^ fit fit fit $$
+^^ xxx $$
 ^^ let me see $$
 ^^ no $$
 ^^ I break that $$
+^^ a $$
 ^^ no $$
 ^^ I want to make house $$
+^^ xxx $$
 ^^ I just break it apart $$
 ^^ they go in and out $$
 ^^ out_of that $$
@@ -724,10 +742,11 @@
 ^^ no $$
 ^^ brumm $$
 ^^ stop $$
-^^ and  there be the drive $$
+^^ and there's there be the drive $$
 ^^ no $$
 ^^ want take them out $$
 ^^ take them all out $$
+^^ xxx $$
 ^^ no $$
 ^^ and one that be sad $$
 ^^ and one a drive $$
@@ -748,10 +767,10 @@
 ^^ no $$
 ^^ Daddy and Mummy $$
 ^^ no $$
-^^   that man be not drive my car $$
+^^ Derek's not that man be not drive my car $$
 ^^ no $$
-^^  Derek not drive my car $$
-^^ just  car $$
+^^ that Derek not drive my car $$
+^^ just xxx car $$
 ^^ not my car $$
 ^^ that be my car $$
 ^^ that be my car $$
@@ -765,9 +784,9 @@
 ^^ no $$
 ^^ that be green $$
 ^^ that be black $$
-^^  green $$
-^^  green $$
-^^  now my t be green now $$
+^^ er green $$
+^^ um green $$
+^^ now now my t be green now $$
 ^^ the dog be green $$
 ^^ look $$
 ^^ my belly $$
@@ -779,7 +798,7 @@
 ^^ there $$
 ^^ no $$
 ^^ knock it off again $$
-^^  on there $$
+^^ xxx on there $$
 ^^ no $$
 ^^ I try this $$
 ^^ oh $$
@@ -810,7 +829,7 @@
 ^^ there somebody there $$
 ^^ it be just Charlie $$
 ^^ these be hard $$
-^^  Charlie $$
+^^ um Charlie $$
 ^^ what be that $$
 ^^ on the telephone $$
 ^^ I just go round here $$
@@ -818,7 +837,7 @@
 ^^ can not get round $$
 ^^ I can get round $$
 ^^ crawl $$
-^^ I  $$
+^^ I xxx $$
 ^^ I can not see Nana $$
 ^^ I do it again $$
 ^^ yeah $$
@@ -830,14 +849,16 @@
 ^^ go to Dean shop $$
 ^^ ow $$
 ^^ at Charlie $$
-^^ I get a  $$
+^^ xxx $$
+^^ I get a xxx $$
 ^^ it be a plane $$
 ^^ it be in the cloud $$
 ^^ that be a little clip $$
-^^ I a  man $$
+^^ I a xxx man $$
 ^^ a brick $$
+^^ xxx $$
 ^^ I break these apart $$
-^^  please $$
+^^ xxx please $$
 ^^ no $$
 ^^ that one off $$
 ^^ try get another one off $$
@@ -846,9 +867,10 @@
 ^^ no $$
 ^^ I do not $$
 ^^ I say Granddad do not want to mend it $$
-^^ when Granddad get home I   say do not mend it Granddad please $$
+^^ when Granddad get home I don't say say do not mend it Granddad please $$
 ^^ just put them in my sock $$
 ^^ it be hard $$
+^^ xxx $$
 ^^ hey $$
 ^^ hey $$
 ^^ hey $$
@@ -874,7 +896,7 @@
 ^^ I Fireman_Sam $$
 ^^ Fireman_Sam $$
 ^^ there be a a egg $$
-^^  let us  something $$
+^^ let's let us xxx something $$
 ^^ let us put some egg in to eat $$
 ^^ that be $$
 ^^ actual those $$
@@ -889,13 +911,14 @@
 ^^ and some dog cat $$
 ^^ and some strawberry $$
 ^^ to eat home $$
+^^ xxx $$
 ^^ that can not go in $$
 ^^ buy some $$
 ^^ that be break $$
 ^^ and look at this $$
 ^^ a apple $$
 ^^ look $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ no $$
 ^^ that one wrong $$
 ^^ where be this another egg $$
@@ -910,7 +933,7 @@
 ^^ a little one and a big one $$
 ^^ two big one and a little one $$
 ^^ oh there be a ice $$
-^^  strawberry $$
+^^ um strawberry $$
 ^^ and there be a ice $$
 ^^ yeah $$
 ^^ oh $$
@@ -922,27 +945,28 @@
 ^^ oh there be a nana too $$
 ^^ I peel one off $$
 ^^ take one off there $$
-^^  on there $$
+^^ um on there $$
 ^^ you like the skin $$
-^^  apple and bean $$
-^^ oh  $$
+^^ apple apple and bean $$
+^^ oh xxx $$
 ^^ put the bean and put the apple $$
 ^^ and here be $$
 ^^ look $$
 ^^ oh these be grape $$
+^^ xxx $$
 ^^ there be a grape $$
 ^^ and here be a orange $$
 ^^ that be a orange $$
 ^^ a round orange $$
 ^^ it be a big one $$
 ^^ oh $$
-^^ oh  roll $$
-^^    have some  $$
+^^ oh roll roll $$
+^^ xxx have some have some xxx $$
 ^^ we do tower $$
-^^   what be that $$
+^^ and here's what be that $$
 ^^ where be that shop bag $$
 ^^ there $$
-^^  this $$
+^^ xxx this $$
 ^^ here be this big one $$
 ^^ and here be this little one $$
 ^^ oh $$
@@ -955,10 +979,11 @@
 ^^ hey $$
 ^^ buy some egg and some that $$
 ^^ and some here $$
-^^ and some  $$
+^^ and some xxx $$
 ^^ some of that $$
 ^^ some of that $$
 ^^ some of that $$
+^^ mm $$
 ^^ that $$
 ^^ put these all in $$
 ^^ sauce $$
@@ -966,12 +991,13 @@
 ^^ there be a aubergine $$
 ^^ and that be dog food $$
 ^^ dog food $$
+^^ xxx $$
 ^^ that $$
 ^^ there $$
 ^^ put it in $$
 ^^ I get some penny $$
 ^^ yeah $$
-^^  there be some pound $$
+^^ um there be some pound $$
 ^^ thank_you $$
 ^^ pay them $$
 ^^ pay them $$
@@ -991,12 +1017,15 @@
 ^^ no $$
 ^^ yes $$
 ^^ I like dog food $$
+^^ xxx $$
 ^^ monster $$
+^^ a $$
 ^^ please may I have a egg Mummy please $$
 ^^ yeah $$
 ^^ no $$
 ^^ open it and eat them $$
 ^^ let us put them all in the bag $$
+^^ xxx $$
 ^^ holly stick $$
 ^^ it be a ice $$
 ^^ and some milk $$
@@ -1031,6 +1060,7 @@
 ^^ I be go to tip them all out $$
 ^^ oh $$
 ^^ I not $$
+^^ xxx $$
 ^^ no $$
 ^^ not $$
 ^^ I can not see you $$
@@ -1042,6 +1072,7 @@
 ^^ yeah $$
 ^^ I just put them $$
 ^^ that hand $$
+^^ xxx $$
 ^^ hide in that hand $$
 ^^ oh $$
 ^^ go see Anna $$
@@ -1051,7 +1082,8 @@
 ^^ Anna $$
 ^^ oh $$
 ^^ no $$
-^^  tip over $$
+^^ xxx $$
+^^ xxx tip over $$
 ^^ look now $$
 ^^ I a fish $$
 ^^ yes $$
@@ -1068,6 +1100,7 @@
 ^^ up and down $$
 ^^ Granddad cry $$
 ^^ oh $$
+^^ xxx $$
 ^^ now let us bite the egg $$
 ^^ let us bite one $$
 ^^ no $$
@@ -1075,14 +1108,14 @@
 ^^ do not $$
 ^^ no $$
 ^^ do not please $$
-^^    oh there be a plane $$
+^^ oh there's a oh there be a plane $$
 ^^ look $$
 ^^ and that be Anna $$
 ^^ this be your other egg $$
 ^^ there be your orange one $$
 ^^ no $$
 ^^ that orange $$
-^^  Anna $$
+^^ xxx Anna $$
 ^^ no $$
 ^^ no $$
 ^^ lion like egg $$
@@ -1106,9 +1139,11 @@
 ^^ no $$
 ^^ want give $$
 ^^ I want see Nana $$
+^^ a $$
 ^^ he eat it all up $$
 ^^ it be go in his tum $$
 ^^ he be eat it all up $$
+^^ xxx $$
 ^^ there be one $$
 ^^ there be two $$
 ^^ put this back in his tum $$
@@ -1139,13 +1174,14 @@
 ^^ that be a police $$
 ^^ whoo $$
 ^^ neenaw $$
+^^ xxx $$
 ^^ it be go to Fireman_Sam $$
 ^^ it be go to Fireman_Sam $$
 ^^ yeah $$
 ^^ it be go to Fireman_Sam $$
 ^^ whoo $$
 ^^ here $$
-^^   take my hat off $$
+^^ take my take my hat off $$
 ^^ yeah $$
 ^^ whoo $$
 ^^ open $$

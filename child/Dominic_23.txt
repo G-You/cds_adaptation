@@ -1,4 +1,8 @@
+^^ xxx $$
+^^ xxx $$
 ^^ more $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ blue lorry $$
@@ -32,35 +36,39 @@
 ^^ red $$
 ^^ oh $$
 ^^ orange $$
-^^  that $$
+^^ xxx $$
+^^ um that $$
 ^^ orange $$
 ^^ dig $$
 ^^ mum $$
+^^ xxx $$
 ^^ oh $$
 ^^ that $$
-^^  a yellow $$
+^^ um a yellow $$
 ^^ yellow $$
 ^^ car $$
 ^^ yellow car $$
-^^  garage $$
+^^ um garage $$
 ^^ oh $$
 ^^ oh $$
-^^  that $$
+^^ xxx that $$
+^^ xxx $$
 ^^ oh $$
 ^^ brick $$
 ^^ brick $$
 ^^ brick $$
-^^  go in there $$
-^^  car $$
-^^  man $$
+^^ um go in there $$
+^^ um car $$
+^^ um man $$
 ^^ there $$
 ^^ car $$
 ^^ car $$
 ^^ brick car $$
 ^^ oh $$
+^^ xxx $$
 ^^ dig $$
-^^  dig $$
-^^  red $$
+^^ um dig $$
+^^ um red $$
 ^^ red $$
 ^^ orange $$
 ^^ red $$
@@ -69,30 +77,34 @@
 ^^ red $$
 ^^ be not $$
 ^^ red $$
-^^  train $$
+^^ um train $$
 ^^ train $$
-^^  train $$
+^^ um train $$
 ^^ man $$
 ^^ train $$
 ^^ face $$
 ^^ tree $$
-^^  house $$
+^^ um house $$
 ^^ more $$
 ^^ dig $$
 ^^ dig $$
+^^ xxx $$
 ^^ book $$
 ^^ box $$
 ^^ no $$
 ^^ oh $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ tip them out $$
 ^^ build that $$
 ^^ oh right $$
 ^^ oh dear $$
 ^^ build that $$
+^^ xxx $$
 ^^ no no $$
 ^^ train $$
+^^ xxx $$
 ^^ that $$
 ^^ bridge $$
 ^^ bridge $$
@@ -101,6 +113,7 @@
 ^^ oh $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no no $$
 ^^ oh $$
@@ -120,9 +133,12 @@
 ^^ van $$
 ^^ track $$
 ^^ track $$
+^^ xxx $$
 ^^ that $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ dirt $$
 ^^ hand $$
 ^^ that $$
@@ -132,6 +148,8 @@
 ^^ no $$
 ^^ no $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ the yellow car $$
 ^^ Paddington_Bear $$
 ^^ there $$
@@ -141,13 +159,20 @@
 ^^ yeah $$
 ^^ red car $$
 ^^ yellow car $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ that be aerial $$
+^^ xxx $$
+^^ xxx $$
 ^^ red car $$
 ^^ wheel $$
 ^^ wheel $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
@@ -162,6 +187,8 @@
 ^^ fall $$
 ^^ fall $$
 ^^ down $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ ow $$
 ^^ car $$
@@ -169,6 +196,10 @@
 ^^ yeah $$
 ^^ not $$
 ^^ not $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ fit $$
 ^^ oh $$
 ^^ oh $$
@@ -184,7 +215,9 @@
 ^^ yeah yeah $$
 ^^ fit $$
 ^^ yeah yeah $$
+^^ xxx $$
 ^^ paper $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ this $$
@@ -192,12 +225,19 @@
 ^^ yellow $$
 ^^ yellow $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ space $$
 ^^ oh $$
 ^^ space $$
 ^^ no no $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ too big $$
 ^^ oh $$
 ^^ not $$
@@ -205,6 +245,7 @@
 ^^ not $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ sit down $$
 ^^ yeah $$
 ^^ no $$
@@ -214,45 +255,66 @@
 ^^ yeah $$
 ^^ dog sit down $$
 ^^ dog $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ no no no $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ oh $$
 ^^ right $$
 ^^ away $$
+^^ xxx $$
+^^ xxx $$
 ^^ horse $$
 ^^ man $$
 ^^ man $$
-^^   a  $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ um um a xxx $$
 ^^ tree $$
+^^ xxx $$
 ^^ tree $$
-^^  no no no no $$
+^^ um no no no no $$
 ^^ foot $$
 ^^ foot $$
 ^^ spade $$
+^^ xxx $$
 ^^ do not know $$
 ^^ do not know $$
+^^ xxx $$
 ^^ oh $$
 ^^ cat $$
+^^ xxx $$
 ^^ over there $$
 ^^ away $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no no $$
 ^^ car $$
+^^ xxx $$
 ^^ oh $$
 ^^ car car $$
 ^^ car $$
 ^^ right $$
+^^ xxx $$
 ^^ a banana $$
 ^^ no $$
 ^^ foot $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
@@ -261,26 +323,31 @@
 ^^ space $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ away $$
 ^^ kick $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ daddy $$
 ^^ daddy $$
 ^^ daddy $$
 ^^ drive a car $$
 ^^ what be that $$
+^^ um xxx $$
 ^^ horse $$
 ^^ oh $$
-^^  car $$
+^^ um car $$
 ^^ more $$
 ^^ look $$
 ^^ that $$
+^^ xxx $$
 ^^ car $$
 ^^ car $$
 ^^ all_gone $$
 ^^ chip $$
 ^^ chip $$
+^^ xxx $$
 ^^ away $$
 ^^ away $$
 ^^ right $$
@@ -293,15 +360,19 @@
 ^^ panda $$
 ^^ car $$
 ^^ panda in car $$
+^^ xxx $$
 ^^ Daddy car red $$
 ^^ this $$
 ^^ that $$
 ^^ basket $$
+^^ xxx $$
 ^^ that $$
 ^^ that $$
+^^ xxx $$
 ^^ car $$
 ^^ man $$
 ^^ biscuit $$
+^^ xxx $$
 ^^ chocolate biscuit $$
 ^^ biscuit $$
 ^^ biscuit $$
@@ -317,7 +388,7 @@
 ^^ orange $$
 ^^ orange $$
 ^^ orange $$
-^^  orange $$
+^^ um orange $$
 ^^ that $$
 ^^ that $$
 ^^ that $$
@@ -331,6 +402,8 @@
 ^^ grape $$
 ^^ grape $$
 ^^ more grape $$
+^^ xxx $$
+^^ xxx $$
 ^^ car $$
 ^^ car $$
 ^^ Mum $$
@@ -338,13 +411,17 @@
 ^^ panda car $$
 ^^ yeah $$
 ^^ car $$
+^^ xxx $$
 ^^ chip $$
 ^^ chip $$
+^^ xxx $$
 ^^ chip $$
+^^ xxx $$
 ^^ Daddy $$
 ^^ Daddy $$
 ^^ Daddy $$
 ^^ yeah $$
+^^ xxx $$
 ^^ drink $$
 ^^ banana $$
 ^^ shop $$
@@ -358,14 +435,32 @@
 ^^ car $$
 ^^ right $$
 ^^ no no $$
+^^ xxx $$
 ^^ no no $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ train $$
 ^^ train $$
+^^ xxx $$
 ^^ train $$
 ^^ train $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ whale $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Mum $$
 ^^ Mum $$
 ^^ Mum $$
@@ -376,10 +471,13 @@
 ^^ yellow $$
 ^^ no no $$
 ^^ no no $$
+^^ xxx $$
 ^^ Mum $$
+^^ xxx $$
 ^^ that $$
 ^^ fence $$
 ^^ fence $$
+^^ xxx $$
 ^^ brick $$
 ^^ brick $$
 ^^ tower $$
@@ -400,23 +498,43 @@
 ^^ banana $$
 ^^ car $$
 ^^ that $$
+^^ xxx $$
+^^ tin $$
+^^ xxx $$
+^^ xxx $$
 ^^ tin $$
 ^^ tin $$
-^^ tin $$
+^^ xxx $$
+^^ xxx $$
 ^^ bake bean $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Dad $$
 ^^ yeah $$
 ^^ that $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ that $$
+^^ xxx $$
 ^^ together $$
 ^^ hot $$
+^^ xxx $$
 ^^ mhm $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ chip $$
 ^^ yeah $$
 ^^ away $$
 ^^ upstairs $$
 ^^ teddy $$
+^^ xxx $$
 ^^ ice $$
 ^^ doughnut $$
 ^^ ice $$
@@ -430,6 +548,8 @@
 ^^ that $$
 ^^ button $$
 ^^ my broke $$
+^^ xxx $$
+^^ xxx $$
 ^^ broke $$
 ^^ break that $$
 ^^ broke $$
@@ -439,14 +559,18 @@
 ^^ has that go $$
 ^^ go $$
 ^^ go $$
+^^ xxx $$
 ^^ lorry $$
 ^^ yellow car $$
+^^ xxx $$
+^^ xxx $$
 ^^ smoke $$
 ^^ yeah $$
 ^^ bus $$
 ^^ on there $$
 ^^ there $$
 ^^ too big $$
+^^ xxx $$
 ^^ oh $$
 ^^ yellow car $$
 ^^ yellow car $$
@@ -456,11 +580,18 @@
 ^^ red car $$
 ^^ what be that car $$
 ^^ car $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ behind there $$
-^^  hat $$
+^^ xxx hat $$
 ^^ hat $$
 ^^ hat $$
+^^ xxx $$
 ^^ hat $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ crane $$
 ^^ oh $$
@@ -474,21 +605,33 @@
 ^^ lorry $$
 ^^ smoke $$
 ^^ eye $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ tower $$
 ^^ oh no $$
 ^^ oh no $$
 ^^ no no $$
 ^^ no $$
+^^ xxx $$
 ^^ put there $$
 ^^ fit $$
 ^^ will not fit $$
 ^^ no $$
 ^^ lorry $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ lorry $$
+^^ xxx $$
 ^^ car $$
 ^^ red car $$
 ^^ red car $$
-^^ want  $$
+^^ want xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ red car $$
 ^^ red car $$
 ^^ yeah $$
@@ -506,27 +649,38 @@
 ^^ fire $$
 ^^ fire $$
 ^^ fire $$
+^^ xxx $$
 ^^ red car $$
 ^^ red car $$
+^^ xxx $$
 ^^ red car $$
 ^^ green bus $$
+^^ xxx $$
 ^^ sit down $$
 ^^ bus $$
+^^ xxx $$
 ^^ sit down $$
 ^^ sit $$
 ^^ car $$
 ^^ sit down $$
 ^^ car $$
 ^^ sit down $$
+^^ xxx $$
+^^ xxx $$
 ^^ bus $$
 ^^ lorry $$
+^^ xxx $$
+^^ xxx $$
 ^^ bus $$
 ^^ oh $$
+^^ xxx $$
 ^^ pen $$
 ^^ break $$
 ^^ teddy $$
 ^^ teddy $$
 ^^ teddy $$
+^^ xxx $$
+^^ xxx $$
 ^^ want teddy $$
 ^^ Pooh_Bear $$
 ^^ Pooh_Bear $$
@@ -540,17 +694,24 @@
 ^^ sit down $$
 ^^ sit down $$
 ^^ sit down $$
+^^ xxx $$
+^^ sit down $$
+^^ xxx $$
+^^ Pooh_Bear $$
+^^ xxx $$
+^^ sit down $$
 ^^ sit down $$
 ^^ Pooh_Bear $$
-^^ sit down $$
-^^ sit down $$
-^^ Pooh_Bear $$
+^^ xxx $$
+^^ xxx $$
 ^^ no no $$
 ^^ teddy $$
 ^^ no no $$
+^^ xxx $$
 ^^ a dish $$
 ^^ dish $$
 ^^ dish $$
+^^ xxx $$
 ^^ chair $$
 ^^ that $$
 ^^ that $$
@@ -571,27 +732,33 @@
 ^^ that $$
 ^^ duck $$
 ^^ nana $$
+^^ xxx $$
 ^^ doll $$
 ^^ what be that $$
 ^^ what be that $$
 ^^ teddy go $$
+^^ xxx $$
+^^ xxx $$
 ^^ bench $$
 ^^ nose $$
 ^^ there $$
 ^^ nose $$
 ^^ your nose $$
 ^^ oh $$
+^^ xxx $$
 ^^ car $$
+^^ xxx $$
 ^^ break it $$
 ^^ car $$
 ^^ car $$
 ^^ car ready $$
 ^^ no $$
+^^ xxx $$
 ^^ car $$
 ^^ car $$
 ^^ yeah $$
 ^^ fix it $$
-^^  car $$
+^^ xxx car $$
 ^^ car $$
 ^^ bed $$
 ^^ bed $$
@@ -600,21 +767,32 @@
 ^^ car bed $$
 ^^ in there $$
 ^^ bed $$
+^^ xxx $$
 ^^ bed $$
+^^ xxx $$
 ^^ bed $$
+^^ xxx $$
+^^ xxx $$
 ^^ no no $$
 ^^ car $$
 ^^ no $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ car $$
+^^ xxx $$
 ^^ no no $$
+^^ xxx $$
+^^ xxx $$
 ^^ car $$
 ^^ mum $$
 ^^ no $$
+^^ xxx $$
 ^^ car $$
 ^^ red car $$
 ^^ that that that $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ daddy $$
 ^^ car $$
@@ -622,10 +800,12 @@
 ^^ that daddy be $$
 ^^ yellow car $$
 ^^ red car $$
+^^ xxx $$
 ^^ red $$
 ^^ red car $$
 ^^ over Pooh_Bear $$
 ^^ Pooh_Bear $$
+^^ xxx $$
 ^^ teddy $$
 ^^ teddy $$
 ^^ no no $$
@@ -634,16 +814,20 @@
 ^^ car bed $$
 ^^ car $$
 ^^ bed $$
+^^ xxx $$
 ^^ car bed $$
 ^^ car $$
 ^^ mum $$
 ^^ car $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ car $$
 ^^ no no $$
 ^^ car $$
 ^^ no no $$
+^^ xxx $$
 ^^ no no $$
 ^^ dad $$
 ^^ red car $$
@@ -653,11 +837,14 @@
 ^^ yellow car $$
 ^^ yellow car $$
 ^^ yellow car $$
+^^ xxx $$
 ^^ brick $$
 ^^ red $$
+^^ xxx $$
 ^^ this one $$
 ^^ bed $$
 ^^ yeah $$
+^^ xxx $$
 ^^ car $$
 ^^ yeah $$
 ^^ van $$
@@ -665,33 +852,44 @@
 ^^ van $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ mum $$
 ^^ mum get it $$
 ^^ crash $$
 ^^ tractor $$
+^^ xxx $$
 ^^ tractor $$
 ^^ tractor $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ animal $$
+^^ xxx $$
 ^^ cow $$
 ^^ this one $$
 ^^ cow $$
 ^^ fish $$
 ^^ fish $$
+^^ xxx $$
 ^^ pig $$
 ^^ that $$
 ^^ that $$
 ^^ this one $$
 ^^ this one $$
 ^^ doll clothes $$
+^^ xxx $$
 ^^ doll clothes $$
 ^^ doll clothes $$
 ^^ doll clothes $$
 ^^ doll clothes $$
 ^^ want hat $$
+^^ xxx $$
+^^ xxx $$
 ^^ egg box $$
 ^^ egg $$
 ^^ floor $$
@@ -711,16 +909,20 @@
 ^^ red car $$
 ^^ car $$
 ^^ Daddy car $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ chip $$
-^^  chip $$
+^^ xxx chip $$
 ^^ cheese $$
 ^^ cheese $$
+^^ xxx $$
+^^ xxx $$
 ^^ like that $$
 ^^ cheese $$
 ^^ two $$
 ^^ cheese $$
+^^ xxx $$
 ^^ egg $$
 ^^ orange $$
 ^^ chip drive $$
@@ -728,6 +930,7 @@
 ^^ chip drive $$
 ^^ orange $$
 ^^ orange $$
+^^ xxx $$
 ^^ oh $$
 ^^ no no $$
 ^^ orange $$
@@ -741,18 +944,24 @@
 ^^ go $$
 ^^ go $$
 ^^ train go $$
+^^ xxx $$
 ^^ doll be clothes $$
 ^^ clothes $$
+^^ xxx $$
 ^^ no no no $$
+^^ xxx $$
+^^ xxx $$
 ^^ all_gone $$
 ^^ what $$
 ^^ oh $$
+^^ xxx $$
 ^^ what $$
 ^^ look $$
 ^^ that one $$
+^^ xxx $$
 ^^ hat $$
 ^^ do hat $$
-^^ hat  $$
+^^ hat xxx $$
 ^^ banana $$
 ^^ no $$
 ^^ no no $$
@@ -763,55 +972,78 @@
 ^^ oh $$
 ^^ man $$
 ^^ drive train $$
+^^ xxx $$
 ^^ no no $$
 ^^ go $$
 ^^ train $$
 ^^ go train $$
+^^ xxx $$
+^^ xxx $$
 ^^ hippo $$
 ^^ hippo $$
 ^^ no $$
 ^^ car $$
 ^^ no no $$
 ^^ on $$
+^^ xxx $$
 ^^ wow $$
 ^^ wow $$
 ^^ train $$
+^^ xxx $$
 ^^ egg $$
 ^^ egg $$
+^^ xxx $$
 ^^ egg $$
 ^^ car $$
+^^ xxx $$
 ^^ egg $$
 ^^ egg $$
 ^^ egg $$
 ^^ egg $$
+^^ xxx $$
 ^^ egg $$
 ^^ egg $$
-^^  egg $$
+^^ xxx egg $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ food $$
 ^^ that $$
 ^^ burger $$
+^^ xxx $$
+^^ xxx $$
 ^^ what $$
 ^^ what $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ wow $$
 ^^ burger $$
 ^^ burger $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ here $$
-^^  here $$
+^^ xxx here $$
 ^^ cheese $$
 ^^ cheese $$
+^^ xxx $$
 ^^ cheese $$
 ^^ oh $$
+^^ xxx $$
 ^^ cheese $$
 ^^ no no $$
+^^ xxx $$
 ^^ oh $$
 ^^ cheese $$
 ^^ cheese $$
 ^^ cheese $$
 ^^ cheese $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ ring $$
 ^^ ring $$
 ^^ oh $$
@@ -819,11 +1051,12 @@
 ^^ egg $$
 ^^ no no $$
 ^^ egg $$
+^^ xxx $$
 ^^ Mummy move $$
 ^^ uhhuh $$
 ^^ that $$
 ^^ that $$
-^^  tin $$
+^^ xxx tin $$
 ^^ tin $$
 ^^ oh dear $$
 ^^ oh $$
@@ -832,6 +1065,7 @@
 ^^ no $$
 ^^ egg $$
 ^^ tin $$
+^^ xxx $$
 ^^ yes $$
 ^^ tin $$
 ^^ cat $$
@@ -841,12 +1075,15 @@
 ^^ cat $$
 ^^ that $$
 ^^ that $$
+^^ xxx $$
 ^^ there $$
 ^^ building $$
 ^^ that $$
+^^ xxx $$
 ^^ no $$
 ^^ good $$
 ^^ that $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ man $$
@@ -858,3 +1095,4 @@
 ^^ man $$
 ^^ man $$
 ^^ man $$
+^^ xxx $$

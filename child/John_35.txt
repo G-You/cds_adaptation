@@ -5,6 +5,7 @@
 ^^ have a look $$
 ^^ oh nothing $$
 ^^ nothing in here $$
+^^ xxx $$
 ^^ look $$
 ^^ it be wood $$
 ^^ paper $$
@@ -25,7 +26,7 @@
 ^^ maybe on the $$
 ^^ play $$
 ^^ and ball $$
-^^ go to  $$
+^^ go to xxx $$
 ^^ do do do do $$
 ^^ do do do do $$
 ^^ do do do do $$
@@ -37,17 +38,21 @@
 ^^ yeah $$
 ^^ want see what be inside $$
 ^^ maybe open it $$
+^^ xxx $$
 ^^ five pound $$
 ^^ five pound $$
 ^^ yeah $$
-^^  pound $$
+^^ xxx pound $$
 ^^ five pound $$
 ^^ it be break $$
 ^^ it be break $$
 ^^ yes $$
 ^^ Daddy mend it $$
-^^  the  $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx the xxx $$
 ^^ I show Daddy $$
+^^ xxx $$
 ^^ show this to Daddy $$
 ^^ go to see Daddy $$
 ^^ I go to go $$
@@ -61,30 +66,35 @@
 ^^ want see Daddy $$
 ^^ music group $$
 ^^ maybe I stay $$
+^^ xxx $$
 ^^ Rosie a baby $$
 ^^ I go to pull Rosie $$
 ^^ maybe stick $$
 ^^ yes $$
 ^^ you $$
 ^^ I want to draw on my book $$
-^^ I want to  draw $$
+^^ I want to draw draw $$
 ^^ I want to draw on my book $$
 ^^ want to draw on my book $$
 ^^ this be my book $$
 ^^ yes $$
 ^^ this be a boy $$
 ^^ and this be a girl $$
-^^  horse $$
+^^ er horse $$
 ^^ Daggie $$
 ^^ I want some that $$
 ^^ yeah $$
 ^^ hot the moment $$
 ^^ hot $$
+^^ a $$
 ^^ maybe put it on your knee $$
-^^  a o $$
+^^ xxx $$
+^^ a a o $$
 ^^ yeah $$
 ^^ mhm $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ yes $$
 ^^ bell $$
@@ -98,6 +108,7 @@
 ^^ on the floor $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
 ^^ wheel on the bus $$
 ^^ wipe $$
 ^^ no $$
@@ -109,14 +120,17 @@
 ^^ pink $$
 ^^ brown $$
 ^^ if you be happy and you know it touch your foot $$
-^^  maybe you open it $$
+^^ xxx $$
+^^ maybe maybe you open it $$
 ^^ because it be difficult $$
 ^^ yeah $$
 ^^ my money be stick $$
 ^^ oh here be one there $$
 ^^ I put there $$
+^^ xxx $$
 ^^ there $$
-^^ oh  $$
+^^ xxx $$
+^^ oh xxx $$
 ^^ twenty pence $$
 ^^ yes $$
 ^^ maybe I try the wheel $$
@@ -152,7 +166,7 @@
 ^^ man be drive here $$
 ^^ find a special thing $$
 ^^ there $$
-^^   knock $$
+^^ knock knock knock $$
 ^^ that right $$
 ^^ not right $$
 ^^ there $$
@@ -160,7 +174,7 @@
 ^^ this go on there $$
 ^^ make a train $$
 ^^ on there $$
-^^ put  $$
+^^ put xxx $$
 ^^ this go on there $$
 ^^ very slow $$
 ^^ it be a noise one $$
@@ -175,6 +189,7 @@
 ^^ in Hartford in Booth Road $$
 ^^ twenty one $$
 ^^ yeah $$
+^^ xxx $$
 ^^ it be a game $$
 ^^ it be a silly game $$
 ^^ silly game $$
@@ -184,9 +199,10 @@
 ^^ maybe Mummy $$
 ^^ it be Mummy $$
 ^^ it be Mummy $$
-^^ this be a  $$
+^^ this be a xxx $$
 ^^ lady $$
 ^^ maybe it be a man $$
+^^ xxx $$
 ^^ I think it be a man $$
 ^^ it be Mummy $$
 ^^ not Mummy $$
@@ -201,12 +217,12 @@
 ^^ maybe you have it $$
 ^^ maybe you eat it $$
 ^^ maybe you eat it $$
-^^ maybe you  $$
-^^   all come out $$
+^^ maybe you mm $$
+^^ all coming all come out $$
 ^^ all come out $$
 ^^ all come out $$
 ^^ a sausage $$
-^^  come in there $$
+^^ xxx come in there $$
 ^^ what be inside $$
 ^^ maybe it be a tomato $$
 ^^ it be a tomato $$
@@ -218,10 +234,11 @@
 ^^ what I find there $$
 ^^ oh nothing $$
 ^^ it be dog food $$
+^^ xxx $$
 ^^ look for sausage somewhere $$
 ^^ somebody else $$
 ^^ what be inside $$
-^^ maybe  $$
+^^ maybe xxx $$
 ^^ egg inside $$
 ^^ a tomato $$
 ^^ maybe a tomato $$
@@ -252,7 +269,7 @@
 ^^ small $$
 ^^ big $$
 ^^ I do this $$
-^^  Anna  $$
+^^ xxx Anna xxx $$
 ^^ I want Anna bull $$
 ^^ Anna bull $$
 ^^ bull $$
@@ -277,6 +294,7 @@
 ^^ I have paper $$
 ^^ take paper off because it be real old $$
 ^^ yeah $$
+^^ xxx $$
 ^^ can you do this $$
 ^^ where be Anna car $$
 ^^ here $$
@@ -292,6 +310,7 @@
 ^^ look I do $$
 ^^ sorry $$
 ^^ I go to touch $$
+^^ xxx $$
 ^^ Granny buy $$
 ^^ what be this $$
 ^^ no $$
@@ -306,7 +325,8 @@
 ^^ this be the tunnel $$
 ^^ I like it $$
 ^^ I like it $$
-^^  no $$
+^^ xxx $$
+^^ no no $$
 ^^ collage $$
 ^^ collage $$
 ^^ collage $$
@@ -318,7 +338,7 @@
 ^^ yes $$
 ^^ I was shout $$
 ^^ I was shout $$
-^^  this book $$
+^^ xxx this book $$
 ^^ what be in this book $$
 ^^ I do it $$
 ^^ I do it $$
@@ -327,7 +347,7 @@
 ^^ there $$
 ^^ here $$
 ^^ maybe this $$
-^^   I like this $$
+^^ I like I like this $$
 ^^ little girl $$
 ^^ just this $$
 ^^ yeah $$
@@ -336,6 +356,7 @@
 ^^ I want this $$
 ^^ yeah $$
 ^^ I like a train $$
+^^ xxx $$
 ^^ maybe hold it $$
 ^^ this $$
 ^^ rip it off $$
@@ -345,8 +366,8 @@
 ^^ a car $$
 ^^ you hold $$
 ^^ you hold the glue $$
-^^  have it here $$
-^^  the train  $$
+^^ um have it here $$
+^^ xxx the train xxx $$
 ^^ do this train $$
 ^^ want put it there $$
 ^^ I want this $$
@@ -363,6 +384,7 @@
 ^^ another train $$
 ^^ yes $$
 ^^ I do $$
+^^ xxx $$
 ^^ oh look $$
 ^^ Tumbletots $$
 ^^ Tumbletots $$
@@ -370,11 +392,12 @@
 ^^ Tumbletots $$
 ^^ Tumbletots $$
 ^^ Tumbletots $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Tumbletots $$
 ^^ bite more $$
 ^^ oh $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ do some more $$
 ^^ want to do some more $$
 ^^ I want $$
@@ -383,12 +406,13 @@
 ^^ bag $$
 ^^ a white one $$
 ^^ I have a white bag $$
-^^ I have  this white bag $$
+^^ I have this this white bag $$
 ^^ it be mine $$
-^^ I want some  $$
+^^ I want some xxx $$
 ^^ want some sweet $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ have use soap $$
 ^^ I want some sweet $$
 ^^ I want some sweet $$
@@ -412,8 +436,8 @@
 ^^ rain $$
 ^^ other day rain $$
 ^^ other day rain $$
-^^  maybe you open it $$
-^^  maybe you open it $$
+^^ maybe maybe you open it $$
+^^ maybe maybe you open it $$
 ^^ this one $$
 ^^ please $$
 ^^ yeah $$
@@ -452,13 +476,14 @@
 ^^ maybe panda drive $$
 ^^ panda $$
 ^^ find a panda $$
+^^ xxx $$
 ^^ look $$
 ^^ he climb up the hill $$
 ^^ see $$
 ^^ climb up the hill $$
 ^^ his hand up and down $$
 ^^ his hand up $$
-^^ my  $$
+^^ my xxx $$
 ^^ on the crayon $$
 ^^ on the crayon $$
 ^^ the crayon $$
@@ -470,6 +495,7 @@
 ^^ go to pull her over $$
 ^^ where be he go $$
 ^^ brumm $$
+^^ xxx $$
 ^^ panda be drive $$
 ^^ panda $$
 ^^ you be drive $$
@@ -487,6 +513,7 @@
 ^^ bull $$
 ^^ and a pig $$
 ^^ and a pig $$
+^^ xxx $$
 ^^ find a horse $$
 ^^ this $$
 ^^ this $$
@@ -500,7 +527,7 @@
 ^^ yeah $$
 ^^ be not a lion $$
 ^^ lion go grr $$
-^^   what be here up in the box $$
+^^ what is what be here up in the box $$
 ^^ hi $$
 ^^ no $$
 ^^ this thing $$
@@ -522,13 +549,13 @@
 ^^ where be a animal $$
 ^^ find a sheepdog $$
 ^^ a peach $$
-^^ maybe want  $$
+^^ maybe want mm $$
 ^^ maybe want a ice $$
 ^^ a ice $$
 ^^ get some bit $$
 ^^ maybe you have it $$
 ^^ maybe you have it $$
-^^ maybe you  $$
+^^ maybe you mm $$
 ^^ maybe you hungry $$
 ^^ maybe you eat $$
 ^^ maybe you suck it $$
@@ -555,7 +582,7 @@
 ^^ it be a white $$
 ^^ yeah $$
 ^^ we need to close it $$
-^^     we need a red this $$
+^^ we need a red we need a red this $$
 ^^ yeah $$
 ^^ we need it close $$
 ^^ yeah $$
@@ -563,6 +590,7 @@
 ^^ and animal $$
 ^^ one two three four five six seven eight nine $$
 ^^ not $$
+^^ xxx $$
 ^^ man be do this $$
 ^^ yeah $$
 ^^ this be a drum $$
@@ -576,17 +604,18 @@
 ^^ beepbeep $$
 ^^ crush $$
 ^^ this one be $$
+^^ xxx $$
 ^^ no $$
 ^^ do some more $$
 ^^ do some more $$
 ^^ I say $$
-^^ the tractor  $$
+^^ the tractor xxx $$
 ^^ I make another tractor $$
-^^     this be Granny $$
+^^ this is this is this be Granny $$
 ^^ this be Granny $$
 ^^ no $$
 ^^ tractor be come out $$
-^^   tractor be come on there $$
+^^ tractors come tractor be come on there $$
 ^^ tractor be come on there $$
 ^^ tractor be come on there $$
 ^^ yeah $$

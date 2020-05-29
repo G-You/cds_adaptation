@@ -27,6 +27,7 @@
 ^^ all do $$
 ^^ hello fish $$
 ^^ find it $$
+^^ mm $$
 ^^ good breakfast $$
 ^^ good $$
 ^^ peekaboo peekaboo $$
@@ -74,7 +75,7 @@
 ^^ I make a bridge car $$
 ^^ I make a bridge under car $$
 ^^ that be a drawing $$
-^^ oh what be the man  $$
+^^ oh what be the man xxx $$
 ^^ beepbeep car $$
 ^^ beep $$
 ^^ beepbeep $$
@@ -112,7 +113,7 @@
 ^^ bye car $$
 ^^ beepbeep $$
 ^^ under bridge $$
-^^ come on  Mummy $$
+^^ come on D Mummy $$
 ^^ come through $$
 ^^ come through $$
 ^^ come through $$
@@ -176,12 +177,12 @@
 ^^ I want the Bertie $$
 ^^ want it on $$
 ^^ train $$
-^^   I want a train $$
+^^ I want I want a train $$
 ^^ I want a train $$
 ^^ want a train $$
 ^^ oh oh want not $$
-^^   I want $$
-^^ not  on here $$
+^^ I want I want $$
+^^ not on on here $$
 ^^ want on the bridge $$
 ^^ want a train on the bridge $$
 ^^ Thomas on the bridge $$
@@ -190,11 +191,11 @@
 ^^ it back $$
 ^^ Annie and Clarabell $$
 ^^ get back the train $$
-^^   the truck $$
+^^ the truck the truck $$
 ^^ get Annie and Clarabell $$
 ^^ get Annie and Clarabell $$
-^^  get it $$
-^^   I get car $$
+^^ get get it $$
+^^ I get I get car $$
 ^^ get Thomas_the_Tank_Engine to get Annie and Clarabell $$
 ^^ find Annie and Clarabell $$
 ^^ want Annie and Clarabell $$
@@ -206,7 +207,7 @@
 ^^ not $$
 ^^ watch $$
 ^^ that I know $$
-^^   want a bridge $$
+^^ want a want a bridge $$
 ^^ drawing $$
 ^^ what be happen $$
 ^^ what be happen $$
@@ -262,12 +263,13 @@
 ^^ whee $$
 ^^ green and blue and green $$
 ^^ that one $$
+^^ a $$
 ^^ what be that $$
 ^^ ssh $$
 ^^ cat $$
 ^^ do not know $$
 ^^ do not know $$
-^^  not here $$
+^^ not not here $$
 ^^ where be cat go $$
 ^^ water $$
 ^^ water noise $$
@@ -303,7 +305,7 @@
 ^^ naughty Mummy sorry $$
 ^^ no $$
 ^^ I make a drawing $$
-^^ want make  green $$
+^^ want make green green $$
 ^^ red $$
 ^^ I want a duck $$
 ^^ not duck $$
@@ -326,9 +328,9 @@
 ^^ not purple $$
 ^^ not purple $$
 ^^ not purple $$
-^^  not blue $$
+^^ not not blue $$
 ^^ not not not $$
-^^  not blue $$
+^^ not not blue $$
 ^^ not not not $$
 ^^ uhoh $$
 ^^ what be happen $$
@@ -378,7 +380,7 @@
 ^^ pink $$
 ^^ not purple $$
 ^^ that be pink $$
-^^ where be  pink $$
+^^ where be er pink $$
 ^^ where be the pink go $$
 ^^ come off $$
 ^^ that be pink $$
@@ -402,7 +404,7 @@
 ^^ make $$
 ^^ rain $$
 ^^ red $$
-^^    I want a rain $$
+^^ I want a I want a rain $$
 ^^ I want a rain $$
 ^^ and red $$
 ^^ and red $$
@@ -486,7 +488,7 @@
 ^^ hold it $$
 ^^ whee $$
 ^^ beepbeep $$
-^^   on the fish $$
+^^ on the on the fish $$
 ^^ beep $$
 ^^ the fish $$
 ^^ fish $$
@@ -494,7 +496,7 @@
 ^^ on the fish $$
 ^^ fish on the $$
 ^^ fish $$
-^^   on the water $$
+^^ on the on the water $$
 ^^ whale $$
 ^^ oh they swim in the water $$
 ^^ swim $$
@@ -503,7 +505,7 @@
 ^^ elephant $$
 ^^ elephant go $$
 ^^ elephant go $$
-^^  where the elephant go $$
+^^ er where the elephant go $$
 ^^ not find it Mum $$
 ^^ no find it Mum $$
 ^^ no find it mum $$
@@ -512,9 +514,9 @@
 ^^ we make a bridge $$
 ^^ me want to make a bridge $$
 ^^ make a bridge $$
-^^   make a bridge $$
+^^ make a make a bridge $$
 ^^ want to make a bridge $$
-^^ I want to   make bridge $$
+^^ I want to make make make bridge $$
 ^^ make bridge $$
 ^^ no $$
 ^^ no $$
@@ -524,6 +526,7 @@
 ^^ under here $$
 ^^ oh $$
 ^^ do not know $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ not $$
@@ -549,7 +552,7 @@
 ^^ green grass $$
 ^^ like James $$
 ^^ like James $$
-^^  like James $$
+^^ like like James $$
 ^^ that be green $$
 ^^ that be red $$
 ^^ that be yellow $$
@@ -558,6 +561,7 @@
 ^^ there be green $$
 ^^ that be green there $$
 ^^ that be green $$
+^^ xxx $$
 ^^ I want to make road $$
 ^^ I want to make a bridge $$
 ^^ want to make a bridge $$
@@ -571,14 +575,14 @@
 ^^ break $$
 ^^ uhoh $$
 ^^ no $$
-^^  not break $$
+^^ not not break $$
 ^^ not fix $$
 ^^ not green $$
-^^   I want green $$
-^^  I want hard $$
+^^ I want I want green $$
+^^ want I want hard $$
 ^^ no $$
 ^^ want $$
-^^ I   want green $$
+^^ I wanna wanna want green $$
 ^^ not $$
 ^^ no want put it on $$
 ^^ no no $$
@@ -595,6 +599,7 @@
 ^^ want yellow $$
 ^^ want red $$
 ^^ push red on $$
+^^ er $$
 ^^ where be yellow $$
 ^^ I make green slide $$
 ^^ I make a slide $$
@@ -606,10 +611,11 @@
 ^^ slide $$
 ^^ one two three whee $$
 ^^ Daddy fish $$
+^^ xxx $$
 ^^ slide $$
 ^^ one two three $$
 ^^ one fish $$
-^^    I want a three fish $$
+^^ I want a I want a three fish $$
 ^^ one two $$
 ^^ one two $$
 ^^ two fish $$
@@ -655,7 +661,7 @@
 ^^ beepbeep $$
 ^^ find it $$
 ^^ hair $$
-^^ there be   another penguin $$
+^^ there be a p another penguin $$
 ^^ penguin $$
 ^^ beepbeep $$
 ^^ on car $$
@@ -700,7 +706,7 @@
 ^^ naughty truck $$
 ^^ shoo $$
 ^^ on Donald $$
-^^   I want Donald $$
+^^ I want I want Donald $$
 ^^ go away Thomas $$
 ^^ there Thomas Donald $$
 ^^ that be Thomas $$
@@ -721,6 +727,7 @@
 ^^ peeppeep $$
 ^^ peeppeep Donald $$
 ^^ Donald on there $$
+^^ xxx $$
 ^^ hard Donald $$
 ^^ Donald and Edward push hard $$
 ^^ that Thomas $$
@@ -737,6 +744,7 @@
 ^^ hear it $$
 ^^ shh $$
 ^^ what be that $$
+^^ a $$
 ^^ I see it $$
 ^^ I find it $$
 ^^ who who $$
@@ -752,9 +760,10 @@
 ^^ slide be break $$
 ^^ oh the dinosaur $$
 ^^ naughty dinosaur $$
+^^ mm $$
 ^^ I want a down there $$
 ^^ Daddy down the slide $$
-^^  Daddy $$
+^^ Daddy Daddy $$
 ^^ Daddy down the slide $$
 ^^ Mummy down the slide $$
 ^^ Daddy down the $$
@@ -763,7 +772,7 @@
 ^^ come up $$
 ^^ come up $$
 ^^ I want it on the top $$
-^^  get truck $$
+^^ xxx get truck $$
 ^^ oh $$
 ^^ thank_you $$
 ^^ here truck $$
@@ -791,7 +800,7 @@
 ^^ train break $$
 ^^ in a minute $$
 ^^ Thomas_the_Tank_Engine $$
-^^  wait a minute train $$
+^^ wait wait a minute train $$
 ^^ train train $$
 ^^ oh oh $$
 ^^ want a train back $$
@@ -833,18 +842,20 @@
 ^^ break truck $$
 ^^ truck $$
 ^^ no $$
-^^ no  that one $$
+^^ no xxx that one $$
 ^^ that Mummy $$
 ^^ that one $$
 ^^ under $$
 ^^ break $$
 ^^ no $$
+^^ xxx $$
 ^^ I want a $$
 ^^ no no want mine $$
 ^^ I want that one $$
 ^^ no want that one $$
 ^^ I want that one $$
-^^ oh  where the car $$
+^^ xxx $$
+^^ oh where's where the car $$
 ^^ on the truck $$
 ^^ on the truck $$
 ^^ break $$
@@ -854,6 +865,7 @@
 ^^ no stand $$
 ^^ peeppeep $$
 ^^ peeppeep $$
+^^ a $$
 ^^ no $$
 ^^ do not want the shed on $$
 ^^ peeppeep $$
@@ -880,6 +892,7 @@
 ^^ no $$
 ^^ no cough well $$
 ^^ yes $$
+^^ xxx $$
 ^^ Annie and Clarabell $$
 ^^ Annie and Clarabell $$
 ^^ no fit $$
@@ -940,11 +953,12 @@
 ^^ peeppeep $$
 ^^ watch out $$
 ^^ crash $$
+^^ xxx $$
 ^^ it be naughty engine $$
 ^^ he crash Percy $$
 ^^ I want round Percy $$
 ^^ I like round $$
-^^ this  stop $$
+^^ this xxx stop $$
 ^^ peeppeep $$
 ^^ peeppeep $$
 ^^ where be dinosaur go $$
@@ -954,6 +968,7 @@
 ^^ no no dinosaur $$
 ^^ no no $$
 ^^ no $$
+^^ a $$
 ^^ no $$
 ^^ oh there be two $$
 ^^ not scare $$
@@ -983,6 +998,7 @@
 ^^ oh $$
 ^^ peeppeep $$
 ^^ peeppeep $$
+^^ xxx $$
 ^^ peeppeep $$
 ^^ peeppeep $$
 ^^ crash the train $$
@@ -1011,7 +1027,7 @@
 ^^ Ben and truck $$
 ^^ Ben $$
 ^^ Ben round $$
-^^  want round $$
+^^ want want round $$
 ^^ I want round $$
 ^^ come on $$
 ^^ truck come out $$
@@ -1043,7 +1059,7 @@
 ^^ look out $$
 ^^ crash $$
 ^^ oh no $$
-^^  this crash $$
+^^ this this crash $$
 ^^ Carl watch out $$
 ^^ watch out $$
 ^^ come on Thomas $$
@@ -1051,7 +1067,7 @@
 ^^ come on Ben $$
 ^^ let us go engine $$
 ^^ peeppeep $$
-^^ Thomas  $$
+^^ Thomas xxx $$
 ^^ peeppeep $$
 ^^ on the turntable $$
 ^^ in the shed $$
@@ -1084,7 +1100,7 @@
 ^^ Ben and Bill and Ben $$
 ^^ twin $$
 ^^ Thomas $$
-^^   want round $$
+^^ want go want round $$
 ^^ Thomas want round $$
 ^^ oh watch out choo train $$
 ^^ come on Mummy $$
@@ -1130,22 +1146,23 @@
 ^^ get two eye $$
 ^^ that be mouth $$
 ^^ where Percy $$
-^^ where be  $$
+^^ where be xxx $$
 ^^ where be Terence $$
-^^ I get  no Trevor $$
+^^ I get not no Trevor $$
 ^^ no Trevor not $$
-^^ no  no Gordon $$
+^^ no Thom no Gordon $$
 ^^ buy some $$
 ^^ buy some Gordon Henry $$
 ^^ buy $$
 ^^ buy Duck $$
 ^^ buy Diesel $$
+^^ er $$
 ^^ and truck $$
 ^^ buy truck $$
 ^^ get Edward $$
 ^^ get Edward $$
 ^^ get Edward $$
-^^  Percy and Thomas shop $$
+^^ er Percy and Thomas shop $$
 ^^ get Percy $$
 ^^ and buy Henry $$
 ^^ buy Henry and $$
@@ -1163,14 +1180,14 @@
 ^^ Gordon and Diesel $$
 ^^ buy some truck $$
 ^^ snake $$
-^^ I  find train $$
+^^ I xxx find train $$
 ^^ fall $$
 ^^ he fall $$
 ^^ fall $$
 ^^ oh dear $$
 ^^ stick $$
 ^^ another truck $$
-^^    buy some other truck $$
+^^ buy some other buy some other truck $$
 ^^ what a mess $$
 ^^ there be Thomas another one $$
 ^^ another one $$
@@ -1184,13 +1201,14 @@
 ^^ Carl move $$
 ^^ Carl move $$
 ^^ Thomas on the move $$
-^^  Thomas on the move $$
+^^ Thomas Thomas on the move $$
 ^^ whoops $$
 ^^ this $$
 ^^ go go go go go go $$
 ^^ crash $$
 ^^ where be the station $$
 ^^ there Percy $$
+^^ xxx $$
 ^^ Carl $$
 ^^ no Thomas $$
 ^^ big Thomas $$

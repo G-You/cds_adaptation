@@ -28,7 +28,9 @@
 ^^ be it nice when you go outside this morning $$
 ^^ be it $$
 ^^ you have get a crown $$
+^^ a $$
 ^^ be you a princess $$
+^^ a $$
 ^^ be not you a beautiful princess $$
 ^^ you be a beautiful princess $$
 ^^ tell Anna who you be go to marry $$
@@ -39,12 +41,12 @@
 ^^ go go go go go go go go go go $$
 ^^ and what be I go to say when I see you $$
 ^^ what a beautiful girl $$
-^^ and  be Daddy go to be in here then as_well $$
+^^ and is be Daddy go to be in here then as_well $$
 ^^ be Daddy go to be there $$
 ^^ and what be he $$
 ^^ what $$
 ^^ what be Daddy go to say $$
-^^   what be Daddy go to wear $$
+^^ what what what be Daddy go to wear $$
 ^^ a big hat $$
 ^^ a blue dress $$
 ^^ like Mummy $$
@@ -75,6 +77,7 @@
 ^^ oh I will come and wake you up then $$
 ^^ here $$
 ^^ I will come on my horse $$
+^^ a $$
 ^^ Sleeping_Beauty $$
 ^^ oh tum tum $$
 ^^ Sleeping_Beauty tum $$
@@ -85,7 +88,7 @@
 ^^ what be you go to read $$
 ^^ okay $$
 ^^ on there $$
-^^  my prince $$
+^^ a my prince $$
 ^^ be we go to live happy ever $$
 ^^ oh we be go to dance $$
 ^^ be that nice $$
@@ -102,11 +105,11 @@
 ^^ do you remember $$
 ^^ where do I go $$
 ^^ do Mummy go away to see her friend $$
-^^  what be her friend name $$
+^^ whose what be her friend name $$
 ^^ no $$
 ^^ Joan $$
 ^^ that be right $$
-^^ and who   do you stay home with $$
+^^ and who did you do you stay home with $$
 ^^ Daddy $$
 ^^ yeah $$
 ^^ and be you a good girl $$
@@ -118,7 +121,7 @@
 ^^ what will the monster do $$
 ^^ eat you and Daddy up $$
 ^^ oh no $$
-^^    when Mummy be away see Joan $$
+^^ when Mummy was when Mummy be away see Joan $$
 ^^ Joan $$
 ^^ who eat your Mummy up $$
 ^^ big bad wolf eat Mummy up $$
@@ -132,7 +135,7 @@
 ^^ how many time have I ask you not to do that $$
 ^^ on the back be all right $$
 ^^ right $$
-^^  Mummy go on a big boat $$
+^^ um Mummy go on a big boat $$
 ^^ go go go go go go go go go go go $$
 ^^ go go go go go go go go go go go go $$
 ^^ in a big aeroplane $$
@@ -152,10 +155,12 @@
 ^^ Grandma be get a big house $$
 ^^ not a little house $$
 ^^ you knock your crown off $$
+^^ www $$
 ^^ be I a princess $$
 ^^ thank_you $$
 ^^ be I a beautiful princess $$
 ^^ go go go go go go go $$
+^^ a $$
 ^^ and which princess be you $$
 ^^ be you $$
 ^^ Sleeping_Beauty $$
@@ -169,16 +174,18 @@
 ^^ the prince come $$
 ^^ I will come on my horse $$
 ^^ there $$
+^^ a $$
 ^^ you be wake up $$
 ^^ say thank_you to the prince for wake you up $$
 ^^ what happen $$
 ^^ what darling $$
 ^^ what do you say $$
+^^ a $$
 ^^ be you sit on the prince knee $$
 ^^ oh that be love $$
 ^^ that be just love $$
 ^^ I have get my little princess sit on my knee $$
-^^  right $$
+^^ right right $$
 ^^ do the prince like $$
 ^^ the princess be sit on the prince knee $$
 ^^ that be right $$
@@ -187,6 +194,7 @@
 ^^ we will go on a horse together shall we $$
 ^^ a bit of a bump old horse $$
 ^^ go go go go go go go go go $$
+^^ a $$
 ^^ do you fall off my horse $$
 ^^ do you hurt yourself $$
 ^^ oh no $$
@@ -195,9 +203,9 @@
 ^^ I be frighten too $$
 ^^ what be she go to do $$
 ^^ I be the prince $$
-^^    what will I do to the bad witch $$
+^^ do I what what will I do to the bad witch $$
 ^^ throw her out the window $$
-^^     oh dear $$
+^^ oh dear oh dear oh dear $$
 ^^ I have to throw her all out the window $$
 ^^ oh no $$
 ^^ that might hurt her $$
@@ -210,7 +218,7 @@
 ^^ a witch $$
 ^^ be it a good witch $$
 ^^ a bad witch $$
-^^  what have the bad witch do $$
+^^ what what have the bad witch do $$
 ^^ oh I see $$
 ^^ do she cast a $$
 ^^ cast a spell $$
@@ -280,7 +288,8 @@
 ^^ oh $$
 ^^ oh that be just the lid $$
 ^^ all right $$
-^^  when Grandma put on her lipstick you put on your lipstick do not you $$
+^^ www $$
+^^ when when Grandma put on her lipstick you put on your lipstick do not you $$
 ^^ to look smart for go out do not you $$
 ^^ yeah $$
 ^^ there you go $$
@@ -288,6 +297,7 @@
 ^^ I be all right thank_you $$
 ^^ I presume I might have to have it $$
 ^^ do I have to have it $$
+^^ mm $$
 ^^ that be nice $$
 ^^ no thank_you $$
 ^^ no $$
@@ -314,7 +324,7 @@
 ^^ yes probable $$
 ^^ Anna will wear it when she go out at night $$
 ^^ when she be get all dress up $$
-^^ well     when she go out she might want some nice lipstick on $$
+^^ well when she goes out when she go out she might want some nice lipstick on $$
 ^^ to make her look pretty $$
 ^^ oh well she have her own $$
 ^^ well Anna have her own lipstick $$
@@ -333,14 +343,14 @@
 ^^ yeah $$
 ^^ they be come on Friday $$
 ^^ but I tell you what $$
-^^ tell Anna   where we go on Friday $$
-^^   you saw Polly $$
+^^ tell Anna where we where we go on Friday $$
+^^ you did you saw Polly $$
 ^^ and Polly Mummy $$
 ^^ where do Polly Polly Mummy and you and me go $$
 ^^ where do we go $$
 ^^ do you remember what it be call $$
 ^^ what be it call $$
-^^ it be call  $$
+^^ it be call Eur $$
 ^^ Eureka $$
 ^^ that be right $$
 ^^ and how do we get to Eureka $$
@@ -390,7 +400,7 @@
 ^^ because you like go to Eureka $$
 ^^ you like go with Polly do not you $$
 ^^ yeah $$
-^^ do you shout  all day $$
+^^ do you shout all all day $$
 ^^ and run about $$
 ^^ you do lot and lots_of run about $$
 ^^ and you be very very tire when we get home $$
@@ -401,7 +411,7 @@
 ^^ well look $$
 ^^ you can not see $$
 ^^ sometimes if it be hollow you genmod be able to see through it but you can not $$
-^^     if you look at that all you can see be black $$
+^^ all you can see if you look at that all you can see be black $$
 ^^ right $$
 ^^ look at that $$
 ^^ all you can see be black $$
@@ -442,6 +452,7 @@
 ^^ this be my house $$
 ^^ well you think it be your house $$
 ^^ you think you can say who come in here $$
+^^ www $$
 ^^ poor old Daddy $$
 ^^ yeah $$
 ^^ this be my house $$
@@ -463,7 +474,7 @@
 ^^ go back to work $$
 ^^ you say to him go back to work $$
 ^^ that be right $$
-^^ poor old Daddy work all day and you just tell him to    go back top work again $$
+^^ poor old Daddy work all day and you just tell him to go go back go back top work again $$
 ^^ I do not know why $$
 ^^ why do you do it $$
 ^^ oh that be not nice Ruth $$
@@ -489,7 +500,7 @@
 ^^ who be get the old one $$
 ^^ I get another one $$
 ^^ okay $$
-^^  you give them out then $$
+^^ you you give them out then $$
 ^^ you give me some and you take some $$
 ^^ after you have finish $$
 ^^ you have got to do yours first $$
@@ -504,7 +515,7 @@
 ^^ yeah $$
 ^^ oh I see $$
 ^^ be be on $$
-^^    what be wrong with it $$
+^^ what was it what be wrong with it $$
 ^^ that be right $$
 ^^ it be on top $$
 ^^ that be right $$
@@ -512,7 +523,7 @@
 ^^ it just be not in the right place $$
 ^^ accident $$
 ^^ place $$
-^^  I have $$
+^^ er I have $$
 ^^ there $$
 ^^ have you get a Munching_Mike $$
 ^^ good $$
@@ -635,6 +646,7 @@
 ^^ well you be put mine away $$
 ^^ I do not see why I can not put yours away when you be put mine away $$
 ^^ good girl $$
+^^ www $$
 ^^ good girl $$
 ^^ now $$
 ^^ what a_lot_of food $$
@@ -667,7 +679,7 @@
 ^^ well it break eventual when a_lot_of child play with it $$
 ^^ what be that $$
 ^^ let me see $$
-^^       be it a apple $$
+^^ I think it might be a be it a apple $$
 ^^ I think it could be a tomato $$
 ^^ it be a very little apple $$
 ^^ that be a apple $$
@@ -682,12 +694,12 @@
 ^^ Mummy do $$
 ^^ no $$
 ^^ somebody else do $$
-^^  who give you a banana $$
+^^ who who give you a banana $$
 ^^ yes $$
 ^^ a man do $$
-^^  where be the man $$
+^^ where where be the man $$
 ^^ he give you a banana $$
-^^ and  where be you at the time $$
+^^ and where where be you at the time $$
 ^^ do you remember the name of the shop $$
 ^^ it have big letter outside $$
 ^^ what be it call $$
@@ -709,6 +721,7 @@
 ^^ you like eat at the moment do not you $$
 ^^ one of your favorite pastime at the moment $$
 ^^ eat be one of your favorite pastime $$
+^^ www $$
 ^^ you be a greed little girl at the moment $$
 ^^ thank_you $$
 ^^ let us see if we can find the meat that go in the middle $$
@@ -718,7 +731,8 @@
 ^^ oh right $$
 ^^ it be okay $$
 ^^ this look a bit like a doughnut then do it $$
-^^  delicious doughnut $$
+^^ mm delicious doughnut $$
+^^ mm $$
 ^^ what be that $$
 ^^ be that orange for Anna $$
 ^^ a orange for me $$
@@ -765,9 +779,10 @@
 ^^ yes $$
 ^^ and I get cake as_well $$
 ^^ be not I a luck person $$
+^^ mm $$
 ^^ that be delicious $$
 ^^ it be love $$
-^^   I like the icing on the top $$
+^^ I like I like the icing on the top $$
 ^^ it be very nice $$
 ^^ delicious altogether $$
 ^^ eat all the food $$
@@ -813,7 +828,7 @@
 ^^ do you know what that be $$
 ^^ do you know what that be $$
 ^^ that be a pear Ruth $$
-^^ you do not  eat many of those at the moment $$
+^^ you do not have eat many of those at the moment $$
 ^^ no $$
 ^^ that be a tomato $$
 ^^ when you be a tiny $$
@@ -823,7 +838,7 @@
 ^^ and you used to go gobble gobble gobble gobble $$
 ^^ you like it $$
 ^^ because Mummy have to take the pear and she have to cook it so it be nice and soft $$
-^^ and you used to go  $$
+^^ and you used to go mm $$
 ^^ because you like it $$
 ^^ I think that be another aubergine $$
 ^^ do you know what that be $$
@@ -847,7 +862,7 @@
 ^^ no $$
 ^^ you do not eat lemon when you be a little baby $$
 ^^ lemon be a bit $$
-^^ lemon be a  bit sharp $$
+^^ lemon be a bit bit sharp $$
 ^^ well do you know what you eat that have lemon in it and you like $$
 ^^ hummus $$
 ^^ hummus have get lemon in it $$
@@ -877,17 +892,17 @@
 ^^ oh be that a accident $$
 ^^ oh dear $$
 ^^ what have I get $$
-^^  a tomato $$
+^^ um a tomato $$
 ^^ thank_you $$
 ^^ oh sorry $$
 ^^ watch those under your foot $$
 ^^ what kind of juice be that $$
 ^^ well do you know that orange juice look like yellow be not it $$
-^^   even though it be orange juice it look yellow sometimes do not it $$
+^^ orange juice even though it be orange juice it look yellow sometimes do not it $$
 ^^ be you have your milk $$
 ^^ very nice $$
 ^^ be it nice milk $$
-^^  princess $$
+^^ who's princess $$
 ^^ be you still the princess $$
 ^^ you have lose your crown $$
 ^^ you be not wear it be you $$
@@ -898,7 +913,7 @@
 ^^ do you $$
 ^^ what do you say to her $$
 ^^ what do you say to Mummy on Mother day $$
-^^  that be nice $$
+^^ a that be nice $$
 ^^ I do not $$
 ^^ no Ruth $$
 ^^ speak proper darling $$
@@ -911,6 +926,7 @@
 ^^ what about it $$
 ^^ I love you love me $$
 ^^ right $$
+^^ www $$
 ^^ go go go go go go go $$
 ^^ go go go go go go go $$
 ^^ go go go go go go go go go go $$
@@ -928,6 +944,7 @@
 ^^ this be a Christmas present that we have never take out $$
 ^^ from Uncle_Les and Aunty_Evelyn $$
 ^^ whoops $$
+^^ www $$
 ^^ look $$
 ^^ it be a till $$
 ^^ whoops $$
@@ -936,7 +953,7 @@
 ^^ you put your money in there $$
 ^^ you can go shop now $$
 ^^ mhm $$
-^^ now   I will take some money $$
+^^ now you put I will take some money $$
 ^^ right $$
 ^^ and then I will come shop $$
 ^^ yes $$
@@ -947,8 +964,8 @@
 ^^ I will have this money right $$
 ^^ now I will go shop $$
 ^^ and I will pick thing $$
-^^ and then you have got to  put the rest of this money in your till $$
-^^ oh  we just leave your money darling $$
+^^ and then you have got to put put the rest of this money in your till $$
+^^ oh that we just leave your money darling $$
 ^^ it be nothing real $$
 ^^ it be just a piece of paper $$
 ^^ put your money in your till right $$
@@ -971,7 +988,7 @@
 ^^ okay $$
 ^^ here I come with my shop $$
 ^^ can I have this please $$
-^^    you have get to go on the check $$
+^^ you've got to you have get to go on the check $$
 ^^ okay $$
 ^^ now there you go $$
 ^^ bring it through and then put it in my bag $$
@@ -984,10 +1001,10 @@
 ^^ now I will put it in my shop bag right once you have weigh it $$
 ^^ thank_you $$
 ^^ cake $$
-^^  you have get to    till it in here $$
+^^ you you have get to till it in till it in here $$
 ^^ thank_you $$
 ^^ thank_you $$
-^^  spaghetti $$
+^^ um spaghetti $$
 ^^ spaghetti $$
 ^^ thank_you $$
 ^^ put it in there $$
@@ -995,14 +1012,14 @@
 ^^ pence pence pence pence $$
 ^^ that be very cheap $$
 ^^ that be very cheap that $$
-^^  egg $$
+^^ um egg $$
 ^^ pence pence pence pence pence pence pence pence $$
 ^^ that be very expensive $$
 ^^ I do not think I will come back here $$
 ^^ some chip $$
 ^^ thank_you $$
 ^^ what be that $$
-^^ how  how much be that $$
+^^ how much how much be that $$
 ^^ how many pence be that $$
 ^^ two pence $$
 ^^ oh gosh that be cheap $$
@@ -1054,7 +1071,7 @@
 ^^ okay $$
 ^^ right $$
 ^^ now the meat can be very expensive can not it $$
-^^  six pound and twelve pence $$
+^^ a six pound and twelve pence $$
 ^^ okay $$
 ^^ twelve pence $$
 ^^ I suppose that be not bad $$
@@ -1066,7 +1083,7 @@
 ^^ okay $$
 ^^ that be the lot $$
 ^^ how much be that altogether now $$
-^^ press that and  find out how much it be altogether $$
+^^ press that and find find out how much it be altogether $$
 ^^ how much be it $$
 ^^ how many pound be it $$
 ^^ no $$
@@ -1085,7 +1102,7 @@
 ^^ no no $$
 ^^ I give you it $$
 ^^ go go go go go go go go go go $$
-^^      be you go to give me that back $$
+^^ you've got to give me be you go to give me that back $$
 ^^ thank_you $$
 ^^ thank_you $$
 ^^ okay $$
@@ -1096,7 +1113,7 @@
 ^^ thank_you $$
 ^^ I be off with my shop now $$
 ^^ that be my money $$
-^^ oh   can I pay by card $$
+^^ oh can I can I pay by card $$
 ^^ okay $$
 ^^ put it in there then $$
 ^^ right $$
@@ -1117,7 +1134,7 @@
 ^^ bye $$
 ^^ bye $$
 ^^ okay $$
-^^ so   do you want to go shop   and I will be the shop $$
+^^ so do you do you want to go shop and I'll and I will be the shop $$
 ^^ you will have to be more gentle than that or all the fruit will bruise $$
 ^^ go go go go go go go $$
 ^^ do you like shop $$
@@ -1136,13 +1153,13 @@
 ^^ pence pence pence pence pence pence pence pence $$
 ^^ good $$
 ^^ oh meat $$
-^^  meat $$
+^^ meat's meat $$
 ^^ yeah $$
 ^^ that be quite expensive that $$
-^^ I think that be about  I will say   three fifty a pound $$
+^^ I think that be about um I will say um three three fifty a pound $$
 ^^ okay $$
 ^^ and that be two pound $$
-^^ so that be  seven pound $$
+^^ so that be um seven pound $$
 ^^ egg $$
 ^^ oh drop the egg $$
 ^^ oh no $$
@@ -1163,14 +1180,14 @@
 ^^ that be right $$
 ^^ this $$
 ^^ oh I will have to make a customer announce here $$
-^^  customer announce $$
+^^ um customer announce $$
 ^^ the store will be close in thirty minute $$
 ^^ thirty minute $$
 ^^ this store will be close in thirty minute $$
 ^^ please take your purchase to the check $$
 ^^ oh chicken $$
 ^^ oh that be nice $$
-^^   do you like chicken $$
+^^ do do do you like chicken $$
 ^^ do you eat chicken $$
 ^^ okay $$
 ^^ pence pence pence pence pence pence pence pence pence $$
@@ -1203,7 +1220,7 @@
 ^^ oh sorry $$
 ^^ sorry $$
 ^^ put on there $$
-^^  be Anna a friend of yours $$
+^^ um be Anna a friend of yours $$
 ^^ be she $$
 ^^ be she come for afternoon tea $$
 ^^ very nice $$
@@ -1211,10 +1228,10 @@
 ^^ lemon $$
 ^^ pence pence pence pence $$
 ^^ no $$
-^^  you do not need to weigh that because that be a tin $$
+^^ that you do not need to weigh that because that be a tin $$
 ^^ I will just do it on the check $$
 ^^ beep $$
-^^  do you eat spaghetti $$
+^^ um do you eat spaghetti $$
 ^^ do you $$
 ^^ do you like it $$
 ^^ oh $$
@@ -1236,7 +1253,7 @@
 ^^ there be your money over there $$
 ^^ four pound and seventy two pence $$
 ^^ what be you sing $$
-^^   let us do Ring_a_ring_rosie $$
+^^ let's do let us do Ring_a_ring_rosie $$
 ^^ do you want to do Ring_a_ring_rosie $$
 ^^ eensie weensie spider $$
 ^^ Anna not hear you do eensie weensie spider yet $$
@@ -1246,7 +1263,7 @@
 ^^ you will be on stage right $$
 ^^ there you go $$
 ^^ go go go go go go go go $$
-^^ and  Anna and I will clap $$
+^^ and Anna Anna and I will clap $$
 ^^ okay $$
 ^^ there you go $$
 ^^ this be you on stage $$
@@ -1256,7 +1273,7 @@
 ^^ very good $$
 ^^ very good $$
 ^^ what about Ring_a_ring_rosie now $$
-^^  no $$
+^^ no no $$
 ^^ tissue $$
 ^^ all fall $$
 ^^ fish $$
@@ -1268,9 +1285,11 @@
 ^^ Ruth $$
 ^^ we can not watch the television when Anna be here $$
 ^^ and anyway I do not even know how to set it up $$
-^^ and  your Daddy not here at the moment $$
+^^ and your your Daddy not here at the moment $$
 ^^ we need your Daddy to see you on television $$
+^^ www $$
 ^^ you like watch yourself on television do not you $$
+^^ www $$
 ^^ do not we video this for Grandma $$
 ^^ do not we video you do that $$
 ^^ do not we video you do that $$
@@ -1304,8 +1323,8 @@
 ^^ far away $$
 ^^ it be far away $$
 ^^ yeah $$
-^^ and  how do you and Mummy get to Grandma $$
-^^ well we be go to go by boat this time but       how do we normal get there $$
+^^ and how how do you and Mummy get to Grandma $$
+^^ well we be go to go by boat this time but do we have we gone what how do we normal get there $$
 ^^ when you have go to Grandma before $$
 ^^ on what $$
 ^^ well I know you be go in the boat this time $$
@@ -1323,7 +1342,7 @@
 ^^ we be go to go in the car $$
 ^^ now there be something you left behind at Grandma house last time $$
 ^^ what be that $$
-^^    what do you leave behind at Grandma $$
+^^ what did you what do you leave behind at Grandma $$
 ^^ pot $$
 ^^ that be right $$
 ^^ do you remember what color that pot be $$
@@ -1346,7 +1365,7 @@
 ^^ what be the time $$
 ^^ ticktock $$
 ^^ what $$
-^^ well be you do  the book $$
+^^ well be you do this the book $$
 ^^ be you ask me what time it be $$
 ^^ it be twenty to four $$
 ^^ no $$
@@ -1371,7 +1390,7 @@
 ^^ what $$
 ^^ ask $$
 ^^ it be $$
-^^  nine o'clock say $$
+^^ nine nine o'clock say $$
 ^^ time to go $$
 ^^ shop $$
 ^^ and what be that $$
@@ -1409,8 +1428,9 @@
 ^^ little phone $$
 ^^ right $$
 ^^ right $$
-^^  do you like that play $$
+^^ did do you like that play $$
 ^^ yeah $$
+^^ www $$
 ^^ right $$
 ^^ ticktock go the $$
 ^^ tick $$
@@ -1425,7 +1445,7 @@
 ^^ I can not hear with that in your mouth $$
 ^^ foot $$
 ^^ they be play foot $$
-^^  we see person play foot $$
+^^ we we see person play foot $$
 ^^ where do we see person play foot $$
 ^^ on the grass $$
 ^^ whereabouts $$
@@ -1440,7 +1460,7 @@
 ^^ where do we go on Sundays $$
 ^^ mass $$
 ^^ that be right $$
-^^ and  we walk there do not we $$
+^^ and we we walk there do not we $$
 ^^ do you walk all the way there $$
 ^^ and all the way back $$
 ^^ and do you like walk $$
@@ -1481,7 +1501,7 @@
 ^^ you chatter from the minute you get out_of bed to the minute you go to bed do not you $$
 ^^ why this and why that and why this and why that be not it $$
 ^^ no $$
-^^ now  let us have a look at this book $$
+^^ now let's let us have a look at this book $$
 ^^ what be happen here $$
 ^^ ticktock go the clock $$
 ^^ tick $$
@@ -1492,11 +1512,11 @@
 ^^ it be one o'clock $$
 ^^ and what happen at one o'clock $$
 ^^ I be not ask what day it be $$
-^^  what do they have $$
+^^ what what do they have $$
 ^^ what be this $$
 ^^ it be a picnic $$
 ^^ that be right $$
-^^       what be he have for his picnic $$
+^^ what's this little what's this little what be he have for his picnic $$
 ^^ two sandwich $$
 ^^ two sandwich $$
 ^^ and what be this $$
@@ -1513,11 +1533,12 @@
 ^^ beside little elephant $$
 ^^ can we get this child to say shoe $$
 ^^ say shoe $$
+^^ www $$
 ^^ say shoe $$
 ^^ it be just a impossibility $$
 ^^ there you go $$
 ^^ put that beside little elephant there $$
-^^  do not put it sideways or it might fall down $$
+^^ don't do not put it sideways or it might fall down $$
 ^^ there $$
 ^^ it be get a nice straw in it have not it $$
 ^^ there $$
@@ -1529,7 +1550,7 @@
 ^^ what darling $$
 ^^ oh he be with his friend $$
 ^^ he be with his friend $$
-^^  who be his friend $$
+^^ who's who be his friend $$
 ^^ who be his friend $$
 ^^ monkey $$
 ^^ and what be he do $$
@@ -1542,7 +1563,7 @@
 ^^ knock it down $$
 ^^ they be a little bit $$
 ^^ that be right $$
-^^ and   what be little elephant get in his trunk $$
+^^ and what's what's what be little elephant get in his trunk $$
 ^^ what be he hold $$
 ^^ it be a roof $$
 ^^ it be $$
@@ -1556,7 +1577,7 @@
 ^^ train $$
 ^^ that be right $$
 ^^ that be right $$
-^^   what be the time ask little elephant $$
+^^ what time what be the time ask little elephant $$
 ^^ it be three o'clock say Mum $$
 ^^ time to visit friend for tea $$
 ^^ he be have a great day be not he $$
@@ -1565,7 +1586,7 @@
 ^^ ticktock what be the time ask little elephant $$
 ^^ six o'clock say Mum $$
 ^^ what time be it $$
-^^ it be  bath $$
+^^ it be bath bath $$
 ^^ oh do you like have a bath $$
 ^^ yeah $$
 ^^ you do not like have your hair wash $$
@@ -1578,7 +1599,7 @@
 ^^ the swim pool $$
 ^^ that be right $$
 ^^ that be right $$
-^^ sometimes I wash your hair at the swim pool because it save me do it  $$
+^^ sometimes I wash your hair at the swim pool because it save me do it xxx $$
 ^^ then all the shout be over quick $$
 ^^ yeah $$
 ^^ do you like go to the swim pool $$
@@ -1618,7 +1639,7 @@
 ^^ that be right $$
 ^^ who do he go to bed with $$
 ^^ that be right $$
-^^  what be he read a book about $$
+^^ what's what be he read a book about $$
 ^^ more elephant be not he $$
 ^^ yeah $$
 ^^ there you go $$
@@ -1629,12 +1650,13 @@
 ^^ yeah $$
 ^^ mhm $$
 ^^ be that nice $$
+^^ www $$
 ^^ be not you cry because you think Mummy have promise you some crisp $$
-^^  when you get to the car all Mummy give you be some juice $$
+^^ when when you get to the car all Mummy give you be some juice $$
 ^^ be that right $$
 ^^ yeah $$
 ^^ tell Anna what you have today with Sophie $$
-^^  I get you it on Saturday and you have to wait all the way until today to eat $$
+^^ I I get you it on Saturday and you have to wait all the way until today to eat $$
 ^^ what be it $$
 ^^ no $$
 ^^ well you have some crisp $$
@@ -1652,17 +1674,18 @@
 ^^ and who be your favorite Telly_tubby $$
 ^^ and what color be Laa_Laa $$
 ^^ that be right $$
-^^ and  who be the other Telly_tubbies $$
+^^ and who who be the other Telly_tubbies $$
 ^^ no $$
 ^^ they be not the same color as Laa_Laa $$
 ^^ what be the little one call $$
 ^^ the big one $$
 ^^ the big one I think be Dipsy_Wipsy $$
 ^^ Dipsy_Wipsy or something like that $$
-^^ I think the big one call  $$
-^^  no $$
+^^ I think the big one call Dip $$
+^^ no no $$
 ^^ it be Tinky_Winky $$
 ^^ that be right $$
+^^ www $$
 ^^ Ruth $$
 ^^ please leave that alone $$
 ^^ do not break it $$
@@ -1673,7 +1696,7 @@
 ^^ can you see yourself in the mirror $$
 ^^ can you see yourself $$
 ^^ what $$
-^^    there be a fly in our house $$
+^^ there's a lot there be a fly in our house $$
 ^^ oh no $$
 ^^ oh no $$
 ^^ do you like fly $$
@@ -1686,6 +1709,7 @@
 ^^ be that where she be $$
 ^^ be she over there that fly $$
 ^^ oh we will have to chase her $$
+^^ www $$
 ^^ be not that right $$
 ^^ and do you want to chase the spider $$
 ^^ do Daddy chase the spider $$
@@ -1698,12 +1722,12 @@
 ^^ yeah $$
 ^^ you do not want spider in your room do you $$
 ^^ why $$
-^^  you like it on my shoulder $$
+^^ on you like it on my shoulder $$
 ^^ oh right $$
 ^^ do you $$
 ^^ what be I look at Anna for $$
 ^^ why should not I look at Anna $$
-^^    how can I look at you when you be on my shoulder $$
+^^ how can I how can I look at you when you be on my shoulder $$
 ^^ hm $$
 ^^ tell me that $$
 ^^ be you look at me $$
@@ -1715,7 +1739,7 @@
 ^^ they come out that way $$
 ^^ do you have any eye in the back of your head $$
 ^^ no $$
-^^  I do not either $$
+^^ I I do not either $$
 ^^ I do not either $$
 ^^ Ruth $$
 ^^ I real do not want you on my back darling $$
@@ -1727,7 +1751,7 @@
 ^^ with Mummy $$
 ^^ okay $$
 ^^ I do not know $$
-^^      who be do your board yesterday $$
+^^ er was who was in who be do your board yesterday $$
 ^^ who be drawing on your board yesterday $$
 ^^ Jeanine be for a bit be not she $$
 ^^ yeah $$
@@ -1750,12 +1774,14 @@
 ^^ that be right $$
 ^^ whose name be that $$
 ^^ yeah $$
+^^ www $$
 ^^ be you do Daddy name $$
 ^^ be you do a little figure now $$
+^^ www $$
 ^^ that be Mummy name $$
 ^^ that be eight $$
-^^ well    that be not Mummy $$
-^^   it be get three Munching_Mikes because it be get a big one and two little one $$
+^^ well it's actually not that be not Mummy $$
+^^ that's got it be get three Munching_Mikes because it be get a big one and two little one $$
 ^^ that be right $$
 ^^ well that be not actual Mummy name darling $$
 ^^ that say Mummy $$
@@ -1778,7 +1804,7 @@
 ^^ and what be $$
 ^^ be you color in that one $$
 ^^ okay $$
-^^ and  what be Daddy name $$
+^^ and what's what be Daddy name $$
 ^^ that be a Dippy_duck $$
 ^^ there be another one be not it $$
 ^^ be you color in that Dippy_duck $$
@@ -1789,7 +1815,7 @@
 ^^ it be not nice $$
 ^^ stop scrape your nail on the black $$
 ^^ do you color in Daddy Dippy_duck $$
-^^  right $$
+^^ right right $$
 ^^ what else have you get in your name $$
 ^^ do you not like Sammy_Snake $$
 ^^ do you not like Sammy_Snake in your letter $$
@@ -1823,7 +1849,7 @@
 ^^ you have get one $$
 ^^ that be right $$
 ^^ do you want me to write Anna name $$
-^^   let me write Anna name $$
+^^ let's let's let me write Anna name $$
 ^^ mhm $$
 ^^ no $$
 ^^ she be not get Dippy_duck $$
@@ -1836,11 +1862,12 @@
 ^^ palindrome I think $$
 ^^ palindrome $$
 ^^ that be right $$
+^^ www $$
 ^^ look $$
 ^^ that say Anna $$
 ^^ no $$
 ^^ she have not $$
-^^ she be get  a a and then a n for Naughty_Nick $$
+^^ she be get a a a and then a n for Naughty_Nick $$
 ^^ a n for Naughty_Nick $$
 ^^ and another a $$
 ^^ it be quite simple real $$
@@ -1875,6 +1902,7 @@
 ^^ no $$
 ^^ okay $$
 ^^ one more $$
+^^ www $$
 ^^ right $$
 ^^ you have do it now $$
 ^^ you have have once more $$
@@ -1897,7 +1925,7 @@
 ^^ do your big stage fall down $$
 ^^ I tell you what Ruth $$
 ^^ maybe the other one will be good because that one a bit small $$
-^^  let us use   the middle one $$
+^^ let's let us use the other the middle one $$
 ^^ well the big one get the tv on it $$
 ^^ this be big $$
 ^^ this be a bit of a big stage $$
@@ -1908,7 +1936,7 @@
 ^^ now what about baa black sheep $$
 ^^ we be not very good at baa black sheep but let us see if we can try I anyway $$
 ^^ but I will do it with you shall I $$
-^^  no $$
+^^ no no $$
 ^^ it be yes sir yes sir $$
 ^^ one $$
 ^^ one for the $$
@@ -1924,7 +1952,7 @@
 ^^ your doll $$
 ^^ right $$
 ^^ Anna be your doll $$
-^^  what be that doll name $$
+^^ what what be that doll name $$
 ^^ oh be she call Ruth $$
 ^^ I be her Daddy $$
 ^^ right $$
@@ -1933,7 +1961,7 @@
 ^^ right $$
 ^^ be we look after her $$
 ^^ prince $$
-^^ you be  pretend $$
+^^ you be pretend pretend $$
 ^^ good girl $$
 ^^ what be the prince building $$
 ^^ a castle $$
@@ -2003,8 +2031,8 @@
 ^^ look Ruth $$
 ^^ if you be go to build a castle what you need be some big spire here like this $$
 ^^ right $$
-^^  build $$
-^^ now  build four up like this $$
+^^ build build $$
+^^ now get build four up like this $$
 ^^ because that be what castle look like $$
 ^^ no $$
 ^^ you can keep that there $$
@@ -2019,9 +2047,9 @@
 ^^ good $$
 ^^ now do some here in this corner too $$
 ^^ will not will not will not will not will not will not will not will not will not $$
-^^   you need to make your tower you see $$
+^^ you need you need to make your tower you see $$
 ^^ castle always have tower on them $$
-^^  no $$
+^^ no no $$
 ^^ not there $$
 ^^ in here $$
 ^^ put your four here to build your tower $$
@@ -2085,7 +2113,7 @@
 ^^ well why do not you use little figure and then they will fit in nice $$
 ^^ why do not you use your little figure $$
 ^^ yes $$
-^^  they will  just be right size for there $$
+^^ they'll they will just just be right size for there $$
 ^^ will not will not will not will not will not will not will not will not will not $$
 ^^ then you can get lots_of them in $$
 ^^ okay $$
@@ -2107,7 +2135,7 @@
 ^^ that what $$
 ^^ that $$
 ^^ push that $$
-^^ push  $$
+^^ push xxx $$
 ^^ I do not know what you be say $$
 ^^ that $$
 ^^ what do you say $$
@@ -2119,7 +2147,7 @@
 ^^ be you $$
 ^^ mhm $$
 ^^ yes $$
-^^ that can be his  throne $$
+^^ that can be his er throne $$
 ^^ because prince and princess sit in throne $$
 ^^ they sit on throne you see like that $$
 ^^ good put her arm up pet $$
@@ -2146,7 +2174,7 @@
 ^^ well what will you like me to do $$
 ^^ see if you put these on top like that there that will keep them from $$
 ^^ no $$
-^^  well you see I do not know how to help you because I might help in the wrong way $$
+^^ a well you see I do not know how to help you because I might help in the wrong way $$
 ^^ well I do not know that be naughty $$
 ^^ well how do you want me to help you $$
 ^^ if I help you I might do it the wrong way again $$
@@ -2185,6 +2213,7 @@
 ^^ very quiet $$
 ^^ no $$
 ^^ no $$
+^^ www $$
 ^^ sleep $$
 ^^ can you say sleep $$
 ^^ say sleep $$
@@ -2199,7 +2228,7 @@
 ^^ right $$
 ^^ there be two more $$
 ^^ there be no more little one now $$
-^^        it be not go to fit Ruth $$
+^^ and there's you're just not going to it be not go to fit Ruth $$
 ^^ you just need one more little one do not you $$
 ^^ we need $$
 ^^ oh there be one more little one $$
@@ -2215,7 +2244,7 @@
 ^^ mhm $$
 ^^ I be go to build a tower as_well $$
 ^^ with the big one $$
-^^ see I know I genmod start do it wrong  my hand in $$
+^^ see I know I genmod start do it wrong xxx my hand in $$
 ^^ mhm $$
 ^^ what $$
 ^^ I tell you that if I start do it I genmod probable do it wrong $$
@@ -2224,6 +2253,7 @@
 ^^ than me $$
 ^^ a big tower than me $$
 ^^ be that what you be go to do $$
+^^ a $$
 ^^ your tower fall down $$
 ^^ my tower good than yours $$
 ^^ hey $$
@@ -2263,6 +2293,7 @@
 ^^ smack you on the bottom $$
 ^^ I think you have get to be very very naughty for him to smack you on the bottom $$
 ^^ your tower big than mine $$
+^^ a $$
 ^^ I catch my tower $$
 ^^ whoops $$
 ^^ my tower keep break $$
@@ -2291,7 +2322,7 @@
 ^^ because I be hold it down $$
 ^^ okay $$
 ^^ okay $$
-^^ as long as you build it up because I be not into this game of me build it up and you   break it down $$
+^^ as long as you build it up because I be not into this game of me build it up and you putting it break it down $$
 ^^ what you normal do $$
 ^^ that be all right $$
 ^^ as long as you build it up every time you break it down $$
@@ -2359,7 +2390,7 @@
 ^^ ice $$
 ^^ delicious $$
 ^^ delicious $$
-^^  wait a second $$
+^^ um wait a second $$
 ^^ I be put your toy away in here $$
 ^^ I be put your toy in here $$
 ^^ accident $$
@@ -2379,7 +2410,7 @@
 ^^ but Anna have to draw on her book $$
 ^^ real $$
 ^^ mhm $$
-^^  who do you think be a boss little individual $$
+^^ who who do you think be a boss little individual $$
 ^^ do you like that $$
 ^^ do you know what that be call $$
 ^^ sweet $$
@@ -2403,6 +2434,7 @@
 ^^ oh there be my ice $$
 ^^ what be my ice do in there $$
 ^^ you never get away with thing do not you not $$
+^^ www $$
 ^^ you want to buy it $$
 ^^ okay $$
 ^^ okay $$
@@ -2421,7 +2453,7 @@
 ^^ that will be enough now $$
 ^^ oh no $$
 ^^ you keep that money $$
-^^   this be enough for me $$
+^^ I I this be enough for me $$
 ^^ I have get twenty pound here $$
 ^^ okay $$
 ^^ well I will take that $$

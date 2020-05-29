@@ -5,22 +5,29 @@
 ^^ rain $$
 ^^ go to the forest $$
 ^^ and I see the soldier in the forest $$
-^^    I see the soldier in the forest $$
+^^ xxx $$
+^^ I see the I see the soldier in the forest $$
 ^^ few week ago $$
 ^^ yes $$
 ^^ mhm $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ a rocket $$
 ^^ be very good $$
 ^^ a rocket $$
-^^ a  $$
-^^ a  $$
-^^ a  $$
+^^ a xxx $$
+^^ a xxx $$
+^^ a xxx $$
+^^ xxx $$
 ^^ get a box $$
 ^^ get a box $$
 ^^ get a box $$
 ^^ get a box $$
 ^^ yes $$
+^^ a $$
+^^ a $$
 ^^ it be a bag $$
 ^^ inside $$
 ^^ yes $$
@@ -69,14 +76,15 @@
 ^^ I a hide $$
 ^^ I a hide $$
 ^^ I be hide $$
-^^   see a spider in there $$
+^^ see some see a spider in there $$
 ^^ I see a spider in there $$
 ^^ remember $$
 ^^ and it come up $$
 ^^ yes $$
 ^^ it be a aeroplane now $$
 ^^ it be not a aeroplane $$
-^^    it be a helicopter $$
+^^ it is a it be a helicopter $$
+^^ xxx $$
 ^^ my chair a tunnel $$
 ^^ my chair a accident $$
 ^^ yeah $$
@@ -115,12 +123,12 @@
 ^^ it be badger hole $$
 ^^ it be a car $$
 ^^ engine $$
-^^  on Mummy  $$
+^^ xxx on Mummy xxx $$
 ^^ yes $$
 ^^ not sleep now $$
 ^^ wake up $$
 ^^ yes $$
-^^  have biscuit $$
+^^ have have biscuit $$
 ^^ yes $$
 ^^ real biscuit $$
 ^^ I make brown biscuit for Demi $$
@@ -131,6 +139,7 @@
 ^^ in Manchester $$
 ^^ new house $$
 ^^ Northwich $$
+^^ xxx $$
 ^^ I go in the yacht boat $$
 ^^ I go in the yacht boat last week $$
 ^^ last $$
@@ -140,8 +149,8 @@
 ^^ I go in the yacht $$
 ^^ I go in the yacht $$
 ^^ big $$
-^^ and  $$
-^^ and  twenty three $$
+^^ and xxx $$
+^^ and xxx twenty three $$
 ^^ this be a blood $$
 ^^ no $$
 ^^ this blood $$
@@ -152,7 +161,8 @@
 ^^ from my bath $$
 ^^ yes $$
 ^^ yes $$
-^^    it be a big blood $$
+^^ xxx $$
+^^ it's a big it be a big blood $$
 ^^ yeah $$
 ^^ blood $$
 ^^ Kit_Kat have blood $$
@@ -174,6 +184,7 @@
 ^^ my fun sock $$
 ^^ fun sock $$
 ^^ not big $$
+^^ xxx $$
 ^^ not little $$
 ^^ a long time $$
 ^^ it be a dog house $$
@@ -214,8 +225,8 @@
 ^^ lemon $$
 ^^ buy some lemon in the shop $$
 ^^ I buy some black $$
-^^   I buy some in the shop $$
-^^ and I  buy some in the shop $$
+^^ buy some I buy some in the shop $$
+^^ and I xxx buy some in the shop $$
 ^^ oh look $$
 ^^ this one $$
 ^^ I buy this in the shop $$
@@ -224,7 +235,7 @@
 ^^ where be the sausage $$
 ^^ the egg $$
 ^^ it be your ice $$
-^^   I buy some in the ice van $$
+^^ I buy I buy some in the ice van $$
 ^^ where be the sausage $$
 ^^ you lick it $$
 ^^ no $$
@@ -245,11 +256,11 @@
 ^^ you hold it $$
 ^^ oh no $$
 ^^ this $$
-^^   where be the lemon go $$
+^^ where's the where be the lemon go $$
 ^^ oh $$
 ^^ bean $$
 ^^ and mushroom $$
-^^   and this doll milk $$
+^^ and this and this doll milk $$
 ^^ yes $$
 ^^ in the box $$
 ^^ open $$
@@ -268,7 +279,7 @@
 ^^ very noise one $$
 ^^ very noise one $$
 ^^ back to sleep $$
-^^  a farm $$
+^^ xxx a farm $$
 ^^ where be the wheel go $$
 ^^ I do not know fit $$
 ^^ I do not know fit $$
@@ -283,6 +294,7 @@
 ^^ very silent $$
 ^^ play a farm $$
 ^^ play a farm $$
+^^ xxx $$
 ^^ this be a $$
 ^^ a yellow farm $$
 ^^ and white $$
@@ -307,7 +319,7 @@
 ^^ yes $$
 ^^ see my tape downstairs $$
 ^^ yes $$
-^^    it be a little moth $$
+^^ it's a little it be a little moth $$
 ^^ dear Sarah Matthew and John $$
 ^^ yes $$
 ^^ yes $$
@@ -317,6 +329,7 @@
 ^^ yes $$
 ^^ yeah $$
 ^^ yes $$
+^^ xxx $$
 ^^ it be a fridge $$
 ^^ this be a fridge $$
 ^^ yeah $$
@@ -324,6 +337,7 @@
 ^^ I not finish yet $$
 ^^ look $$
 ^^ want some more $$
+^^ xxx $$
 ^^ yes $$
 ^^ in the radiator $$
 ^^ yeah $$
@@ -363,14 +377,14 @@
 ^^ yes $$
 ^^ Daddy $$
 ^^ Daddy buy it in Stephanie $$
-^^  dog $$
-^^ he be get  $$
-^^ I  $$
+^^ er dog $$
+^^ he be get xxx $$
+^^ I xxx $$
 ^^ yeah $$
 ^^ I push the grass cut $$
 ^^ maybe the green grass cut $$
-^^ maybe    it be a noise one $$
-^^  it be big yuck $$
+^^ maybe it's a noisy it be a noise one $$
+^^ it's it be big yuck $$
 ^^ it be yuck $$
 ^^ it be dirt $$
 ^^ all this soil in $$
@@ -385,7 +399,7 @@
 ^^ this like my dog $$
 ^^ just like a lamb $$
 ^^ just like my sticker $$
-^^ I maybe on   a window ledge $$
+^^ I maybe on a ledge a window ledge $$
 ^^ I maybe on a window ledge $$
 ^^ I see a cheese $$
 ^^ a scrape $$
@@ -415,16 +429,16 @@
 ^^ this for Mummy $$
 ^^ and then this for me $$
 ^^ mhm $$
-^^  that for Daddy $$
+^^ that that for Daddy $$
 ^^ that for Mummy $$
 ^^ this for Nicole $$
-^^   it be a little bead $$
+^^ it's a it be a little bead $$
 ^^ there be one bead $$
 ^^ oh this one $$
 ^^ bit of fluff $$
 ^^ hiccup hiccup $$
 ^^ I do this in Daddy car $$
-^^ maybe this  $$
+^^ maybe this xxx $$
 ^^ teddy $$
 ^^ a car $$
 ^^ be a bird $$
@@ -435,8 +449,8 @@
 ^^ rain not stop $$
 ^^ yes $$
 ^^ all this rain $$
-^^  egg  $$
-^^  in the rain $$
+^^ xxx egg xxx $$
+^^ xxx in the rain $$
 ^^ yes $$
 ^^ cuddle him $$
 ^^ I like cuddle her $$
@@ -478,6 +492,7 @@
 ^^ make a frog cake $$
 ^^ I make a frog cake and Mummy $$
 ^^ want see the girl $$
+^^ xxx $$
 ^^ a grape $$
 ^^ I want another one $$
 ^^ I want $$
@@ -512,27 +527,29 @@
 ^^ ready steady go $$
 ^^ any more $$
 ^^ it be a boat $$
+^^ xxx $$
+^^ xxx $$
 ^^ a roof $$
 ^^ it be a roof $$
 ^^ it be a roof $$
-^^ John  make a roof $$
+^^ John making make a roof $$
 ^^ I make a roof $$
 ^^ no $$
-^^ it be not  $$
+^^ it be not xxx $$
 ^^ I can not $$
-^^  a orange $$
-^^   I buy this in the shop $$
+^^ um a orange $$
+^^ I got I buy this in the shop $$
 ^^ and I buy this in the shop $$
 ^^ oh $$
 ^^ it go in the box $$
 ^^ this go in the box $$
 ^^ this go in the box $$
-^^   I buy the animal in the shop $$
+^^ I buy I buy the animal in the shop $$
 ^^ I buy this in the shop $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ pence pence pence $$
-^^       I get a packet $$
+^^ I buy I buy I buy I get a packet $$
 ^^ a chicken $$
 ^^ pence pence pence $$
 ^^ I buy this in the shop $$
@@ -556,11 +573,14 @@
 ^^ find another truck $$
 ^^ there be another truck $$
 ^^ take doll dress off $$
+^^ xxx $$
 ^^ come off $$
 ^^ take it off $$
 ^^ mhm $$
 ^^ black $$
 ^^ I buy kitten food in the shop $$
+^^ xxx $$
+^^ a $$
 ^^ I buy the food in the shop $$
 ^^ buy the food in the shop $$
 ^^ make a church $$
@@ -587,17 +607,17 @@
 ^^ yeah $$
 ^^ and some this $$
 ^^ yeah $$
-^^  maybe this for Kit_Kat $$
+^^ this maybe this for Kit_Kat $$
 ^^ just like in the zoo $$
 ^^ I see the big elephant $$
 ^^ yes $$
 ^^ a little elephant $$
 ^^ I do not see it $$
 ^^ yes $$
-^^  it be big $$
+^^ um it be big $$
 ^^ it be fat $$
 ^^ big and fat $$
-^^   man want to $$
+^^ men men man want to $$
 ^^ man want to drive $$
 ^^ there $$
 ^^ and then this fit on this $$
@@ -613,7 +633,7 @@
 ^^ yes $$
 ^^ stick $$
 ^^ another bit $$
-^^    and a orange horse want to go in $$
+^^ and a orange and a orange horse want to go in $$
 ^^ maybe this cow $$
 ^^ yeah $$
 ^^ maybe this drive $$
@@ -649,11 +669,11 @@
 ^^ terrible $$
 ^^ another one $$
 ^^ maybe Daddy get them $$
-^^ I like  $$
-^^ I like  $$
-^^ I like a  $$
-^^ I like  $$
-^^ I like a  $$
+^^ I like xxx $$
+^^ I like xxx $$
+^^ I like a xxx $$
+^^ I like xxx $$
+^^ I like a xxx $$
 ^^ I like no $$
 ^^ Daddy car $$
 ^^ and I do not go in Grandpa car $$
@@ -698,7 +718,7 @@
 ^^ it be teddy bear $$
 ^^ want to see $$
 ^^ want to see it in a box $$
-^^   I find on the wood $$
+^^ I find I find on the wood $$
 ^^ I find on the wood $$
 ^^ I find in the wood $$
 ^^ I see $$
@@ -710,7 +730,7 @@
 ^^ I find John tape $$
 ^^ there be one $$
 ^^ break it $$
-^^  I break the tape in my bed $$
+^^ broken I break the tape in my bed $$
 ^^ oh $$
 ^^ it be not big $$
 ^^ it be little $$
@@ -763,8 +783,8 @@
 ^^ yeah $$
 ^^ I find one $$
 ^^ I draw it pink $$
-^^ I   want see Nicole $$
-^^    I want to see Nicole $$
+^^ I want see want see Nicole $$
+^^ I wanna see I want to see Nicole $$
 ^^ there $$
 ^^ two three four five six seven eight $$
 ^^ two three four $$
@@ -789,6 +809,7 @@
 ^^ yeah $$
 ^^ handy $$
 ^^ very heavy $$
+^^ a $$
 ^^ now it be a mountain $$
 ^^ crash $$
 ^^ full $$
@@ -807,9 +828,10 @@
 ^^ water $$
 ^^ sss $$
 ^^ I splash you $$
-^^      like to put it on my train $$
+^^ like to put it on like to put it on my train $$
 ^^ I want some sticker $$
 ^^ which hand $$
+^^ a $$
 ^^ which hand $$
 ^^ that one $$
 ^^ which hand $$
@@ -831,6 +853,7 @@
 ^^ want to cuddle her $$
 ^^ tickle me $$
 ^^ tickle my finger $$
+^^ xxx $$
 ^^ very long $$
 ^^ yes $$
 ^^ it be long $$
@@ -838,7 +861,7 @@
 ^^ for brick $$
 ^^ finger $$
 ^^ my finger $$
-^^  my thumb be too big $$
+^^ my my thumb be too big $$
 ^^ too big $$
 ^^ I get a little baby on $$
 ^^ a little baby one $$
@@ -888,36 +911,37 @@
 ^^ can not see it $$
 ^^ must be go $$
 ^^ maybe go $$
-^^  a person sit down on the bus $$
+^^ er a person sit down on the bus $$
 ^^ person sit down on the bus $$
 ^^ person sit down on the bus $$
 ^^ person sit down on the bus $$
 ^^ sit down $$
 ^^ person sit down on the bus $$
-^^   man be drive a boat $$
+^^ man is man be drive a boat $$
 ^^ I find a tiger $$
 ^^ up and down $$
 ^^ up and down $$
-^^   find another cab $$
+^^ find a find another cab $$
 ^^ that much good $$
-^^     I go make a farm $$
+^^ I go make a I go make a farm $$
 ^^ I go make a farm $$
 ^^ oh I find a Baby_small $$
 ^^ cow like it this $$
 ^^ animal can not open it $$
-^^  animal $$
+^^ xxx animal $$
 ^^ I get it $$
 ^^ eat this hay $$
 ^^ and bull want go in $$
-^^  I see a farm $$
+^^ I I see a farm $$
 ^^ I see a farm $$
-^^   I see the farm $$
+^^ I seen I see the farm $$
 ^^ I see the bull in the farm $$
 ^^ yes $$
-^^   I see this in the farm $$
+^^ I see I see this in the farm $$
 ^^ I go in the coffee shop $$
 ^^ maybe too big $$
 ^^ the elephant $$
+^^ a $$
 ^^ not too big $$
 ^^ want try the bull $$
 ^^ bull be too little $$
@@ -926,7 +950,7 @@
 ^^ a car be go in the car $$
 ^^ yeah $$
 ^^ yeah $$
-^^ it be   get a bird poo $$
+^^ it be got a get a bird poo $$
 ^^ must go in car $$
 ^^ must go in car $$
 ^^ mhm $$
@@ -947,12 +971,12 @@
 ^^ come down $$
 ^^ on there $$
 ^^ on the end $$
-^^ on the  $$
+^^ on the xxx $$
 ^^ and now $$
 ^^ and this $$
-^^    maybe the horse I think $$
+^^ maybe maybe the maybe the horse I think $$
 ^^ I like get out $$
-^^  get out $$
+^^ xxx get out $$
 ^^ maybe try this $$
 ^^ too long $$
 ^^ few more $$
@@ -976,9 +1000,9 @@
 ^^ oh $$
 ^^ it be break again $$
 ^^ a train $$
-^^ two  on the train $$
+^^ two xxx on the train $$
 ^^ maybe this will fit $$
-^^   make another ladder $$
+^^ make another make another ladder $$
 ^^ can not do it $$
 ^^ can not do it $$
 ^^ no make a body $$
@@ -1006,7 +1030,7 @@
 ^^ hold $$
 ^^ she be hold $$
 ^^ she be hold my finger $$
-^^  gentle $$
+^^ gently gentle $$
 ^^ she kiss my $$
 ^^ get hair leg $$
 ^^ tickle me $$
@@ -1017,11 +1041,12 @@
 ^^ hold my hand $$
 ^^ make a spider $$
 ^^ make a spider $$
-^^ tickle my  $$
+^^ tickle my xxx $$
 ^^ she tickle me $$
 ^^ tickle my t $$
 ^^ tickle my finger $$
 ^^ go to $$
+^^ xxx $$
 ^^ break again $$
 ^^ very hungry $$
 ^^ sticky $$
@@ -1036,7 +1061,7 @@
 ^^ no $$
 ^^ it be a white cat $$
 ^^ crash $$
-^^    I see in Tesco $$
+^^ I see in I see in Tesco $$
 ^^ I see in the Tesco $$
 ^^ mhm $$
 ^^ turn around $$
@@ -1044,10 +1069,10 @@
 ^^ uhoh $$
 ^^ I buy a cake in the coffee shop $$
 ^^ pence pence pence $$
-^^   it be your cake $$
+^^ it's your it be your cake $$
 ^^ and pepper $$
 ^^ and pepper $$
 ^^ it be Nicole cake $$
-^^ go  $$
-^^ go  $$
+^^ go mm $$
+^^ go mm $$
 ^^ eat your cake $$

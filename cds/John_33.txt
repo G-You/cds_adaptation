@@ -15,9 +15,11 @@
 ^^ do you $$
 ^^ what do you do John $$
 ^^ the rock slide $$
+^^ a $$
 ^^ mhm $$
 ^^ I do not know what that be $$
 ^^ oh $$
+^^ www $$
 ^^ get a box $$
 ^^ well I will get the box later $$
 ^^ what be that John $$
@@ -25,6 +27,7 @@
 ^^ you do not miss a trick do you $$
 ^^ we might look in there later too $$
 ^^ no notebook today $$
+^^ www $$
 ^^ okay $$
 ^^ oh $$
 ^^ we be have a very quiet day today be not we $$
@@ -47,6 +50,7 @@
 ^^ yeah $$
 ^^ what be they call $$
 ^^ those pink and blue thing $$
+^^ a $$
 ^^ you help me to blow them out do not you $$
 ^^ it be your birth next $$
 ^^ have to sing happy_birthday to you $$
@@ -85,6 +89,7 @@
 ^^ come away $$
 ^^ will not will not will not will not will not will not will not will not will not will not $$
 ^^ do you remember what we do yesterday $$
+^^ www $$
 ^^ John $$
 ^^ if we go out today we will need your umbrella $$
 ^^ if we go out $$
@@ -116,7 +121,7 @@
 ^^ oh $$
 ^^ how do you sit on a helicopter $$
 ^^ show me $$
-^^  yes $$
+^^ xxx yes $$
 ^^ well it be not much of a accident because you throw it do not you $$
 ^^ so how do a helicopter go $$
 ^^ like this $$
@@ -268,6 +273,7 @@
 ^^ there be blood in your bath be there $$
 ^^ oh $$
 ^^ do you catch yourself $$
+^^ a $$
 ^^ have somebody hurt themselves $$
 ^^ who $$
 ^^ whoops $$
@@ -287,6 +293,7 @@
 ^^ oh yeah $$
 ^^ two little hole $$
 ^^ you must remember to put your train away $$
+^^ www $$
 ^^ do not want to get them muddle with Anna train $$
 ^^ be you peep out $$
 ^^ be you be cheek again $$
@@ -304,6 +311,7 @@
 ^^ mhm $$
 ^^ oh that be a bit good $$
 ^^ you be $$
+^^ www $$
 ^^ oh be you a dog $$
 ^^ oh $$
 ^^ what do dog eat John $$
@@ -328,7 +336,7 @@
 ^^ well you be very energetic for corn $$
 ^^ John $$
 ^^ no $$
-^^  no $$
+^^ no no $$
 ^^ this be dangerous $$
 ^^ let us put it down $$
 ^^ it be a very small house for a dog that one $$
@@ -350,6 +358,7 @@
 ^^ be it good with milk $$
 ^^ it be ease to eat be not it with the spoon $$
 ^^ all soggy $$
+^^ mm $$
 ^^ you be very hungry $$
 ^^ okay $$
 ^^ here be some on your spoon $$
@@ -384,6 +393,7 @@
 ^^ we have one when we go to BQ do not we $$
 ^^ oh $$
 ^^ like this $$
+^^ mm $$
 ^^ oh $$
 ^^ yes $$
 ^^ perhaps somebody eat it $$
@@ -424,7 +434,7 @@
 ^^ see if you can do the lid this week John $$
 ^^ well you be the one who want to see $$
 ^^ you try the lid $$
-^^ well  try first $$
+^^ well try try first $$
 ^^ look $$
 ^^ like this $$
 ^^ can you do it $$
@@ -434,6 +444,7 @@
 ^^ and a train $$
 ^^ you will wake up doll $$
 ^^ yeah $$
+^^ xxx $$
 ^^ doll very cold be not she $$
 ^^ do she need this dress on as_well do you think $$
 ^^ yeah $$
@@ -441,7 +452,7 @@
 ^^ perhaps you could blow on doll hand $$
 ^^ warm them up $$
 ^^ and rub them like this $$
-^^  be cold too $$
+^^ xxx be cold too $$
 ^^ mhm $$
 ^^ very silent $$
 ^^ mhm $$
@@ -456,7 +467,7 @@
 ^^ it do not fit John $$
 ^^ look $$
 ^^ these be two $$
-^^ this have get two little blip on it and this have only  one in there $$
+^^ this have get two little blip on it and this have only one one in there $$
 ^^ you will have to put one of these there $$
 ^^ oh I see $$
 ^^ oh you get round the problem $$
@@ -468,6 +479,7 @@
 ^^ mhm $$
 ^^ anything else $$
 ^^ okay $$
+^^ a $$
 ^^ collie dog $$
 ^^ collie dog $$
 ^^ sometimes they be call sheepdog $$
@@ -561,6 +573,7 @@
 ^^ you have not see Mummy bed $$
 ^^ Mummy be paint it yesterday $$
 ^^ it be real good $$
+^^ www $$
 ^^ and Nicole be help $$
 ^^ all while you be asleep $$
 ^^ pardon $$
@@ -568,6 +581,7 @@
 ^^ this will be great $$
 ^^ oh $$
 ^^ finish it final $$
+^^ a $$
 ^^ when we go to the forest those be very nice ice $$
 ^^ you have a red one but it be not strawberry be it $$
 ^^ it be wild cherry $$
@@ -598,6 +612,7 @@
 ^^ a welly boot shop $$
 ^^ in Manchester maybe $$
 ^^ you be enjoy that $$
+^^ www $$
 ^^ we will have to wash it $$
 ^^ perhaps you could wash it in the sink just before Anna go home $$
 ^^ go off to work $$
@@ -629,6 +644,7 @@
 ^^ while it be lie down $$
 ^^ be it very still $$
 ^^ mhm $$
+^^ www $$
 ^^ oh $$
 ^^ let go John $$
 ^^ be you a dog again $$
@@ -640,12 +656,13 @@
 ^^ open your mouth $$
 ^^ John $$
 ^^ John $$
-^^   hey $$
+^^ hey hey hey $$
 ^^ John $$
 ^^ you be so strong $$
 ^^ let go of it $$
 ^^ you break the midwife stethoscope last time she come do not you $$
 ^^ you bit through the cable $$
+^^ www $$
 ^^ John $$
 ^^ come on otherwise we will have to place these thing if you break them $$
 ^^ John $$
@@ -659,13 +676,13 @@
 ^^ that be the box $$
 ^^ not the bag $$
 ^^ then what happen $$
-^^  perhaps if you go and find your farm set John $$
+^^ perhaps perhaps if you go and find your farm set John $$
 ^^ can you find your farm set $$
 ^^ do you need to do some building today $$
 ^^ oh $$
 ^^ oh well $$
 ^^ well they look like glove do not they $$
-^^ they be  fun sock that Granny buy $$
+^^ they be funny fun sock that Granny buy $$
 ^^ will not will not will not will not will not will not will not will not $$
 ^^ do you think she be happy today $$
 ^^ do not know $$
@@ -681,6 +698,7 @@
 ^^ very good $$
 ^^ he be a spot dog $$
 ^^ perhaps he be a Dalmatian $$
+^^ xxx $$
 ^^ what else have he get $$
 ^^ shall we put dog in here $$
 ^^ perhaps you genmod like to do some color if you do not want to play with your farm $$
@@ -700,12 +718,14 @@
 ^^ we have a adventure do not we $$
 ^^ be it $$
 ^^ black and white dog go by $$
+^^ a $$
 ^^ oh you get lots_of present do not you John $$
 ^^ book $$
 ^^ yeah $$
 ^^ I can see $$
 ^^ mhm $$
 ^^ well perhaps if you get down and you ask Anna to reach it for you $$
+^^ www $$
 ^^ John $$
 ^^ can you get down and ask $$
 ^^ perhaps you could push your grass cut over here $$
@@ -717,7 +737,7 @@
 ^^ look $$
 ^^ oh you have do all the cat today $$
 ^^ or maybe you do it yesterday $$
-^^  I see $$
+^^ a I see $$
 ^^ do you want to finish off another page then $$
 ^^ which one shall we do $$
 ^^ bumble bee $$
@@ -732,6 +752,7 @@
 ^^ show Rosie $$
 ^^ oh yes $$
 ^^ that be very very neat color John $$
+^^ xxx $$
 ^^ what about those necklace that you be drawing yesterday $$
 ^^ you draw all the bead very care $$
 ^^ shall we finish some of those off $$
@@ -745,6 +766,7 @@
 ^^ well you show me that one $$
 ^^ very very careful because they be very tiny $$
 ^^ which one the good one $$
+^^ a $$
 ^^ that be love $$
 ^^ nice color that $$
 ^^ mhm $$
@@ -755,6 +777,7 @@
 ^^ and Nicole $$
 ^^ have she get one $$
 ^^ can Nicole have one $$
+^^ a $$
 ^^ it be be not it $$
 ^^ it be a usual shape $$
 ^^ mhm $$
@@ -764,6 +787,7 @@
 ^^ it be a green one be not it $$
 ^^ where be the green heart $$
 ^^ have you get hiccup $$
+^^ a $$
 ^^ no $$
 ^^ that be not a heart be it $$
 ^^ that be a circle $$
@@ -779,9 +803,9 @@
 ^^ yes $$
 ^^ just very gentle with her hand remember $$
 ^^ they be tiny finger nail be not they John $$
-^^  tiny $$
+^^ tiny tiny $$
 ^^ be there any more color to do $$
-^^  gentle $$
+^^ gently gentle $$
 ^^ oh John $$
 ^^ look $$
 ^^ there be one $$
@@ -803,6 +827,7 @@
 ^^ and there be lots_of number ten that you have not do either $$
 ^^ shall we draw some of those $$
 ^^ you can color them in can not you $$
+^^ xxx $$
 ^^ do you want to do that $$
 ^^ the spot one $$
 ^^ oh yes $$
@@ -839,6 +864,7 @@
 ^^ I can see a umbrella $$
 ^^ this teddy be hold a umbrella $$
 ^^ yeah $$
+^^ xxx $$
 ^^ be she $$
 ^^ yeah $$
 ^^ she be get little bit of cotton between her finger $$
@@ -915,21 +941,23 @@
 ^^ what do Daddy give you $$
 ^^ oh $$
 ^^ come on $$
+^^ www $$
 ^^ wow $$
 ^^ wow $$
 ^^ can you offer one to Anna $$
-^^   no $$
+^^ no no no $$
 ^^ no $$
 ^^ just offer the whole plate $$
 ^^ not a individual one $$
 ^^ just offer the grape to Anna $$
+^^ www $$
 ^^ it be all right thank_you $$
 ^^ thank_you very much $$
 ^^ you can eat it $$
 ^^ John $$
 ^^ what about me $$
 ^^ can I have one $$
-^^   no $$
+^^ no no no $$
 ^^ offer me the dish please $$
 ^^ bring the dish $$
 ^^ all right $$
@@ -950,7 +978,7 @@
 ^^ I genmod like one please $$
 ^^ that be not very good $$
 ^^ will you bring me a grape John $$
-^^ next time round  $$
+^^ next time round eh $$
 ^^ oh $$
 ^^ you rotten $$
 ^^ oh dear $$
@@ -958,6 +986,7 @@
 ^^ yes $$
 ^^ they do not last for very long do they $$
 ^^ I will have some later $$
+^^ www $$
 ^^ oh dear $$
 ^^ shall I look after them for you John $$
 ^^ oh $$
@@ -967,6 +996,7 @@
 ^^ John $$
 ^^ John $$
 ^^ be you there $$
+^^ www $$
 ^^ John $$
 ^^ eat what you have get in your mouth $$
 ^^ eat what you have get in your mouth please and stay here $$
@@ -1011,13 +1041,16 @@
 ^^ do you want me to rub it good $$
 ^^ okay $$
 ^^ well you come to me if you think it need a rub $$
+^^ a $$
 ^^ what be that bit John $$
+^^ a $$
 ^^ well usual the roof be at the top $$
 ^^ that be on the bottom $$
 ^^ maybe it be the floor $$
 ^^ a upside down roof $$
 ^^ mhm $$
 ^^ what food have you get in your shop John $$
+^^ a $$
 ^^ a orange $$
 ^^ oh right $$
 ^^ that be a cabbage I think $$
@@ -1043,6 +1076,7 @@
 ^^ that be a very good shop that $$
 ^^ mhm $$
 ^^ pence pence pence pence pence pence pence pence pence pence $$
+^^ www $$
 ^^ what be this $$
 ^^ what be it $$
 ^^ real $$
@@ -1071,6 +1105,7 @@
 ^^ dark brown $$
 ^^ mhm $$
 ^^ be we go to have that for dinner $$
+^^ www $$
 ^^ I do not know $$
 ^^ what be it John $$
 ^^ a bus $$
@@ -1087,6 +1122,7 @@
 ^^ well I tell you what $$
 ^^ why do not we put some wheel on the bus $$
 ^^ where be the other carriage $$
+^^ a $$
 ^^ why do not you stick the bus on there and then it be get some wheel $$
 ^^ oh yeah $$
 ^^ oh I see $$
@@ -1129,7 +1165,7 @@
 ^^ yeah $$
 ^^ mhm $$
 ^^ oh I think he be a bit big be not he $$
-^^ perhaps  where be that baby tiger go $$
+^^ perhaps um where be that baby tiger go $$
 ^^ he could drive could not he $$
 ^^ just a man $$
 ^^ okay $$
@@ -1142,7 +1178,8 @@
 ^^ yeah $$
 ^^ perhaps the horse could go on $$
 ^^ I tell you what $$
-^^  where be $$
+^^ where's where be $$
+^^ a $$
 ^^ here it be $$
 ^^ behind you $$
 ^^ the other one $$
@@ -1158,11 +1195,11 @@
 ^^ yes $$
 ^^ it be $$
 ^^ oh the little one $$
-^^  I wonder where that be $$
+^^ er I wonder where that be $$
 ^^ yeah $$
 ^^ maybe that cow will fit $$
 ^^ it might be a bit big $$
-^^  this one do you mean $$
+^^ a this one do you mean $$
 ^^ yeah $$
 ^^ he might fit in $$
 ^^ this tiger $$
@@ -1196,7 +1233,7 @@
 ^^ we find the man under the clothes do not we $$
 ^^ what be you make John $$
 ^^ oh I see $$
-^^  no $$
+^^ no no $$
 ^^ be this for the big pig or the little pig $$
 ^^ ah $$
 ^^ two whats $$
@@ -1205,6 +1242,7 @@
 ^^ oh good not get them muddle have we $$
 ^^ John $$
 ^^ be that your brick or Anna brick $$
+^^ www $$
 ^^ put it on your train then $$
 ^^ John $$
 ^^ can I have the scrape $$
@@ -1237,10 +1275,13 @@
 ^^ ah $$
 ^^ well if you can explain what it be $$
 ^^ what $$
+^^ www $$
 ^^ do you remember go to the hospital last week $$
 ^^ do you go in Granny and Granddad car or Daddy car $$
 ^^ you go in Daddy car $$
+^^ a $$
 ^^ you do not go in Grandpa car that day $$
+^^ a $$
 ^^ and what do you do when you go to the hospital $$
 ^^ do you buy something from the shop $$
 ^^ oh $$
@@ -1313,6 +1354,8 @@
 ^^ John $$
 ^^ we will look for it this afternoon $$
 ^^ oh dear $$
+^^ www $$
+^^ www $$
 ^^ you do $$
 ^^ let us have a look $$
 ^^ that be not the John tape $$
@@ -1321,9 +1364,12 @@
 ^^ oh just the paper $$
 ^^ yeah $$
 ^^ the tape be not break $$
+^^ xxx $$
+^^ a $$
 ^^ yes $$
-^^ what shall we give your dog  for lunch John $$
+^^ what shall we give your dog for for lunch John $$
 ^^ what do dog eat $$
+^^ a $$
 ^^ have you get some bone for the dog $$
 ^^ go to go and buy some from the shop $$
 ^^ how about if you go and buy some from the shop now $$
@@ -1351,6 +1397,7 @@
 ^^ well actual it say green $$
 ^^ green rocket $$
 ^^ and do you color it in green or be this Nicole $$
+^^ xxx $$
 ^^ turn Rosie round a bit $$
 ^^ perhaps bring her away from the microphone $$
 ^^ oh love $$
@@ -1414,7 +1461,7 @@
 ^^ where be the badger picture $$
 ^^ I can see one $$
 ^^ where be the others $$
-^^  how many be there then $$
+^^ a how many be there then $$
 ^^ we have get one $$
 ^^ mhm $$
 ^^ shall we count them again $$
@@ -1436,23 +1483,28 @@
 ^^ do you find it in the sea $$
 ^^ be you still a shark $$
 ^^ yes $$
+^^ www $$
 ^^ what else do you see at Blackpool John $$
 ^^ John $$
 ^^ have we get any group in our house $$
 ^^ yes $$
 ^^ where do they live then $$
 ^^ be they in your bed $$
+^^ a $$
 ^^ oh they be in the attic now $$
 ^^ and what do you feed the group with $$
 ^^ what do they like $$
 ^^ well that make sense since they be fish $$
 ^^ do they eat Weetabix like you $$
+^^ a $$
 ^^ that be handy $$
 ^^ yeah $$
 ^^ John $$
+^^ a $$
 ^^ can you put these back in the box for me $$
 ^^ John $$
 ^^ be you busy $$
+^^ a $$
 ^^ maybe it be a tunnel John $$
 ^^ maybe your train can go underneath $$
 ^^ do you think it be $$
@@ -1462,6 +1514,7 @@
 ^^ can you see it $$
 ^^ a microlite $$
 ^^ I think so mhm $$
+^^ www $$
 ^^ John $$
 ^^ how about if you bring your animal card which be on the table $$
 ^^ bring your new animal card $$
@@ -1470,11 +1523,12 @@
 ^^ I do not know $$
 ^^ come and bring it $$
 ^^ it be probable some sort of special offer $$
-^^   bring it here and we will see $$
+^^ bring it bring it here and we will see $$
 ^^ do it come with the animal picture today $$
 ^^ will you like me to help you $$
 ^^ what do it say $$
 ^^ your surprise stamp $$
+^^ a $$
 ^^ if you have a gold surprise stamp you can win some more explore card John $$
 ^^ right $$
 ^^ what be inside $$
@@ -1483,7 +1537,7 @@
 ^^ can not get it open $$
 ^^ now what be it $$
 ^^ oh yes $$
-^^ we have get a  gold one $$
+^^ we have get a gold gold one $$
 ^^ what do it say $$
 ^^ can I read it $$
 ^^ I think it say you can have some more card $$
@@ -1512,6 +1566,7 @@
 ^^ nine organize card $$
 ^^ go go go go go go $$
 ^^ you will have to show me first $$
+^^ a $$
 ^^ that be not quite the idea John $$
 ^^ you have to hide it in your hand $$
 ^^ and then bring out both hand to show me $$
@@ -1519,7 +1574,7 @@
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ now put it behind your back then put it in one of your hand $$
 ^^ and then go like this $$
-^^  I think it be in this hand $$
+^^ um I think it be in this hand $$
 ^^ oh I be right $$
 ^^ clever Mummy $$
 ^^ oh $$
@@ -1532,7 +1587,7 @@
 ^^ oh it be for John $$
 ^^ for Rosie $$
 ^^ that be it $$
-^^  gentle $$
+^^ gently gentle $$
 ^^ that be it $$
 ^^ be she your extra free gift $$
 ^^ you have win a Rosie $$
@@ -1545,6 +1600,7 @@
 ^^ stick $$
 ^^ well I be go to feed Rosie and have a cup of tea while you be decide what you be go to do $$
 ^^ gift $$
+^^ a $$
 ^^ be you $$
 ^^ well there be some Weetabix $$
 ^^ Rosie be very hungry $$
@@ -1570,7 +1626,7 @@
 ^^ well put it on your other finger $$
 ^^ I think they fit on your finger but not on your thumb $$
 ^^ that be right $$
-^^  John $$
+^^ xxx John $$
 ^^ have it $$
 ^^ oh dear $$
 ^^ how do it go at the end $$
@@ -1592,6 +1648,7 @@
 ^^ just in the wall $$
 ^^ John $$
 ^^ what be happen $$
+^^ www $$
 ^^ do they fit in $$
 ^^ oh $$
 ^^ you mean it be not design for Duplo brick $$
@@ -1673,7 +1730,7 @@
 ^^ might tickle a little bit $$
 ^^ oh $$
 ^^ in_between your toe $$
-^^  wiggle $$
+^^ wiggly wiggle $$
 ^^ oh $$
 ^^ round the heel $$
 ^^ there we be $$
@@ -1687,7 +1744,7 @@
 ^^ okay $$
 ^^ round the heel $$
 ^^ round the big toe $$
-^^  John $$
+^^ xxx John $$
 ^^ let us go round the edge $$
 ^^ be that tickle $$
 ^^ round the side $$
@@ -1737,8 +1794,10 @@
 ^^ very good $$
 ^^ that be very nice $$
 ^^ oh yeah $$
+^^ xxx $$
 ^^ be you go to make a station for your train $$
 ^^ what be you go to make John $$
+^^ a $$
 ^^ interesting $$
 ^^ what be it $$
 ^^ I see $$
@@ -1750,6 +1809,7 @@
 ^^ they can not no $$
 ^^ there be no door $$
 ^^ how be they go to get in $$
+^^ a $$
 ^^ now you just need some animal $$
 ^^ mhm $$
 ^^ perhaps he do yeah $$
@@ -1760,6 +1820,7 @@
 ^^ do we $$
 ^^ I do not remember see a bull $$
 ^^ oh $$
+^^ a $$
 ^^ yes you do $$
 ^^ we always go in the coffee shop because Mummy like it $$
 ^^ I think so $$
@@ -1781,6 +1842,7 @@
 ^^ they have just place both of their car $$
 ^^ save take them to the car $$
 ^^ shine new one $$
+^^ www $$
 ^^ where be the car $$
 ^^ perhaps you can make a car for them $$
 ^^ find a good place $$
@@ -1856,6 +1918,8 @@
 ^^ bang crash wallop $$
 ^^ yeah $$
 ^^ Rosie sleep through it $$
+^^ www $$
+^^ a $$
 ^^ it be long $$
 ^^ look John $$
 ^^ look $$
@@ -1894,7 +1958,7 @@
 ^^ it be sore $$
 ^^ oh dear $$
 ^^ oh she be fast asleep John $$
-^^    no $$
+^^ no no no no $$
 ^^ she do not like that $$
 ^^ not when she be real fast asleep $$
 ^^ when she throw her hand up it mean she be have a shock $$
@@ -1910,7 +1974,7 @@
 ^^ very good John $$
 ^^ very good $$
 ^^ oh she be go to kiss you $$
-^^  gentle $$
+^^ gently gentle $$
 ^^ that be it $$
 ^^ yes $$
 ^^ you have just get to be care that she can still breathe $$
@@ -1927,6 +1991,7 @@
 ^^ Daddy get hair leg $$
 ^^ not Rosie $$
 ^^ be it $$
+^^ www $$
 ^^ be she $$
 ^^ well she like you $$
 ^^ mhm $$
@@ -1971,6 +2036,7 @@
 ^^ can you see them from the window $$
 ^^ yes $$
 ^^ very nice be not they $$
+^^ a $$
 ^^ who need a television with John $$
 ^^ make his own entertain $$
 ^^ be there $$

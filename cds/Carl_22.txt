@@ -2,7 +2,7 @@
 ^^ what do that naughty teddy do $$
 ^^ can you remember $$
 ^^ yeah all right $$
-^^  well Mummy found one brush so come on $$
+^^ well well Mummy found one brush so come on $$
 ^^ be you go to carry them $$
 ^^ say look $$
 ^^ you carry those $$
@@ -129,13 +129,13 @@
 ^^ see look $$
 ^^ Mummy wet them for you first $$
 ^^ be you go to paint Mummy a picture $$
-^^     be you go to paint a picture $$
+^^ are you going to be you go to paint a picture $$
 ^^ Carl $$
 ^^ what be you go to paint a picture of $$
 ^^ all right you do it then $$
 ^^ you do it $$
 ^^ see Carl $$
-^^ look who Mummy be put     in the garden $$
+^^ look who Mummy be put in the in the in the garden $$
 ^^ go in there $$
 ^^ Carl put them in $$
 ^^ Carl $$
@@ -150,7 +150,7 @@
 ^^ I know it be paint $$
 ^^ there you be Gordon drink $$
 ^^ it be not a drink $$
-^^    be you give the paint a drink $$
+^^ are you give be you give the paint a drink $$
 ^^ you do that so_that you can paint with them $$
 ^^ that be a red one $$
 ^^ red $$
@@ -166,10 +166,10 @@
 ^^ have you get paint and water $$
 ^^ look Carl $$
 ^^ Carl look $$
-^^  that be Amy $$
+^^ that's that be Amy $$
 ^^ in the garden $$
 ^^ mhm Amy in the garden $$
-^^ look  she be pick flower $$
+^^ look she's she be pick flower $$
 ^^ look Mummy be go to color in $$
 ^^ Amy be get yellow hair $$
 ^^ be you go to paint this picture $$
@@ -195,7 +195,7 @@
 ^^ you what $$
 ^^ what be you do $$
 ^^ mhm $$
-^^ and  who be you with look $$
+^^ and who who be you with look $$
 ^^ that be Bert look $$
 ^^ where do you go with Bert $$
 ^^ that be right $$
@@ -205,9 +205,9 @@
 ^^ yeah Granddad $$
 ^^ that be right $$
 ^^ you go and see Bertthe horse $$
-^^   what do he do $$
+^^ what does what do he do $$
 ^^ what do Bertthe horse do $$
-^^  he be a noise horse be not he $$
+^^ a he be a noise horse be not he $$
 ^^ that be a good horse noise $$
 ^^ be that what he do $$
 ^^ and who take you to see him $$
@@ -222,12 +222,13 @@
 ^^ I think you want to eat some toast $$
 ^^ Carl $$
 ^^ see $$
+^^ mm $$
 ^^ be that nice $$
 ^^ the horse will have toast as_well $$
 ^^ no horse do not eat toast $$
 ^^ what do a horse eat $$
 ^^ oh thank_you $$
-^^  that be nice $$
+^^ mm that be nice $$
 ^^ what be Carl do $$
 ^^ Carl $$
 ^^ Carl $$
@@ -281,10 +282,10 @@
 ^^ onto the paint $$
 ^^ and then Carl put it onto the paper $$
 ^^ be you go to paint the door $$
-^^  you paint the door $$
+^^ you you paint the door $$
 ^^ clever boy $$
 ^^ that be the door $$
-^^ look    this be Carl room $$
+^^ look this is Carl's this be Carl room $$
 ^^ that be Carl curtain $$
 ^^ look there be somebody in the window $$
 ^^ what be you paint now $$
@@ -370,7 +371,7 @@
 ^^ it be a boat $$
 ^^ it be okay $$
 ^^ oh look $$
-^^  the boat be on the water $$
+^^ the the boat be on the water $$
 ^^ who be a whinge $$
 ^^ you do not know what you want to do do you $$
 ^^ you want to draw $$
@@ -474,11 +475,11 @@
 ^^ take them off $$
 ^^ try again $$
 ^^ oh it be stick $$
-^^ no  they be right $$
+^^ no they're they be right $$
 ^^ leave those on $$
 ^^ that be it $$
 ^^ it be a long process this one $$
-^^  do not look right to Mummy $$
+^^ um do not look right to Mummy $$
 ^^ no they be okay $$
 ^^ they be okay $$
 ^^ just take that one off $$
@@ -521,18 +522,23 @@
 ^^ oh what have you find $$
 ^^ Mummy be eat this one $$
 ^^ Mummy be eat this apple $$
+^^ mm $$
 ^^ nice $$
+^^ mm $$
 ^^ it be biscuit be it $$
-^^  Mummy apple nice $$
+^^ mm Mummy apple nice $$
 ^^ do not eat the box $$
 ^^ be you go to go shop for Mummy $$
 ^^ yeah it be a cat $$
 ^^ that be the cat dinner $$
 ^^ that be the cat din yeah $$
+^^ mm $$
 ^^ it be nice $$
+^^ mm $$
 ^^ I will try this one then $$
+^^ mm $$
 ^^ it be nice $$
-^^  that be good $$
+^^ mm that be good $$
 ^^ no that be a lemon $$
 ^^ thank_you $$
 ^^ thank_you $$
@@ -540,12 +546,13 @@
 ^^ Mummy be get a_lot_of fruit $$
 ^^ oh can I have the biscuit as_well $$
 ^^ what else be in there $$
-^^ shall we make a shop and you can put them in the  basket $$
+^^ shall we make a shop and you can put them in the er basket $$
 ^^ Carl go shop $$
 ^^ oh look $$
 ^^ look $$
 ^^ there be some more bit in there look $$
 ^^ oh there be lot and lots_of cat food $$
+^^ mm $$
 ^^ chip $$
 ^^ lot and lots_of yum biscuit $$
 ^^ right Carl get some shop for Mummy $$
@@ -560,7 +567,7 @@
 ^^ what be that $$
 ^^ no what be it $$
 ^^ no that be a apple $$
-^^  what be this $$
+^^ that what be this $$
 ^^ this be a orange $$
 ^^ that be the cat din $$
 ^^ get something for Mummy dinner $$
@@ -570,8 +577,9 @@
 ^^ oh it be some fish $$
 ^^ what can Mummy have with the fish $$
 ^^ Mummy be go to open it up and eat it for her dinner $$
-^^  that be nice $$
+^^ mm that be nice $$
 ^^ well you take it off then $$
+^^ mm $$
 ^^ it be Daddy be it $$
 ^^ oh be that for me $$
 ^^ that be mine be it $$
@@ -585,9 +593,12 @@
 ^^ take that one off $$
 ^^ oh be that for me $$
 ^^ thank_you $$
+^^ mm $$
 ^^ it be nice $$
 ^^ do you want to try some $$
+^^ mm $$
 ^^ you be take a big bit there $$
+^^ mm $$
 ^^ lemon $$
 ^^ that be a orange $$
 ^^ tomato $$
@@ -600,7 +611,7 @@
 ^^ some money $$
 ^^ Carl buy some food $$
 ^^ food $$
-^^ see put some  in the $$
+^^ see put some in in the $$
 ^^ Mummy be go to have that $$
 ^^ no that be the apple $$
 ^^ no tomato $$
@@ -622,6 +633,7 @@
 ^^ what be Carl do $$
 ^^ Carl $$
 ^^ be you put the dinner out $$
+^^ mm $$
 ^^ be that for Mummy $$
 ^^ oh it be some tea $$
 ^^ thank_you $$
@@ -631,14 +643,16 @@
 ^^ Mummy want you to pour some more $$
 ^^ there be more out_of the kettle see look $$
 ^^ you know how to do this $$
-^^ oh  you do your own $$
+^^ mm $$
+^^ oh you you do your own $$
 ^^ some more $$
 ^^ oh thank_you $$
 ^^ Mummy be very thirst $$
 ^^ Carl $$
-^^      be you go to feed the dog $$
+^^ are you going to feed be you go to feed the dog $$
 ^^ that be not quite what I have in mind but $$
 ^^ oh he be have a drink have he $$
+^^ mm $$
 ^^ oh thank_you $$
 ^^ Mummy hold it $$
 ^^ oh what be he have $$
@@ -653,12 +667,12 @@
 ^^ what do you do $$
 ^^ Mummy be go to put the egg away look $$
 ^^ oh look $$
-^^ Carl put them back in     in the basket $$
+^^ Carl put them back in the in the box in the basket $$
 ^^ Mummy hold it $$
 ^^ be you go to hold it $$
 ^^ Mummy hold it $$
 ^^ lemon $$
-^^  can Mummy have some of the cat dinner please Carl $$
+^^ um can Mummy have some of the cat dinner please Carl $$
 ^^ Carl $$
 ^^ Carl $$
 ^^ Carl $$
@@ -675,7 +689,7 @@
 ^^ Carl shall we see what be in this big box $$
 ^^ it be Daddy food $$
 ^^ baby food $$
-^^  there be the baby $$
+^^ a there be the baby $$
 ^^ a lady $$
 ^^ she be only a baby $$
 ^^ look she be look at Carl $$
@@ -689,7 +703,7 @@
 ^^ oh look $$
 ^^ the baby be go to kiss Daddy $$
 ^^ what be you do Carl $$
-^^ put some out on the plate   for the cat $$
+^^ put some out on the plate for the for the cat $$
 ^^ Carl $$
 ^^ Carl $$
 ^^ Mummy be feed the cat look $$
@@ -716,14 +730,14 @@
 ^^ Carl $$
 ^^ you want to paint $$
 ^^ well let us put these back first $$
-^^ you put those back   in the basket $$
+^^ you put those back in that in the basket $$
 ^^ what be that Carl $$
 ^^ be you throw them $$
 ^^ a car $$
 ^^ look at all the mess Carl make $$
 ^^ Carl $$
 ^^ where be the car go $$
-^^  have Carl do a poo $$
+^^ has have Carl do a poo $$
 ^^ you have not $$
 ^^ I think you have $$
 ^^ poo $$
@@ -774,7 +788,7 @@
 ^^ who be that there $$
 ^^ that be a dog yeah $$
 ^^ a man and a dog yeah $$
-^^ look Carl  there be two Percys $$
+^^ look Carl there's there be two Percys $$
 ^^ look $$
 ^^ there be one Percy $$
 ^^ two Percys $$
@@ -789,7 +803,7 @@
 ^^ Carl find him $$
 ^^ and Carl $$
 ^^ Carl $$
-^^  what be this $$
+^^ what's what be this $$
 ^^ that be the smoke $$
 ^^ be he say peeppeep $$
 ^^ oh Carl look $$
@@ -840,7 +854,7 @@
 ^^ Carl $$
 ^^ you will lose them $$
 ^^ yeah they be penny yeah $$
-^^ but   you will lose them $$
+^^ but you'll lose you will lose them $$
 ^^ oh be you fix the book $$
 ^^ Carl be do what to the paper $$
 ^^ that be not Toby $$
@@ -850,7 +864,7 @@
 ^^ and that be Toby yeah $$
 ^^ but look $$
 ^^ look Carl $$
-^^   there be the drive $$
+^^ there's the there be the drive $$
 ^^ a man yeah $$
 ^^ what be he get $$
 ^^ he be get a bucket and a spade $$
@@ -884,7 +898,7 @@
 ^^ who be sit in the tree $$
 ^^ peeppeep $$
 ^^ choochoo say Thomas $$
-^^ there be the bridge and  Carl be wave $$
+^^ there be the bridge and Carl Carl be wave $$
 ^^ look Thomas be go over the bridge $$
 ^^ clever boy $$
 ^^ he have get a one on him $$
@@ -930,7 +944,7 @@
 ^^ oh look Carl $$
 ^^ look $$
 ^^ look Carl $$
-^^ this one get some  dog $$
+^^ this one get some doggie dog $$
 ^^ be the bus go over that man face $$
 ^^ oh look Carl a princess $$
 ^^ and Grandpa $$
@@ -1003,7 +1017,7 @@
 ^^ poor Thomas $$
 ^^ what happen to Thomas $$
 ^^ I do not know $$
-^^  Carl hit him $$
+^^ Carl Carl hit him $$
 ^^ what do you do $$
 ^^ what be Carl $$
 ^^ Thomas be what $$
@@ -1013,7 +1027,7 @@
 ^^ six $$
 ^^ oh six seven yeah $$
 ^^ clever boy $$
-^^ well  you find Percy $$
+^^ well you you find Percy $$
 ^^ you find Percy for Mummy $$
 ^^ you find Percy for Mummy $$
 ^^ where be Percy go $$
@@ -1023,7 +1037,7 @@
 ^^ oh he be cross be he $$
 ^^ oh yeah $$
 ^^ yeah it be Thomas $$
-^^   yeah that be Toby $$
+^^ no that's yeah that be Toby $$
 ^^ it be not Percy $$
 ^^ that be Percy $$
 ^^ look Carl $$
@@ -1049,7 +1063,7 @@
 ^^ what be Tiggie do $$
 ^^ that be Grandpa clock $$
 ^^ oh there be Tiggie $$
-^^   oh he be touch the thistle $$
+^^ oh you oh he be touch the thistle $$
 ^^ ouch $$
 ^^ oh dear $$
 ^^ that hurt $$
@@ -1093,7 +1107,7 @@
 ^^ there be Percy look $$
 ^^ you do not want any more $$
 ^^ okay $$
-^^ oh no   you be not watch it now $$
+^^ oh no we're not you be not watch it now $$
 ^^ later on $$
 ^^ they have go to bed $$
 ^^ they be tire $$
@@ -1111,7 +1125,7 @@
 ^^ that be Kanga $$
 ^^ that be Roo $$
 ^^ Roo $$
-^^ oh  look he be have his din $$
+^^ oh he's look he be have his din $$
 ^^ his dinner $$
 ^^ do he like it $$
 ^^ do he like it $$
@@ -1119,7 +1133,7 @@
 ^^ you want one $$
 ^^ you want one what $$
 ^^ yeah but what do you want $$
-^^ no    what do Carl want $$
+^^ no what do you what do Carl want $$
 ^^ no what do Carl want $$
 ^^ no Mummy be ask Carl $$
 ^^ I want you to be quiet $$
@@ -1132,7 +1146,7 @@
 ^^ have you found another train $$
 ^^ Carl $$
 ^^ shall Mummy get teddy $$
-^^ Carl could take teddy   for a push in the pram $$
+^^ Carl could take teddy for a for a push in the pram $$
 ^^ you do not want to $$
 ^^ can Mummy not get teddy then $$
 ^^ that be the pram yeah $$
@@ -1158,7 +1172,7 @@
 ^^ put this $$
 ^^ let us pick this up and put this teddy in $$
 ^^ put him in $$
-^^  big hug $$
+^^ a big hug $$
 ^^ Mummy be go to tickle teddy $$
 ^^ tickle $$
 ^^ be you tickle teddy $$
@@ -1204,6 +1218,7 @@
 ^^ watch out $$
 ^^ you will lose him $$
 ^^ a giraffe yeah $$
+^^ www $$
 ^^ giraffe $$
 ^^ it be a giraffe $$
 ^^ elephant $$
@@ -1215,7 +1230,7 @@
 ^^ where be the baby go $$
 ^^ I know what you be look for $$
 ^^ he be look for $$
-^^   be that Daddy $$
+^^ is it be that Daddy $$
 ^^ be you look for the baby $$
 ^^ Carl look $$
 ^^ Carl $$
@@ -1254,7 +1269,7 @@
 ^^ Carl $$
 ^^ Carl $$
 ^^ why do not you look in that bag $$
-^^  tell Mummy what be in that bag $$
+^^ tell tell Mummy what be in that bag $$
 ^^ where be the bag $$
 ^^ there $$
 ^^ have a look in there $$
@@ -1314,6 +1329,7 @@
 ^^ you get something for him $$
 ^^ he be hungry $$
 ^^ he want his dinner $$
+^^ mm $$
 ^^ get something for him $$
 ^^ Carl $$
 ^^ why do not you get teddy some biscuit $$
@@ -1358,6 +1374,8 @@
 ^^ be you put them in there be you $$
 ^^ say here you go teddy $$
 ^^ you want the spoon $$
+^^ mm $$
+^^ mm $$
 ^^ what be Carl do $$
 ^^ what be Carl do $$
 ^^ be you not use the spoon $$
@@ -1365,7 +1383,7 @@
 ^^ what be Carl do for teddy $$
 ^^ Carl $$
 ^^ Carl $$
-^^ Carl what be you do  for teddy $$
+^^ Carl what be you do to for teddy $$
 ^^ oh will teddy like a egg $$
 ^^ Carl $$
 ^^ will teddy like a egg $$
@@ -1378,7 +1396,7 @@
 ^^ can Carl have a $$
 ^^ do not break that $$
 ^^ can Carl get a biscuit for teddy $$
-^^  they look nice biscuit $$
+^^ mm they look nice biscuit $$
 ^^ where be the spoon go $$
 ^^ I do not know $$
 ^^ you have it $$
@@ -1386,7 +1404,9 @@
 ^^ where have you put $$
 ^^ oh Mummy find it $$
 ^^ Mummy find it $$
+^^ mm $$
 ^^ teddy like that biscuit $$
+^^ mm $$
 ^^ what else can teddy have $$
 ^^ Carl $$
 ^^ it be all_gone $$
@@ -1400,6 +1420,8 @@
 ^^ you find it $$
 ^^ Carl find the spoon $$
 ^^ oh he be wait for it $$
+^^ mm $$
+^^ mm $$
 ^^ he be have another one $$
 ^^ you be hungry teddy $$
 ^^ have teddy near finish $$
@@ -1420,13 +1442,13 @@
 ^^ give everyone their dinner $$
 ^^ choochoo train $$
 ^^ that be right $$
-^^ where be you go   with the train $$
+^^ where be you go with the with the train $$
 ^^ oh it be the car $$
 ^^ Carl $$
 ^^ Carl $$
 ^^ whose car be that $$
 ^^ it be whose $$
-^^   whose car be that $$
+^^ whose car whose car be that $$
 ^^ oh where be it go $$
 ^^ oh it squeak $$
 ^^ be that what you be tell me $$
@@ -1480,13 +1502,13 @@
 ^^ be you not go to take Mummy picture $$
 ^^ you be paint a drink $$
 ^^ what do you mean all right $$
-^^ oh  I see what you mean $$
+^^ oh I I see what you mean $$
 ^^ no we be not paint now Carl $$
 ^^ no $$
 ^^ Carl can Mummy put your shoe on $$
 ^^ oh because you be lose your sock $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
-^^ can you get   your shoe for Mummy $$
+^^ can you get your your your shoe for Mummy $$
 ^^ right come on $$
 ^^ come over here $$
 ^^ Mummy be get them $$
@@ -1502,7 +1524,7 @@
 ^^ come on $$
 ^^ be a big boy $$
 ^^ put your shoe on $$
-^^ you see if you put your shoe on   you can go for a walk $$
+^^ you see if you put your shoe on you can you can go for a walk $$
 ^^ you can go for a walk outside $$
 ^^ come on $$
 ^^ sit on Mummy knee $$

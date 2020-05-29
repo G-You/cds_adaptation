@@ -1,21 +1,25 @@
 ^^ baby $$
-^^  it $$
+^^ xxx it $$
 ^^ it fit $$
+^^ xxx $$
 ^^ push push push $$
 ^^ Anne $$
 ^^ what be that $$
 ^^ what be that $$
-^^  baby Mummy $$
+^^ baby baby Mummy $$
 ^^ car $$
 ^^ hair $$
+^^ xxx $$
 ^^ what be that $$
 ^^ train $$
 ^^ choo $$
 ^^ big $$
 ^^ tip $$
-^^ tip  $$
+^^ tip xxx $$
 ^^ spider $$
 ^^ spider $$
+^^ xxx $$
+^^ xxx $$
 ^^ what be that $$
 ^^ pig $$
 ^^ what be that $$
@@ -26,6 +30,7 @@
 ^^ blue $$
 ^^ teddy $$
 ^^ doll $$
+^^ mm $$
 ^^ eat cake $$
 ^^ teddy $$
 ^^ hello $$
@@ -36,32 +41,40 @@
 ^^ a mess $$
 ^^ yeah $$
 ^^ I find it $$
-^^ I  $$
+^^ I xxx $$
 ^^ big $$
 ^^ too big $$
 ^^ table $$
 ^^ bath $$
+^^ xxx $$
 ^^ sheep sheep sheep $$
 ^^ baa $$
+^^ xxx $$
 ^^ in there $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ spoon $$
 ^^ spade $$
+^^ xxx $$
 ^^ a strawberry $$
 ^^ strawberry $$
 ^^ here you be $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ eat it $$
 ^^ eat that $$
 ^^ tum $$
 ^^ away $$
 ^^ mess $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ in mouth $$
+^^ xxx $$
 ^^ tooth $$
 ^^ more tooth $$
-^^  look it $$
+^^ a look it $$
 ^^ put away $$
 ^^ more $$
 ^^ put away $$
@@ -78,7 +91,10 @@
 ^^ put back $$
 ^^ yes $$
 ^^ oh $$
-^^  toe $$
+^^ xxx toe $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh look $$
 ^^ oh look $$
 ^^ oh it be there $$
@@ -86,12 +102,13 @@
 ^^ fish $$
 ^^ what $$
 ^^ stick $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ fight $$
-^^ come here  $$
+^^ come here xxx $$
 ^^ peekaboo peekaboo $$
 ^^ a cuddle $$
 ^^ want juice $$
@@ -100,7 +117,7 @@
 ^^ no $$
 ^^ else there $$
 ^^ yeah $$
-^^  there $$
+^^ xxx there $$
 ^^ no $$
 ^^ no $$
 ^^ want juice $$
@@ -108,7 +125,9 @@
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ a biscuit $$
 ^^ no $$
 ^^ yeah $$
@@ -126,6 +145,7 @@
 ^^ where go $$
 ^^ there $$
 ^^ no $$
+^^ xxx $$
 ^^ no more $$
 ^^ drop it $$
 ^^ mhm $$
@@ -139,17 +159,20 @@
 ^^ yeah $$
 ^^ at work $$
 ^^ ball $$
-^^  ball $$
+^^ xxx ball $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ house $$
 ^^ slide $$
 ^^ mouth $$
+^^ xxx $$
 ^^ can not reach $$
 ^^ can not reach $$
+^^ xxx $$
 ^^ Anne $$
 ^^ yeah $$
-^^  ball $$
+^^ xxx ball $$
+^^ xxx $$
 ^^ oh $$
 ^^ go $$
 ^^ go $$
@@ -158,19 +181,23 @@
 ^^ a biscuit $$
 ^^ on the floor $$
 ^^ bye $$
+^^ xxx $$
 ^^ go $$
 ^^ what be that $$
 ^^ there $$
+^^ xxx $$
 ^^ what be that $$
 ^^ Anne lid $$
 ^^ go $$
 ^^ there $$
 ^^ go $$
 ^^ baby $$
+^^ xxx $$
 ^^ stick $$
 ^^ no $$
 ^^ oh stick $$
 ^^ do not break them $$
+^^ xxx $$
 ^^ dinner $$
 ^^ open it $$
 ^^ chocolate $$
@@ -180,6 +207,8 @@
 ^^ on there $$
 ^^ more blue $$
 ^^ ball $$
+^^ xxx $$
+^^ xxx $$
 ^^ stick $$
 ^^ pussy $$
 ^^ some more $$
@@ -189,12 +218,13 @@
 ^^ what be that $$
 ^^ a shirt $$
 ^^ baby be $$
+^^ xxx $$
 ^^ egg $$
 ^^ be that pant $$
 ^^ bib $$
 ^^ dress $$
-^^ head  $$
-^^  head $$
+^^ head xxx $$
+^^ xxx head $$
 ^^ head $$
 ^^ yeah $$
 ^^ yes $$
@@ -207,6 +237,8 @@
 ^^ baby $$
 ^^ stick baby $$
 ^^ baby $$
+^^ xxx $$
+^^ xxx $$
 ^^ pant for baby $$
 ^^ no $$
 ^^ foot $$
@@ -226,6 +258,7 @@
 ^^ that be a shirt $$
 ^^ trouser $$
 ^^ quick $$
+^^ xxx $$
 ^^ yes $$
 ^^ clothes off $$
 ^^ oh stick $$
@@ -236,65 +269,82 @@
 ^^ a shirt $$
 ^^ baby $$
 ^^ shirt $$
+^^ xxx $$
 ^^ Anne $$
 ^^ on foot $$
 ^^ doll $$
 ^^ head $$
 ^^ head $$
+^^ xxx $$
 ^^ baby $$
 ^^ a baby $$
 ^^ baby $$
-^^  head $$
+^^ xxx head $$
 ^^ want these $$
 ^^ head $$
 ^^ hand $$
+^^ xxx $$
 ^^ hand $$
 ^^ there $$
-^^  there $$
-^^  there $$
+^^ xxx there $$
+^^ xxx there $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ sit down $$
 ^^ sit down $$
-^^  button $$
-^^  button $$
+^^ xxx button $$
+^^ xxx button $$
 ^^ button $$
+^^ xxx $$
 ^^ drink of juice $$
 ^^ of juice $$
 ^^ drink juice $$
 ^^ what be that $$
 ^^ baby $$
+^^ xxx $$
 ^^ oh no $$
 ^^ what be that $$
-^^  chair $$
+^^ xxx $$
+^^ xxx chair $$
 ^^ off $$
 ^^ sit there $$
 ^^ sit there $$
 ^^ sit there $$
-^^  clothes $$
+^^ xxx clothes $$
 ^^ clothes off $$
 ^^ yes $$
+^^ xxx $$
+^^ xxx $$
 ^^ a pants $$
 ^^ hat $$
+^^ xxx $$
 ^^ pant $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ clothes $$
 ^^ see $$
 ^^ oh here $$
+^^ xxx $$
 ^^ my juice $$
+^^ xxx $$
 ^^ hello $$
 ^^ baby be $$
+^^ xxx $$
 ^^ baby be $$
 ^^ Anne $$
 ^^ stick $$
-^^  Mummy $$
+^^ a Mummy $$
 ^^ it is stick $$
 ^^ open it $$
 ^^ Mummy $$
-^^  clothes $$
+^^ xxx clothes $$
 ^^ on head $$
 ^^ oh $$
-^^  head $$
+^^ xxx $$
+^^ a head $$
 ^^ head $$
-^^  Jill $$
+^^ a Jill $$
 ^^ James $$
 ^^ Jill $$
 ^^ oh $$
@@ -302,18 +352,22 @@
 ^^ what be that $$
 ^^ no $$
 ^^ baby be $$
-^^ her name  $$
+^^ xxx $$
+^^ her name xxx $$
 ^^ Jill $$
 ^^ Jill $$
 ^^ whose shoe $$
-^^  bed $$
+^^ xxx $$
+^^ xxx bed $$
 ^^ where bed $$
 ^^ baby $$
 ^^ there Jill $$
 ^^ oh $$
 ^^ there $$
+^^ xxx $$
 ^^ cover up $$
-^^  Jill $$
+^^ xxx $$
+^^ xxx Jill $$
 ^^ stick $$
 ^^ stick $$
 ^^ there $$
@@ -321,9 +375,10 @@
 ^^ oh juice $$
 ^^ bed $$
 ^^ oh stick $$
-^^  baby $$
+^^ xxx baby $$
 ^^ baby stick $$
 ^^ yes $$
+^^ xxx $$
 ^^ Anne $$
 ^^ to $$
 ^^ whoops $$
@@ -332,17 +387,22 @@
 ^^ miss it $$
 ^^ miss it $$
 ^^ yes $$
-^^  lose it $$
-^^  milk $$
+^^ um lose it $$
+^^ a milk $$
 ^^ there you be $$
+^^ xxx $$
+^^ xxx $$
 ^^ hand $$
+^^ xxx $$
 ^^ Anne $$
 ^^ Anne nose $$
 ^^ Anne do it $$
 ^^ nose $$
 ^^ yes $$
 ^^ yes $$
+^^ xxx $$
 ^^ yes $$
+^^ xxx $$
 ^^ nose $$
 ^^ there $$
 ^^ Jill $$
@@ -355,7 +415,7 @@
 ^^ tissue $$
 ^^ yeah $$
 ^^ tissue $$
-^^  tissue $$
+^^ xxx tissue $$
 ^^ wipe it please $$
 ^^ here you be $$
 ^^ tissue $$
@@ -372,37 +432,45 @@
 ^^ bin $$
 ^^ where be tissue $$
 ^^ Jill $$
-^^  nose wash $$
-^^  nose $$
+^^ xxx nose wash $$
+^^ xxx nose $$
 ^^ no more $$
+^^ xxx $$
 ^^ where bin $$
 ^^ there $$
 ^^ yeah $$
 ^^ go $$
-^^  more $$
+^^ a more $$
 ^^ yes $$
 ^^ yes $$
+^^ xxx $$
+^^ xxx $$
 ^^ more bin $$
 ^^ more bin $$
-^^  more $$
+^^ a more $$
 ^^ more $$
 ^^ yes $$
 ^^ tip it $$
+^^ xxx $$
 ^^ oh $$
 ^^ fish $$
+^^ xxx $$
 ^^ there $$
 ^^ sit there $$
 ^^ there $$
 ^^ tower $$
-^^  there $$
+^^ xxx there $$
 ^^ Mummy $$
 ^^ sit there $$
-^^  sit there $$
-^^  sit there $$
+^^ xxx sit there $$
+^^ xxx sit there $$
+^^ xxx $$
 ^^ boy $$
-^^  step $$
+^^ xxx step $$
+^^ xxx $$
 ^^ fish $$
 ^^ step step step $$
+^^ xxx $$
 ^^ sit there $$
 ^^ up there $$
 ^^ down down down $$
@@ -411,6 +479,7 @@
 ^^ sit down $$
 ^^ down $$
 ^^ ah $$
+^^ xxx $$
 ^^ what be that $$
 ^^ my juice $$
 ^^ yes $$

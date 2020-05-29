@@ -14,6 +14,7 @@
 ^^ that the red one $$
 ^^ there be red $$
 ^^ there be red $$
+^^ xxx $$
 ^^ that brown $$
 ^^ blue $$
 ^^ brown $$
@@ -25,10 +26,11 @@
 ^^ purple $$
 ^^ red $$
 ^^ that one can not work $$
+^^ xxx $$
 ^^ sit there Mummy $$
 ^^ hide $$
 ^^ hide now $$
-^^  the brick $$
+^^ xxx the brick $$
 ^^ hey $$
 ^^ hey $$
 ^^ hey $$
@@ -37,23 +39,24 @@
 ^^ hey $$
 ^^ do $$
 ^^ my brick $$
+^^ xxx $$
 ^^ I get them out $$
-^^  it $$
+^^ xxx it $$
 ^^ wow $$
 ^^ wowie $$
 ^^ wowie $$
 ^^ lots_of brick $$
 ^^ Mummy $$
 ^^ lots_of brick $$
-^^  a big one $$
+^^ um a big one $$
 ^^ that a big one $$
 ^^ yeah $$
-^^ and  that other one $$
+^^ and a that other one $$
 ^^ a tractor $$
 ^^ another piece on there $$
 ^^ another piece $$
 ^^ I make a tower $$
-^^  big tower $$
+^^ xxx big tower $$
 ^^ mhm $$
 ^^ on top $$
 ^^ wowie $$
@@ -65,23 +68,26 @@
 ^^ a tractor $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ dress gown $$
 ^^ there $$
+^^ xxx $$
 ^^ tower $$
 ^^ tractor $$
 ^^ yeah $$
 ^^ look $$
 ^^ all fall down $$
 ^^ make it again $$
-^^ you  again $$
+^^ you xxx again $$
 ^^ oh $$
 ^^ make it again $$
 ^^ oh right $$
 ^^ I thirst $$
 ^^ all right $$
-^^  a tractor $$
+^^ um a tractor $$
 ^^ a car $$
 ^^ brummbrumm $$
+^^ xxx $$
 ^^ hey $$
 ^^ hey $$
 ^^ hey $$
@@ -92,11 +98,13 @@
 ^^ black $$
 ^^ blue $$
 ^^ blue $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ car $$
 ^^ it spin round $$
 ^^ detector van $$
-^^  stand up first $$
+^^ xxx stand up first $$
 ^^ wobble $$
 ^^ sit down first $$
 ^^ oh $$
@@ -105,8 +113,9 @@
 ^^ and more one $$
 ^^ and a more $$
 ^^ and a more one $$
+^^ xxx $$
 ^^ hard $$
-^^  hard $$
+^^ a hard $$
 ^^ oh $$
 ^^ Pavarotti $$
 ^^ Pavarotti $$
@@ -119,7 +128,7 @@
 ^^ Pavarotti $$
 ^^ Pavarotti $$
 ^^ Pavarotti $$
-^^  clap $$
+^^ xxx clap $$
 ^^ Pavarotti $$
 ^^ Pavarotti $$
 ^^ Pavarotti $$
@@ -147,7 +156,7 @@
 ^^ Pavarotti $$
 ^^ Pavarotti $$
 ^^ Pavarotti $$
-^^  clap $$
+^^ xxx clap $$
 ^^ Pavarotti $$
 ^^ Pavarotti $$
 ^^ Pavarotti $$
@@ -155,8 +164,9 @@
 ^^ no $$
 ^^ row the boat $$
 ^^ row row the boat gentle down stream merry merry life be just a dream $$
-^^ post pat post pat  cat early in morning day morning $$
-^^ day  morning $$
+^^ post pat post pat xxx cat early in morning day morning $$
+^^ day xxx morning $$
+^^ xxx $$
 ^^ Peter run away Peter come back Peter come back Peter $$
 ^^ I know $$
 ^^ I know $$
@@ -164,12 +174,12 @@
 ^^ Mummy $$
 ^^ I know $$
 ^^ Toby there $$
-^^  Gordon there $$
+^^ um Gordon there $$
 ^^ Joel $$
 ^^ oh $$
 ^^ Henry $$
 ^^ there Gordon $$
-^^  can not get it $$
+^^ xxx can not get it $$
 ^^ Gordon $$
 ^^ Gordon $$
 ^^ hey $$
@@ -185,8 +195,10 @@
 ^^ strawberry $$
 ^^ a fruit $$
 ^^ tip out $$
+^^ xxx $$
 ^^ drawing $$
 ^^ want crayon $$
+^^ xxx $$
 ^^ where be thing $$
 ^^ where be thing $$
 ^^ thing $$
@@ -201,31 +213,36 @@
 ^^ there $$
 ^^ want chalk $$
 ^^ get chalk $$
-^^  that $$
+^^ xxx that $$
 ^^ a line $$
 ^^ that circle $$
 ^^ I like line $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
-^^ want wash it  $$
-^^  that one $$
-^^ want  on there $$
-^^  a green one $$
+^^ want wash it xxx $$
+^^ xxx that one $$
+^^ want xxx on there $$
+^^ um a green one $$
 ^^ yeah $$
 ^^ that green one $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
 ^^ no like that way $$
 ^^ no like that way $$
 ^^ that way $$
-^^  work $$
-^^  green one $$
+^^ xxx work $$
+^^ um green one $$
 ^^ other green one $$
 ^^ another green one $$
-^^  big one $$
+^^ xxx big one $$
 ^^ green one $$
 ^^ tell you what $$
 ^^ tell you what $$
 ^^ there $$
+^^ xxx $$
 ^^ that blue one $$
 ^^ blue one $$
 ^^ that blue one $$
@@ -236,12 +253,15 @@
 ^^ no $$
 ^^ tell you what $$
 ^^ tell you what $$
+^^ xxx $$
 ^^ the purple there $$
-^^ that one be  $$
+^^ that one be um $$
+^^ xxx $$
 ^^ tell you what $$
 ^^ tell you what $$
 ^^ I know $$
 ^^ I know $$
+^^ xxx $$
 ^^ bite sticky $$
 ^^ bite sticky $$
 ^^ yeah $$
@@ -249,6 +269,8 @@
 ^^ not very nice $$
 ^^ lorry $$
 ^^ Mr_Dustbin_Man $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ dinner time $$
 ^^ dinner time $$
@@ -256,23 +278,30 @@
 ^^ late Mummy $$
 ^^ late Mummy $$
 ^^ late Mummy $$
+^^ xxx $$
 ^^ breakfast time $$
 ^^ dinner time $$
 ^^ late $$
 ^^ late now $$
 ^^ dinner time $$
-^^  stop it $$
+^^ um stop it $$
 ^^ late $$
 ^^ my dress gown $$
 ^^ no $$
 ^^ that on Mummy $$
-^^  shorts on $$
+^^ xxx shorts on $$
+^^ xxx $$
+^^ xxx $$
 ^^ big circle $$
+^^ xxx $$
+^^ xxx $$
 ^^ beepbeep $$
 ^^ beepbeep $$
+^^ xxx $$
 ^^ I know $$
 ^^ I know $$
-^^  I know $$
+^^ I I know $$
+^^ xxx $$
 ^^ I know $$
 ^^ number one $$
 ^^ like that one $$
@@ -287,63 +316,85 @@
 ^^ I cry $$
 ^^ no $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ head $$
 ^^ few minute $$
-^^  few minute $$
+^^ few few minute $$
 ^^ oh $$
 ^^ few minute $$
 ^^ oh boo $$
 ^^ rolly $$
+^^ xxx $$
 ^^ no $$
 ^^ yes $$
 ^^ Jade $$
 ^^ there burger $$
 ^^ there $$
-^^  there $$
-^^  there $$
+^^ xxx there $$
+^^ xxx there $$
+^^ xxx $$
+^^ xxx $$
 ^^ dinner $$
 ^^ oh $$
 ^^ dinner $$
-^^  dinner $$
+^^ xxx $$
+^^ a dinner $$
 ^^ oh hide $$
 ^^ I know $$
 ^^ toy $$
 ^^ toy $$
 ^^ oh $$
 ^^ make it Mummy $$
-^^ a  $$
-^^ a  $$
+^^ xxx $$
+^^ a xxx $$
+^^ a xxx $$
 ^^ fish $$
+^^ xxx $$
 ^^ elephant $$
 ^^ yeah $$
 ^^ hippopotamus $$
+^^ xxx $$
+^^ xxx $$
 ^^ I make it Mummy $$
 ^^ brick $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ and there $$
 ^^ there $$
-^^  bridge $$
+^^ xxx bridge $$
+^^ xxx $$
 ^^ fall down $$
+^^ xxx $$
 ^^ cob $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh $$
 ^^ giraffe $$
 ^^ fall off $$
+^^ xxx $$
 ^^ again $$
-^^  sing zoo $$
+^^ xxx sing zoo $$
 ^^ yeah $$
 ^^ a big one Mummy $$
 ^^ Mummy $$
 ^^ big one $$
 ^^ big one $$
+^^ xxx $$
 ^^ cob $$
 ^^ I eat it $$
 ^^ hungry $$
 ^^ hungry $$
 ^^ my dinner $$
-^^  piccalilli $$
+^^ um piccalilli $$
 ^^ yeah $$
 ^^ piccalilli $$
 ^^ lettuce $$
@@ -351,27 +402,34 @@
 ^^ broccoli $$
 ^^ broccoli $$
 ^^ yeah $$
+^^ xxx $$
 ^^ hard this $$
 ^^ I make it $$
 ^^ not very well $$
 ^^ oh $$
 ^^ a car $$
+^^ xxx $$
 ^^ not very well $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ fall down $$
 ^^ oh $$
-^^  no $$
+^^ um no $$
 ^^ no like it $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ scarf $$
+^^ xxx $$
 ^^ all_gone $$
 ^^ tip up $$
 ^^ oh $$
 ^^ bite loud $$
 ^^ yeah $$
-^^  can not hear it $$
-^^  lot and lot $$
+^^ xxx can not hear it $$
+^^ a lot and lot $$
 ^^ I want make it $$
 ^^ I know $$
 ^^ I know $$
@@ -380,10 +438,11 @@
 ^^ a lift $$
 ^^ there $$
 ^^ bridge $$
-^^  in the sky $$
+^^ xxx in the sky $$
 ^^ drop him $$
 ^^ make a tower $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
 ^^ I miss it $$
 ^^ yeah $$
@@ -391,7 +450,9 @@
 ^^ there $$
 ^^ there $$
 ^^ I know $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ ready steady go $$
 ^^ I make a windmill $$
 ^^ come on $$
@@ -399,6 +460,7 @@
 ^^ look $$
 ^^ look $$
 ^^ tower $$
+^^ xxx $$
 ^^ a zoo $$
 ^^ I make a zoo $$
 ^^ oh $$
@@ -414,14 +476,17 @@
 ^^ broccoli $$
 ^^ celery $$
 ^^ beer $$
-^^  like it $$
+^^ xxx like it $$
 ^^ not get no clothes on $$
 ^^ yeah $$
 ^^ oh $$
 ^^ yeah $$
 ^^ lie down $$
 ^^ yeah $$
-^^  lie down  $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx lie down xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ delicious $$
 ^^ delicious $$
@@ -429,40 +494,47 @@
 ^^ down throat $$
 ^^ in tum $$
 ^^ mhm $$
-^^  mouth $$
+^^ xxx mouth $$
+^^ xxx $$
 ^^ no $$
-^^  like that $$
-^^  like that $$
+^^ xxx $$
+^^ xxx like that $$
+^^ xxx like that $$
 ^^ I make it Mummy $$
 ^^ that one $$
 ^^ peacock $$
 ^^ I love the peacock $$
 ^^ holiday $$
 ^^ no $$
-^^  holiday $$
+^^ holi holiday $$
 ^^ the baby one $$
 ^^ the baby one $$
 ^^ yeah $$
 ^^ Mummy $$
 ^^ not Daddy $$
+^^ xxx $$
 ^^ get out the side $$
 ^^ that lettuce $$
 ^^ no like lettuce $$
 ^^ no lettuce $$
 ^^ pear $$
+^^ xxx $$
 ^^ all $$
 ^^ like banana $$
 ^^ see banana $$
 ^^ I see this $$
+^^ xxx $$
 ^^ I see them $$
 ^^ broccoli $$
 ^^ broccoli $$
 ^^ broccoli $$
 ^^ tower $$
 ^^ oh $$
-^^  pepper $$
+^^ xxx $$
+^^ um pepper $$
 ^^ achoo $$
 ^^ cob $$
+^^ xxx $$
 ^^ a teddy $$
 ^^ go sleep in the car $$
 ^^ car $$
@@ -481,19 +553,29 @@
 ^^ it too small $$
 ^^ too small $$
 ^^ it too small $$
-^^  doll $$
+^^ xxx $$
+^^ xxx doll $$
 ^^ a party $$
+^^ xxx $$
 ^^ oh $$
 ^^ delicious $$
-^^  eat $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx eat $$
 ^^ choke $$
-^^  grape $$
+^^ xxx grape $$
+^^ xxx $$
 ^^ dress on $$
 ^^ oh $$
 ^^ shoe on $$
 ^^ yeah $$
 ^^ a pair on $$
-^^  too small $$
+^^ xxx too small $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ all fall down $$
 ^^ fall down Mummy $$
 ^^ bottom change $$
@@ -504,6 +586,9 @@
 ^^ stay still $$
 ^^ stay still $$
 ^^ like little mouse $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ and Mummy $$
 ^^ yeah $$
 ^^ she cry $$
@@ -516,31 +601,38 @@
 ^^ yeah $$
 ^^ no $$
 ^^ no no $$
+^^ xxx $$
 ^^ cup $$
+^^ xxx $$
 ^^ milk $$
+^^ xxx $$
 ^^ that chocolate milk $$
 ^^ there_there $$
 ^^ there_there doll $$
 ^^ doll $$
 ^^ sorry $$
-^^  girl $$
+^^ xxx girl $$
 ^^ no like that on $$
-^^  that on as_well $$
+^^ xxx that on as_well $$
 ^^ that be because you like long hair be not it $$
-^^  hear them $$
-^^ dust man  $$
+^^ xxx $$
+^^ a hear them $$
+^^ dust man xxx $$
 ^^ you listen to it $$
 ^^ what do Mummy $$
 ^^ yeah $$
 ^^ Mummy make a mess $$
-^^  that one $$
+^^ xxx that one $$
 ^^ curl $$
-^^  that on there $$
+^^ xxx that on there $$
 ^^ can if want $$
 ^^ cry $$
+^^ xxx $$
+^^ xxx $$
 ^^ doll sit there $$
-^^  love dress on $$
-^^ love dress on  $$
+^^ xxx $$
+^^ xxx love dress on $$
+^^ love dress on xxx $$
 ^^ I wipe it $$
 ^^ her knickers $$
 ^^ there he be $$
@@ -552,28 +644,35 @@
 ^^ dog $$
 ^^ want it off $$
 ^^ can not sit down sticker $$
-^^  sticker now $$
+^^ xxx sticker now $$
 ^^ now $$
-^^ I like it that  $$
+^^ I like it that xxx $$
+^^ xxx $$
 ^^ there $$
+^^ xxx $$
 ^^ a hat on there $$
 ^^ she cry $$
+^^ xxx $$
 ^^ panda $$
+^^ xxx $$
 ^^ doll $$
-^^  doll $$
+^^ xxx doll $$
 ^^ go play together doll $$
 ^^ sit down doll $$
 ^^ sit down doll $$
-^^  more in here $$
-^^ here  $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx more in here $$
+^^ here xxx $$
 ^^ clean one $$
 ^^ they clean one $$
 ^^ that clean one $$
 ^^ yeah $$
-^^  other side $$
+^^ xxx other side $$
 ^^ on brick $$
 ^^ cake $$
 ^^ have it doll $$
+^^ mm $$
 ^^ cake $$
 ^^ candle $$
 ^^ happy_birthday to you $$
@@ -585,42 +684,51 @@
 ^^ wibble wobble $$
 ^^ I know $$
 ^^ hammer $$
+^^ xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ go away $$
+^^ xxx $$
 ^^ go away $$
 ^^ go away $$
 ^^ I know $$
+^^ xxx $$
 ^^ Peter_rabbit book $$
 ^^ miaowmiaow $$
 ^^ stick $$
 ^^ oioi $$
+^^ xxx $$
 ^^ oh $$
 ^^ break it $$
 ^^ plastic $$
+^^ xxx $$
 ^^ Shaun $$
 ^^ not Wendolene $$
 ^^ not Wallace and Grommit $$
 ^^ not Wallace and Grommit $$
 ^^ that Wallace and Grommit $$
+^^ xxx $$
 ^^ that in there $$
 ^^ puzzle $$
 ^^ baby $$
-^^  have dinner $$
+^^ xxx have dinner $$
+^^ xxx $$
 ^^ favorite Thomas $$
 ^^ helicopter $$
 ^^ that one asleep $$
 ^^ one two three four five $$
 ^^ six $$
 ^^ seven eight nine ten $$
-^^  that  $$
+^^ xxx $$
+^^ xxx that xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ look $$
 ^^ that on purpose $$
 ^^ oh $$
 ^^ that be that $$
 ^^ look $$
-^^  hammer $$
+^^ xxx hammer $$
 ^^ atechooatechoo $$
 ^^ no $$
 ^^ I turn it $$
@@ -628,7 +736,7 @@
 ^^ no $$
 ^^ no $$
 ^^ squeeksqueeksqueek $$
-^^  get mouth $$
+^^ a get mouth $$
 ^^ oh yeah $$
 ^^ get ear $$
 ^^ get $$
@@ -639,41 +747,50 @@
 ^^ lion $$
 ^^ real Sunday $$
 ^^ zoo $$
-^^  monkey $$
+^^ a monkey $$
 ^^ oh matter $$
 ^^ run off $$
-^^  bird $$
+^^ xxx $$
+^^ um bird $$
 ^^ bird $$
 ^^ see bird $$
 ^^ dove $$
 ^^ big ear $$
-^^ big  $$
+^^ big xxx $$
 ^^ big big $$
-^^  big alligator $$
+^^ xxx big alligator $$
 ^^ I no like snake $$
 ^^ I like spider $$
 ^^ yeah $$
 ^^ Mummy tickle $$
 ^^ no $$
 ^^ no $$
-^^  no $$
+^^ xxx $$
+^^ um no $$
 ^^ I know $$
+^^ xxx $$
 ^^ look $$
 ^^ poor toe $$
 ^^ stop it $$
+^^ xxx $$
 ^^ again $$
-^^ poor  toe $$
+^^ xxx $$
+^^ poor toe toe $$
 ^^ bouncy bounce $$
 ^^ round my neck $$
 ^^ uhoh uhoh $$
-^^ get  pull hair $$
+^^ xxx $$
+^^ get xxx pull hair $$
 ^^ yeah $$
 ^^ Peter_rabbit $$
 ^^ what be that $$
 ^^ atechooatechoo $$
 ^^ stop it $$
 ^^ Peter_rabbit $$
-^^  that one same $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ that that one same $$
 ^^ dig $$
 ^^ he be stick $$
 ^^ go Mum Mum $$
@@ -685,7 +802,7 @@
 ^^ cry $$
 ^^ yeah $$
 ^^ Mister Mcgregor again $$
-^^ start  beginning $$
+^^ start a beginning $$
 ^^ not that one $$
 ^^ long begin $$
 ^^ there $$
@@ -711,8 +828,8 @@
 ^^ six seven nine $$
 ^^ eight $$
 ^^ nine ten $$
-^^ Jim  $$
-^^ Jim  $$
+^^ Jim xxx $$
+^^ Jim xxx $$
 ^^ oh wow $$
 ^^ not there $$
 ^^ there be dolphin $$
@@ -720,18 +837,20 @@
 ^^ I draw that $$
 ^^ no $$
 ^^ not now $$
-^^  yellow $$
+^^ a yellow $$
 ^^ yeah $$
 ^^ I do that one $$
+^^ xxx $$
 ^^ w $$
 ^^ w $$
+^^ xxx $$
 ^^ one three four seven nine ten twelve $$
 ^^ seven $$
 ^^ one two three four five six six seven eight nine ten $$
 ^^ Mister McGregor $$
 ^^ Mister McGregor $$
 ^^ Rosie and Jim in that book $$
-^^ Mister McGregor  $$
+^^ Mister McGregor xxx $$
 ^^ that one $$
 ^^ there be that one $$
 ^^ and there be this one $$
@@ -741,25 +860,29 @@
 ^^ yeah $$
 ^^ Bill and Ben $$
 ^^ Joel sad $$
-^^  sad $$
+^^ a sad $$
 ^^ want kiss $$
 ^^ yeah $$
 ^^ oh yes $$
-^^  that one $$
-^^  up step $$
+^^ a that one $$
+^^ um up step $$
 ^^ oh $$
 ^^ big step $$
+^^ xxx $$
 ^^ tip up $$
 ^^ Mummy tip up $$
-^^  yeah $$
+^^ a yeah $$
 ^^ Sunday $$
+^^ xxx $$
 ^^ ride on Rosie $$
 ^^ it be rubbish $$
+^^ xxx $$
+^^ xxx $$
 ^^ ouch $$
 ^^ Charlie_Chalk on $$
 ^^ want Charlie_Chalk on $$
 ^^ oh $$
-^^  book $$
+^^ a book $$
 ^^ yeah $$
 ^^ I be not sick $$
 ^^ not sick $$
@@ -769,7 +892,7 @@
 ^^ not yet $$
 ^^ out $$
 ^^ a big $$
-^^  up $$
+^^ a up $$
 ^^ Mummy do it $$
 ^^ Mummy do it $$
 ^^ bus stop $$
@@ -782,10 +905,12 @@
 ^^ no up there $$
 ^^ all fall down $$
 ^^ no like it now $$
+^^ a $$
 ^^ that one $$
 ^^ no $$
-^^  over $$
-^^  person go like that $$
+^^ xxx over $$
+^^ a person go like that $$
+^^ xxx $$
 ^^ what be this $$
 ^^ that come off $$
 ^^ bite stiff $$
@@ -799,15 +924,16 @@
 ^^ red $$
 ^^ blue $$
 ^^ one car $$
-^^  ride $$
+^^ a ride $$
 ^^ yeah $$
 ^^ go round corner $$
+^^ xxx $$
 ^^ oh $$
 ^^ a pepper $$
 ^^ grape $$
-^^  eat it $$
+^^ a eat it $$
 ^^ broccoli $$
-^^  get $$
+^^ xxx get $$
 ^^ how many get $$
 ^^ one now $$
 ^^ that $$
@@ -816,7 +942,7 @@
 ^^ chip $$
 ^^ do you like chip $$
 ^^ milk $$
-^^  top off $$
+^^ a top off $$
 ^^ not get $$
 ^^ no $$
 ^^ chocolate box $$
@@ -829,24 +955,27 @@
 ^^ burger $$
 ^^ chocolate pudding $$
 ^^ cold $$
+^^ xxx $$
 ^^ sandwich $$
 ^^ there be the burger $$
+^^ xxx $$
 ^^ seven $$
 ^^ seven $$
 ^^ seven $$
 ^^ a MacDonald sandwich $$
-^^  there $$
+^^ xxx there $$
 ^^ chip here $$
 ^^ chip here $$
 ^^ chip here $$
 ^^ sit in the car $$
-^^ I sit in  car $$
-^^  in car $$
+^^ I sit in a car $$
+^^ xxx in car $$
+^^ xxx $$
 ^^ okay lettuce $$
 ^^ you like dill pickle $$
 ^^ panda $$
-^^  here $$
-^^ and  fit $$
+^^ xxx here $$
+^^ and xxx fit $$
 ^^ yes $$
 ^^ panda sit there $$
 ^^ panda move $$
@@ -854,21 +983,22 @@
 ^^ oh dear $$
 ^^ oh no $$
 ^^ oh panda $$
-^^ panda  do $$
+^^ panda xxx do $$
+^^ xxx $$
 ^^ careful $$
 ^^ red one there $$
 ^^ oh $$
-^^  one $$
+^^ xxx one $$
 ^^ where car go $$
 ^^ think $$
-^^ where be  Mummy $$
-^^  want Mummy $$
+^^ where be a Mummy $$
+^^ a want Mummy $$
 ^^ want Mummy $$
 ^^ yeah $$
 ^^ brick $$
 ^^ panda $$
 ^^ panda $$
-^^  top $$
+^^ xxx top $$
 ^^ will not go on there $$
 ^^ in the car $$
 ^^ there $$
@@ -877,40 +1007,47 @@
 ^^ round corner $$
 ^^ a Tuesday today $$
 ^^ a Tuesday today $$
+^^ xxx $$
+^^ xxx $$
 ^^ what do $$
 ^^ no $$
 ^^ two $$
 ^^ two $$
 ^^ bus $$
-^^  move a bit $$
-^^  mind it $$
+^^ a move a bit $$
+^^ mind mind it $$
 ^^ there be a lion $$
 ^^ no $$
 ^^ lion $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ a baby one $$
 ^^ big one $$
 ^^ big one $$
 ^^ why $$
 ^^ hippopotamus $$
 ^^ you meet panda $$
-^^  bite you $$
+^^ a bite you $$
 ^^ poor panda $$
-^^  do $$
+^^ xxx do $$
+^^ xxx $$
 ^^ ow $$
 ^^ panda will not have any friend will he $$
 ^^ ow $$
-^^ there be a big  again $$
-^^  up there $$
-^^  back $$
-^^  shoulder $$
+^^ there be a big xxx again $$
+^^ up up there $$
+^^ a back $$
+^^ a shoulder $$
 ^^ sit $$
 ^^ come my car $$
 ^^ drink panda $$
+^^ xxx $$
 ^^ up there $$
 ^^ a panda $$
 ^^ I like car $$
 ^^ on the bus $$
-^^  car $$
+^^ xxx car $$
 ^^ hiya panda $$
 ^^ take them off $$
 ^^ get a green one $$
@@ -919,20 +1056,23 @@
 ^^ red $$
 ^^ blue $$
 ^^ lot and lot $$
+^^ a $$
 ^^ this $$
 ^^ carrot $$
 ^^ what I get $$
 ^^ what I get $$
 ^^ doll $$
-^^  three today $$
+^^ a three today $$
 ^^ she three today $$
 ^^ three $$
 ^^ yeah $$
-^^  a name $$
+^^ xxx $$
+^^ xxx a name $$
 ^^ no $$
-^^  my chair $$
+^^ my my chair $$
+^^ xxx $$
 ^^ thank_you $$
-^^  go this $$
+^^ xxx go this $$
 ^^ yeah $$
 ^^ there $$
 ^^ and dummy $$
@@ -949,10 +1089,11 @@
 ^^ not fit $$
 ^^ no fit $$
 ^^ get cold head $$
-^^  cold there $$
+^^ a cold there $$
 ^^ Mummy do it $$
-^^  doll $$
-^^  that $$
+^^ xxx $$
+^^ xxx doll $$
+^^ a that $$
 ^^ I make $$
 ^^ no $$
 ^^ fall down $$
@@ -962,21 +1103,23 @@
 ^^ pump $$
 ^^ pump pump $$
 ^^ panda $$
-^^  panda $$
-^^   car $$
+^^ xxx panda $$
+^^ xxx a car $$
 ^^ big car $$
 ^^ again $$
 ^^ go back to panda $$
-^^  the car $$
+^^ a the car $$
 ^^ lot and lot here $$
 ^^ another one $$
 ^^ ladder $$
 ^^ Mummy do it $$
 ^^ that one fall down $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ this one those $$
 ^^ yes $$
 ^^ no $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Joel $$
 ^^ byebye $$
@@ -984,57 +1127,67 @@
 ^^ Mum $$
 ^^ there it be $$
 ^^ go the sky $$
+^^ xxx $$
 ^^ show you $$
 ^^ up in the sky $$
 ^^ up in the sky $$
+^^ xxx $$
 ^^ up $$
 ^^ go now $$
 ^^ byebye $$
 ^^ bye Rachel $$
 ^^ bye Mummy $$
+^^ xxx $$
 ^^ a helicopter $$
-^^  name Budgie $$
+^^ a name Budgie $$
 ^^ Budgie $$
 ^^ Budgie helicopter $$
 ^^ Budgie $$
 ^^ Budgie $$
 ^^ Budgie $$
 ^^ Budgie $$
-^^  helicopter $$
+^^ xxx $$
+^^ xxx helicopter $$
 ^^ yeah $$
-^^  can do $$
-^^  less room $$
+^^ xxx can do $$
+^^ a less room $$
 ^^ look like Fireman_Sam $$
 ^^ Fireman_Sam $$
 ^^ oh no $$
-^^  up to $$
+^^ a up to $$
+^^ xxx $$
 ^^ all the time $$
 ^^ all the time $$
 ^^ yeah $$
-^^  back  $$
-^^  get one $$
+^^ xxx back xxx $$
+^^ xxx get one $$
+^^ xxx $$
 ^^ come a drink $$
 ^^ yeah $$
+^^ xxx $$
 ^^ come on $$
 ^^ come on then $$
 ^^ you come in here $$
 ^^ get new chair $$
 ^^ helicopter $$
-^^  thirst $$
+^^ a thirst $$
 ^^ million $$
 ^^ and I like play $$
 ^^ yeah $$
 ^^ oh no $$
 ^^ helicopter up $$
 ^^ what up to $$
+^^ xxx $$
 ^^ oh up to $$
 ^^ up to $$
 ^^ up to $$
-^^  game $$
-^^  game up $$
-^^ up  game up $$
+^^ xxx game $$
+^^ xxx game up $$
+^^ up a game up $$
 ^^ tickle $$
 ^^ do not tickle me $$
+^^ xxx $$
+^^ xxx $$
 ^^ a name $$
 ^^ write a name $$
 ^^ yeah $$
@@ -1049,14 +1202,16 @@
 ^^ sweetie $$
 ^^ fish $$
 ^^ a fish look $$
-^^  six $$
-^^  yellow $$
-^^  yellow $$
+^^ a six $$
+^^ a yellow $$
+^^ a yellow $$
 ^^ color $$
 ^^ yeah $$
 ^^ oh look $$
+^^ xxx $$
 ^^ twinkle twinkle little star $$
 ^^ how I wonder what you be $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
@@ -1065,23 +1220,24 @@
 ^^ I like those $$
 ^^ sit down $$
 ^^ sit down Rachel $$
-^^  there $$
+^^ xxx there $$
 ^^ that be Max $$
 ^^ MacDonald $$
 ^^ a minute $$
 ^^ a house $$
 ^^ cheap one $$
+^^ a $$
 ^^ come off plane $$
 ^^ Mummy $$
 ^^ make it $$
-^^ me  $$
+^^ me xxx $$
 ^^ do not want it $$
 ^^ look $$
-^^  fit here $$
+^^ a fit here $$
 ^^ no fit $$
 ^^ there $$
-^^  Tom $$
-^^  like Tom $$
+^^ a Tom $$
+^^ a like Tom $$
 ^^ Tom $$
 ^^ like Tom $$
 ^^ yeah $$
@@ -1090,7 +1246,8 @@
 ^^ up $$
 ^^ oh $$
 ^^ yeah $$
-^^ like  Tom_and_Jerry $$
+^^ like Tom Tom_and_Jerry $$
+^^ xxx $$
 ^^ that be not $$
 ^^ drive $$
 ^^ drive $$
@@ -1099,14 +1256,14 @@
 ^^ now go $$
 ^^ again $$
 ^^ potato $$
-^^ oh look  $$
+^^ oh look xxx $$
 ^^ get in $$
-^^  boom $$
-^^  boom $$
-^^  boom $$
-^^  boom $$
-^^  boom $$
-^^  boom $$
+^^ a boom $$
+^^ a boom $$
+^^ a boom $$
+^^ a boom $$
+^^ a boom $$
+^^ a boom $$
 ^^ I being silly $$
 ^^ silly $$
 ^^ I be a silly $$
@@ -1116,13 +1273,18 @@
 ^^ Budgie helicopter $$
 ^^ Budgie helicopter $$
 ^^ Budgie helicopter $$
+^^ xxx $$
 ^^ helicopter $$
 ^^ oh no $$
+^^ xxx $$
 ^^ oh no $$
 ^^ my hat $$
-^^  up $$
+^^ xxx $$
+^^ xxx up $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
-^^ Mummy  a bit $$
+^^ Mummy xxx a bit $$
 ^^ I like Budgie $$
 ^^ Budgie_helicopter $$
 ^^ near fall over $$
@@ -1132,12 +1294,14 @@
 ^^ I do not like brick on $$
 ^^ yeah $$
 ^^ the video $$
-^^   see tape $$
-^^  I see tape $$
+^^ the tape see tape $$
+^^ I I see tape $$
+^^ xxx $$
 ^^ open the door $$
 ^^ MacDonald $$
 ^^ not yet $$
 ^^ where that go $$
+^^ xxx $$
 ^^ I know $$
 ^^ oh look $$
 ^^ who be in there $$
@@ -1148,6 +1312,7 @@
 ^^ tiger fall down $$
 ^^ bite $$
 ^^ bite $$
+^^ xxx $$
 ^^ helicopter $$
 ^^ Budgie helicopter $$
 ^^ oh $$
@@ -1160,10 +1325,11 @@
 ^^ what be that $$
 ^^ look like chimney $$
 ^^ yeah $$
+^^ xxx $$
 ^^ what be come $$
 ^^ look $$
-^^  egg $$
-^^  egg $$
+^^ a egg $$
+^^ a egg $$
 ^^ egg $$
 ^^ I want egg $$
 ^^ want Daddy $$
@@ -1174,14 +1340,18 @@
 ^^ sausage roll $$
 ^^ yeah $$
 ^^ I sausage roll $$
+^^ xxx $$
+^^ xxx $$
 ^^ milk $$
 ^^ eat it all $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there be some there $$
+^^ xxx $$
 ^^ I know $$
 ^^ pop $$
 ^^ pop $$
-^^ I like  $$
+^^ I like xxx $$
 ^^ like milk $$
 ^^ pear $$
 ^^ no $$
@@ -1198,49 +1368,53 @@
 ^^ smart $$
 ^^ chocolate $$
 ^^ get ear now $$
-^^ pull clothes  nude $$
+^^ pull clothes xxx nude $$
 ^^ yeah $$
-^^  no clothes off $$
+^^ a no clothes off $$
 ^^ in the bath $$
 ^^ Mummy $$
 ^^ too deep $$
-^^  hurt $$
-^^ yeah  $$
+^^ xxx hurt $$
+^^ yeah xxx $$
 ^^ no $$
 ^^ not yet $$
-^^  shoe off $$
+^^ xxx shoe off $$
 ^^ change his bottom $$
 ^^ yeah $$
 ^^ get dirt bum $$
 ^^ get no clothes on $$
 ^^ get a dirt bum and no clothes on have not you $$
 ^^ Mummy change him $$
-^^  that be me $$
+^^ xxx $$
+^^ a that be me $$
 ^^ that be me $$
 ^^ that be me $$
 ^^ night_night $$
-^^ he  no clothes on look $$
+^^ he no no clothes on look $$
 ^^ clothes on $$
 ^^ byebye $$
-^^  chair $$
+^^ xxx chair $$
 ^^ byebye panda $$
 ^^ nice day $$
-^^  see you $$
-^^ byebye  $$
+^^ see see you $$
+^^ byebye xxx $$
+^^ xxx $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ hiya panda $$
 ^^ yeah $$
 ^^ yeah $$
-^^  own $$
+^^ xxx own $$
 ^^ we go shop $$
 ^^ bye teddy $$
 ^^ bye panda $$
 ^^ bye panda $$
-^^ oh  forget $$
+^^ oh xxx forget $$
 ^^ I forget $$
 ^^ I forget $$
 ^^ I forget to pick up panda $$
 ^^ in the basket $$
+^^ xxx $$
 ^^ he like cheese $$
 ^^ please $$
 ^^ oh $$
@@ -1253,22 +1427,24 @@
 ^^ I need $$
 ^^ I need some butter $$
 ^^ I need milk $$
-^^  pound $$
+^^ a pound $$
+^^ xxx $$
 ^^ five pound $$
 ^^ a pound $$
 ^^ five pound $$
+^^ xxx $$
 ^^ and I get grape $$
 ^^ five pound $$
 ^^ five pound $$
 ^^ five pound $$
 ^^ yep $$
 ^^ sit up there $$
-^^ up by  $$
+^^ up by xxx $$
 ^^ panda sit up there $$
-^^  the car $$
-^^  my $$
+^^ a the car $$
+^^ xxx my $$
 ^^ sit in the car $$
-^^  egg $$
+^^ a egg $$
 ^^ five pound $$
 ^^ five pound $$
 ^^ oh no $$
@@ -1276,6 +1452,7 @@
 ^^ yeah $$
 ^^ oh panda $$
 ^^ oh $$
+^^ a $$
 ^^ five pound $$
 ^^ five pound $$
 ^^ a lemon $$
@@ -1298,14 +1475,14 @@
 ^^ up $$
 ^^ of course I can $$
 ^^ alright $$
-^^  I do it $$
+^^ I I do it $$
 ^^ what be there look $$
 ^^ no $$
 ^^ of course I can $$
 ^^ have pay for it $$
 ^^ not yet $$
 ^^ five pound $$
-^^  up to $$
+^^ xxx up to $$
 ^^ five pound $$
 ^^ some later $$
 ^^ five pound $$
@@ -1319,8 +1496,8 @@
 ^^ the same look $$
 ^^ yeah $$
 ^^ yeah $$
-^^  do you $$
-^^  do you $$
+^^ a do you $$
+^^ a do you $$
 ^^ yeah $$
 ^^ I do milk $$
 ^^ Mummy milk $$
@@ -1333,6 +1510,7 @@
 ^^ and that one $$
 ^^ and that one $$
 ^^ oh look $$
+^^ xxx $$
 ^^ I want some more $$
 ^^ some money $$
 ^^ five pound $$
@@ -1343,8 +1521,9 @@
 ^^ five pound $$
 ^^ back up $$
 ^^ back up $$
+^^ xxx $$
 ^^ delicious $$
-^^ some  $$
+^^ some a $$
 ^^ back up there $$
 ^^ go there $$
 ^^ go there $$
@@ -1354,4 +1533,4 @@
 ^^ open $$
 ^^ they open now $$
 ^^ yeah $$
-^^  toe $$
+^^ xxx toe $$

@@ -79,6 +79,7 @@
 ^^ a squash one $$
 ^^ yeah $$
 ^^ oh there he be $$
+^^ www $$
 ^^ the engine name be $$
 ^^ Henry $$
 ^^ Henry can come out if he like $$
@@ -161,7 +162,7 @@
 ^^ let us get $$
 ^^ yes $$
 ^^ yeah $$
-^^ let us get the  station build build $$
+^^ let us get the er station build build $$
 ^^ well I suppose it be a kind of tower yeah $$
 ^^ there be Mummy station $$
 ^^ yours be a great station $$
@@ -199,7 +200,7 @@
 ^^ hooray $$
 ^^ be he hide $$
 ^^ now Warren $$
-^^ you have to make sure that       the coach be level with the platform so person can get on and off $$
+^^ you have to make sure that the platform is level with the the coach be level with the platform so person can get on and off $$
 ^^ like that $$
 ^^ because passenger can not get off when it be like this because it be not high enough $$
 ^^ okay $$
@@ -271,7 +272,7 @@
 ^^ no $$
 ^^ not stand $$
 ^^ kneel $$
-^^ well    if you be not go to kneel you be not come on the chair at all $$
+^^ well if you don't if you be not go to kneel you be not come on the chair at all $$
 ^^ right then $$
 ^^ you can come off the chair if you be not go to kneel or sit $$
 ^^ well stay on your knee then $$
@@ -281,7 +282,7 @@
 ^^ Anna toy $$
 ^^ well I do not know $$
 ^^ no $$
-^^ Anna will only get her toy    in a little while $$
+^^ Anna will only get her toy in a few in a little while $$
 ^^ and only if you be a good boy $$
 ^^ be you a good boy $$
 ^^ be you a good boy $$
@@ -312,7 +313,7 @@
 ^^ no $$
 ^^ Daddy busy $$
 ^^ you stay in here pet $$
-^^   why do not we sing draw bucket $$
+^^ why don't why do not we sing draw bucket $$
 ^^ why not $$
 ^^ yeah $$
 ^^ well you can not have Daddy I be afraid $$
@@ -350,7 +351,7 @@
 ^^ look at your nappie and all your shirt be come adrift $$
 ^^ you can not have Daddy pet $$
 ^^ I be afraid $$
-^^      do you want to play with Anna'stoys later $$
+^^ do you wanna play with do you want to play with Anna'stoys later $$
 ^^ yes $$
 ^^ well you genmod good not cry for Daddy because if Daddy come in you can not play with Anna toy $$
 ^^ let us do your brace up $$
@@ -435,7 +436,7 @@
 ^^ be you pull doll out by her hair $$
 ^^ say hello doll $$
 ^^ be she wave to you $$
-^^  that be nice $$
+^^ a that be nice $$
 ^^ be she wave $$
 ^^ well shall we take the dress off first $$
 ^^ right $$
@@ -449,7 +450,7 @@
 ^^ a blouse $$
 ^^ shall she wear this blouse $$
 ^^ that be a dress pet $$
-^^ do    you want her to wear the dress $$
+^^ do you want her you want her to wear the dress $$
 ^^ not the trouser $$
 ^^ you want doll in trouser or a dress $$
 ^^ okay $$
@@ -458,7 +459,7 @@
 ^^ and the left arm $$
 ^^ there you go $$
 ^^ doll get her dress on just about $$
-^^        well I suppose you can put trouser on over a dress $$
+^^ well I don't know whether you can well I suppose you can put trouser on over a dress $$
 ^^ why not $$
 ^^ make her bottom look big though $$
 ^^ she will not thank_you for that $$
@@ -473,6 +474,7 @@
 ^^ what be you make $$
 ^^ be you make a tower $$
 ^^ what be you make $$
+^^ a $$
 ^^ a whatie tower $$
 ^^ the baby tiger $$
 ^^ I do not know where the baby tiger be $$
@@ -528,6 +530,7 @@
 ^^ a what $$
 ^^ it be a goat $$
 ^^ what do you think it be $$
+^^ www $$
 ^^ what be that $$
 ^^ yeah $$
 ^^ baby chicken $$
@@ -638,6 +641,7 @@
 ^^ why do not you put them on that one $$
 ^^ there be a bit more room $$
 ^^ now that be sensible $$
+^^ www $$
 ^^ oh $$
 ^^ say thank_you to Anna $$
 ^^ you do not need that gap $$
@@ -726,7 +730,7 @@
 ^^ oh $$
 ^^ wipe his tear away and give him a cuddle $$
 ^^ yes $$
-^^ Mummy take it off   so these man could have a ride $$
+^^ Mummy take it off so the so these man could have a ride $$
 ^^ what be it $$
 ^^ that be it $$
 ^^ what do it do $$
@@ -736,7 +740,7 @@
 ^^ yeah $$
 ^^ a snow be like a cow $$
 ^^ you be right $$
-^^  Toby_the_tram_engine have a cow $$
+^^ er Toby_the_tram_engine have a cow $$
 ^^ yes $$
 ^^ it do go there $$
 ^^ shall Mummy hold the train while you put it on $$
@@ -768,9 +772,10 @@
 ^^ what do you have to do to this $$
 ^^ what be you do $$
 ^^ yeah $$
-^^ of you hold it up like that     you can get them in the basket $$
+^^ of you hold it up like that you get them in you can get them in the basket $$
 ^^ no $$
 ^^ you need to hold it up like that $$
+^^ a $$
 ^^ be that a nice teddy $$
 ^^ oh look $$
 ^^ you have get two teddy in basket have not you $$
@@ -820,7 +825,7 @@
 ^^ well do not leave him face down because he might drown in it $$
 ^^ shall we sit him up $$
 ^^ he be have a little play in the water be not he now $$
-^^       splash $$
+^^ splash splash splash splash splash splash splash $$
 ^^ oh sorry $$
 ^^ naughty Mummy $$
 ^^ oh yes $$
@@ -861,7 +866,7 @@
 ^^ baby polar bear $$
 ^^ be he go in with the baby tiger $$
 ^^ be that to stop them from escape $$
-^^    you could put the polar bear in the wheel $$
+^^ shall we put you could put the polar bear in the wheel $$
 ^^ how much $$
 ^^ how much money $$
 ^^ have he buy the baby polar bear off the lady with the wheel $$
@@ -872,7 +877,7 @@
 ^^ I be sure polar bear can ride in car $$
 ^^ be that man look after the polar bear to make sure he do not escape $$
 ^^ he be have a sip be he $$
-^^  what be it he be drink $$
+^^ what's what be it he be drink $$
 ^^ be it water or milk $$
 ^^ cold water $$
 ^^ yes $$
@@ -971,7 +976,7 @@
 ^^ stop the sugar from get damp $$
 ^^ may I have a piece of cake please $$
 ^^ that be not a key pet $$
-^^   that be the fork $$
+^^ that's a that be the fork $$
 ^^ well you have get key $$
 ^^ here $$
 ^^ with your light $$
@@ -995,6 +1000,7 @@
 ^^ could I have a top up please $$
 ^^ whoops $$
 ^^ thank_you $$
+^^ mm $$
 ^^ nice and refresh $$
 ^^ can not beat a cup of tea $$
 ^^ well you pour yourself a cup of tea then $$
@@ -1006,7 +1012,7 @@
 ^^ I hope Anna have finish all her coffee if you top her up with tea $$
 ^^ I be not sure I fancy the idea of tea and coffee mix $$
 ^^ right $$
-^^    shall we  put some water into Henry $$
+^^ shall we put shall we give put some water into Henry $$
 ^^ where be his tender $$
 ^^ that be where Henry store most of his water be not it $$
 ^^ in his tender $$
@@ -1029,7 +1035,7 @@
 ^^ there be the red cup $$
 ^^ there be the red cup $$
 ^^ oh $$
-^^   no $$
+^^ no no no $$
 ^^ do not tip that out $$
 ^^ what color be the taxi $$
 ^^ it be not red a blue $$
@@ -1057,7 +1063,7 @@
 ^^ where be Warren $$
 ^^ well you tell me what be happen $$
 ^^ where be Thomas $$
-^^    well it be like a viaduct I think you call it $$
+^^ he's going over well it be like a viaduct I think you call it $$
 ^^ go over a big cut $$
 ^^ there be the main rail line $$
 ^^ Thomas be puff along his branch $$
@@ -1105,7 +1111,7 @@
 ^^ it be a different bridge be not it $$
 ^^ yeah $$
 ^^ it be $$
-^^  you can see the mountain through the tunnel $$
+^^ it's you can see the mountain through the tunnel $$
 ^^ and that be a big water wheel $$
 ^^ there be a mill here for grounding corn to make flour $$
 ^^ and water come onto this wheel $$
@@ -1199,8 +1205,10 @@
 ^^ oh well $$
 ^^ no account for taste be there $$
 ^^ why do not Warren read it $$
+^^ www $$
 ^^ who be his coach $$
 ^^ Annie and Clarabel $$
+^^ www $$
 ^^ and who be wait to take the child home $$
 ^^ yeah $$
 ^^ what kind of bus be Bertie $$
@@ -1219,6 +1227,7 @@
 ^^ oh $$
 ^^ well I be not start right from the beginning again $$
 ^^ right $$
+^^ www $$
 ^^ be Thomas sad $$
 ^^ well I do not real have chance to read it the first time because you turn the page so quick $$
 ^^ okay $$
@@ -1246,6 +1255,7 @@
 ^^ he do not have a name $$
 ^^ truck do not have name because there be too many of them and they be not nice $$
 ^^ truck be not nice thing apparent $$
+^^ www $$
 ^^ have they get happy smile face $$
 ^^ have Warren get a happy smile face $$
 ^^ what color be it $$
@@ -1372,7 +1382,7 @@
 ^^ because he be go too fast and miss all the point $$
 ^^ there you go $$
 ^^ that be mend the train $$
-^^   oh dear $$
+^^ oh dear oh dear $$
 ^^ yeah $$
 ^^ it bump on my toe as_well $$
 ^^ what be you look for $$
@@ -1395,7 +1405,7 @@
 ^^ you just bang your little toe do you $$
 ^^ well that be your fault for try to lift up cement mix $$
 ^^ shall I put it on its wheel $$
-^^ now    where do you want to put it $$
+^^ now where are you where do you want to put it $$
 ^^ on your knee $$
 ^^ well I be sure you can lift it onto your knee $$
 ^^ there you go $$
@@ -1496,6 +1506,7 @@
 ^^ where be you go to put Granny $$
 ^^ where be you go to put her $$
 ^^ that be a good place for her be not it $$
+^^ a $$
 ^^ oh you have put her on the picture of the little girl have not you $$
 ^^ right $$
 ^^ what be you go to cut out next $$
@@ -1566,7 +1577,7 @@
 ^^ so what do you want to do about it $$
 ^^ hm $$
 ^^ shall we leave it like that $$
-^^ shall  Mummy press $$
+^^ shall we Mummy press $$
 ^^ what do you have to say $$
 ^^ of course I will $$
 ^^ course I will $$
@@ -1589,7 +1600,7 @@
 ^^ well Warren can roll it out then $$
 ^^ no $$
 ^^ where be its wheel that you have take off $$
-^^  oh there it be $$
+^^ is oh there it be $$
 ^^ brumm $$
 ^^ oh no $$
 ^^ it be a wheel without a van $$
@@ -1602,8 +1613,8 @@
 ^^ a bang hurt where as a being do not $$
 ^^ oh no $$
 ^^ the kangaroo escape from the plane $$
-^^   boing $$
-^^   boing $$
+^^ boing boing boing $$
+^^ boing boing boing $$
 ^^ being $$
 ^^ look $$
 ^^ Granny be drive the tractor $$
@@ -1640,7 +1651,7 @@
 ^^ what be it $$
 ^^ it be a rhino $$
 ^^ you be quite right $$
-^^  well that be not a rhino be it $$
+^^ a well that be not a rhino be it $$
 ^^ because if you look a rhino have get big horn on its nose $$
 ^^ what be this one $$
 ^^ it be a hippo $$
@@ -1679,11 +1690,11 @@
 ^^ you do not kick soft stuff $$
 ^^ oh $$
 ^^ hello $$
-^^  no $$
+^^ er no $$
 ^^ that be not baby Jesus $$
 ^^ that be baby Warren $$
 ^^ yeah $$
-^^   where do baby Jesus live $$
+^^ where does where do baby Jesus live $$
 ^^ he live in that shed be not he that Granddad make $$
 ^^ yeah $$
 ^^ that be baby Warren $$
@@ -1706,7 +1717,7 @@
 ^^ yeah $$
 ^^ what color be it $$
 ^^ well it be just red actual $$
-^^  I think he fit in that one $$
+^^ I I think he fit in that one $$
 ^^ do you know what these be $$
 ^^ oh he do not fit in there do he $$
 ^^ they be like little comb $$
@@ -1719,6 +1730,7 @@
 ^^ you can close the box up now $$
 ^^ there be a special lock on it $$
 ^^ where be it $$
+^^ xxx $$
 ^^ see if we can lock it $$
 ^^ what be in the box $$
 ^^ what be in there $$
@@ -1804,13 +1816,13 @@
 ^^ it be just red $$
 ^^ the tower be get thin be not it $$
 ^^ yeah $$
-^^ you be  a tower be not you $$
+^^ you be xxx a tower be not you $$
 ^^ make another tower $$
 ^^ you can put it where you like sweet $$
 ^^ they be your tower $$
 ^^ you can do with them what you like $$
 ^^ it be get very tall be not it $$
-^^  no $$
+^^ er no $$
 ^^ not kick $$
 ^^ you knock it down with your hand $$
 ^^ yes $$
@@ -1852,7 +1864,7 @@
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ yes he will $$
 ^^ because the funnel be there $$
-^^ it will come right up and go whoosh in his eye and he will go  and fall over backwards $$
+^^ it will come right up and go whoosh in his eye and he will go a and fall over backwards $$
 ^^ his arm will go swing swing $$
 ^^ whee $$
 ^^ which person $$
@@ -1956,7 +1968,7 @@
 ^^ that be a little one $$
 ^^ oh $$
 ^^ could I have a orange please $$
-^^    no $$
+^^ no no no no $$
 ^^ that orange be fine sweet $$
 ^^ no $$
 ^^ it do not need a wash because you peel it pet $$
@@ -2019,6 +2031,7 @@
 ^^ oh thanks $$
 ^^ no $$
 ^^ I do not think so $$
+^^ mm $$
 ^^ that look like a nice big juice tomato $$
 ^^ no $$
 ^^ do not bite $$
@@ -2047,7 +2060,7 @@
 ^^ where the seal normal go $$
 ^^ look Warren $$
 ^^ you have get a tomato in your sock $$
-^^ make a change from a seal or a  baby tiger $$
+^^ make a change from a seal or a baby baby tiger $$
 ^^ that be what normal go in your sock $$
 ^^ yes $$
 ^^ oh no $$
@@ -2066,7 +2079,7 @@
 ^^ shall I put your sock back on $$
 ^^ no $$
 ^^ do not throw it $$
-^^   no $$
+^^ no no no $$
 ^^ let us put your sock back on $$
 ^^ if you throw it again Warren that bag of toy go in the hall $$
 ^^ you must not throw it $$
@@ -2078,16 +2091,16 @@
 ^^ one sock on and one sock off $$
 ^^ no $$
 ^^ that be a horrid $$
-^^  no $$
+^^ no no $$
 ^^ that be a horrid noise $$
 ^^ Warren $$
 ^^ no $$
 ^^ pardon $$
-^^ I be not sure that I can make a horse with  lego $$
+^^ I be not sure that I can make a horse with er lego $$
 ^^ just let me have a go $$
 ^^ you want a horse $$
 ^^ let Mummy try and make a horse $$
-^^ I be not sure that this be entire success child but  $$
+^^ I be not sure that this be entire success child but er $$
 ^^ do it need a tail $$
 ^^ be you do your brace $$
 ^^ well that be sauce $$
@@ -2098,7 +2111,7 @@
 ^^ I have just make you a horse $$
 ^^ let me pull you $$
 ^^ your nappie not fall down pet $$
-^^  no $$
+^^ no no $$
 ^^ do not take your trouser off $$
 ^^ no $$
 ^^ Warren $$
@@ -2107,7 +2120,7 @@
 ^^ the slight problem be your brace be still attach at the back so you can not actual pull them down $$
 ^^ Warren $$
 ^^ you do not take your trouser off when there be visitor here $$
-^^   no $$
+^^ no no no $$
 ^^ young man do not take their trouser off when there be visitor $$
 ^^ keep your trouser on $$
 ^^ do you like the horse I have make you $$
@@ -2148,8 +2161,8 @@
 ^^ have they go to sleep $$
 ^^ well bird sleep in very special bed call nest $$
 ^^ they be not big boy bed like yours $$
-^^ they do peck at the nuts but   I think it be a bit late for them now $$
-^^ it be    start to get dark $$
+^^ they do peck at the nuts but I don't I think it be a bit late for them now $$
+^^ it be getting a bit start to get dark $$
 ^^ yeah $$
 ^^ will you stop fiddling with your trouser $$
 ^^ be you pull it up $$
@@ -2163,7 +2176,7 @@
 ^^ if you put that one you will make it look like a $$
 ^^ goodness know what $$
 ^^ darling $$
-^^ you have just knock   the horse head off $$
+^^ you have just knock the head the horse head off $$
 ^^ it will look like a giraffe with that on mate $$
 ^^ okay $$
 ^^ let us turn it into a giraffe $$

@@ -45,6 +45,7 @@
 ^^ be you go to drive that be you $$
 ^^ right $$
 ^^ Daddy sit there $$
+^^ www $$
 ^^ oh look $$
 ^^ there be somebody mow the lawn there $$
 ^^ look they have get a lawn there have not they $$
@@ -63,7 +64,7 @@
 ^^ sand $$
 ^^ round there $$
 ^^ you be go backwards now be not you $$
-^^ be you  go through the gate there $$
+^^ be you going go through the gate there $$
 ^^ oh all right $$
 ^^ he be stop $$
 ^^ where be the fire $$
@@ -80,7 +81,7 @@
 ^^ no not that way $$
 ^^ the other way $$
 ^^ you have be to your house $$
-^^    have there be a crash $$
+^^ has there been have there be a crash $$
 ^^ oh Aran $$
 ^^ the rescue vehicle turn over $$
 ^^ what be you go to do now $$
@@ -104,7 +105,7 @@
 ^^ right okay $$
 ^^ oh $$
 ^^ get another one $$
-^^ actual   it be the headlight on your dig be not it that break off $$
+^^ actual it was it be the headlight on your dig be not it that break off $$
 ^^ because you run it into Grandma toe do not you $$
 ^^ yes we do go onto the beach do not we $$
 ^^ what be you tell me $$
@@ -122,7 +123,7 @@
 ^^ why do Nicola give it to you $$
 ^^ no nobody be cry $$
 ^^ it be your birth be not it $$
-^^   you be at home Aran $$
+^^ you are you be at home Aran $$
 ^^ so you can not go home $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ just watch it $$
@@ -147,10 +148,11 @@
 ^^ on the motor $$
 ^^ I do not think the tractor could real push that steam roll away could it $$
 ^^ no it will be too heavy will not it $$
-^^ yes it could probable push   that truck could not it $$
+^^ yes it could probable push that lorry that truck could not it $$
 ^^ Nicola do not send that truck at all $$
 ^^ Mummy get it for you $$
 ^^ be you go to drive that boat be you $$
+^^ www $$
 ^^ come on $$
 ^^ you sing a song Aran $$
 ^^ row row row the boat $$
@@ -196,7 +198,7 @@
 ^^ what about Mummy car $$
 ^^ it be outside be it $$
 ^^ it be go there $$
-^^    why have it go there $$
+^^ why has it why have it go there $$
 ^^ have it go in the garage $$
 ^^ be your car outside $$
 ^^ yes $$
@@ -250,7 +252,7 @@
 ^^ they be mine be not they $$
 ^^ be you go to leave them there $$
 ^^ be you go to drive a boat $$
-^^   what about these picture you want to look at $$
+^^ what about what about these picture you want to look at $$
 ^^ row row row the boat gentle down the stream $$
 ^^ well you be get there $$
 ^^ row row row the boat gentle $$
@@ -354,7 +356,7 @@
 ^^ a red one $$
 ^^ red one $$
 ^^ it be not red $$
-^^  that be shine silver $$
+^^ that's that be shine silver $$
 ^^ what be that you have get $$
 ^^ oh get some cheese yeah $$
 ^^ do it $$
@@ -364,7 +366,7 @@
 ^^ that will do $$
 ^^ we do not bang thing do we $$
 ^^ come on $$
-^^ shall we build something up with the brick off the  off the train $$
+^^ shall we build something up with the brick off the er off the train $$
 ^^ should we $$
 ^^ a drum $$
 ^^ be those the drum $$
@@ -401,6 +403,7 @@
 ^^ where be your baby $$
 ^^ be that your baby $$
 ^^ what about this $$
+^^ xxx $$
 ^^ what darling $$
 ^^ oh that be your mobile phone be it $$
 ^^ who be you ring up $$
@@ -433,7 +436,7 @@
 ^^ well what about the rest of them $$
 ^^ can you put them all back on there $$
 ^^ can you put them back on in the right order $$
-^^ no   move the box $$
+^^ no take the move the box $$
 ^^ oh look $$
 ^^ who be that $$
 ^^ oh be she cry $$
@@ -504,13 +507,14 @@
 ^^ be you wash her face for her $$
 ^^ hm $$
 ^^ you want to take that off do you $$
+^^ www $$
 ^^ oh no no no $$
 ^^ no no $$
 ^^ she be not go upstairs to bed $$
 ^^ come on $$
 ^^ you put her to bed downstairs if you want to $$
 ^^ you want what $$
-^^   you want the doll to sleep in your bed $$
+^^ you want you want the doll to sleep in your bed $$
 ^^ well no no $$
 ^^ Meg can sleep in your bed can not she $$
 ^^ come on $$
@@ -541,15 +545,15 @@
 ^^ you be go to sleep be you $$
 ^^ come on $$
 ^^ do not you want to come and play with the animal and the lego $$
-^^ what about all  these  dress to put on doll $$
+^^ what about all these these er dress to put on doll $$
 ^^ what about the panda in the car $$
 ^^ come on $$
 ^^ be this car Gumdrop $$
 ^^ be it $$
 ^^ be that Gumdrop $$
 ^^ be it $$
-^^   I think Gumdrop be blue $$
-^^ oh the book be on the table in  in the breakfast room Aran $$
+^^ I thought I think Gumdrop be blue $$
+^^ oh the book be on the table in the in the breakfast room Aran $$
 ^^ well show Anna which one Gumdrop be $$
 ^^ which one Gumdrop $$
 ^^ that be Gumdrop there be not it $$
@@ -631,7 +635,7 @@
 ^^ let us play with these $$
 ^^ what have you get $$
 ^^ oh look $$
-^^ oh look there be another gentleman and    he have get a sweater on have not he $$
+^^ oh look there be another gentleman and he's got a he have get a sweater on have not he $$
 ^^ a multicolored sweater $$
 ^^ be those your ear $$
 ^^ oh look $$
@@ -639,7 +643,7 @@
 ^^ we could make that into a bridge could not we for the car to go under $$
 ^^ hm $$
 ^^ or a dark tunnel $$
-^^ shall we make a dark tunnel      for  the car to go under $$
+^^ shall we make a dark tunnel for the bridge to go for er the car to go under $$
 ^^ a dark tunnel $$
 ^^ that be a bit narrow be not it $$
 ^^ be those your ear $$
@@ -709,7 +713,7 @@
 ^^ will that car go through that tunnel $$
 ^^ or be it a bit too $$
 ^^ oh it will $$
-^^     you have leave two third of your tunnel behind have not you $$
+^^ you've left half your you have leave two third of your tunnel behind have not you $$
 ^^ be it break $$
 ^^ come on $$
 ^^ come and play with Mummy $$
@@ -737,7 +741,7 @@
 ^^ there be no need to eat it Aran $$
 ^^ it be only pretend $$
 ^^ do we go shop this morning $$
-^^ what do we put in our basket  at the  market $$
+^^ what do we put in our basket at at the er market $$
 ^^ hm $$
 ^^ food $$
 ^^ what sort of food $$
@@ -870,7 +874,7 @@
 ^^ let us have a look at you $$
 ^^ oh never mind $$
 ^^ not real hurt be you $$
-^^  where be my big boy $$
+^^ a where be my big boy $$
 ^^ come on $$
 ^^ shall we have a play with this $$
 ^^ pardon $$
@@ -909,6 +913,7 @@
 ^^ we go on the train do not we $$
 ^^ we go to the Thomas_the_Tank_Engine week at Bury $$
 ^^ we go on Thomas_the_Tank_Engine do not we $$
+^^ www $$
 ^^ all right $$
 ^^ come on $$
 ^^ yes well we will have a look at Gumdrop $$
@@ -927,7 +932,7 @@
 ^^ oh I think it be the back of the train be not it $$
 ^^ mhm $$
 ^^ come on $$
-^^   we be build a dark tunnel just a minute ago $$
+^^ we were we be build a dark tunnel just a minute ago $$
 ^^ do you break that $$
 ^^ or do you just take it off perhaps $$
 ^^ yes I think you just take it off do not you $$
@@ -965,11 +970,14 @@
 ^^ do not pull it off Aran $$
 ^^ oh it be a soldier $$
 ^^ yes we like the bus stop do not we $$
+^^ www $$
+^^ www $$
 ^^ be it $$
 ^^ yeah $$
 ^^ Daddy what $$
 ^^ late $$
 ^^ yes he be $$
+^^ www $$
 ^^ oh what be that Aran $$
 ^^ a what $$
 ^^ you come and show Mummy what all these thing be $$
@@ -985,7 +993,7 @@
 ^^ come and show me the pussy cat $$
 ^^ a cat $$
 ^^ and what be the cat do $$
-^^   what do a cat eat $$
+^^ what does what do a cat eat $$
 ^^ it say mieow $$
 ^^ what do it eat $$
 ^^ it do not eat cheese at all $$
@@ -1051,7 +1059,7 @@
 ^^ you need the key to start your boat do you $$
 ^^ be it a sail boat or be it a motor boat $$
 ^^ which $$
-^^ oh   it be a car now be it $$
+^^ oh it's a it be a car now be it $$
 ^^ and what be you ride on this morning $$
 ^^ a tractor $$
 ^^ you like tractor do not you $$
@@ -1082,7 +1090,7 @@
 ^^ Aran $$
 ^^ oh be he go to sit on your knee be he $$
 ^^ you have get your key $$
-^^ be you go to  put it in the ignition and start the boat then $$
+^^ be you go to er put it in the ignition and start the boat then $$
 ^^ where $$
 ^^ oh the lion fall off have not he $$
 ^^ you hold onto the lion then $$
@@ -1104,7 +1112,7 @@
 ^^ I think it be a boat $$
 ^^ oh what be in there $$
 ^^ what be in the garage $$
-^^  what have you put in the garage Aran $$
+^^ what what have you put in the garage Aran $$
 ^^ a car $$
 ^^ and what else $$
 ^^ oh $$
@@ -1127,7 +1135,7 @@
 ^^ will not will not will not will not will not $$
 ^^ it be just too big $$
 ^^ it be just that bite too big be not it $$
-^^ let us see if   this race car will go in Aran $$
+^^ let us see if this um this race car will go in Aran $$
 ^^ you be determine to break it be not you $$
 ^^ come on $$
 ^^ take your hand out for a minute $$
@@ -1170,6 +1178,7 @@
 ^^ can you catch it $$
 ^^ put your hand like that $$
 ^^ that be not the way to catch be it $$
+^^ www $$
 ^^ Daddy throw this do he $$
 ^^ oh there you go $$
 ^^ oh drop it $$
@@ -1182,10 +1191,12 @@
 ^^ that be very noise be not it $$
 ^^ who be this Aran $$
 ^^ be it $$
+^^ a $$
 ^^ be it Syrup $$
 ^^ be it $$
 ^^ be it Syrup $$
 ^^ oh who be that then $$
+^^ www $$
 ^^ come on $$
 ^^ can Syrup catch the bean $$
 ^^ oh I think he can you know $$
@@ -1210,7 +1221,7 @@
 ^^ come on $$
 ^^ no $$
 ^^ will not will not will not will not will not will not $$
-^^  what be Daddy say about jump over there $$
+^^ what's what be Daddy say about jump over there $$
 ^^ right $$
 ^^ that will do now $$
 ^^ that be it $$
@@ -1241,7 +1252,7 @@
 ^^ too much hair come off Syrup $$
 ^^ that be why you could not play with him when you be a little boy be not it $$
 ^^ stop being silly $$
-^^  oh let us have a look at Gumdrop $$
+^^ let's oh let us have a look at Gumdrop $$
 ^^ ssh $$
 ^^ oh who be that $$
 ^^ no we do not do that do we $$
@@ -1278,7 +1289,7 @@
 ^^ now be care with it $$
 ^^ what do you want $$
 ^^ no you can not do the same with the bean can you $$
-^^  where do that go $$
+^^ a where do that go $$
 ^^ Mummy be get it $$
 ^^ ah ah $$
 ^^ no $$
@@ -1302,7 +1313,7 @@
 ^^ can you find me the boat on here $$
 ^^ well pick it out then $$
 ^^ thank_you $$
-^^ and can you find me the  $$
+^^ and can you find me the um $$
 ^^ I have not ask yet $$
 ^^ can you find me the car $$
 ^^ where be the car $$
@@ -1322,7 +1333,7 @@
 ^^ and what be that $$
 ^^ it be not a boat $$
 ^^ it be a helicopter be not it $$
-^^ like the one that you sit on when we  go to the park be not it $$
+^^ like the one that you sit on when we go go to the park be not it $$
 ^^ do you drive that when we go to the park $$
 ^^ drive the helicopter $$
 ^^ and what be that $$
@@ -1435,7 +1446,7 @@
 ^^ do Daddy like apple $$
 ^^ no it be not cheese $$
 ^^ it be a sausage $$
-^^ no that be  $$
+^^ no that be um $$
 ^^ no take it out $$
 ^^ out $$
 ^^ that be right $$
@@ -1444,6 +1455,7 @@
 ^^ no I do not want any of that $$
 ^^ what be go $$
 ^^ oh be you put everything back in the basket now $$
+^^ www $$
 ^^ what have you get there $$
 ^^ oh can I have a ice $$
 ^^ oh that be nice be not it $$
@@ -1495,7 +1507,7 @@
 ^^ give everybody a drink be you $$
 ^^ come on Aran $$
 ^^ which be the green hoop $$
-^^   which be the green one $$
+^^ which is which be the green one $$
 ^^ hm $$
 ^^ where be the green one $$
 ^^ which be the green one $$
@@ -1638,7 +1650,7 @@
 ^^ what be you do $$
 ^^ hm $$
 ^^ your tractor be here wait for you $$
-^^ tractor drive be wait  to mow the lawn be not he $$
+^^ tractor drive be wait to to mow the lawn be not he $$
 ^^ he be down here $$
 ^^ be you go to come and help him $$
 ^^ oh dear $$
@@ -1689,7 +1701,7 @@
 ^^ shall we have a look at this book on Gumdrop then $$
 ^^ well I be go to have a look at it $$
 ^^ well then come and sit next to Mummy $$
-^^ well     I will look at it on my own $$
+^^ well I'll look at it I will look at it on my own $$
 ^^ will not will not will not $$
 ^^ oh who be it then $$
 ^^ and who be this $$
@@ -1728,7 +1740,7 @@
 ^^ shall we see if it will go like this $$
 ^^ if we put it down like that $$
 ^^ oh near near $$
-^^ perhaps nobody will notice that the roof  be not close $$
+^^ perhaps nobody will notice that the roof isn't be not close $$
 ^^ have the truck go to sleep $$
 ^^ pardon $$
 ^^ you be put the truck in your hat be you $$
@@ -1763,6 +1775,7 @@
 ^^ the truck in there $$
 ^^ that be right $$
 ^^ and there be the fire $$
+^^ a $$
 ^^ you do not real hurt yourself do you $$
 ^^ you do not real hurt yourself $$
 ^^ no $$
@@ -1854,7 +1867,7 @@
 ^^ Daddy what $$
 ^^ Daddy do give you the ball but you do have to say please do not you $$
 ^^ come on $$
-^^ where be these  ring to go on there $$
+^^ where be these er ring to go on there $$
 ^^ look $$
 ^^ you have get to choose the big one first $$
 ^^ no $$

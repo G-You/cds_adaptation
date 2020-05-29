@@ -4,7 +4,7 @@
 ^^ two $$
 ^^ big tower $$
 ^^ big tower $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ I want bash $$
 ^^ I want bash $$
 ^^ I bash the tower $$
@@ -13,7 +13,7 @@
 ^^ two three $$
 ^^ two three $$
 ^^ I bash it $$
-^^ one  there $$
+^^ one xxx there $$
 ^^ a monkey $$
 ^^ gorilla $$
 ^^ go $$
@@ -52,8 +52,10 @@
 ^^ again $$
 ^^ break trailer $$
 ^^ brumm $$
+^^ xxx $$
 ^^ trailer $$
 ^^ car pass farm $$
+^^ xxx $$
 ^^ there go $$
 ^^ two man $$
 ^^ a man $$
@@ -75,6 +77,7 @@
 ^^ oh oh $$
 ^^ go $$
 ^^ car go $$
+^^ xxx $$
 ^^ camel $$
 ^^ go the camel $$
 ^^ go the camel $$
@@ -129,11 +132,14 @@
 ^^ again $$
 ^^ Warren do it again $$
 ^^ Warren do it again $$
+^^ xxx $$
 ^^ one $$
 ^^ toy $$
+^^ xxx $$
 ^^ there $$
 ^^ brumm $$
 ^^ monkey $$
+^^ xxx $$
 ^^ brumm $$
 ^^ over the top $$
 ^^ I down the brick $$
@@ -169,17 +175,19 @@
 ^^ dream $$
 ^^ boat gentle $$
 ^^ crocodile $$
+^^ a $$
 ^^ snap snap $$
 ^^ my nose $$
 ^^ it all_gone $$
 ^^ row row row row boat gentle stream $$
 ^^ row row row row boat gentle stream $$
+^^ a $$
 ^^ my nose back $$
 ^^ my nose back $$
 ^^ I move $$
 ^^ carpet $$
 ^^ Mummy up $$
-^^  up $$
+^^ xxx up $$
 ^^ there be a police car $$
 ^^ there be a van $$
 ^^ police van $$
@@ -197,6 +205,7 @@
 ^^ it park $$
 ^^ Warren park $$
 ^^ in the dig $$
+^^ a $$
 ^^ brumm $$
 ^^ Warren this way $$
 ^^ I want balloon $$
@@ -215,7 +224,7 @@
 ^^ in the sky $$
 ^^ in Warren hair $$
 ^^ in the sky $$
-^^ in the  $$
+^^ in the xxx $$
 ^^ in the sky $$
 ^^ box $$
 ^^ crash $$
@@ -224,6 +233,7 @@
 ^^ build tower $$
 ^^ I want tower $$
 ^^ in the car $$
+^^ xxx $$
 ^^ he be park $$
 ^^ brumm $$
 ^^ go $$
@@ -237,6 +247,7 @@
 ^^ there $$
 ^^ there a blue one $$
 ^^ blue there $$
+^^ xxx $$
 ^^ I want a blue one $$
 ^^ wheel $$
 ^^ that one orange $$
@@ -257,6 +268,7 @@
 ^^ break car $$
 ^^ break car $$
 ^^ bash $$
+^^ xxx $$
 ^^ car $$
 ^^ brumm $$
 ^^ two break car $$
@@ -289,7 +301,7 @@
 ^^ break trailer truck $$
 ^^ where trailer $$
 ^^ where trailer $$
-^^   I get the break car $$
+^^ I get I get the break car $$
 ^^ where the break car $$
 ^^ where the $$
 ^^ it broke $$
@@ -297,9 +309,11 @@
 ^^ brumm $$
 ^^ mend $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ down $$
 ^^ oh dear break car $$
 ^^ it mend $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ break car $$
 ^^ it on my ear $$
@@ -320,12 +334,14 @@
 ^^ no $$
 ^^ no $$
 ^^ oh no $$
+^^ xxx $$
 ^^ over bridge $$
 ^^ over the bridge $$
 ^^ neenaw neenaw $$
 ^^ crash $$
 ^^ neenaw neenaw neenaw $$
 ^^ a break car $$
+^^ xxx $$
 ^^ the light $$
 ^^ close $$
 ^^ break car $$
@@ -341,6 +357,8 @@
 ^^ neenaw neenaw $$
 ^^ Warren press $$
 ^^ go brumm $$
+^^ xxx $$
+^^ xxx $$
 ^^ Thomas $$
 ^^ dig go track $$
 ^^ dig go track $$
@@ -353,6 +371,7 @@
 ^^ lift it up $$
 ^^ any brick $$
 ^^ there $$
+^^ xxx $$
 ^^ I can see that one $$
 ^^ there $$
 ^^ there $$
@@ -372,7 +391,7 @@
 ^^ there $$
 ^^ there $$
 ^^ again $$
-^^  that one $$
+^^ er that one $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
@@ -410,12 +429,12 @@
 ^^ wrong way $$
 ^^ oh $$
 ^^ there $$
-^^  that in the box $$
+^^ um that in the box $$
 ^^ another red in the box $$
 ^^ red triangle $$
 ^^ another one $$
 ^^ it go in there $$
-^^  there $$
+^^ xxx there $$
 ^^ on the chair $$
 ^^ no $$
 ^^ it there it be $$
@@ -434,6 +453,7 @@
 ^^ go round $$
 ^^ want car go round $$
 ^^ brumm $$
+^^ xxx $$
 ^^ go cow $$
 ^^ yellow cow $$
 ^^ a yellow cow $$
@@ -471,7 +491,7 @@
 ^^ in the car $$
 ^^ hat $$
 ^^ a Daddy hat $$
-^^ I want  $$
+^^ I want xxx $$
 ^^ I want cow $$
 ^^ I want track $$
 ^^ go crash $$
@@ -487,6 +507,7 @@
 ^^ monkey $$
 ^^ a tiger $$
 ^^ grr $$
+^^ er $$
 ^^ elephant $$
 ^^ Warren look at elephant $$
 ^^ Warren look $$
@@ -503,9 +524,10 @@
 ^^ poor $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ monkey sleep $$
-^^ monkey  $$
+^^ monkey xxx $$
 ^^ go past $$
 ^^ go past $$
 ^^ oh $$
@@ -580,11 +602,13 @@
 ^^ there $$
 ^^ there $$
 ^^ snake $$
-^^   my hat on $$
+^^ um $$
+^^ my hat my hat on $$
 ^^ my hat on $$
 ^^ my hat on $$
 ^^ Warren hat $$
 ^^ it my hat $$
+^^ xxx $$
 ^^ another one $$
 ^^ what be this ladder $$
 ^^ ladder $$
@@ -609,6 +633,7 @@
 ^^ Anna toy $$
 ^^ oh dear $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ this want it on $$
 ^^ I sit there $$
 ^^ Warren sit there $$
@@ -628,6 +653,7 @@
 ^^ there another one $$
 ^^ another one $$
 ^^ another ring $$
+^^ xxx $$
 ^^ mine $$
 ^^ person in trailer $$
 ^^ person in trailer $$
@@ -650,8 +676,8 @@
 ^^ that fit $$
 ^^ lid $$
 ^^ oh $$
-^^     oh dear $$
-^^   oh dear $$
+^^ oh dear oh dear oh dear $$
+^^ oh dear oh dear $$
 ^^ blue one $$
 ^^ there $$
 ^^ there $$
@@ -700,6 +726,7 @@
 ^^ back on $$
 ^^ Warren back on $$
 ^^ there man $$
+^^ xxx $$
 ^^ neenaw neenaw $$
 ^^ neenaw neenaw $$
 ^^ monkey back on $$
@@ -707,6 +734,7 @@
 ^^ there hand $$
 ^^ oooo $$
 ^^ monkey $$
+^^ xxx $$
 ^^ there $$
 ^^ Warren back in $$
 ^^ Warren back in $$
@@ -720,7 +748,7 @@
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ yeah $$
-^^ on the  $$
+^^ on the xxx $$
 ^^ Mummy $$
 ^^ Anna $$
 ^^ Anna $$
@@ -731,7 +759,7 @@
 ^^ where rabbit go $$
 ^^ rabbit asleep $$
 ^^ rabbit asleep $$
-^^ Warren  rabbit $$
+^^ Warren xxx rabbit $$
 ^^ Anna toy $$
 ^^ all go in field $$
 ^^ Mummy do it $$

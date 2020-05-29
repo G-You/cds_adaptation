@@ -20,6 +20,7 @@
 ^^ be it a bit hot $$
 ^^ shall I blow on it $$
 ^^ oh I have get hot have I $$
+^^ mm $$
 ^^ can I have a hot biscuit please $$
 ^^ okay $$
 ^^ oh thank_you $$
@@ -92,7 +93,7 @@
 ^^ if you be cook the tea you can touch the hot pan $$
 ^^ as long as you touch it by the handle $$
 ^^ ow $$
-^^  what be in the hot pan $$
+^^ what's what be in the hot pan $$
 ^^ be it my chip $$
 ^^ well I hope my chip be not get cold $$
 ^^ they be get hot $$
@@ -150,7 +151,7 @@
 ^^ there be no puzzle in there $$
 ^^ oh maybe there be $$
 ^^ well you just stay in there and make Anna another cup of tea while I go and look for the other puzzle $$
-^^  I do not think so but we will look in the bag later $$
+^^ um I do not think so but we will look in the bag later $$
 ^^ be this the puzzle you be after $$
 ^^ the fish puzzle $$
 ^^ in the squash box $$
@@ -173,7 +174,7 @@
 ^^ right $$
 ^^ now then $$
 ^^ what else be we look for $$
-^^  can you see a little $$
+^^ um can you see a little $$
 ^^ oh no $$
 ^^ I can not real describe that $$
 ^^ no $$
@@ -192,7 +193,7 @@
 ^^ it be also get the mermaid hair on it $$
 ^^ her long golden hair $$
 ^^ can you see somebody hair $$
-^^ with   a tortoise at the top $$
+^^ with a turtle a tortoise at the top $$
 ^^ where be the mermaid hair $$
 ^^ it be this little bit you be look for here $$
 ^^ can you see some piece that look like that $$
@@ -203,7 +204,7 @@
 ^^ you be look for one of those $$
 ^^ can you see one of those $$
 ^^ Warren $$
-^^  no $$
+^^ no no $$
 ^^ that be right there $$
 ^^ you leave that there $$
 ^^ no $$
@@ -232,7 +233,7 @@
 ^^ the mermaid $$
 ^^ she be the mermaid $$
 ^^ mermaid be very special $$
-^^   instead of leg $$
+^^ they've got instead of leg $$
 ^^ yeah $$
 ^^ you be look for that bit there $$
 ^^ and she be get a tail like a fish $$
@@ -270,7 +271,7 @@
 ^^ we be look for that one as_well $$
 ^^ we be look for the fish tail and the green sea $$
 ^^ let us have a look at the piece we have get $$
-^^  what be that $$
+^^ er what be that $$
 ^^ what be that $$
 ^^ that be it $$
 ^^ so we have get two piece leave $$
@@ -308,7 +309,7 @@
 ^^ do you know what that be $$
 ^^ it be in your a book $$
 ^^ it be a anchor $$
-^^  you be careful $$
+^^ er you be careful $$
 ^^ you might bash your head on something $$
 ^^ like my arm or the corner of that table $$
 ^^ what be you do $$
@@ -344,7 +345,7 @@
 ^^ where be the garage $$
 ^^ be it just over there $$
 ^^ I do not think it be go anywhere $$
-^^   no $$
+^^ no no no $$
 ^^ you stay here Warren $$
 ^^ there be not a garage $$
 ^^ Warren $$
@@ -379,12 +380,12 @@
 ^^ why do not you put the other knife and saucer in $$
 ^^ oh there be another knife there as_well $$
 ^^ a blue knife $$
-^^  I be not sure that be a good idea $$
+^^ um I be not sure that be a good idea $$
 ^^ it be suppose to be able to withstand a elephant stand on it so it might be able to cope with you $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ you can sit on it I suppose $$
 ^^ well the thing be you see you might fall off it and hurt yourself $$
-^^ or you might fall backwards into this and get your bottom wedge     in the dump bit $$
+^^ or you might fall backwards into this and get your bottom wedge in the dumper truck in the dump bit $$
 ^^ and then you will not be able to move $$
 ^^ you genmod have to spend the rest of your life with a dump truck wedge round your bottom $$
 ^^ and then you genmod look silly $$
@@ -477,7 +478,7 @@
 ^^ that go over there like that $$
 ^^ she be get tangle hair have not she Warren $$
 ^^ trouser $$
-^^    oh she have get trouser have not she $$
+^^ I don't think oh she have get trouser have not she $$
 ^^ do you like this dress $$
 ^^ be it a nice one $$
 ^^ oy $$
@@ -519,7 +520,7 @@
 ^^ on Sunday you go on the train do not you $$
 ^^ it be not real a special train $$
 ^^ be not a train like this one though be it $$
-^^   it be a electric train be not it that you go on $$
+^^ was it it be a electric train be not it that you go on $$
 ^^ I think the elephant will fit in $$
 ^^ there $$
 ^^ which man $$
@@ -581,7 +582,7 @@
 ^^ my_goodness $$
 ^^ lot be not there $$
 ^^ I be sure it feel safe have baby tiger in with the horse and cow $$
-^^    let us put the monkey on the side $$
+^^ shall we put let us put the monkey on the side $$
 ^^ what be he do that monkey $$
 ^^ mhm $$
 ^^ oh that be nice $$
@@ -618,7 +619,7 @@
 ^^ and then you can close it again to make sure the other animal do not escape $$
 ^^ and they be all stand here look over $$
 ^^ because they want to come out too $$
-^^ oh   they have go to sleep I think $$
+^^ oh they're fall they have go to sleep I think $$
 ^^ what have they be drink $$
 ^^ oh no $$
 ^^ they be escape $$
@@ -652,7 +653,7 @@
 ^^ Warren $$
 ^^ come back $$
 ^^ no $$
-^^   you come and bring the baby tiger back $$
+^^ you put you come and bring the baby tiger back $$
 ^^ there you go $$
 ^^ I think if Anna baby tiger have be naughty you genmod good put it back in the box $$
 ^^ and if it be your baby tiger that be be naughty you genmod good put it back in your box $$
@@ -692,7 +693,7 @@
 ^^ be it $$
 ^^ that be your jacket $$
 ^^ it be inside out $$
-^^   oh there be your basket $$
+^^ where's your oh there be your basket $$
 ^^ do not tip all the thing out_of the basket sweet $$
 ^^ this be a love basket be not it $$
 ^^ have it $$
@@ -701,6 +702,7 @@
 ^^ there be sausage $$
 ^^ and little orange $$
 ^^ and strawberry $$
+^^ mm $$
 ^^ delicious $$
 ^^ okay $$
 ^^ shall I hold your card so you can put it on $$
@@ -717,7 +719,7 @@
 ^^ it be still back to front but at least it be straight $$
 ^^ be that a nice helmet you be wear $$
 ^^ just come here so Mummy can $$
-^^   no $$
+^^ no no no $$
 ^^ you do not stand on that because you might break it $$
 ^^ no $$
 ^^ my_goodness $$
@@ -729,12 +731,12 @@
 ^^ I do not think so $$
 ^^ oh $$
 ^^ my hat come off $$
-^^ this hat be comfy   than the hat you have get $$
+^^ this hat be comfy than your than the hat you have get $$
 ^^ probable because this hat cost more than your hat $$
 ^^ oh $$
 ^^ that will hurt your nose pet $$
 ^^ you want Mummy to wear that $$
-^^   no $$
+^^ no no no $$
 ^^ I do not think we will bang hat like that $$
 ^^ pardon $$
 ^^ can you just come here $$
@@ -814,16 +816,18 @@
 ^^ well if you go on the tunnel it be more like a bridge real $$
 ^^ it be a move tunnel $$
 ^^ it tickle $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ that tickle $$
+^^ a $$
 ^^ not on the hair $$
 ^^ not on the hair $$
+^^ a $$
 ^^ get you $$
 ^^ be I a tip lorry now $$
-^^      tip $$
+^^ tip tip tip tip tip tip $$
 ^^ I will be a bulldoze shall I $$
 ^^ I will be a bulldoze and bulldoze you out_of the way $$
-^^   bulldoze $$
+^^ bulldoze bulldoze bulldoze $$
 ^^ no $$
 ^^ do not throw the car $$
 ^^ that be not race if you throw it $$
@@ -849,6 +853,7 @@
 ^^ and then you push it into his hand like that $$
 ^^ it be quite hard $$
 ^^ what be you do $$
+^^ a $$
 ^^ now you put it back on $$
 ^^ you need to move his arm forward a little bit $$
 ^^ that be it $$
@@ -949,7 +954,7 @@
 ^^ oh look $$
 ^^ what be that teddy do $$
 ^^ that be right $$
-^^ and   what be that $$
+^^ and what is what be that $$
 ^^ what be in the pot $$
 ^^ what do Pooh bear eat $$
 ^^ what do Pooh bear eat in tree $$
@@ -996,10 +1001,11 @@
 ^^ oh look at these delicious cake $$
 ^^ and that delicious piece of cheese $$
 ^^ and that delicious pie $$
+^^ mm $$
 ^^ well that be the cheese cut up into piece $$
 ^^ divide into three piece because there be three piece $$
 ^^ one two three $$
-^^ yeah well  that bit be color in and that be yellow $$
+^^ yeah well that that bit be color in and that be yellow $$
 ^^ because the other two piece have be take away $$
 ^^ that bit be go $$
 ^^ that bit be eat by somebody I think $$
@@ -1010,7 +1016,7 @@
 ^^ let us wipe your nose $$
 ^^ you blow down your nose $$
 ^^ good boy $$
-^^  you tell me what it be $$
+^^ tell you tell me what it be $$
 ^^ you know what it be $$
 ^^ that be right $$
 ^^ it be a lady with the dairy $$
@@ -1033,7 +1039,7 @@
 ^^ what that $$
 ^^ oh yes $$
 ^^ oh no $$
-^^ oh   gross $$
+^^ oh gross gross gross $$
 ^^ Warren $$
 ^^ I think you be catch a cold be not you my love $$
 ^^ oh you horrid boy $$
@@ -1060,7 +1066,7 @@
 ^^ that be right $$
 ^^ he be write number down $$
 ^^ because person be probable $$
-^^ well  he be work out a sum use his calculator $$
+^^ well he's he be work out a sum use his calculator $$
 ^^ mhm $$
 ^^ do not just keep say what be that $$
 ^^ tell me what $$
@@ -1113,7 +1119,7 @@
 ^^ right $$
 ^^ what be you go to bring Mummy for her tea $$
 ^^ fish and chip $$
-^^    tell you what we could do $$
+^^ tell you what tell you what we could do $$
 ^^ we could put the food on top of this box and you could choose it could not you $$
 ^^ let us put the food on here $$
 ^^ you can see a selection can not you of what you want to buy $$
@@ -1121,6 +1127,7 @@
 ^^ and put them in your basket $$
 ^^ oh I do not think I will put those in the shop $$
 ^^ I think I will just eat these $$
+^^ mm $$
 ^^ right $$
 ^^ be you go to do some shop $$
 ^^ what be you go to buy $$
@@ -1151,7 +1158,7 @@
 ^^ oh I do not know $$
 ^^ what be they $$
 ^^ it be in the box $$
-^^   shall I get a cup out_of your tea set $$
+^^ shall we shall I get a cup out_of your tea set $$
 ^^ let us find you a cup and saucer shall we $$
 ^^ yeah $$
 ^^ you pour the milk in $$
@@ -1219,7 +1226,7 @@
 ^^ not on me $$
 ^^ be you pour milk on your plate $$
 ^^ no $$
-^^  that be a plate $$
+^^ that's that be a plate $$
 ^^ that be not a cup and saucer $$
 ^^ well you normal drink yours when you have give other person theirs first $$
 ^^ I have get a plate here $$
@@ -1241,7 +1248,7 @@
 ^^ that be not what you use for wash $$
 ^^ leave that alone $$
 ^^ do not touch this $$
-^^        shall I $$
+^^ shall I go and get you some shall I $$
 ^^ I will go and find you something to do some wash with $$
 ^^ you go and pour Anna cup of tea $$
 ^^ and then I will bring you something to do the wash up with $$
@@ -1250,15 +1257,15 @@
 ^^ whoops $$
 ^^ be that saucer clean $$
 ^^ oh $$
-^^   shall I pass you this cup to wash as_well $$
+^^ shall I shall I pass you this cup to wash as_well $$
 ^^ right $$
-^^ there be     a cup and plate to be wash up as well $$
+^^ there be a cup and saucer a cup and plate to be wash up as well $$
 ^^ you do do not you $$
 ^^ oh $$
 ^^ be you go to wash Mummy plate $$
 ^^ because she be eat all her food $$
 ^^ what else $$
-^^    what else want wash $$
+^^ what else needs what else want wash $$
 ^^ do the tea pot need wash $$
 ^^ that be nice and clean $$
 ^^ do Warren foot need wash $$
@@ -1316,7 +1323,7 @@
 ^^ oh $$
 ^^ how be you go to pay for your shop then $$
 ^^ how be you go to pay for your shop with no money $$
-^^    be there somebody we can phone $$
+^^ shall we phone be there somebody we can phone $$
 ^^ shall we phone Daddy and see if he will come and lend you some $$
 ^^ mhm $$
 ^^ because you have to pay do not you $$
@@ -1380,7 +1387,7 @@
 ^^ what be it $$
 ^^ no $$
 ^^ do not $$
-^^   no $$
+^^ no no no $$
 ^^ no $$
 ^^ Warren $$
 ^^ you must not do that $$
@@ -1452,7 +1459,7 @@
 ^^ well that be because $$
 ^^ well you do not bite it please $$
 ^^ there be a orange in the sugar bowl $$
-^^   oh no $$
+^^ oh no oh no $$
 ^^ what shall we do $$
 ^^ what if I want a spoon of sugar in my tea $$
 ^^ be you go to drink the orange $$
@@ -1579,7 +1586,7 @@
 ^^ can you remember what happen there $$
 ^^ that be right $$
 ^^ Little_Bear take his hand off do not he to wave $$
-^^ and   Jolly_tall see   how high up he be $$
+^^ and Jolly_tall saw Jolly_tall see how tall how high up he be $$
 ^^ he get frighten and he thrash about and Little_Bear fly across the room do not he $$
 ^^ well yeah $$
 ^^ yeah $$
@@ -1630,6 +1637,7 @@
 ^^ you help to make banana cake do not you on Sunday $$
 ^^ oh a piece of cake $$
 ^^ love $$
+^^ mm $$
 ^^ no $$
 ^^ come back from the shop $$
 ^^ the shop be close because it be Wednesday afternoon $$
@@ -1751,7 +1759,7 @@
 ^^ well go and trump $$
 ^^ do it somewhere else $$
 ^^ you be just a embarrass child $$
-^^     no $$
+^^ no no no no no $$
 ^^ just in_case $$
 ^^ just in_case something else come out with it I think you genmod good sit on the pot $$
 ^^ we be take you out for the day on Saturday $$
@@ -1824,7 +1832,7 @@
 ^^ oh no $$
 ^^ be you go to put Humpty back together again $$
 ^^ why do not you put him back together on the wall $$
-^^ then    he can always fall down again $$
+^^ then he can always he can always fall down again $$
 ^^ oh $$
 ^^ make a fun noise be not it $$
 ^^ why do not you do it on the floor then it will make less noise $$
@@ -1848,10 +1856,10 @@
 ^^ poor Humpty $$
 ^^ well you put Humpty back together then you can do it again $$
 ^^ well I will put his body on $$
-^^     you can put his tie on next $$
-^^ l for  loll $$
+^^ why don't you put you can put his tie on next $$
+^^ l for um loll $$
 ^^ I do not think I know anybody whose name begin with l $$
-^^ and then there be    a g for Granddad $$
+^^ and then there be a g for a g for Granddad $$
 ^^ a o for orange $$
 ^^ that be a g for Granddad $$
 ^^ and that be the o for orange $$
@@ -1905,12 +1913,13 @@
 ^^ you can put whatever you like on it I guess $$
 ^^ oh yeah $$
 ^^ what color be it $$
+^^ xxx $$
 ^^ why do not you leave the man on $$
 ^^ whoops $$
 ^^ do you want to sit on your pot to do it $$
 ^^ okay then $$
 ^^ stand up $$
-^^ be you go to   pull your trouser and pant down $$
+^^ be you go to take your pull your trouser and pant down $$
 ^^ yes you can $$
 ^^ yes you can $$
 ^^ they be half way down already $$
@@ -1942,7 +1951,7 @@
 ^^ you look like one of those little Yorkshire terrier $$
 ^^ oh Shirley_Temple eat your heart out $$
 ^^ you look a right duck $$
-^^    look in the television $$
+^^ look in the look in the television $$
 ^^ look at your hair with your bow $$
 ^^ can you see it $$
 ^^ you look just like Shirley_Temple $$
@@ -1957,7 +1966,7 @@
 ^^ I will do this $$
 ^^ you have do it up nice and tight $$
 ^^ be you go to choose something for the doll to wear $$
-^^ so you should be  $$
+^^ so you should be xxx $$
 ^^ choose something for the doll to wear please $$
 ^^ well make a field then $$
 ^^ there be the big board $$
@@ -1985,7 +1994,7 @@
 ^^ let us fasten her up $$
 ^^ Warren $$
 ^^ you be too fickle $$
-^^     can you find her sandal in the box do you think $$
+^^ do you know where can you find her sandal in the box do you think $$
 ^^ not candle $$
 ^^ sandal $$
 ^^ they be little shoe $$
@@ -2104,7 +2113,7 @@
 ^^ I hope that car be not go to drive over my leg $$
 ^^ be it $$
 ^^ oh no $$
-^^  help $$
+^^ help help $$
 ^^ hello panda $$
 ^^ be he wave back $$
 ^^ that be nice $$

@@ -39,7 +39,7 @@
 ^^ what be that $$
 ^^ it be not a dog $$
 ^^ it be a bear $$
-^^ I know it look like a dog because    it be on four leg be not it $$
+^^ I know it look like a dog because it's it's got it be on four leg be not it $$
 ^^ oh look $$
 ^^ yes it be a tiger be not it $$
 ^^ what be that $$
@@ -63,7 +63,7 @@
 ^^ what be that one $$
 ^^ do you want your rat book $$
 ^^ there we be $$
-^^     what be they $$
+^^ where are all the what be they $$
 ^^ yes they be mouse not rat be they $$
 ^^ do not you want that one $$
 ^^ oh what be that lady get $$
@@ -101,7 +101,7 @@
 ^^ be we go out for the day $$
 ^^ we be go on the train be we $$
 ^^ well I think you need the fill do not you $$
-^^ oh you be just  take the bit and piece be you $$
+^^ oh you be just taking take the bit and piece be you $$
 ^^ to make the sandwich when you get there $$
 ^^ where be we go on the train $$
 ^^ hm $$
@@ -156,6 +156,7 @@
 ^^ what do they do $$
 ^^ yeah $$
 ^^ what do he put in the dust $$
+^^ www $$
 ^^ sack he put in do not he $$
 ^^ he throw them in do not he $$
 ^^ on the rubbish cart do not he $$
@@ -183,8 +184,8 @@
 ^^ what be the train call $$
 ^^ be that how it go $$
 ^^ choo $$
-^^ no    you do not need to go to the bus stop do you if you be get the train $$
-^^ have we get the bus to get to  the station $$
+^^ no you don't need you do not need to go to the bus stop do you if you be get the train $$
+^^ have we get the bus to get to the the station $$
 ^^ have we $$
 ^^ be that what we be do $$
 ^^ hm $$
@@ -221,12 +222,12 @@
 ^^ how many $$
 ^^ so you be give them all to the bus drive be you $$
 ^^ have you give him too much $$
-^^    where be you go $$
+^^ where are you where be you go $$
 ^^ hm $$
 ^^ no you can not stand on that one can you $$
 ^^ this will have to be your $$
 ^^ come on $$
-^^    let us make this into your boat $$
+^^ let's make this let us make this into your boat $$
 ^^ what be you go to do now $$
 ^^ you be hot be you $$
 ^^ I be not surprise race around like that $$
@@ -280,7 +281,7 @@
 ^^ what else get wet $$
 ^^ hm $$
 ^^ what do you drop in the water $$
-^^ no this one be the boat darling because that one be  not strong enough $$
+^^ no this one be the boat darling because that one be not not strong enough $$
 ^^ well you can have it out but it be not real strong enough to be a boat be it $$
 ^^ Daddy tell you that do not he $$
 ^^ he say that one be not strong enough $$
@@ -406,7 +407,7 @@
 ^^ what about this one $$
 ^^ will that one do $$
 ^^ you need a book $$
-^^    I think you be the engine drive $$
+^^ I thought you I think you be the engine drive $$
 ^^ you do not need a ticket do you $$
 ^^ be we set off again now $$
 ^^ be that your only passenger $$
@@ -422,11 +423,11 @@
 ^^ we be go to be here forever if you do not blow the whistle first the train to move be not we $$
 ^^ oh the train want clean do it first $$
 ^^ before we move off $$
-^^ be you go to shine up    all the brass $$
+^^ be you go to shine up all the er all the brass $$
 ^^ be that what you be do $$
 ^^ do teddy want a shine too $$
 ^^ that be not a book $$
-^^  that be a little radio be not it $$
+^^ that's that be a little radio be not it $$
 ^^ be it go with you in_case you need some music on the train $$
 ^^ right we be off be we now $$
 ^^ where be we go $$
@@ -476,7 +477,7 @@
 ^^ you have get to make the train noise have not you $$
 ^^ no brass darling $$
 ^^ it be brass on the outside of train $$
-^^ it be grass  on the lawn be not it $$
+^^ it be grass on on the lawn be not it $$
 ^^ be that nice and clean now $$
 ^^ be it $$
 ^^ be you go to put your dust away $$
@@ -509,7 +510,7 @@
 ^^ you be not used to dress be you $$
 ^^ Mummy do not often wear a dress do she $$
 ^^ not with you around $$
-^^  you have not pull doll hair have you $$
+^^ a you have not pull doll hair have you $$
 ^^ oh poor doll $$
 ^^ yeah she be go to cry be not she $$
 ^^ she be go to cry $$
@@ -518,6 +519,7 @@
 ^^ oh she be come in your boat with you be she $$
 ^^ mhm $$
 ^^ what be she call $$
+^^ a $$
 ^^ do you think she be a bit seasick with all that rock the boat $$
 ^^ do you $$
 ^^ do you think perhaps she do not feel well $$
@@ -550,7 +552,7 @@
 ^^ pardon $$
 ^^ what be it you want $$
 ^^ it be not a ball $$
-^^   it be a aubergine I think $$
+^^ it's an it be a aubergine I think $$
 ^^ be it $$
 ^^ be it a grape or a plum $$
 ^^ that be it $$
@@ -564,7 +566,7 @@
 ^^ be you $$
 ^^ that be your shop basket be it $$
 ^^ be you go to put all your shop in it $$
-^^  be you give doll a kiss $$
+^^ a be you give doll a kiss $$
 ^^ that be nice of you be not it $$
 ^^ be she your friend $$
 ^^ hm $$
@@ -620,7 +622,8 @@
 ^^ yes $$
 ^^ you want some help do you $$
 ^^ all right $$
-^^ see   she be get one shoe on have not she $$
+^^ www $$
+^^ see she's got she be get one shoe on have not she $$
 ^^ one shoe on $$
 ^^ one shoe $$
 ^^ do you want her to wear this do you $$
@@ -676,7 +679,7 @@
 ^^ all your passenger $$
 ^^ right we will take those out $$
 ^^ take those out $$
-^^  where be teddy go $$
+^^ where's where be teddy go $$
 ^^ be you go to bed $$
 ^^ hm $$
 ^^ be you tire $$
@@ -728,6 +731,7 @@
 ^^ have you drop him down the side of the bed $$
 ^^ pardon $$
 ^^ yes there be a lady there $$
+^^ www $$
 ^^ oh where be Percy $$
 ^^ that be not Daddy $$
 ^^ Daddy read it to you do he $$
@@ -780,7 +784,7 @@
 ^^ what be it $$
 ^^ a fish yeah $$
 ^^ a fish $$
-^^  it be a stream be not it $$
+^^ that's it be a stream be not it $$
 ^^ and that be a big pool with some fish in it $$
 ^^ a fish pond $$
 ^^ what be that $$
@@ -858,6 +862,7 @@
 ^^ oh you do not need your bang bang $$
 ^^ where be it $$
 ^^ where $$
+^^ www $$
 ^^ all right darling $$
 ^^ Mummy will get it $$
 ^^ you be go to get your bang bang be you $$
@@ -972,7 +977,7 @@
 ^^ what be you do now $$
 ^^ be you have a look $$
 ^^ be there a light there $$
-^^  no there be not a light $$
+^^ um no there be not a light $$
 ^^ that be my tape record $$
 ^^ what be go $$
 ^^ oh the man next $$
@@ -980,6 +985,7 @@
 ^^ have he take the dog with him $$
 ^^ hm $$
 ^^ the man next $$
+^^ www $$
 ^^ what do the dog say to you Aran $$
 ^^ do he come with his dog $$
 ^^ good_night $$
@@ -1015,6 +1021,7 @@
 ^^ come on $$
 ^^ show Anna you new sock with the elephant on $$
 ^^ oh very nice $$
+^^ xxx $$
 ^^ all the way from France those be be not they $$
 ^^ not that it make any difference to you $$
 ^^ oh $$
@@ -1023,7 +1030,7 @@
 ^^ Eve buy them for you do she $$
 ^^ Eve buy them $$
 ^^ oh I be glad you remember that $$
-^^   what do you learn to say   in the shop this morning $$
+^^ what did what do you learn to say in the in the shop this morning $$
 ^^ hm $$
 ^^ in the bread shop this morning $$
 ^^ what do that gentleman say to you $$
@@ -1047,6 +1054,7 @@
 ^^ sometimes they be late so we have to wait a long time for them do not we $$
 ^^ but that be tomorrow morning be not it $$
 ^^ when you wake up you will be able to look out_of the window and watch the dust $$
+^^ www $$
 ^^ say good morning $$
 ^^ that be what that gentleman say to you and you say it to everybody this morning do not you $$
 ^^ you say it to Grandma do not you $$
@@ -1161,7 +1169,7 @@
 ^^ who be it $$
 ^^ look at that $$
 ^^ there be a coat $$
-^^ yes it be get  button $$
+^^ yes it be get holes button $$
 ^^ go on $$
 ^^ let us put it on the end there $$
 ^^ all these pretty picture $$
@@ -1175,7 +1183,7 @@
 ^^ and you have some of my apple do not you $$
 ^^ what be these $$
 ^^ what be they $$
-^^    I be not sure this be $$
+^^ I'm not sure I be not sure this be $$
 ^^ that be a whale be not it $$
 ^^ your sponge upstairs be a whale be not it $$
 ^^ there be another little fish $$
@@ -1198,12 +1206,13 @@
 ^^ it be eat carrot be not it $$
 ^^ oh who be that $$
 ^^ who be it $$
+^^ xxx $$
 ^^ be not you go to look at all these pretty picture now Mummy put them together for you $$
 ^^ you be only interest in the dig on the back of there $$
 ^^ thought as much $$
 ^^ which one $$
 ^^ which one have you get $$
-^^ you have get this one with the long arm on  have not you $$
+^^ you have get this one with the long arm on haven't have not you $$
 ^^ it be a Priestman be not it $$
 ^^ that be not for dance on Aran $$
 ^^ come on $$
@@ -1234,7 +1243,7 @@
 ^^ and enjoy it $$
 ^^ not walk on it $$
 ^^ come on $$
-^^  it be a floor puzzle $$
+^^ it's it be a floor puzzle $$
 ^^ it be not the floor $$
 ^^ do it feel nice $$
 ^^ can you skate on it $$
@@ -1262,7 +1271,7 @@
 ^^ you get too excite $$
 ^^ come on $$
 ^^ come on $$
-^^  let us have a look at your new book $$
+^^ let's let us have a look at your new book $$
 ^^ we have not look at this one $$
 ^^ what be it $$
 ^^ it be a train be not it $$
@@ -1274,6 +1283,7 @@
 ^^ and you get dirty do not you because it be a steam train $$
 ^^ and it blow all bit of coal and stuff all over you $$
 ^^ that be Daddy wild idea $$
+^^ www $$
 ^^ come on $$
 ^^ let us have a look at this book $$
 ^^ calm down $$
@@ -1318,7 +1328,7 @@
 ^^ pardon $$
 ^^ yes the man sit there and he operate the control and this be the crane be not it $$
 ^^ Daddy take the hook off the end do not he $$
-^^    in_case you lose it or cause a accident with it $$
+^^ in_case you er in_case you lose it or cause a accident with it $$
 ^^ so what be he use the crane for $$
 ^^ hm $$
 ^^ turn it back $$
@@ -1329,7 +1339,7 @@
 ^^ there we be $$
 ^^ that be how high it go be not it $$
 ^^ yes all your toy be there $$
-^^   what about make us a cup of tea Aran $$
+^^ what about what about make us a cup of tea Aran $$
 ^^ be you go to make us a cup of tea and a sandwich $$
 ^^ could you do that $$
 ^^ hm $$
@@ -1483,7 +1493,7 @@
 ^^ mhm $$
 ^^ I hope you be not go to spoil it by dance on it $$
 ^^ come on $$
-^^ be there any tea leave   in the cup for me $$
+^^ be there any tea leave in the in the cup for me $$
 ^^ be there $$
 ^^ be it all_gone or be there a little bit leave $$
 ^^ hm $$
@@ -1501,7 +1511,7 @@
 ^^ you give teddy a drink $$
 ^^ oh that be nice be not it $$
 ^^ very thirst be not he $$
-^^  be you go to cuddle teddy $$
+^^ a be you go to cuddle teddy $$
 ^^ do you like teddy $$
 ^^ hm $$
 ^^ yes your Ted $$
@@ -1514,7 +1524,7 @@
 ^^ what be they $$
 ^^ yes $$
 ^^ knickers be not they $$
-^^  I think those be actual trouser be not they $$
+^^ that I think those be actual trouser be not they $$
 ^^ so what be this $$
 ^^ what be this $$
 ^^ that be a dress be not $$
@@ -1548,6 +1558,7 @@
 ^^ bunny will put his arm round her $$
 ^^ sorry you be cry doll $$
 ^^ because that naughty Aran pull your hair $$
+^^ a $$
 ^^ yes she be get a love bow in her hair $$
 ^^ shall we tie it nice like that $$
 ^^ oh no do not do that $$
@@ -1559,9 +1570,9 @@
 ^^ that be nice be not it $$
 ^^ that be nice $$
 ^^ oh no we do not do that $$
-^^  she be cry yes $$
+^^ a she be cry yes $$
 ^^ will not will not will not will not will not will not will not will not will not $$
-^^  poor doll $$
+^^ a poor doll $$
 ^^ you want to give doll a kiss do you $$
 ^^ pull hair $$
 ^^ yes we know $$
@@ -1612,7 +1623,7 @@
 ^^ well be the giraffe go to drive the car now $$
 ^^ be it $$
 ^^ look at this $$
-^^  doll genmod like some banana will not she $$
+^^ dolly doll genmod like some banana will not she $$
 ^^ she be go to eat some banana now be not she $$
 ^^ a man sit there do he $$
 ^^ yes you have put the little man in the car have you $$
@@ -1637,7 +1648,7 @@
 ^^ oh dear $$
 ^^ he be not do very well be he $$
 ^^ never mind $$
-^^     shall we let him drive the car instead $$
+^^ shall we let him shall we let him drive the car instead $$
 ^^ oh man sit there $$
 ^^ well you put a man in then $$
 ^^ you find a man $$
@@ -1660,7 +1671,7 @@
 ^^ shall we put them on here $$
 ^^ stand them up on here $$
 ^^ see if they will stand up on here $$
-^^ we will make  a corral for the wild animal $$
+^^ we will make a a corral for the wild animal $$
 ^^ there we be $$
 ^^ be careful please $$
 ^^ no Wurzel be not go to touch that be he $$
@@ -1674,6 +1685,7 @@
 ^^ what $$
 ^^ shall we feed him on banana $$
 ^^ yes I know there be a fly there darling but if you could just ignore it it genmod be very help $$
+^^ www $$
 ^^ no you do not need to clean the fly off $$
 ^^ it be not dead yet $$
 ^^ come on $$
@@ -1701,7 +1713,7 @@
 ^^ nothing need clean do it $$
 ^^ what be you go to clean then $$
 ^^ be you clean window $$
-^^ well we  have not get rid of this wretched fly yet have we $$
+^^ well we haven't have not get rid of this wretched fly yet have we $$
 ^^ can not we do something else $$
 ^^ it might fly off might not it $$
 ^^ it might appear $$
@@ -1736,7 +1748,7 @@
 ^^ well we do not need to wipe the floor because there be nothing on the floor that need wipe up be there $$
 ^^ a fly fly onto the floor do it $$
 ^^ and it get squash $$
-^^ be you go to have a look at this new book that your  other Auntie give you $$
+^^ be you go to have a look at this new book that your Auntie other Auntie give you $$
 ^^ come on $$
 ^^ what be that $$
 ^^ what be it $$
@@ -1767,10 +1779,11 @@
 ^^ underneath that flower $$
 ^^ oh they be caterpillar be not they $$
 ^^ caterpillar $$
+^^ a $$
 ^^ munch munch munch munch munch $$
 ^^ and that be a butter be not it $$
 ^^ that be a frog $$
-^^   oh do not bend it like that $$
+^^ no don't oh do not bend it like that $$
 ^^ ribbet ribbet ribbet $$
 ^^ those be caterpillar $$
 ^^ and that be a woodpecker be not it $$
@@ -1785,6 +1798,7 @@
 ^^ oh just feel that $$
 ^^ it be soft $$
 ^^ you stroke the doll $$
+^^ a $$
 ^^ yes that be green $$
 ^^ yes you be right $$
 ^^ that be green $$
@@ -1793,6 +1807,7 @@
 ^^ it be not $$
 ^^ red $$
 ^^ second favorite $$
+^^ a $$
 ^^ and what color be that cycle $$
 ^^ red well do $$
 ^^ that be clever be not it $$
@@ -1852,7 +1867,7 @@
 ^^ I bet you do not know what that be $$
 ^^ it be not a banana be it $$
 ^^ there be the banana $$
-^^ well we do not   we do not eat them $$
+^^ well we do not we don't we do not eat them $$
 ^^ they be only pretend one be not they $$
 ^^ what be that one $$
 ^^ it be a orange be not it $$
@@ -1885,7 +1900,7 @@
 ^^ look $$
 ^^ we have get all these egg $$
 ^^ all these egg that go in the egg box $$
-^^ oh and  here be another apple $$
+^^ oh and here here be another apple $$
 ^^ and there be your real favorite $$
 ^^ grape $$
 ^^ grape $$
@@ -1898,6 +1913,7 @@
 ^^ in a bread roll $$
 ^^ what be sore $$
 ^^ be your leg sore $$
+^^ www $$
 ^^ oh a car $$
 ^^ be we go to look at these book then since you have bring them downstairs $$
 ^^ shall we have a look at this one $$
@@ -1931,6 +1947,7 @@
 ^^ what be it $$
 ^^ you say it be hot do not you $$
 ^^ yes $$
+^^ www $$
 ^^ well there be not any grass there be there actual $$
 ^^ he start to look for some food $$
 ^^ what sort of food have we get $$
@@ -1942,7 +1959,7 @@
 ^^ they be not be they $$
 ^^ they be pear $$
 ^^ hm $$
-^^   that be not your boat darling $$
+^^ that's not that be not your boat darling $$
 ^^ your boat be here $$
 ^^ this be your boat $$
 ^^ this one $$
@@ -1950,7 +1967,7 @@
 ^^ let us go in the red boat should we $$
 ^^ where be you sail to $$
 ^^ to see Nanny $$
-^^ oh well be you sure  that the river will take you to see Nanny on the sea $$
+^^ oh well be you sure that that the river will take you to see Nanny on the sea $$
 ^^ hm $$
 ^^ yes it will $$
 ^^ right oh well $$
@@ -2020,9 +2037,9 @@
 ^^ a boat $$
 ^^ what sort of a boat $$
 ^^ I do warn you $$
-^^ you be    too big for that $$
+^^ you be too small for too big for that $$
 ^^ well come on $$
-^^ let us collect a  should we to put on your boat $$
+^^ let us collect a xxx should we to put on your boat $$
 ^^ hello $$
 ^^ it be yeah $$
 ^^ you bump that yeah $$
@@ -2071,7 +2088,7 @@
 ^^ what do you like Aran $$
 ^^ do you like balloon $$
 ^^ mhm $$
-^^ we do have a different  lot of polish do not we $$
+^^ we do have a different set lot of polish do not we $$
 ^^ but you can screw those top $$
 ^^ those environmental friend one $$
 ^^ can not you $$
@@ -2133,7 +2150,7 @@
 ^^ yes that be a fire $$
 ^^ that be Fireman_Sam fire $$
 ^^ it be park outside his house $$
-^^ and  those be his nephew and niece be not they $$
+^^ and those those be his nephew and niece be not they $$
 ^^ they want him to take them swim do not they $$
 ^^ oh look $$
 ^^ who life there $$
@@ -2148,15 +2165,15 @@
 ^^ it be a blue light be not it that flash $$
 ^^ flash do not it $$
 ^^ yes it flash when the fire be race to a fire $$
-^^ and look  there be Penny with a box $$
+^^ and look there's there be Penny with a box $$
 ^^ it be a present be not it $$
 ^^ oh look $$
 ^^ what be inside it $$
 ^^ what be it Aran $$
 ^^ what be it $$
 ^^ it do fly $$
-^^  what be it $$
-^^ it be  it be a aeroplane be not it $$
+^^ what what be it $$
+^^ it be um it be a aeroplane be not it $$
 ^^ yes a man will sit in the front there to drive the aeroplane $$
 ^^ the pilot will sit there will not he $$
 ^^ and Fireman_Sam will sit in front of the fire will not he $$
@@ -2189,7 +2206,7 @@
 ^^ yes when the fly come back $$
 ^^ will not will not will not will not will not will not will not will not will not $$
 ^^ no Mummy miss it do not she $$
-^^ she try  to get it do not she $$
+^^ she try to to get it do not she $$
 ^^ she miss it $$
 ^^ and it fly away do not it $$
 ^^ but when it come back $$
@@ -2256,7 +2273,7 @@
 ^^ there be Penny $$
 ^^ she be the lady fire be not she $$
 ^^ they be play with the aeroplane be not they in the park $$
-^^  look at that aeroplane $$
+^^ a look at that aeroplane $$
 ^^ yes that be a park be not it $$
 ^^ there be the grass and the tree $$
 ^^ oh come on Aran $$
@@ -2278,6 +2295,7 @@
 ^^ what be happen $$
 ^^ they have open the door $$
 ^^ all the water be come rush out $$
+^^ a $$
 ^^ what be that Aran $$
 ^^ yes Daddy will sit there if he be drive that will not he $$
 ^^ look at this $$
@@ -2352,11 +2370,11 @@
 ^^ shall we play with your train then $$
 ^^ should we $$
 ^^ come on $$
-^^ let us play with your train move   the animal around $$
+^^ let us play with your train move the a the animal around $$
 ^^ and this one $$
 ^^ this one $$
 ^^ this one move freight do not it $$
-^^   that be the tanker one be not it $$
+^^ those are that be the tanker one be not it $$
 ^^ with the cylinder here $$
 ^^ what time be the $$
 ^^ well what about this one $$
@@ -2449,6 +2467,7 @@
 ^^ be you watch $$
 ^^ the lion on the tractor $$
 ^^ whee $$
+^^ a $$
 ^^ the lion sit there do not he $$
 ^^ not Daddy $$
 ^^ do you sit on the tractor $$
@@ -2473,7 +2492,7 @@
 ^^ right one two three $$
 ^^ oh the man go for a ride on the tractor have not he $$
 ^^ a man will sit there $$
-^^ now  this man be real good because he be go to sit in the front of the dig $$
+^^ now this this man be real good because he be go to sit in the front of the dig $$
 ^^ oh it move very slow the dig do not it $$
 ^^ yes well he will sit inside the car $$
 ^^ I do not know why there be not a man sit there Aran at all $$
@@ -2507,9 +2526,9 @@
 ^^ and you be go to sit there now $$
 ^^ all right $$
 ^^ you get off $$
-^^  where be you go to sit $$
+^^ where where be you go to sit $$
 ^^ come on then $$
-^^   be you go to get on with the sun $$
+^^ are you be you go to get on with the sun $$
 ^^ put the sun out_of the way there $$
 ^^ oh be you sit on the sun knee $$
 ^^ or be the sun sit on your knee $$
@@ -2541,7 +2560,7 @@
 ^^ have you get hiccup or something $$
 ^^ you have go a fun color $$
 ^^ hiccup $$
-^^    be it that cough again $$
+^^ is it that be it that cough again $$
 ^^ be it $$
 ^^ be that what the trouble be $$
 ^^ yeah $$
@@ -2585,7 +2604,7 @@
 ^^ oh you want a lady to sit $$
 ^^ yes that be a lady actual be not it when you look at it $$
 ^^ that lady be go to sit there $$
-^^    oh yes she be get a blouse on have not she $$
+^^ she's got a oh yes she be get a blouse on have not she $$
 ^^ no I think that be her hair darling $$
 ^^ right be we ready $$
 ^^ shall we let the lady go $$
@@ -2606,6 +2625,7 @@
 ^^ flatten it out $$
 ^^ do you remember $$
 ^^ hm $$
+^^ willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't $$
 ^^ will not will not will not will not will not will not $$
 ^^ well he could but he be rather large be not he $$
 ^^ I do not think he be go to sit there for very long $$
@@ -2671,7 +2691,7 @@
 ^^ yes I have just see it have not I $$
 ^^ now where do I see it $$
 ^^ you be throw it about $$
-^^  let us see $$
+^^ um let us see $$
 ^^ oh I think Goggle get it have not he $$
 ^^ do you think Goggle get it $$
 ^^ have Goggle get it $$
@@ -2708,7 +2728,7 @@
 ^^ there we be sweetie $$
 ^^ Goggle be do it $$
 ^^ yes he be cut the grass all along the edge of there $$
-^^  what happen to your boat $$
+^^ what what happen to your boat $$
 ^^ hm $$
 ^^ do you want drink of water Aran $$
 ^^ do you $$
@@ -2771,7 +2791,7 @@
 ^^ he be a big fierce dog and he eat meat do not he $$
 ^^ oh poor spot dog $$
 ^^ poor spot dog $$
-^^  I think you ought to give him a kiss and tell him that you be sorry $$
+^^ a I think you ought to give him a kiss and tell him that you be sorry $$
 ^^ give him a cuddle $$
 ^^ tell him what a good dog he be $$
 ^^ hm $$
@@ -2849,6 +2869,7 @@
 ^^ ring the door $$
 ^^ oh hello Mister_man $$
 ^^ can you see him through the window $$
+^^ willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't $$
 ^^ tell you what he can do though $$
 ^^ if you want he can come out onto the roof can not he $$
 ^^ here he be walk along the ridge of the roof and oh $$
@@ -2864,7 +2885,7 @@
 ^^ and biscuit $$
 ^^ do not they $$
 ^^ be that the spot dog $$
-^^  why be you pull his tail $$
+^^ a why be you pull his tail $$
 ^^ poor dog $$
 ^^ poor poor dog $$
 ^^ that be right $$
@@ -2885,7 +2906,7 @@
 ^^ oh frighten be we $$
 ^^ that be his mouth yes $$
 ^^ but do not stick your finger in too far $$
-^^  might  bite you with his tooth might not he $$
+^^ might might er bite you with his tooth might not he $$
 ^^ have he get big tooth $$
 ^^ where be his nose $$
 ^^ he eat bicbics do he $$
@@ -2903,7 +2924,7 @@
 ^^ do not pull his tail $$
 ^^ he be cry $$
 ^^ I should imagine he be yes $$
-^^   what be that there $$
+^^ what's that what be that there $$
 ^^ be that his tongue $$
 ^^ be he go to lick you $$
 ^^ big wet tongue lick your face $$
@@ -2924,7 +2945,7 @@
 ^^ and you pull its tail too $$
 ^^ and it do not like it do it $$
 ^^ cry do not it $$
-^^   you do not give it a kiss no $$
+^^ you didn't you do not give it a kiss no $$
 ^^ you do not $$
 ^^ you might have thought about it but you do not $$
 ^^ be you go to kiss your dog $$
@@ -2952,6 +2973,7 @@
 ^^ we do not climb up there $$
 ^^ be that the dog sledge $$
 ^^ do he slide along on that $$
+^^ www $$
 ^^ no we be not go outside darling $$
 ^^ right shall we push you back $$
 ^^ whee $$
@@ -3045,7 +3067,7 @@
 ^^ oh $$
 ^^ good shot $$
 ^^ oh dear $$
-^^  have not it $$
+^^ xxx have not it $$
 ^^ how about sing us one of your song $$
 ^^ mhm $$
 ^^ you be go to hit a ball be you $$
@@ -3129,10 +3151,12 @@
 ^^ lift him out $$
 ^^ there you be $$
 ^^ you be go to shoot a man be you $$
+^^ a $$
 ^^ be he dead $$
 ^^ come on $$
 ^^ who be this $$
 ^^ this be Mickey_Mouse be not it $$
+^^ a $$
 ^^ will not will not will not will not will not will not $$
 ^^ will not will not will not $$
 ^^ come on $$
@@ -3157,5 +3181,5 @@
 ^^ we can do without that $$
 ^^ oh $$
 ^^ be you go swim $$
-^^    be these your water wing $$
+^^ are these your be these your water wing $$
 ^^ be you $$

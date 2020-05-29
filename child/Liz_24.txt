@@ -76,7 +76,7 @@
 ^^ hand $$
 ^^ seesaw $$
 ^^ seesaw $$
-^^ mine  door $$
+^^ mine xxx door $$
 ^^ no $$
 ^^ no $$
 ^^ away $$
@@ -206,6 +206,14 @@
 ^^ pen $$
 ^^ pen $$
 ^^ table $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ tell her $$
 ^^ two $$
 ^^ five $$
@@ -277,6 +285,7 @@
 ^^ sack $$
 ^^ get that on there $$
 ^^ again $$
+^^ xxx $$
 ^^ sit down $$
 ^^ down $$
 ^^ this $$
@@ -289,7 +298,7 @@
 ^^ pee $$
 ^^ pee $$
 ^^ pee $$
-^^  pee $$
+^^ xxx pee $$
 ^^ I want pee $$
 ^^ bum $$
 ^^ no $$
@@ -461,6 +470,13 @@
 ^^ ear go $$
 ^^ ear go $$
 ^^ ear go $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ drink in pond $$
 ^^ pond $$
 ^^ Liz walk $$
@@ -498,6 +514,7 @@
 ^^ wipe $$
 ^^ go $$
 ^^ go $$
+^^ xxx $$
 ^^ box $$
 ^^ no $$
 ^^ no $$
@@ -550,6 +567,7 @@
 ^^ in there $$
 ^^ in there $$
 ^^ triangle in there $$
+^^ er $$
 ^^ wiggle $$
 ^^ that Spot bed $$
 ^^ book $$
@@ -656,6 +674,13 @@
 ^^ on there $$
 ^^ blue one $$
 ^^ to $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ blue one there $$
 ^^ blue one $$
@@ -916,6 +941,7 @@
 ^^ red $$
 ^^ two $$
 ^^ two $$
+^^ xxx $$
 ^^ look in the bag $$
 ^^ shop $$
 ^^ a shop $$
@@ -988,7 +1014,7 @@
 ^^ play with it $$
 ^^ play with it $$
 ^^ play with it $$
-^^  me $$
+^^ xxx me $$
 ^^ play with it $$
 ^^ play with it $$
 ^^ no $$
@@ -1023,7 +1049,7 @@
 ^^ wave $$
 ^^ sing a song $$
 ^^ soon $$
-^^  back soon $$
+^^ back back soon $$
 ^^ sing a song $$
 ^^ back soon $$
 ^^ back $$
@@ -1126,7 +1152,7 @@
 ^^ it a snake $$
 ^^ snake out tunnel $$
 ^^ in the window $$
-^^ teddy  outside $$
+^^ teddy out outside $$
 ^^ fix $$
 ^^ fix $$
 ^^ yeah $$
@@ -1313,7 +1339,7 @@
 ^^ fly $$
 ^^ catch fly $$
 ^^ bird $$
-^^  how absurd $$
+^^ how how absurd $$
 ^^ cat $$
 ^^ swallow a cat $$
 ^^ cow $$
@@ -1488,6 +1514,7 @@
 ^^ stick $$
 ^^ here $$
 ^^ egg $$
+^^ a $$
 ^^ top $$
 ^^ yeah $$
 ^^ toy out $$
@@ -1533,7 +1560,7 @@
 ^^ ball $$
 ^^ seesaw $$
 ^^ ride elephant $$
-^^  ride elephant $$
+^^ riding ride elephant $$
 ^^ back in $$
 ^^ no $$
 ^^ white $$
@@ -1600,7 +1627,7 @@
 ^^ might there $$
 ^^ fit in there $$
 ^^ that on $$
-^^   one go in there $$
+^^ one go one go in there $$
 ^^ want put it there $$
 ^^ orange $$
 ^^ jelly $$
@@ -1636,6 +1663,9 @@
 ^^ will not will not $$
 ^^ Budgie $$
 ^^ yes $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ whoops $$
 ^^ there $$
 ^^ this $$
@@ -1665,7 +1695,7 @@
 ^^ helicopter $$
 ^^ helicopter $$
 ^^ cold $$
-^^  where be  $$
+^^ where's where be xxx $$
 ^^ Harold $$
 ^^ it get eye $$
 ^^ face $$
@@ -1677,10 +1707,11 @@
 ^^ here be plane $$
 ^^ lid $$
 ^^ out $$
+^^ xxx $$
 ^^ cat and the fiddle $$
 ^^ cat and the fiddle $$
-^^ cat and  the fiddle $$
-^^ cat  and the fiddle $$
+^^ cat and the the fiddle $$
+^^ cat and and the fiddle $$
 ^^ cat and the fiddle $$
 ^^ cat and the fiddle $$
 ^^ cat and the fiddle $$

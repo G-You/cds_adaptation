@@ -1,7 +1,9 @@
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ do it on there $$
 ^^ do it on there $$
+^^ xxx $$
 ^^ step $$
 ^^ a step $$
 ^^ a step $$
@@ -14,6 +16,7 @@
 ^^ up there $$
 ^^ step $$
 ^^ step $$
+^^ xxx $$
 ^^ go round $$
 ^^ oh $$
 ^^ seesaw Margery Daw $$
@@ -24,21 +27,27 @@
 ^^ seesaw Margery Daw $$
 ^^ yeah $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
+^^ seesaw Margery Daw $$
+^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ seesaw Margery Daw $$
 ^^ seesaw Margery Daw $$
 ^^ seesaw Margery Daw $$
-^^ seesaw Margery Daw $$
-^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ whale up $$
 ^^ a whale up $$
 ^^ yeah $$
+^^ xxx $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ seesaw Margery Daw $$
 ^^ seesaw Margery Daw $$
 ^^ in $$
 ^^ in $$
 ^^ seal $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ happy_birthday $$
 ^^ yeah $$
 ^^ happy_birthday to $$
@@ -57,6 +66,7 @@
 ^^ in $$
 ^^ yeah $$
 ^^ doll Andy in $$
+^^ a $$
 ^^ big toe $$
 ^^ big toe $$
 ^^ yeah $$
@@ -83,8 +93,10 @@
 ^^ yeah $$
 ^^ hello Sukie $$
 ^^ dinner $$
-^^  more $$
-^^  more $$
+^^ xxx $$
+^^ xxx more $$
+^^ xxx more $$
+^^ xxx $$
 ^^ choochoo $$
 ^^ in there $$
 ^^ yeah $$
@@ -97,19 +109,21 @@
 ^^ hard $$
 ^^ yeah $$
 ^^ more $$
-^^ round the  $$
+^^ round the xxx $$
 ^^ round there $$
-^^ round  $$
-^^ round the  $$
+^^ round xxx $$
+^^ round the xxx $$
 ^^ Pingu $$
-^^ round the  $$
-^^ round the  $$
+^^ round the xxx $$
+^^ round the xxx $$
 ^^ house $$
 ^^ Pingu house $$
 ^^ yeah $$
+^^ xxx $$
 ^^ more $$
 ^^ seesaw Margery Daw $$
-^^  in house $$
+^^ xxx $$
+^^ xxx in house $$
 ^^ in house $$
 ^^ byebye $$
 ^^ cry $$
@@ -120,21 +134,28 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ Pingu $$
+^^ xxx $$
 ^^ a tree $$
+^^ xxx $$
 ^^ yeah $$
 ^^ I do $$
 ^^ seesaw Margery Daw $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ seesaw Margery $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ seesaw Margery Daw $$
 ^^ man seesaw Margery Daw $$
 ^^ seesaw Margery Daw $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ seesaw $$
 ^^ seesaw $$
 ^^ mhm $$
@@ -145,8 +166,10 @@
 ^^ mine $$
 ^^ oh $$
 ^^ thank_you $$
+^^ xxx $$
 ^^ fall down $$
 ^^ fall down $$
+^^ xxx $$
 ^^ hair $$
 ^^ yeah $$
 ^^ me $$
@@ -159,7 +182,7 @@
 ^^ in there $$
 ^^ no $$
 ^^ in there $$
-^^  there $$
+^^ er there $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ dinner $$
@@ -179,7 +202,7 @@
 ^^ yeah $$
 ^^ hurt it $$
 ^^ yeah $$
-^^  dinner $$
+^^ xxx dinner $$
 ^^ for Becky $$
 ^^ in there $$
 ^^ doll spoon $$
@@ -187,6 +210,7 @@
 ^^ no $$
 ^^ in $$
 ^^ in $$
+^^ um $$
 ^^ sit a bib $$
 ^^ sit a bib $$
 ^^ Mummy $$
@@ -196,22 +220,27 @@
 ^^ a bib $$
 ^^ sit in $$
 ^^ a bib $$
+^^ xxx $$
 ^^ doll spoon $$
 ^^ spoon $$
 ^^ in there $$
 ^^ in there $$
 ^^ yeah $$
+^^ xxx $$
+^^ um xxx $$
 ^^ mine $$
 ^^ mine $$
 ^^ mine $$
-^^  lady $$
+^^ xxx lady $$
 ^^ yeah $$
 ^^ want $$
 ^^ you want $$
-^^  eat $$
+^^ xxx $$
+^^ xxx eat $$
 ^^ pop in $$
 ^^ pop in $$
 ^^ uhhum $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ me $$
@@ -219,12 +248,13 @@
 ^^ want $$
 ^^ want $$
 ^^ want $$
-^^  heavy $$
+^^ xxx $$
+^^ xxx heavy $$
 ^^ bit heavy $$
 ^^ yeah $$
 ^^ hard $$
 ^^ ow $$
-^^  heavy $$
+^^ xxx heavy $$
 ^^ heavy $$
 ^^ sharp $$
 ^^ bit sharp $$
@@ -236,8 +266,8 @@
 ^^ yeah $$
 ^^ seesaw Margery Daw $$
 ^^ dinner $$
-^^  me $$
-^^  finish $$
+^^ um me $$
+^^ um finish $$
 ^^ finish $$
 ^^ yeah $$
 ^^ yeah $$
@@ -246,17 +276,21 @@
 ^^ two $$
 ^^ three $$
 ^^ yeah $$
-^^  sit down $$
+^^ um sit down $$
 ^^ yeah $$
 ^^ push me $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ go $$
 ^^ pasta $$
 ^^ go $$
 ^^ yeah $$
 ^^ mhm $$
-^^ it be water  $$
+^^ it be water xxx $$
 ^^ water $$
 ^^ yeah $$
 ^^ in there $$
@@ -264,7 +298,9 @@
 ^^ want $$
 ^^ lady $$
 ^^ more $$
+^^ xxx $$
 ^^ yes $$
+^^ xxx $$
 ^^ mhm $$
 ^^ piece $$
 ^^ another piece $$
@@ -275,42 +311,57 @@
 ^^ yeah $$
 ^^ bun $$
 ^^ yeah $$
+^^ xxx $$
 ^^ more $$
+^^ xxx $$
 ^^ ice $$
 ^^ oh $$
+^^ xxx $$
 ^^ do it $$
+^^ a $$
+^^ xxx $$
 ^^ Sukie_Cat $$
 ^^ Sukie $$
 ^^ seesaw Margery Daw $$
 ^^ yeah $$
-^^ Humpty_Dumpty  $$
+^^ Humpty_Dumpty xxx $$
+^^ xxx $$
 ^^ twinkle twinkle little $$
 ^^ ow $$
 ^^ ow $$
 ^^ ow $$
-^^ I ride  back $$
-^^ ride  $$
+^^ I ride a back $$
+^^ ride xxx $$
+^^ xxx $$
 ^^ neighneighneigh $$
 ^^ choochoo $$
 ^^ neigh $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ in there $$
 ^^ in there $$
 ^^ in there $$
 ^^ can not do it $$
+^^ xxx $$
 ^^ seesaw Margery Daw $$
 ^^ seesaw Margery Daw $$
+^^ xxx $$
 ^^ one $$
 ^^ two $$
 ^^ three $$
+^^ xxx $$
+^^ a $$
 ^^ round and round and round $$
 ^^ the bus $$
 ^^ round and round $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ hard $$
-^^  egg $$
+^^ um egg $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ pear $$
@@ -320,11 +371,14 @@
 ^^ elephant $$
 ^^ oh fish $$
 ^^ fish $$
+^^ xxx $$
 ^^ hippo $$
+^^ xxx $$
 ^^ tiger $$
 ^^ that a tiger $$
 ^^ tiger $$
 ^^ that a tiger $$
+^^ xxx $$
 ^^ in there $$
 ^^ penguin there $$
 ^^ yeah $$
@@ -336,6 +390,7 @@
 ^^ penguin $$
 ^^ yeah $$
 ^^ a monkey $$
+^^ xxx $$
 ^^ oh no $$
 ^^ a giraffe $$
 ^^ a giraffe $$
@@ -348,7 +403,12 @@
 ^^ a giraffe $$
 ^^ giraffe $$
 ^^ yeah $$
-^^ a  $$
+^^ a xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ window $$
 ^^ yeah $$
 ^^ yeah $$
@@ -368,26 +428,30 @@
 ^^ tip up $$
 ^^ yeah $$
 ^^ noise $$
-^^ very   noise $$
+^^ very noi noi noise $$
 ^^ yeah $$
 ^^ egg $$
 ^^ banana $$
 ^^ Mummy $$
-^^ more  $$
+^^ more xxx $$
+^^ xxx $$
 ^^ a bag $$
 ^^ bag Mum $$
 ^^ bag $$
 ^^ shop $$
 ^^ cake $$
+^^ xxx $$
 ^^ pizza $$
 ^^ yeah $$
 ^^ eat $$
 ^^ all_gone now $$
 ^^ yeah $$
 ^^ a pear $$
+^^ xxx $$
 ^^ a pear $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ egg $$
 ^^ Mummy $$
 ^^ egg $$
@@ -399,22 +463,27 @@
 ^^ dress on $$
 ^^ yeah $$
 ^^ on $$
-^^  button $$
+^^ um button $$
 ^^ yes $$
 ^^ off $$
+^^ xxx $$
 ^^ tum $$
 ^^ big tum $$
 ^^ yeah $$
 ^^ tickle $$
 ^^ yeah $$
+^^ xxx $$
 ^^ on $$
 ^^ tickle $$
 ^^ put trouser on $$
+^^ xxx $$
 ^^ yeah $$
 ^^ eye $$
 ^^ ear $$
+^^ xxx $$
 ^^ banana $$
 ^^ banana $$
+^^ xxx $$
 ^^ on $$
 ^^ yeah $$
 ^^ on $$
@@ -425,6 +494,7 @@
 ^^ yellow $$
 ^^ green $$
 ^^ red $$
+^^ xxx $$
 ^^ bag $$
 ^^ yeah $$
 ^^ yeah $$
@@ -432,29 +502,37 @@
 ^^ yeah $$
 ^^ oh dear $$
 ^^ egg $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ hat $$
+^^ um xxx $$
 ^^ yeah $$
 ^^ hand $$
 ^^ hand $$
 ^^ egg $$
 ^^ hard $$
 ^^ yeah $$
+^^ xxx $$
 ^^ egg $$
 ^^ oh $$
 ^^ ball $$
+^^ xxx $$
 ^^ orange $$
 ^^ hat off $$
 ^^ mhm $$
 ^^ Sukie_Cat $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ do not put them in your mouth $$
 ^^ mhm $$
 ^^ oh $$
+^^ xxx $$
 ^^ one $$
 ^^ one $$
 ^^ one $$
@@ -464,35 +542,46 @@
 ^^ monkey top $$
 ^^ there $$
 ^^ yeah $$
-^^ more  $$
-^^ more  $$
-^^ more  $$
+^^ more xxx $$
+^^ more xxx $$
+^^ more xxx $$
 ^^ Mummy $$
-^^ more  $$
+^^ more xxx $$
 ^^ go now $$
-^^ more  $$
+^^ more xxx $$
 ^^ go now $$
-^^ more  $$
+^^ more xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ shop away $$
 ^^ there $$
-^^  hat $$
+^^ xxx hat $$
 ^^ on $$
 ^^ yeah $$
 ^^ look $$
 ^^ walk $$
-^^  shop $$
+^^ xxx shop $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ shop $$
 ^^ yeah $$
+^^ xxx $$
 ^^ what be that $$
+^^ xxx $$
 ^^ yeah $$
 ^^ eat $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ want $$
 ^^ yeah $$
 ^^ orange $$
@@ -513,10 +602,12 @@
 ^^ Mummy $$
 ^^ a gate $$
 ^^ yeah $$
+^^ xxx $$
 ^^ a monkey in $$
 ^^ yeah $$
 ^^ a whale $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ hello $$
 ^^ hello $$
 ^^ more fence $$
@@ -525,14 +616,17 @@
 ^^ more gate $$
 ^^ more gate $$
 ^^ yeah $$
+^^ xxx $$
 ^^ tunnel $$
 ^^ tunnel $$
 ^^ tunnel $$
 ^^ tunnel $$
+^^ xxx $$
 ^^ in there $$
 ^^ oh $$
 ^^ more $$
 ^^ animal $$
+^^ xxx $$
 ^^ oh $$
 ^^ hello $$
 ^^ do $$
@@ -540,6 +634,7 @@
 ^^ yeah $$
 ^^ eye $$
 ^^ eye $$
+^^ xxx $$
 ^^ and the giraffe too $$
 ^^ giraffe too $$
 ^^ giraffe too $$
@@ -557,6 +652,7 @@
 ^^ Pingu $$
 ^^ hello $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ oh $$
 ^^ yeah $$
 ^^ zoo $$
@@ -568,43 +664,51 @@
 ^^ shut door $$
 ^^ yeah $$
 ^^ yeah $$
-^^  hard $$
+^^ um hard $$
 ^^ hard $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ a fish $$
 ^^ hello $$
-^^ hello  $$
+^^ xxx $$
+^^ hello xxx $$
 ^^ hippo $$
 ^^ hippo $$
 ^^ there $$
-^^ oh a  $$
-^^ a  $$
+^^ xxx $$
+^^ oh a xxx $$
+^^ a xxx $$
 ^^ look at me $$
-^^ I  $$
+^^ I xxx $$
 ^^ stand up $$
 ^^ yeah $$
-^^  me $$
+^^ xxx me $$
 ^^ stand up $$
 ^^ me $$
 ^^ yeah $$
 ^^ a pear $$
+^^ xxx $$
 ^^ a ball $$
 ^^ a ball $$
 ^^ what $$
+^^ xxx $$
 ^^ pear $$
+^^ xxx $$
 ^^ come out $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
 ^^ banana $$
-^^  bag $$
+^^ um bag $$
 ^^ go now $$
 ^^ yeah $$
 ^^ in there $$
 ^^ yeah $$
 ^^ a basket $$
 ^^ bye $$
+^^ xxx $$
 ^^ bye $$
 ^^ here $$
 ^^ yeah $$
@@ -614,10 +718,13 @@
 ^^ bye $$
 ^^ in there $$
 ^^ in there $$
+^^ xxx $$
 ^^ oh $$
 ^^ egg $$
+^^ xxx $$
 ^^ here you go $$
 ^^ yeah $$
+^^ xxx $$
 ^^ one $$
 ^^ a ball $$
 ^^ biscuit $$
@@ -644,9 +751,11 @@
 ^^ there $$
 ^^ that one $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ in there $$
 ^^ more $$
 ^^ yeah $$
@@ -657,13 +766,14 @@
 ^^ in here $$
 ^^ one $$
 ^^ mhm $$
-^^  that one $$
+^^ a that one $$
 ^^ yes $$
 ^^ that there $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
 ^^ this go $$
+^^ xxx $$
 ^^ in there $$
 ^^ yeah $$
 ^^ no $$
@@ -693,12 +803,13 @@
 ^^ camera $$
 ^^ I camera $$
 ^^ I go there $$
-^^ I  $$
-^^ I  $$
-^^ I  toy $$
+^^ xxx $$
+^^ I xxx $$
+^^ I xxx $$
+^^ I xxx toy $$
 ^^ no $$
-^^ I  $$
-^^ I  saucepan $$
+^^ I xxx $$
+^^ I xxx saucepan $$
 ^^ I sit down $$
 ^^ yeah $$
 ^^ no $$
@@ -706,6 +817,7 @@
 ^^ dinner $$
 ^^ I dinner $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
@@ -714,18 +826,20 @@
 ^^ yeah $$
 ^^ mine spoon $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ eye $$
 ^^ yeah $$
+^^ xxx $$
 ^^ sticky $$
 ^^ yeah $$
 ^^ eye $$
 ^^ eye $$
 ^^ eye $$
 ^^ ow $$
-^^  hair $$
+^^ xxx hair $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ bobble $$
@@ -734,12 +848,15 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
 ^^ doll $$
 ^^ juice $$
 ^^ yeah $$
 ^^ Tiny_Tears $$
 ^^ more $$
 ^^ this $$
+^^ xxx $$
+^^ mine $$
 ^^ no $$
 ^^ yeah $$
 ^^ doll $$
@@ -752,7 +869,9 @@
 ^^ yeah $$
 ^^ chair $$
 ^^ mhm $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ bang $$
 ^^ bang $$
 ^^ no $$
@@ -782,20 +901,23 @@
 ^^ Becky_Lastname $$
 ^^ Sukie $$
 ^^ hello Sukie $$
-^^  want there $$
+^^ a want there $$
 ^^ yeah $$
 ^^ two $$
 ^^ wrong way $$
 ^^ wrong way $$
 ^^ number five $$
+^^ xxx $$
 ^^ a $$
 ^^ b $$
 ^^ Sukie_cat $$
 ^^ yeah $$
 ^^ Sukie $$
+^^ xxx $$
 ^^ Sukie sit down $$
 ^^ sit down $$
 ^^ table out $$
+^^ xxx $$
 ^^ all eat table $$
 ^^ crayon $$
 ^^ out $$
@@ -813,9 +935,12 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ crayon $$
+^^ xxx $$
 ^^ yeah $$
 ^^ oh $$
 ^^ oh no $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ yeah $$
@@ -827,16 +952,20 @@
 ^^ yeah $$
 ^^ go $$
 ^^ go $$
+^^ xxx $$
 ^^ yeah $$
 ^^ cloth $$
 ^^ yellow $$
 ^^ red $$
 ^^ a green $$
 ^^ orange $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yellow $$
 ^^ a blue $$
+^^ xxx $$
 ^^ ladder $$
 ^^ fall down $$
 ^^ ladder $$
@@ -849,6 +978,7 @@
 ^^ orange $$
 ^^ it be yellow $$
 ^^ blue $$
+^^ xxx $$
 ^^ this $$
 ^^ this $$
 ^^ ice $$
@@ -856,11 +986,11 @@
 ^^ yeah $$
 ^^ mhm $$
 ^^ cloth $$
-^^  more cloth $$
+^^ a more cloth $$
 ^^ yellow cloth $$
 ^^ yeah $$
 ^^ orange cloth $$
-^^ I  go $$
+^^ I xxx go $$
 ^^ a door $$
 ^^ that $$
 ^^ that $$
@@ -868,12 +998,15 @@
 ^^ want $$
 ^^ yeah $$
 ^^ yes $$
+^^ xxx $$
 ^^ a door $$
 ^^ yellow door $$
 ^^ Noddy $$
+^^ xxx $$
 ^^ elephant $$
 ^^ elephant $$
 ^^ yeah $$
+^^ xxx $$
 ^^ duck $$
 ^^ a quack $$
 ^^ bird $$
@@ -882,16 +1015,19 @@
 ^^ there $$
 ^^ window $$
 ^^ yeah $$
-^^  yellow $$
+^^ a yellow $$
 ^^ brown $$
 ^^ brown $$
 ^^ yeah $$
+^^ xxx $$
 ^^ egg $$
 ^^ man $$
+^^ xxx $$
 ^^ yes $$
+^^ xxx $$
 ^^ rabbit $$
 ^^ yeah $$
-^^  do $$
+^^ um do $$
 ^^ do $$
 ^^ do $$
 ^^ yes $$
@@ -916,6 +1052,7 @@
 ^^ eye $$
 ^^ blue $$
 ^^ ice $$
+^^ xxx $$
 ^^ ice $$
 ^^ more ice $$
 ^^ more ice $$
@@ -926,7 +1063,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ more shoe $$
 ^^ shoe $$
 ^^ yes $$
@@ -934,17 +1071,20 @@
 ^^ good $$
 ^^ yeah $$
 ^^ good $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ brown beard $$
 ^^ yeah $$
+^^ xxx $$
 ^^ ear $$
 ^^ and ear $$
 ^^ take off $$
 ^^ a bun $$
 ^^ a bread $$
 ^^ bread $$
-^^  more bread $$
+^^ xxx $$
+^^ um more bread $$
 ^^ melon $$
 ^^ pineapple $$
 ^^ this $$
@@ -954,10 +1094,13 @@
 ^^ Sukie $$
 ^^ Sukie $$
 ^^ yeah $$
-^^  milk $$
+^^ a milk $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ like it $$
-^^ ow  $$
+^^ ow xxx $$
 ^^ ow $$
 ^^ chin $$
 ^^ yeah $$
@@ -967,25 +1110,28 @@
 ^^ yeah $$
 ^^ Andy teddy $$
 ^^ Andy $$
-^^ Andy teddy  $$
+^^ Andy teddy xxx $$
 ^^ open this $$
 ^^ this $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ oh $$
 ^^ yeah $$
 ^^ there $$
-^^  there $$
+^^ xxx there $$
 ^^ there $$
 ^^ toy $$
 ^^ yeah $$
 ^^ yeah $$
-^^  elephant $$
+^^ xxx $$
+^^ um elephant $$
 ^^ a eye $$
 ^^ oh $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ baby whale $$
-^^ one two  $$
+^^ one two xxx $$
 ^^ one two three five six $$
 ^^ one two three five six $$
 ^^ hippo $$
@@ -997,20 +1143,25 @@
 ^^ there $$
 ^^ yeah $$
 ^^ one two three $$
+^^ xxx $$
+^^ xxx $$
 ^^ hay $$
 ^^ oh $$
 ^^ oh $$
-^^ one two three  $$
+^^ one two three xxx $$
+^^ xxx $$
 ^^ bone $$
 ^^ giraffe here $$
 ^^ giraffe here $$
 ^^ yeah $$
+^^ xxx $$
 ^^ fish go $$
 ^^ oh $$
 ^^ seesaw Margery Daw $$
 ^^ Pingu in there $$
 ^^ lion $$
 ^^ tiger $$
+^^ xxx $$
 ^^ baby tiger $$
 ^^ yeah $$
 ^^ seven $$
@@ -1019,6 +1170,7 @@
 ^^ chin $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ oh $$
 ^^ ladder $$
@@ -1030,11 +1182,12 @@
 ^^ Mummy $$
 ^^ yeah $$
 ^^ more ladder $$
-^^ I  ladder $$
+^^ I xxx ladder $$
 ^^ more ladder $$
 ^^ ow $$
 ^^ chin $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ Andy teddy $$
 ^^ yeah $$
 ^^ Mummy $$
@@ -1048,7 +1201,9 @@
 ^^ yeah $$
 ^^ it be a door $$
 ^^ oh $$
-^^ there  $$
+^^ xxx $$
+^^ xxx $$
+^^ there xxx $$
 ^^ oh $$
 ^^ train $$
 ^^ choochoo $$
@@ -1061,8 +1216,10 @@
 ^^ mhm $$
 ^^ Andy teddy $$
 ^^ yeah $$
+^^ xxx $$
 ^^ this $$
 ^^ yeah $$
+^^ a xxx $$
 ^^ a baby $$
 ^^ yes $$
 ^^ yeah $$
@@ -1079,11 +1236,12 @@
 ^^ happy_birthday $$
 ^^ this $$
 ^^ this $$
-^^  there $$
+^^ xxx there $$
 ^^ tomato $$
 ^^ all_gone $$
 ^^ all_gone $$
 ^^ all_gone $$
+^^ xxx $$
 ^^ hot $$
 ^^ hot $$
 ^^ bun $$
@@ -1091,9 +1249,12 @@
 ^^ yes $$
 ^^ mhm $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ straw $$
 ^^ strawberry $$
+^^ xxx $$
 ^^ strawberry $$
+^^ xxx $$
 ^^ little one $$
 ^^ want $$
 ^^ eat $$
@@ -1101,6 +1262,8 @@
 ^^ yeah $$
 ^^ in there $$
 ^^ bread bun $$
+^^ xxx $$
+^^ xxx $$
 ^^ Andy $$
 ^^ sandwich $$
 ^^ want $$
@@ -1110,10 +1273,13 @@
 ^^ that one $$
 ^^ eat $$
 ^^ grape $$
+^^ xxx $$
 ^^ a pear $$
 ^^ more pear $$
 ^^ yeah $$
 ^^ horrible $$
+^^ xxx $$
+^^ xxx $$
 ^^ more grape $$
 ^^ more grape $$
 ^^ more grape $$
@@ -1128,9 +1294,13 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ the end $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ more soup $$
 ^^ more tin $$
+^^ xxx $$
 ^^ tin $$
 ^^ tin $$
 ^^ one $$
@@ -1143,6 +1313,7 @@
 ^^ three $$
 ^^ two $$
 ^^ wrong way $$
+^^ xxx $$
 ^^ yeah $$
 ^^ end $$
 ^^ end $$
@@ -1152,12 +1323,13 @@
 ^^ three $$
 ^^ one $$
 ^^ two $$
-^^ one  $$
+^^ one xxx $$
 ^^ tin $$
 ^^ tin $$
 ^^ tin $$
-^^  tin $$
+^^ xxx tin $$
 ^^ more $$
+^^ xxx $$
 ^^ more milk $$
 ^^ go $$
 ^^ go $$
@@ -1168,6 +1340,8 @@
 ^^ yeah $$
 ^^ all_gone $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ sandwich $$
 ^^ dinner $$
 ^^ Mummy $$
@@ -1181,6 +1355,7 @@
 ^^ more egg $$
 ^^ more egg $$
 ^^ more egg $$
+^^ xxx $$
 ^^ Mummy egg $$
 ^^ Mummy egg $$
 ^^ Mummy egg $$
@@ -1190,6 +1365,7 @@
 ^^ lid on $$
 ^^ yeah $$
 ^^ strawberry $$
+^^ xxx $$
 ^^ this $$
 ^^ icing $$
 ^^ chin $$
@@ -1202,20 +1378,26 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ Andy $$
+^^ xxx $$
 ^^ red $$
 ^^ eat $$
 ^^ yeah $$
+^^ xxx $$
 ^^ go away $$
 ^^ no $$
+^^ xxx $$
 ^^ top $$
 ^^ top $$
 ^^ yeah $$
 ^^ more $$
 ^^ more milk $$
 ^^ yeah $$
+^^ xxx $$
 ^^ more $$
+^^ xxx $$
 ^^ Andy want it $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ more $$
 ^^ chin $$
@@ -1227,9 +1409,11 @@
 ^^ sit down $$
 ^^ sit down $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ the window $$
-^^  the window $$
-^^  the window $$
+^^ xxx the window $$
+^^ xxx the window $$
 ^^ ow $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1263,10 +1447,13 @@
 ^^ elephant through $$
 ^^ eat $$
 ^^ through there $$
+^^ xxx $$
 ^^ there $$
 ^^ mhm $$
-^^  stick $$
-^^  stick $$
+^^ xxx $$
+^^ xxx stick $$
+^^ xxx stick $$
+^^ xxx $$
 ^^ yeah $$
 ^^ ow $$
 ^^ baby tiger $$

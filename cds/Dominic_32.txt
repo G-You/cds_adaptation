@@ -80,6 +80,7 @@
 ^^ why $$
 ^^ Dominic $$
 ^^ do not make Nina fall over $$
+^^ www $$
 ^^ what be you do $$
 ^^ I be not sure whether Edward in here $$
 ^^ I just pick up the bag $$
@@ -96,6 +97,7 @@
 ^^ okay $$
 ^^ I do not either $$
 ^^ we will have to have a look for that later $$
+^^ www $$
 ^^ and Edward $$
 ^^ yes $$
 ^^ we will find them $$
@@ -136,6 +138,7 @@
 ^^ let her have Edward please $$
 ^^ oh $$
 ^^ you be a right misery be not you $$
+^^ www $$
 ^^ well $$
 ^^ be they go to share Annie and Clarabel $$
 ^^ well $$
@@ -206,9 +209,11 @@
 ^^ do not just pick up one $$
 ^^ pick up some more darling $$
 ^^ it be quick $$
+^^ xxx $$
 ^^ thank_you $$
 ^^ can I borrow a train $$
 ^^ I can have James can I $$
+^^ xxx $$
 ^^ that be it $$
 ^^ you have just nick my temporary bridge $$
 ^^ well $$
@@ -245,12 +250,14 @@
 ^^ there $$
 ^^ but the only thing be $$
 ^^ you do not normal get dig with coach and truck like that you see $$
+^^ www $$
 ^^ oh dear $$
 ^^ what $$
 ^^ yes $$
 ^^ I know $$
 ^^ but dig do not normal have coach and truck $$
 ^^ they do not $$
+^^ www $$
 ^^ what be you say darling $$
 ^^ dingaling $$
 ^^ say dingaling $$
@@ -258,7 +265,7 @@
 ^^ have you be a good boy this morning $$
 ^^ have you $$
 ^^ you do not what $$
-^^  you throw a toy now $$
+^^ you you throw a toy now $$
 ^^ oh yes $$
 ^^ which toy $$
 ^^ which one $$
@@ -269,6 +276,7 @@
 ^^ you break it $$
 ^^ not you throw it $$
 ^^ you throw $$
+^^ www $$
 ^^ when Mummy be hoover $$
 ^^ mhm $$
 ^^ because you do not like the hoover do you $$
@@ -280,12 +288,14 @@
 ^^ it shift at you $$
 ^^ okay $$
 ^^ okay $$
+^^ www $$
 ^^ let her have it please $$
 ^^ I know it be yours $$
 ^^ I bring it for you $$
 ^^ you $$
 ^^ this be what I get annoy with you for $$
 ^^ you always take her thing off her $$
+^^ xxx $$
 ^^ put it down then $$
 ^^ go on then $$
 ^^ have he $$
@@ -300,8 +310,10 @@
 ^^ oh $$
 ^^ be not have any what $$
 ^^ well $$
-^^  put the dig to one side and put the truck and the coach on one of your train $$
+^^ put put the dig to one side and put the truck and the coach on one of your train $$
+^^ www $$
 ^^ okay $$
+^^ www $$
 ^^ right $$
 ^^ oh $$
 ^^ both get them now $$
@@ -314,6 +326,7 @@
 ^^ okay $$
 ^^ okay $$
 ^^ okay $$
+^^ xxx $$
 ^^ he will get stick $$
 ^^ oh dear $$
 ^^ not allow to have that $$
@@ -322,12 +335,15 @@
 ^^ no $$
 ^^ she be not have Thomas $$
 ^^ no $$
+^^ xxx $$
 ^^ that one other one $$
 ^^ this be not a new one $$
 ^^ be care $$
 ^^ do not push her $$
+^^ xxx $$
 ^^ no what $$
 ^^ I be just move her down $$
+^^ www $$
 ^^ hey $$
 ^^ calm down a bit $$
 ^^ hey $$
@@ -363,7 +379,7 @@
 ^^ how about Friday $$
 ^^ who do you play with at nursery $$
 ^^ no $$
-^^  who do you play with $$
+^^ who who do you play with $$
 ^^ do you play with Julie $$
 ^^ what be the matter $$
 ^^ think he say tidy up Julie $$
@@ -377,6 +393,7 @@
 ^^ oh right $$
 ^^ so you be a good boy at nursery then $$
 ^^ oh $$
+^^ www $$
 ^^ go go go go go go go go go go go go go $$
 ^^ oh $$
 ^^ be that a race car $$
@@ -487,6 +504,7 @@
 ^^ in a bit $$
 ^^ well $$
 ^^ where be they $$
+^^ xxx $$
 ^^ where be the coach then $$
 ^^ I can see them $$
 ^^ yeah $$
@@ -530,13 +548,16 @@
 ^^ yes $$
 ^^ and so you should $$
 ^^ well do $$
+^^ xxx $$
 ^^ you be not allow to have it $$
 ^^ we know they be yours $$
 ^^ I be only show it her $$
+^^ xxx $$
 ^^ I will remember this $$
 ^^ no no $$
 ^^ we do not want it now $$
 ^^ do not want it now $$
+^^ xxx $$
 ^^ thank_you $$
 ^^ okay $$
 ^^ oh right $$
@@ -558,8 +579,10 @@
 ^^ that be right $$
 ^^ yes $$
 ^^ have that one Nina $$
+^^ www $$
 ^^ well $$
 ^^ it be not for eat Dominic $$
+^^ www $$
 ^^ okay $$
 ^^ so what be you go to do now then $$
 ^^ oh $$
@@ -573,7 +596,9 @@
 ^^ do not put it in the garage $$
 ^^ oh $$
 ^^ that be luck then be not it $$
+^^ www $$
 ^^ why do not you put the car in the lift $$
+^^ www $$
 ^^ oh no $$
 ^^ car fall over $$
 ^^ I know it can $$
@@ -589,7 +614,7 @@
 ^^ okay $$
 ^^ how many wheel have the car get $$
 ^^ oh $$
-^^ do you know what color  the wheel be $$
+^^ do you know what color the the wheel be $$
 ^^ pink $$
 ^^ I thought that be pink a bit early $$
 ^^ so what color be the wheel $$
@@ -607,6 +632,7 @@
 ^^ what be the matter $$
 ^^ what $$
 ^^ ahhah $$
+^^ www $$
 ^^ how about you just eat what be in your hand first $$
 ^^ cow fall down $$
 ^^ with a little help from Dominic $$
@@ -617,7 +643,7 @@
 ^^ well $$
 ^^ who throw that then $$
 ^^ what be you do $$
-^^  where $$
+^^ um where $$
 ^^ where $$
 ^^ oh $$
 ^^ yes $$
@@ -658,8 +684,8 @@
 ^^ so $$
 ^^ that be get water in have it $$
 ^^ hey $$
-^^  fall $$
-^^  push $$
+^^ xxx fall $$
+^^ xxx push $$
 ^^ well $$
 ^^ it be there $$
 ^^ I think you might fancy a little drink $$
@@ -673,7 +699,7 @@
 ^^ I think that pig be a luck guess be not it $$
 ^^ yeah $$
 ^^ I think it be $$
-^^  look at the pig and look at the dolphin $$
+^^ look look at the pig and look at the dolphin $$
 ^^ they be not the same color be they $$
 ^^ you do not know $$
 ^^ oh $$
@@ -745,8 +771,9 @@
 ^^ cat $$
 ^^ oh_goodness $$
 ^^ what $$
+^^ xxx $$
 ^^ you be turn round $$
-^^  turn round $$
+^^ xxx turn round $$
 ^^ okay $$
 ^^ oh $$
 ^^ be you try to dress the doll $$
@@ -754,13 +781,14 @@
 ^^ do you want some help $$
 ^^ okay $$
 ^^ okay $$
-^^ that be  doll dress off $$
+^^ that be um doll dress off $$
 ^^ okay $$
 ^^ let us sit her down $$
 ^^ oh $$
 ^^ there $$
 ^^ pull one out $$
 ^^ oh $$
+^^ a $$
 ^^ that be nice $$
 ^^ right $$
 ^^ what be you go to put on doll $$
@@ -777,6 +805,7 @@
 ^^ I know $$
 ^^ I do not think you genmod be able to do it $$
 ^^ okay $$
+^^ www $$
 ^^ yeah $$
 ^^ you put the hat on her head $$
 ^^ she be do the split $$
@@ -791,7 +820,7 @@
 ^^ you want me to put that on $$
 ^^ okay $$
 ^^ okay $$
-^^  right $$
+^^ um right $$
 ^^ let us put this on first $$
 ^^ nappie $$
 ^^ no $$
@@ -833,21 +862,23 @@
 ^^ shall we play with something else then $$
 ^^ okay $$
 ^^ sorry doll $$
-^^ not  for a bit $$
+^^ not xxx for a bit $$
 ^^ right $$
 ^^ we will put that in there $$
 ^^ right $$
 ^^ I do not think you do but still $$
 ^^ yes $$
 ^^ oh no $$
+^^ www $$
 ^^ put what down $$
 ^^ okay $$
 ^^ right $$
 ^^ you want a very big bridge then $$
 ^^ well $$
-^^ you need  a lot more brick then $$
+^^ you need a a lot more brick then $$
 ^^ so it be the same height $$
 ^^ shall I get some more brick $$
+^^ www $$
 ^^ oh $$
 ^^ go go go go go go $$
 ^^ oh $$
@@ -871,7 +902,7 @@
 ^^ pig be drive it now $$
 ^^ clever pig $$
 ^^ oh $$
-^^  Pandy want to drive it $$
+^^ um Pandy want to drive it $$
 ^^ doll $$
 ^^ doll too big $$
 ^^ doll much too big Dominic $$
@@ -899,10 +930,12 @@
 ^^ the car can come through if you do not have that bite on $$
 ^^ let us see $$
 ^^ make it a bit small $$
+^^ www $$
 ^^ there $$
 ^^ will that do $$
 ^^ yes $$
 ^^ okay $$
+^^ www $$
 ^^ oh $$
 ^^ no $$
 ^^ do not smack her $$
@@ -910,20 +943,23 @@
 ^^ she be a little bit too close and so of course she go for it $$
 ^^ she do not mean any harm $$
 ^^ it be just a $$
-^^   she be just fascinate $$
+^^ she just she be just fascinate $$
 ^^ oh $$
 ^^ we will move it that way a bit so she can not get it $$
 ^^ okay $$
 ^^ oh dear $$
+^^ www $$
 ^^ let us have another go $$
 ^^ then you will just have to leave it like that $$
 ^^ right $$
-^^  will that do $$
+^^ will will that do $$
 ^^ well $$
 ^^ use something small then $$
 ^^ you want it big $$
+^^ xxx $$
 ^^ oh $$
 ^^ Mummy get Nina on her lap $$
+^^ xxx $$
 ^^ oh $$
 ^^ there $$
 ^^ be this okay now $$
@@ -949,6 +985,7 @@
 ^^ oh no $$
 ^^ not the helicopter again $$
 ^^ there $$
+^^ www $$
 ^^ oh no $$
 ^^ no $$
 ^^ you have one $$
@@ -969,7 +1006,7 @@
 ^^ what be up darling $$
 ^^ sit down then $$
 ^^ look $$
-^^  let us fix this bridge again $$
+^^ let's let us fix this bridge again $$
 ^^ okay $$
 ^^ there $$
 ^^ be it still big enough $$
@@ -977,7 +1014,9 @@
 ^^ just $$
 ^^ okay $$
 ^^ look at the state of you $$
+^^ www $$
 ^^ just eat it $$
+^^ www $$
 ^^ eat that $$
 ^^ right $$
 ^^ let us put the giraffe through as_well $$
@@ -998,20 +1037,24 @@
 ^^ but it be not real what pig do Dominic $$
 ^^ at least not pig that I know $$
 ^^ okay $$
+^^ www $$
 ^^ right $$
 ^^ that be because you be put thing on top $$
 ^^ go go go go go go $$
 ^^ no $$
 ^^ do not get upset $$
-^^ it be  only a bridge $$
+^^ it be not only a bridge $$
 ^^ it can be fix $$
 ^^ where be the green board $$
 ^^ that might stop it fall over $$
 ^^ over here $$
 ^^ that be a aubergine I think $$
+^^ www $$
 ^^ what be it $$
 ^^ yeah $$
 ^^ what be it though $$
+^^ www $$
+^^ www $$
 ^^ what be hurt $$
 ^^ right $$
 ^^ okay $$
@@ -1064,10 +1107,12 @@
 ^^ I do not know $$
 ^^ you should be used to that $$
 ^^ I do that with you as_well $$
+^^ xxx $$
+^^ www $$
 ^^ that be the end of my foot $$
 ^^ what be you do $$
 ^^ oy $$
-^^  box and basket $$
+^^ xxx box and basket $$
 ^^ ouch $$
 ^^ be care $$
 ^^ yes $$
@@ -1123,7 +1168,7 @@
 ^^ then $$
 ^^ you get in $$
 ^^ and I will not have to force you $$
-^^  put a lid on it $$
+^^ xxx put a lid on it $$
 ^^ okay $$
 ^^ sit down $$
 ^^ sit down $$
@@ -1131,7 +1176,7 @@
 ^^ why not $$
 ^^ well $$
 ^^ that be what you be do a minute ago $$
-^^  let us close the lid $$
+^^ let's let us close the lid $$
 ^^ Dominic $$
 ^^ you can not get in the basket $$
 ^^ you elephant $$
@@ -1149,6 +1194,7 @@
 ^^ do you feel good do that now $$
 ^^ oh good $$
 ^^ good $$
+^^ www $$
 ^^ okay $$
 ^^ be you put thing away $$
 ^^ well $$
@@ -1158,6 +1204,7 @@
 ^^ Dominic $$
 ^^ no $$
 ^^ no $$
+^^ www $$
 ^^ Dominic $$
 ^^ no $$
 ^^ Dominic $$
@@ -1172,7 +1219,8 @@
 ^^ Dominic $$
 ^^ be care of the brick truck $$
 ^^ but you be not catch it though be you $$
-^^ you be just stand  throw it $$
+^^ you be just stand a throw it $$
+^^ www $$
 ^^ ah $$
 ^^ you be try hit the bird $$
 ^^ why $$
@@ -1201,7 +1249,7 @@
 ^^ watch your sister $$
 ^^ say goodbye $$
 ^^ say goodbye $$
-^^  I $$
+^^ I I $$
 ^^ I know it be your favorite $$
 ^^ that be why I use it as a bargain piece $$
 ^^ ah $$
@@ -1234,9 +1282,9 @@
 ^^ no $$
 ^^ definite not now $$
 ^^ right $$
-^^  you do $$
+^^ you you do $$
 ^^ no $$
-^^  Tinky_Winky shot it now $$
+^^ Tinky_Winky's Tinky_Winky shot it now $$
 ^^ hey $$
 ^^ thank_you Dominic $$
 ^^ grrr $$
@@ -1245,6 +1293,7 @@
 ^^ Dominic $$
 ^^ leave it $$
 ^^ Dominic $$
+^^ www $$
 ^^ Dominic $$
 ^^ she do not want him to speak $$
 ^^ she want to play with him $$
@@ -1252,7 +1301,7 @@
 ^^ you do it again $$
 ^^ there you go sweet $$
 ^^ go go go go go go go go go go $$
-^^ because  he be be naughty $$
+^^ because if he be be naughty $$
 ^^ very naughty $$
 ^^ yes $$
 ^^ oh $$
@@ -1283,6 +1332,7 @@
 ^^ I do not think it be $$
 ^^ I think it be alright $$
 ^^ oh $$
+^^ www $$
 ^^ yes $$
 ^^ your big bus be $$
 ^^ because you take it outside $$
@@ -1298,6 +1348,7 @@
 ^^ I be wait for that $$
 ^^ we might $$
 ^^ we will have to see $$
+^^ xxx $$
 ^^ be your sister push $$
 ^^ oh $$
 ^^ oh $$
@@ -1359,6 +1410,7 @@
 ^^ be you a good boy last night $$
 ^^ be you $$
 ^^ be you $$
+^^ mm $$
 ^^ I doubt it $$
 ^^ if I ask Daddy I will bet he will not say that $$
 ^^ what do you do last night then $$
@@ -1385,13 +1437,14 @@
 ^^ how be you go to go and find it then if you can not see it $$
 ^^ no $$
 ^^ do not bother $$
+^^ www $$
 ^^ oh $$
 ^^ go go go go go go $$
 ^^ I should not try and lift her Dominic $$
 ^^ she be heavy $$
 ^^ be care $$
 ^^ she be alright $$
-^^  she be alright $$
+^^ she she be alright $$
 ^^ oh right $$
 ^^ that be why you do it $$
 ^^ oh right $$
@@ -1407,7 +1460,7 @@
 ^^ why not $$
 ^^ oh $$
 ^^ it be your lion now $$
-^^  let us just get something right $$
+^^ um let us just get something right $$
 ^^ it be not your lion $$
 ^^ it be my lion $$
 ^^ it be not $$
@@ -1421,7 +1474,7 @@
 ^^ your memory be get quite good $$
 ^^ do you remember what packet it be $$
 ^^ mhm $$
-^^   do it come out_of something you eat $$
+^^ was it do it come out_of something you eat $$
 ^^ it do not $$
 ^^ oh $$
 ^^ go go go go go go go $$
@@ -1514,7 +1567,7 @@
 ^^ I do not know whether we have get a train for that one sweet $$
 ^^ we will have to see about get you a $$
 ^^ oh $$
-^^ a  a nice new one for Christmas $$
+^^ a what a nice new one for Christmas $$
 ^^ goodness $$
 ^^ so $$
 ^^ go go go go go go go $$
@@ -1525,11 +1578,11 @@
 ^^ it be not allow to eat Mummy $$
 ^^ alright then $$
 ^^ it say it want lots_of food just there $$
-^^ so  find me some food $$
+^^ so find find me some food $$
 ^^ no $$
 ^^ more $$
 ^^ oh $$
-^^  there be not enough salad there $$
+^^ this there be not enough salad there $$
 ^^ oh good $$
 ^^ a bit of chicken $$
 ^^ anything else $$
@@ -1556,14 +1609,17 @@
 ^^ you do not $$
 ^^ well $$
 ^^ we be not go to fetch it yet $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
 ^^ there $$
+^^ www $$
 ^^ what be you do $$
 ^^ that be your sister $$
 ^^ oh right $$
 ^^ what if she will not let you play with it $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ oh $$
 ^^ I know $$
@@ -1583,6 +1639,7 @@
 ^^ oh $$
 ^^ and chicken nugget $$
 ^^ so it be lion and nugget be it $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
@@ -1593,7 +1650,7 @@
 ^^ well $$
 ^^ do not jump on me $$
 ^^ Dominic $$
-^^ I have a good mind to  $$
+^^ I have a good mind to xxx $$
 ^^ Dominic $$
 ^^ Dominic $$
 ^^ especial with your sister there $$
@@ -1633,6 +1690,7 @@
 ^^ Dominic $$
 ^^ do Daddy still eat you at night $$
 ^^ I think you genmod good calm down $$
+^^ xxx $$
 ^^ oy $$
 ^^ hey $$
 ^^ I be try to tidy up $$
@@ -1658,7 +1716,7 @@
 ^^ goodbye $$
 ^^ goodbye $$
 ^^ oh no $$
-^^  he say if you do not behave he be go to leave home $$
+^^ he he say if you do not behave he be go to leave home $$
 ^^ no $$
 ^^ you bring it in here $$
 ^^ you have get this thing about pick up box $$
@@ -1706,6 +1764,7 @@
 ^^ go go go go go go go go go go go go go go $$
 ^^ find that hard to believe $$
 ^^ well $$
+^^ www $$
 ^^ right $$
 ^^ hey $$
 ^^ hey $$
@@ -1742,8 +1801,9 @@
 ^^ look $$
 ^^ she be try to get hold of you again $$
 ^^ why not $$
-^^  because what $$
+^^ because because what $$
 ^^ what $$
+^^ www $$
 ^^ hey $$
 ^^ hey $$
 ^^ hey $$
@@ -1785,6 +1845,7 @@
 ^^ mhm $$
 ^^ it be what $$
 ^^ Fat_Controller $$
+^^ www $$
 ^^ be he $$
 ^^ that be right $$
 ^^ and $$
@@ -1829,7 +1890,9 @@
 ^^ he be crash now $$
 ^^ what do you want $$
 ^^ oh no $$
+^^ xxx $$
 ^^ right $$
+^^ www $$
 ^^ go to build a tower be not we Dominic $$
 ^^ oh $$
 ^^ go go go go go go go $$
@@ -1858,6 +1921,7 @@
 ^^ it be just a bit of a train be not it $$
 ^^ do she $$
 ^^ be not she clever $$
+^^ eh $$
 ^^ you can make a train $$
 ^^ can you make a train $$
 ^^ be you go to make one then $$
@@ -1885,10 +1949,15 @@
 ^^ oh dear $$
 ^^ I be not go to now $$
 ^^ alright then $$
+^^ www $$
 ^^ you can see Caroline do this on a regular basis $$
+^^ www $$
 ^^ there you be $$
+^^ www $$
 ^^ yes $$
 ^^ you love train $$
+^^ www $$
+^^ www $$
 ^^ let us $$
 ^^ oh $$
 ^^ hey $$
@@ -1933,6 +2002,7 @@
 ^^ yes $$
 ^^ one man drive a train $$
 ^^ the others be passenger be not they $$
+^^ www $$
 ^^ oh $$
 ^^ go go go go go go go go go go $$
 ^^ oh $$
@@ -1942,7 +2012,7 @@
 ^^ right $$
 ^^ let us build the animal a little home $$
 ^^ no $$
-^^  they do not have to $$
+^^ they they do not have to $$
 ^^ go go go go go go go go go $$
 ^^ a little farm $$
 ^^ yes $$
@@ -1955,8 +2025,9 @@
 ^^ you be not have animal young lady $$
 ^^ you can have a big one $$
 ^^ mhm $$
-^^  that be the farm $$
+^^ that that be the farm $$
 ^^ right $$
+^^ xxx $$
 ^^ there $$
 ^^ be that alright then $$
 ^^ like that $$
@@ -1988,11 +2059,13 @@
 ^^ where be your sister $$
 ^^ oh right $$
 ^^ oh $$
+^^ www $$
 ^^ oh $$
 ^^ so Nina be a penguin $$
 ^^ right $$
 ^^ that be nice to know be not it darling $$
 ^^ other what $$
+^^ www $$
 ^^ other boy $$
 ^^ I do not know if there be any more darling $$
 ^^ there used to be but I have not see him for a while $$
@@ -2014,6 +2087,7 @@
 ^^ I will stay at home $$
 ^^ put my foot up $$
 ^^ you can all go off and enjoy yourself $$
+^^ www $$
 ^^ be I $$
 ^^ I be a elephant now $$
 ^^ oh $$
@@ -2021,13 +2095,13 @@
 ^^ oh dear $$
 ^^ see $$
 ^^ now $$
-^^ I have  topple over the train $$
+^^ I have topple topple over the train $$
 ^^ I know $$
 ^^ because I be a elephant $$
 ^^ do I $$
 ^^ what do I want $$
 ^^ yes $$
-^^  I do eat banana do not I $$
+^^ I I do eat banana do not I $$
 ^^ so $$
 ^^ we be have banana $$
 ^^ grrr $$
@@ -2053,6 +2127,7 @@
 ^^ yes $$
 ^^ Nana $$
 ^^ I will tell her that when I see her $$
+^^ www $$
 ^^ do not fit $$
 ^^ you have break my farm $$
 ^^ fix my farm please $$
@@ -2063,6 +2138,7 @@
 ^^ that be my farm $$
 ^^ you will cry $$
 ^^ go go go go go go go go go go go $$
+^^ www $$
 ^^ well $$
 ^^ I can see that now $$
 ^^ a little one $$
@@ -2078,7 +2154,9 @@
 ^^ mhm $$
 ^^ oh $$
 ^^ oh dear $$
+^^ www $$
 ^^ oh $$
+^^ www $$
 ^^ pardon $$
 ^^ Postman_Pat $$
 ^^ yeah $$
@@ -2104,16 +2182,22 @@
 ^^ it be Duke now be it $$
 ^^ okay $$
 ^^ mhm $$
+^^ www $$
 ^^ go go go go go go go $$
 ^^ the train be go the wrong way $$
 ^^ oh $$
 ^^ do he $$
 ^^ oh $$
+^^ www $$
 ^^ I do not know $$
 ^^ you have not get another Duke $$
 ^^ right $$
+^^ www $$
+^^ www $$
 ^^ oh $$
+^^ www $$
 ^^ go go go go go go go go go go go go $$
+^^ www $$
 ^^ whoops $$
 ^^ there $$
 ^^ that be alright $$
@@ -2132,7 +2216,7 @@
 ^^ oh right $$
 ^^ you be put them away $$
 ^^ alright then $$
-^^ all because_of one train  $$
+^^ all because_of one train eh $$
 ^^ let us put these in here then $$
 ^^ I know $$
 ^^ I can see $$
@@ -2141,6 +2225,7 @@
 ^^ no $$
 ^^ go go go go go go go go go go $$
 ^^ I do not want any play like you normal do $$
+^^ www $$
 ^^ you play with the elephant $$
 ^^ be it alright if your sister play with the elephant $$
 ^^ hey $$
@@ -2180,6 +2265,7 @@
 ^^ that one $$
 ^^ look a bit like a eye but I be not sure whether it be a eye $$
 ^^ I think it be suppose to be $$
+^^ www $$
 ^^ that be a eye $$
 ^^ and that one be a eye $$
 ^^ mhm $$
@@ -2197,6 +2283,7 @@
 ^^ stop being silly $$
 ^^ hey $$
 ^^ now look $$
+^^ www $$
 ^^ so $$
 ^^ why do you take it off your sister $$
 ^^ young man $$
@@ -2209,6 +2296,7 @@
 ^^ oh $$
 ^^ oh $$
 ^^ boss $$
+^^ www $$
 ^^ oh $$
 ^^ wow $$
 ^^ okay $$
@@ -2271,6 +2359,7 @@
 ^^ the sun like be outside $$
 ^^ mhm $$
 ^^ the sun be still outside Dominic $$
+^^ www $$
 ^^ it be a chicken be it $$
 ^^ that be a fun sound chicken $$
 ^^ think it be a dog be not it $$
@@ -2305,6 +2394,7 @@
 ^^ I might get him to bite you if you be not a good boy $$
 ^^ I do not think it be your hat $$
 ^^ it be a little bit too small $$
+^^ www $$
 ^^ come here $$
 ^^ the one thing I can not stand be when you will not do as you be tell $$
 ^^ come here $$
@@ -2317,6 +2407,8 @@
 ^^ that be alright $$
 ^^ when Caroline go and you be go to bed $$
 ^^ come here $$
+^^ www $$
+^^ www $$
 ^^ be you put them away now $$
 ^^ you have not real play with them all because_of one thing $$
 ^^ that be yours $$
@@ -2340,18 +2432,21 @@
 ^^ oh dear $$
 ^^ you will do what gentle $$
 ^^ oh $$
+^^ www $$
 ^^ be there $$
+^^ www $$
 ^^ what be you do $$
 ^^ you be just look at the box now be not you $$
 ^^ not be very play mood today be you $$
 ^^ you be a bit silly $$
 ^^ hm $$
-^^ I do not know  why it do not fit $$
-^^  or will not come out $$
+^^ I do not know why why it do not fit $$
+^^ or or will not come out $$
 ^^ hey $$
 ^^ do the fire fit $$
 ^^ the lorry $$
 ^^ be you sure $$
+^^ xxx $$
 ^^ what have you put in now $$
 ^^ oh right $$
 ^^ which one $$
@@ -2363,10 +2458,12 @@
 ^^ white one call white $$
 ^^ okay $$
 ^^ mhm $$
+^^ www $$
 ^^ what be you do yesterday with Nana $$
 ^^ button $$
 ^^ oh yes $$
 ^^ yes $$
+^^ www $$
 ^^ do your sister have any $$
 ^^ do she $$
 ^^ do she $$
@@ -2377,7 +2474,7 @@
 ^^ we go out do not we $$
 ^^ yeah $$
 ^^ we abandon you $$
-^^ so  you watch Holiday $$
+^^ so what you watch Holiday $$
 ^^ what else do you see $$
 ^^ do you $$
 ^^ you watch the news do you $$
@@ -2394,6 +2491,8 @@
 ^^ be there $$
 ^^ oh $$
 ^^ right $$
+^^ xxx $$
+^^ www $$
 ^^ it be break $$
 ^^ break glass $$
 ^^ what tunnel $$
@@ -2411,7 +2510,7 @@
 ^^ no $$
 ^^ I do not think you know either $$
 ^^ ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble ramble $$
-^^ do you see  a car program yesterday $$
+^^ do you see some a car program yesterday $$
 ^^ oh $$
 ^^ I be try to figure out what you be talk about sweet $$
 ^^ right $$
@@ -2436,7 +2535,7 @@
 ^^ right $$
 ^^ thank_you $$
 ^^ oh boy $$
-^^  the only thing be Dominic $$
+^^ the the only thing be Dominic $$
 ^^ I do not know what you be talk about sweet so $$
 ^^ so you do not watch a car program $$
 ^^ but watch $$
@@ -2447,6 +2546,7 @@
 ^^ alright then $$
 ^^ alright $$
 ^^ alright $$
+^^ www $$
 ^^ okay Dominic $$
 ^^ okay $$
 ^^ play with your toy now then $$
@@ -2454,6 +2554,8 @@
 ^^ no $$
 ^^ okay $$
 ^^ right $$
+^^ www $$
+^^ xxx $$
 ^^ right $$
 ^^ alright $$
 ^^ alright $$
@@ -2464,7 +2566,9 @@
 ^^ right $$
 ^^ okay $$
 ^^ I give up $$
+^^ www $$
 ^^ Dominic $$
+^^ www $$
 ^^ right $$
 ^^ alright $$
 ^^ thank_you $$
@@ -2488,6 +2592,7 @@
 ^^ what car $$
 ^^ a toy car $$
 ^^ which toy car $$
+^^ www $$
 ^^ whose lorry be that then $$
 ^^ oy $$
 ^^ little man $$
@@ -2497,8 +2602,9 @@
 ^^ no $$
 ^^ no $$
 ^^ Grandad buy it $$
-^^   be you a good boy yesterday for your Nana then $$
+^^ was you be you a good boy yesterday for your Nana then $$
 ^^ be you $$
+^^ a $$
 ^^ I know $$
 ^^ put it away $$
 ^^ do not take everything off her $$
@@ -2515,7 +2621,7 @@
 ^^ let her play with it $$
 ^^ she will not keep it $$
 ^^ I promise $$
-^^ I will  give her the lorry $$
+^^ I will give give her the lorry $$
 ^^ I think she prefer her boot anyway $$
 ^^ mhm $$
 ^^ mhm $$
@@ -2524,10 +2630,11 @@
 ^^ what $$
 ^^ well $$
 ^^ well $$
-^^ give it to Nina and I  might do it $$
+^^ give it to Nina and I might might do it $$
 ^^ can I have this Nina $$
 ^^ hey $$
 ^^ never mind darling $$
+^^ xxx $$
 ^^ no $$
 ^^ it be not your favorite fire $$
 ^^ you will not have play with it for age $$
@@ -2563,10 +2670,14 @@
 ^^ that be a fun name $$
 ^^ how old be you $$
 ^^ have anybody ever tell you you be noise $$
+^^ xxx $$
+^^ www $$
 ^^ yeah $$
+^^ www $$
 ^^ hey $$
 ^^ what be you do to your garage $$
-^^ that be a fun  noise $$
+^^ that be a fun noise noise $$
+^^ www $$
 ^^ what be you do $$
 ^^ go go go go go go go $$
 ^^ hey $$
@@ -2574,7 +2685,7 @@
 ^^ stop it $$
 ^^ right $$
 ^^ that do it $$
-^^  he be downstairs $$
+^^ what he be downstairs $$
 ^^ Tinky_Winky be go in the bin $$
 ^^ he be $$
 ^^ well $$
@@ -2603,7 +2714,7 @@
 ^^ look $$
 ^^ all your car be under that garage $$
 ^^ if you lift up your garage you will see them $$
-^^  without tread on me $$
+^^ xxx without tread on me $$
 ^^ I know $$
 ^^ there be lot there $$
 ^^ you do not need any more $$
@@ -2624,11 +2735,11 @@
 ^^ right $$
 ^^ that do it now $$
 ^^ go go go go go go go go go $$
-^^  he be not to bother come $$
+^^ you he be not to bother come $$
 ^^ all those present he be get store up for you he be keep them for somebody else $$
 ^^ definite now $$
 ^^ hm $$
-^^  you make sure you do give it to her young man $$
+^^ you you make sure you do give it to her young man $$
 ^^ you be always take her toy off her $$
 ^^ there darling $$
 ^^ hey $$
@@ -2660,6 +2771,9 @@
 ^^ oh $$
 ^^ sweetheart $$
 ^^ that be all his fault $$
+^^ www $$
+^^ www $$
+^^ www $$
 ^^ oh dear $$
 ^^ oh $$
 ^^ look at this $$
@@ -2682,13 +2796,14 @@
 ^^ it can be wipe $$
 ^^ go go go go go go go go go go go go go go go $$
 ^^ it be not special at all $$
+^^ www $$
 ^^ yes $$
 ^^ you leave it with Nina for a bit $$
 ^^ pardon $$
 ^^ he be not $$
 ^^ because you be not be a good boy though be you $$
 ^^ hey $$
-^^  you have take the train off your sister again $$
+^^ you you have take the train off your sister again $$
 ^^ that be alright $$
 ^^ I be go to note everything down $$
 ^^ I have get a little writing in my back pocket $$
@@ -2696,8 +2811,9 @@
 ^^ be you listen $$
 ^^ which one do you want $$
 ^^ do you want that one or that one $$
-^^  want what $$
+^^ which want what $$
 ^^ I think she want that $$
+^^ www $$
 ^^ no $$
 ^^ she do not $$
 ^^ she want the train $$
@@ -2713,8 +2829,12 @@
 ^^ that do it $$
 ^^ give me the train $$
 ^^ you $$
-^^ you hit her again and  $$
+^^ you hit her again and xxx $$
+^^ xxx $$
+^^ www $$
 ^^ that be your fault $$
+^^ www $$
+^^ www $$
 ^^ you can not wash it with that $$
 ^^ be it $$
 ^^ it be in disguise be it $$
@@ -2725,7 +2845,7 @@
 ^^ no $$
 ^^ Dominic $$
 ^^ go go go go go go go go go go go go go go go go $$
-^^ when you  $$
+^^ when you xxx $$
 ^^ oh dear $$
 ^^ who be not put their hand over their mouth when they be cough $$
 ^^ you ought to calm down a bit $$
@@ -2750,6 +2870,7 @@
 ^^ yes $$
 ^^ the other bit of the fire go on that $$
 ^^ go in the bin soon $$
+^^ www $$
 ^^ yes $$
 ^^ what can we do for you $$
 ^^ oh shock $$
@@ -2813,6 +2934,7 @@
 ^^ not as cross as I will have be $$
 ^^ oh $$
 ^^ no $$
+^^ www $$
 ^^ you do not like Grandma $$
 ^^ put what in your mouth $$
 ^^ what be that noise $$
@@ -2841,10 +2963,12 @@
 ^^ I do not think she be $$
 ^^ only good boy get what they want $$
 ^^ that be right $$
+^^ www $$
 ^^ that be right $$
 ^^ yes $$
 ^^ that be right $$
 ^^ so it be final sink in then $$
+^^ www $$
 ^^ do you $$
 ^^ well $$
 ^^ go go go go go go go go $$
@@ -2859,17 +2983,21 @@
 ^^ can you put them away then $$
 ^^ you be not do very well be you $$
 ^^ that be it $$
+^^ www $$
 ^^ okay $$
 ^^ sit down then $$
 ^^ and do not trip over $$
+^^ www $$
 ^^ be care $$
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
 ^^ whee $$
 ^^ oh dear $$
+^^ www $$
 ^^ what be that one $$
 ^^ oh $$
+^^ www $$
 ^^ you do not remember $$
 ^^ you say it be tomato $$
 ^^ you be right $$
@@ -2878,6 +3006,8 @@
 ^^ you will have to wait a minute $$
 ^^ thank_you $$
 ^^ thank_you $$
+^^ www $$
+^^ www $$
 ^^ be you eat those grape $$
 ^^ well $$
 ^^ that be novel be not it $$
@@ -2897,19 +3027,23 @@
 ^^ stand I should say $$
 ^^ and nibble grape $$
 ^^ play with something else then $$
+^^ www $$
 ^^ oh right $$
 ^^ another egg box $$
 ^^ wow $$
 ^^ there you go $$
 ^^ you have to put some egg in it $$
 ^^ if you can find them $$
-^^  excuse me $$
+^^ um excuse me $$
 ^^ one two three eight $$
 ^^ what happen to four $$
 ^^ so $$
 ^^ how many egg have you get in that box $$
 ^^ oh $$
 ^^ goodness $$
+^^ www $$
+^^ www $$
+^^ www $$
 ^^ what be you do $$
 ^^ oh $$
 ^^ right $$
@@ -2917,6 +3051,7 @@
 ^^ you be a disaster area be not you $$
 ^^ right $$
 ^^ go go go go go go go $$
+^^ eh $$
 ^^ no $$
 ^^ right then $$
 ^^ suit yourself $$
@@ -2926,6 +3061,7 @@
 ^^ what be you do $$
 ^^ excuse me $$
 ^^ what be you do $$
+^^ www $$
 ^^ what be you do $$
 ^^ Dominic $$
 ^^ you know you $$
@@ -2944,7 +3080,7 @@
 ^^ so $$
 ^^ in the meantime I be go to build something $$
 ^^ go go go go go go go $$
-^^  what be you go to build $$
+^^ what what be you go to build $$
 ^^ oh $$
 ^^ you be build a tower $$
 ^^ right $$
@@ -2995,6 +3131,7 @@
 ^^ will that do $$
 ^^ yeah $$
 ^^ do he twist $$
+^^ www $$
 ^^ oh $$
 ^^ my elbow $$
 ^^ where be your elbow $$
@@ -3033,10 +3170,11 @@
 ^^ you be careful where you be hit person please $$
 ^^ go go go go go go go go go go go go go $$
 ^^ you have to stop smack person in the face $$
-^^ you catch  me in the eye $$
+^^ you catch me me in the eye $$
+^^ www $$
 ^^ be it a house now $$
 ^^ well $$
-^^  then $$
+^^ xxx then $$
 ^^ take you $$
 ^^ no $$
 ^^ that be it $$
@@ -3049,7 +3187,9 @@
 ^^ what be the other one $$
 ^^ mhm $$
 ^^ be you say the cow be on the grass $$
+^^ www $$
 ^^ you say grass do you $$
+^^ www $$
 ^^ that be a horse $$
 ^^ yes $$
 ^^ do what $$
@@ -3064,6 +3204,7 @@
 ^^ oh $$
 ^^ yum $$
 ^^ yum $$
+^^ mm $$
 ^^ little boy $$
 ^^ not into little girl $$
 ^^ little boy $$
@@ -3087,17 +3228,19 @@
 ^^ hey $$
 ^^ calm down a bit $$
 ^^ you be not listen be you $$
-^^  remember what I say about good boy and bad boy $$
+^^ um remember what I say about good boy and bad boy $$
 ^^ which one do you think you be at the moment $$
 ^^ oh $$
 ^^ you know do you $$
 ^^ well $$
 ^^ calm down then before I put you to bed $$
+^^ www $$
 ^^ Dominic $$
 ^^ go go go go go go go go go go go $$
 ^^ calm down $$
 ^^ calm down $$
 ^^ right $$
+^^ www $$
 ^^ calm down $$
 ^^ right $$
 ^^ little boy $$
@@ -3123,11 +3266,12 @@
 ^^ if that be pink $$
 ^^ what color this here look $$
 ^^ what color be that $$
-^^  you do not know $$
+^^ you you do not know $$
 ^^ well $$
-^^  well $$
+^^ you well $$
 ^^ how come you work out that that be pink then $$
 ^^ that be not pink $$
+^^ xxx $$
 ^^ do not do that $$
 ^^ yes $$
 ^^ what color $$
@@ -3141,6 +3285,7 @@
 ^^ yes $$
 ^^ which one the big one $$
 ^^ that be not a dolphin $$
+^^ xxx $$
 ^^ what be that $$
 ^^ not even interest now $$
 ^^ oh $$
@@ -3178,6 +3323,7 @@
 ^^ yes $$
 ^^ we have not have it for a while $$
 ^^ do not $$
+^^ www $$
 ^^ what $$
 ^^ that be a small one than that one $$
 ^^ that be a big tin than that $$
@@ -3208,6 +3354,7 @@
 ^^ but still $$
 ^^ that be just luck be not it $$
 ^^ that be just luck $$
+^^ www $$
 ^^ mhm $$
 ^^ how many tin have we get now then $$
 ^^ count them $$
@@ -3222,16 +3369,20 @@
 ^^ oh $$
 ^^ look at that $$
 ^^ oh no $$
+^^ www $$
 ^^ hey $$
 ^^ hey $$
 ^^ hey $$
 ^^ go go go go go go go go go go go go go go go go go go $$
 ^^ you have to play with them $$
+^^ www $$
 ^^ oh $$
 ^^ well $$
 ^^ you will have to build one will not you $$
+^^ www $$
 ^^ you can build one out_of the brick on the floor can not you $$
 ^^ oh $$
+^^ www $$
 ^^ oh Dominic $$
 ^^ you be a disaster area $$
 ^^ what be you do that for $$
@@ -3271,6 +3422,7 @@
 ^^ at least let her finish building before you start to interfere $$
 ^^ hinder you $$
 ^^ you be welcome $$
+^^ xxx $$
 ^^ look $$
 ^^ what be you do $$
 ^^ be that right $$
@@ -3314,9 +3466,10 @@
 ^^ since when $$
 ^^ go go go go go go go go go go go go go go $$
 ^^ when you keep throw them around $$
-^^  what do you want that for $$
+^^ what what do you want that for $$
 ^^ so much for get out Caroline toy $$
 ^^ you be not even play with them be you $$
+^^ www $$
 ^^ oh no $$
 ^^ that be not $$
 ^^ no $$
@@ -3326,6 +3479,7 @@
 ^^ go go go go go go go go $$
 ^^ oh $$
 ^^ okay $$
+^^ www $$
 ^^ who need a drink $$
 ^^ okay $$
 ^^ well $$
@@ -3340,7 +3494,9 @@
 ^^ I do not know you want to hold my hand $$
 ^^ why not $$
 ^^ I have not get it $$
+^^ www $$
 ^^ oh_my_goodness $$
+^^ www $$
 ^^ can I help $$
 ^^ you can be a right misery can not you $$
 ^^ okay $$

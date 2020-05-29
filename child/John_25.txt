@@ -12,6 +12,7 @@
 ^^ penguin $$
 ^^ well I make bubble $$
 ^^ no no $$
+^^ xxx $$
 ^^ I see $$
 ^^ stick $$
 ^^ oh $$
@@ -38,9 +39,11 @@
 ^^ box $$
 ^^ box $$
 ^^ tickle Mummy $$
+^^ a $$
 ^^ little one $$
 ^^ John do it $$
 ^^ stick $$
+^^ xxx $$
 ^^ Mummy do it $$
 ^^ Mummy the nut $$
 ^^ where be the other nut go $$
@@ -172,6 +175,7 @@
 ^^ this $$
 ^^ there you go $$
 ^^ stick $$
+^^ a $$
 ^^ it be a nut $$
 ^^ in there $$
 ^^ Mummy $$
@@ -186,6 +190,7 @@
 ^^ sun $$
 ^^ no $$
 ^^ rain $$
+^^ xxx $$
 ^^ drink $$
 ^^ Daddy $$
 ^^ Daddy $$
@@ -196,7 +201,9 @@
 ^^ Daddy $$
 ^^ let go $$
 ^^ let go $$
+^^ a $$
 ^^ screw drill $$
+^^ a $$
 ^^ yeah $$
 ^^ okay $$
 ^^ apple juice $$
@@ -213,6 +220,7 @@
 ^^ baby $$
 ^^ baby $$
 ^^ baby $$
+^^ xxx $$
 ^^ it be a baby $$
 ^^ I close her eye $$
 ^^ spoon $$
@@ -255,8 +263,9 @@
 ^^ it chip $$
 ^^ sizzle $$
 ^^ sizzle $$
-^^ it  $$
-^^ it  $$
+^^ it xxx $$
+^^ it xxx $$
+^^ xxx $$
 ^^ it hot $$
 ^^ hot $$
 ^^ strawberry $$
@@ -286,18 +295,20 @@
 ^^ I get egg $$
 ^^ where be lemon $$
 ^^ let me see $$
+^^ er $$
 ^^ where ice $$
 ^^ biscuit $$
 ^^ biscuit cat $$
 ^^ mieow $$
 ^^ it be biscuit $$
-^^ it  cup $$
+^^ it xxx cup $$
 ^^ it be fish $$
 ^^ a fish $$
 ^^ yellow pear $$
 ^^ it orange $$
 ^^ Mummy $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ bottle milk $$
 ^^ it be milk $$
 ^^ it be my milk $$
@@ -380,8 +391,10 @@
 ^^ hammer $$
 ^^ blanket $$
 ^^ get small blanket $$
+^^ xxx $$
 ^^ put it back $$
-^^  hammer $$
+^^ xxx hammer $$
+^^ xxx $$
 ^^ out $$
 ^^ hammer out $$
 ^^ get some out $$
@@ -398,7 +411,7 @@
 ^^ big doll $$
 ^^ big doll $$
 ^^ the doll sleep $$
-^^ that be a my  baby $$
+^^ that be a my baby baby $$
 ^^ oh drink milk $$
 ^^ there $$
 ^^ I see that $$
@@ -406,9 +419,10 @@
 ^^ oh it be on the floor $$
 ^^ here be milk $$
 ^^ here be milk $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ oh wet $$
 ^^ wet $$
+^^ xxx $$
 ^^ hammer $$
 ^^ chicken $$
 ^^ yellow hat $$
@@ -435,6 +449,7 @@
 ^^ bottom $$
 ^^ he sit car $$
 ^^ no $$
+^^ xxx $$
 ^^ it back on there $$
 ^^ put sleep $$
 ^^ put him to sleep $$
@@ -444,8 +459,10 @@
 ^^ here $$
 ^^ put foot there $$
 ^^ two foot $$
+^^ xxx $$
+^^ xxx $$
 ^^ hello $$
-^^ it be John  $$
+^^ it be John xxx $$
 ^^ it be basket $$
 ^^ put back $$
 ^^ listen $$
@@ -501,6 +518,7 @@
 ^^ trunk $$
 ^^ trunk $$
 ^^ trunk $$
+^^ xxx $$
 ^^ piece $$
 ^^ it be tea $$
 ^^ Mummy $$
@@ -519,10 +537,12 @@
 ^^ bite $$
 ^^ crash $$
 ^^ it go that $$
+^^ xxx $$
 ^^ it red $$
 ^^ crash $$
 ^^ crash $$
 ^^ bite $$
+^^ xxx $$
 ^^ this sock $$
 ^^ sock $$
 ^^ other one $$
@@ -532,7 +552,7 @@
 ^^ two baby $$
 ^^ two baby $$
 ^^ two baby $$
-^^  one baby $$
+^^ one one baby $$
 ^^ two baby $$
 ^^ plane $$
 ^^ helicopter $$
@@ -562,6 +582,7 @@
 ^^ whoosh $$
 ^^ wash hand $$
 ^^ sticker $$
+^^ xxx $$
 ^^ oh yes $$
 ^^ it be a book $$
 ^^ it be a cap $$
@@ -581,7 +602,7 @@
 ^^ it be a horse $$
 ^^ Daddy horse $$
 ^^ Dobbin the horse $$
-^^  horse $$
+^^ xxx horse $$
 ^^ show Daddy horse $$
 ^^ hello Grandpa $$
 ^^ sit at table $$
@@ -600,7 +621,7 @@
 ^^ stop $$
 ^^ leg $$
 ^^ leg $$
-^^  it be mine $$
+^^ it's it be mine $$
 ^^ mine $$
 ^^ mine $$
 ^^ oh $$
@@ -648,6 +669,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ there no lid $$
+^^ xxx $$
 ^^ it be teddy be $$
 ^^ sock $$
 ^^ big $$
@@ -688,6 +710,7 @@
 ^^ other doll back $$
 ^^ no $$
 ^^ this Mummy $$
+^^ xxx $$
 ^^ Mummy do it $$
 ^^ John do it $$
 ^^ doll $$
@@ -701,6 +724,7 @@
 ^^ Mummy do it $$
 ^^ and trouser off $$
 ^^ Daddy $$
+^^ xxx $$
 ^^ doll be $$
 ^^ doll be $$
 ^^ doll be $$
@@ -710,8 +734,10 @@
 ^^ no $$
 ^^ panda be $$
 ^^ panda be $$
+^^ xxx $$
 ^^ get blue eye $$
 ^^ arm $$
+^^ xxx $$
 ^^ oh $$
 ^^ panda be $$
 ^^ stick $$
@@ -768,10 +794,11 @@
 ^^ it be some more milk $$
 ^^ there $$
 ^^ there you go $$
+^^ xxx $$
 ^^ doll be $$
 ^^ it go doll car $$
 ^^ doll car $$
-^^   the doll car $$
+^^ the doll's the doll car $$
 ^^ wheel $$
 ^^ wheel $$
 ^^ wheel $$
@@ -809,11 +836,13 @@
 ^^ white $$
 ^^ white $$
 ^^ upstairs $$
+^^ xxx $$
 ^^ sit down $$
 ^^ sit down $$
 ^^ it be milk $$
 ^^ it be $$
 ^^ it be more milk $$
+^^ xxx $$
 ^^ it be some more milk $$
 ^^ it be more milk $$
 ^^ it be more milk $$
@@ -837,6 +866,7 @@
 ^^ star $$
 ^^ there button $$
 ^^ foot $$
+^^ xxx $$
 ^^ there $$
 ^^ what be in there $$
 ^^ it stick $$
@@ -853,7 +883,7 @@
 ^^ good $$
 ^^ egg $$
 ^^ egg $$
-^^   a hot egg $$
+^^ a hot a hot egg $$
 ^^ all_gone $$
 ^^ chip $$
 ^^ chip $$
@@ -883,16 +913,21 @@
 ^^ sizzle $$
 ^^ hot hot hot $$
 ^^ cup $$
+^^ xxx $$
 ^^ cup $$
-^^ where  $$
+^^ xxx $$
+^^ xxx $$
+^^ where xxx $$
 ^^ hot hot hot $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ yeah $$
 ^^ stop $$
 ^^ all_gone $$
 ^^ empty $$
 ^^ bin $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ where be the blue chair $$
 ^^ the blue chair $$
 ^^ dirt $$
@@ -948,6 +983,7 @@
 ^^ helicopter $$
 ^^ drill $$
 ^^ hammer $$
+^^ xxx $$
 ^^ pliers $$
 ^^ Rhona $$
 ^^ doll $$
@@ -960,6 +996,7 @@
 ^^ tape $$
 ^^ tape $$
 ^^ oh Granny that $$
+^^ xxx $$
 ^^ lap $$
 ^^ lap $$
 ^^ lap $$
@@ -983,7 +1020,7 @@
 ^^ something in the car $$
 ^^ box in the car $$
 ^^ box in the car $$
-^^   box in the car $$
+^^ box in box in the car $$
 ^^ no want toy in the car $$
 ^^ box in car $$
 ^^ what be on the paper $$
@@ -1005,6 +1042,7 @@
 ^^ box in the car $$
 ^^ box $$
 ^^ where be the baby animal $$
+^^ xxx $$
 ^^ there be a man $$
 ^^ there be a man $$
 ^^ brumm $$
@@ -1012,11 +1050,12 @@
 ^^ man be $$
 ^^ that be a big one $$
 ^^ Mummy do it $$
+^^ xxx $$
 ^^ brumm $$
 ^^ it be a wheel $$
 ^^ kiss it $$
 ^^ bump the car $$
-^^  fall $$
+^^ xxx fall $$
 ^^ other one $$
 ^^ get those $$
 ^^ that be my trunk $$
@@ -1024,7 +1063,7 @@
 ^^ animal $$
 ^^ oh it be a bump head $$
 ^^ it be a bump $$
-^^ that be a  $$
+^^ that be a xxx $$
 ^^ it be a cow $$
 ^^ put the cow here $$
 ^^ cow $$
@@ -1036,6 +1075,7 @@
 ^^ push $$
 ^^ push $$
 ^^ the trunk in there $$
+^^ xxx $$
 ^^ it be the monkey $$
 ^^ I drop the monkey $$
 ^^ this be stick $$
@@ -1066,6 +1106,8 @@
 ^^ jump $$
 ^^ juice $$
 ^^ juice $$
+^^ xxx $$
+^^ xxx $$
 ^^ out $$
 ^^ that be a bag $$
 ^^ it be abbybabby out $$
@@ -1094,9 +1136,11 @@
 ^^ I back piano $$
 ^^ piano $$
 ^^ the piano $$
+^^ xxx $$
 ^^ up $$
 ^^ piano $$
-^^  now $$
+^^ xxx now $$
+^^ xxx $$
 ^^ the monkey $$
 ^^ it be monkey $$
 ^^ monkey $$
@@ -1107,6 +1151,8 @@
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ drink $$
+^^ xxx $$
+^^ xxx $$
 ^^ I want a drink and biscuit $$
 ^^ no $$
 ^^ no $$
@@ -1117,12 +1163,12 @@
 ^^ a tractor $$
 ^^ tractor window $$
 ^^ it be Grandpa $$
-^^  Grandpa $$
+^^ xxx Grandpa $$
 ^^ it be Grandpa $$
 ^^ oh it be Grandpa $$
 ^^ it be Grandpa Grandpa $$
 ^^ oh it be banana $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ banana $$
 ^^ some banana $$
 ^^ milk $$
@@ -1168,6 +1214,7 @@
 ^^ in a box in the car $$
 ^^ teddy $$
 ^^ ball $$
+^^ xxx $$
 ^^ get in the chair $$
 ^^ oh go in chair $$
 ^^ work $$
@@ -1239,6 +1286,7 @@
 ^^ what be in there $$
 ^^ pear $$
 ^^ pear $$
+^^ xxx $$
 ^^ Mummy do it $$
 ^^ Mummy $$
 ^^ oh yeah $$
@@ -1273,11 +1321,17 @@
 ^^ tomato $$
 ^^ tomato $$
 ^^ tomato $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ apple $$
 ^^ pear $$
 ^^ pear $$
 ^^ pear $$
 ^^ pear $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ biscuit $$
 ^^ eye $$
 ^^ blue eye $$
@@ -1286,7 +1340,7 @@
 ^^ blue eye $$
 ^^ baby the milk $$
 ^^ it be milk $$
-^^  two egg $$
+^^ two two egg $$
 ^^ floor $$
 ^^ two egg floor $$
 ^^ in the kitchen $$
@@ -1360,6 +1414,7 @@
 ^^ there arm $$
 ^^ lion $$
 ^^ push $$
+^^ um $$
 ^^ peekaboo peekaboo peekaboo $$
 ^^ drink $$
 ^^ tiger $$
@@ -1383,7 +1438,7 @@
 ^^ it be me $$
 ^^ oh it be orange $$
 ^^ one two three $$
-^^ oh  this $$
+^^ oh xxx this $$
 ^^ bang $$
 ^^ biscuit $$
 ^^ biscuit $$
@@ -1395,6 +1450,8 @@
 ^^ train $$
 ^^ on train $$
 ^^ in the train $$
+^^ xxx $$
 ^^ whoops $$
 ^^ this Mummy $$
+^^ xxx $$
 ^^ oh it be a clock $$

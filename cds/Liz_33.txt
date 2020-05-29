@@ -3,13 +3,13 @@
 ^^ yes $$
 ^^ that be right $$
 ^^ and look at those little piglet $$
-^^    they be a type of dog call a sheepdog $$
+^^ those are um they be a type of dog call a sheepdog $$
 ^^ some duck $$
 ^^ well you know what those be do not you $$
 ^^ yes $$
 ^^ that be right $$
 ^^ horse $$
-^^  well this be a goose and these be baby goose $$
+^^ um well this be a goose and these be baby goose $$
 ^^ and baby goose be call gosling $$
 ^^ yes $$
 ^^ that be a fun word be not it $$
@@ -19,6 +19,7 @@
 ^^ yeah $$
 ^^ shall we put your pen there where you can reach $$
 ^^ okay $$
+^^ www $$
 ^^ what be up $$
 ^^ be you hide $$
 ^^ oh $$
@@ -108,7 +109,7 @@
 ^^ oh $$
 ^^ that one be get even big be not it $$
 ^^ no $$
-^^   it be not long enough to fit over both of them be it $$
+^^ it's not it be not long enough to fit over both of them be it $$
 ^^ do you want me to take some of these off $$
 ^^ hm $$
 ^^ oh they be stick fast be not they $$
@@ -131,7 +132,7 @@
 ^^ very high yeah $$
 ^^ do you want some more $$
 ^^ be it get a bit wobble $$
-^^   must be some more big one left in here $$
+^^ must have must be some more big one left in here $$
 ^^ here you be look $$
 ^^ there be another one $$
 ^^ it be yeah $$
@@ -157,7 +158,7 @@
 ^^ you be do it very neat be not you $$
 ^^ whoops $$
 ^^ mhm $$
-^^ well   you could put a little one in the corner if you want $$
+^^ well you could you could put a little one in the corner if you want $$
 ^^ and then there be this line here $$
 ^^ do you want to fill that line up $$
 ^^ no $$
@@ -176,7 +177,7 @@
 ^^ okay love $$
 ^^ all right love $$
 ^^ have you get muck ear $$
-^^ now if I take them off you can put them back in the box  $$
+^^ now if I take them off you can put them back in the box eh $$
 ^^ thank_you $$
 ^^ start again now $$
 ^^ okay $$
@@ -203,13 +204,13 @@
 ^^ oh right $$
 ^^ be we do a whole row of yellow $$
 ^^ yeah $$
-^^ I  my foot up $$
+^^ I xxx my foot up $$
 ^^ oh that do look nice $$
 ^^ I like yellow $$
 ^^ do you $$
 ^^ yes $$
 ^^ I like most color $$
-^^    I do not like brown very much $$
+^^ I don't like I do not like brown very much $$
 ^^ yeah $$
 ^^ mhm $$
 ^^ be red your favorite color then $$
@@ -251,12 +252,16 @@
 ^^ I will be there in a minute $$
 ^^ be you a bit tire $$
 ^^ oh excuse me $$
+^^ www $$
 ^^ you be fall asleep be not you $$
+^^ www $$
 ^^ oh I think that be enough all in one go be not it $$
+^^ eh $$
 ^^ come here $$
 ^^ okay $$
 ^^ what do you want to do $$
-^^   be that Lucky ball $$
+^^ eh $$
+^^ is that be that Lucky ball $$
 ^^ I think that be your card be not it $$
 ^^ I be just go to put your brick away if you be get Anna'sbricks out $$
 ^^ yeah $$
@@ -266,7 +271,7 @@
 ^^ can you get it $$
 ^^ have you just push it further under $$
 ^^ have you $$
-^^  get it $$
+^^ a get it $$
 ^^ thank_you $$
 ^^ right then $$
 ^^ do not you want to play with those $$
@@ -319,7 +324,7 @@
 ^^ you be go to count them $$
 ^^ right okay $$
 ^^ right $$
-^^ well   you need the big one first $$
+^^ well you need you need the big one first $$
 ^^ that be right $$
 ^^ that be it $$
 ^^ which one the big out_of what you have get left $$
@@ -328,7 +333,7 @@
 ^^ try it $$
 ^^ oh there be a gap there be not there $$
 ^^ so perhaps it be another one $$
-^^     have a look at the size of them $$
+^^ have a look at have a look at the size of them $$
 ^^ which one the big $$
 ^^ that be it $$
 ^^ yeah $$
@@ -346,6 +351,7 @@
 ^^ oh thank_you $$
 ^^ oh the sausage fall out $$
 ^^ I will put it back in $$
+^^ mm $$
 ^^ have you get any sauce $$
 ^^ no sauce $$
 ^^ oh $$
@@ -364,6 +370,7 @@
 ^^ roll it $$
 ^^ will not will not will not will not will not will not will not will not will not will not $$
 ^^ oh $$
+^^ www $$
 ^^ oh $$
 ^^ oh miss $$
 ^^ do you want to try and catch it $$
@@ -439,8 +446,8 @@
 ^^ mhm $$
 ^^ you be have ice be you $$
 ^^ I will have this cake $$
-^^  there be one $$
-^^  I think you might need to turn it the other way up $$
+^^ um there be one $$
+^^ er I think you might need to turn it the other way up $$
 ^^ the lid $$
 ^^ you know $$
 ^^ yeah $$
@@ -495,7 +502,7 @@
 ^^ be you bounce $$
 ^^ be you $$
 ^^ nowhere yet $$
-^^ but  in a little while she will be go to work $$
+^^ but in in a little while she will be go to work $$
 ^^ she can not just stay and play all day you know $$
 ^^ can she $$
 ^^ it be some nectarine I think $$
@@ -503,6 +510,7 @@
 ^^ we have nectarine in the summer do not we $$
 ^^ lots_of them $$
 ^^ oh thank_you $$
+^^ mm $$
 ^^ I like nectarine $$
 ^^ they be nice be not they $$
 ^^ oh I have drop mine $$
@@ -512,6 +520,7 @@
 ^^ oh $$
 ^^ have you slobber on it $$
 ^^ ugh $$
+^^ www $$
 ^^ no $$
 ^^ I do not want to get it wet $$
 ^^ because it be only pretend be not it $$
@@ -551,6 +560,7 @@
 ^^ you know I can not stand this book do not you $$
 ^^ hey $$
 ^^ and you do not care one jot $$
+^^ www $$
 ^^ come on $$
 ^^ let us get it over with $$
 ^^ oh I can not do that can I $$
@@ -644,7 +654,7 @@
 ^^ Tiggers do not eat thistle $$
 ^^ silly Tigger $$
 ^^ they do yeah $$
-^^ tiger eat  meat and thing like that $$
+^^ tiger eat um meat and thing like that $$
 ^^ main meat $$
 ^^ what be your favorite color $$
 ^^ have you get a favorite $$
@@ -654,7 +664,7 @@
 ^^ okay $$
 ^^ do you want to get another book $$
 ^^ shall we put that one back and get another one $$
-^^ oh   we be just dump it there be we $$
+^^ oh we're just we be just dump it there be we $$
 ^^ okay $$
 ^^ right $$
 ^^ you go and get another one then $$
@@ -670,7 +680,7 @@
 ^^ fancy that $$
 ^^ yeah $$
 ^^ fancy that $$
-^^ this be  the sun shine $$
+^^ this be er the sun shine $$
 ^^ and what be the dog do in the sunshine $$
 ^^ he be dig yeah $$
 ^^ he be go to the beach have not he $$
@@ -691,7 +701,7 @@
 ^^ yeah $$
 ^^ wind blow $$
 ^^ that be the wind blow $$
-^^   what be the dog do on this picture $$
+^^ what's Ted what be the dog do on this picture $$
 ^^ he be fly his kite $$
 ^^ that be right $$
 ^^ because you can do that when it be wind can not you $$
@@ -723,7 +733,10 @@
 ^^ okay $$
 ^^ go go go go go go go go $$
 ^^ all right then $$
-^^   squeak $$
+^^ www $$
+^^ squeak squeak squeak $$
+^^ www $$
+^^ www $$
 ^^ go on then $$
 ^^ yeah $$
 ^^ I will wait $$
@@ -764,7 +777,10 @@
 ^^ come on then $$
 ^^ the squirrel and chipmunk $$
 ^^ I be sorry $$
+^^ www $$
+^^ www $$
 ^^ mhm $$
+^^ www $$
 ^^ all do $$
 ^^ yeah $$
 ^^ it be finish $$
@@ -791,7 +807,8 @@
 ^^ okay $$
 ^^ can you $$
 ^^ go go go go go go go $$
-^^     if you move your farm you will be able to get on the table and reach them will you $$
+^^ what if I move if you move your farm you will be able to get on the table and reach them will you $$
+^^ eh $$
 ^^ whoops $$
 ^^ right $$
 ^^ now you can get on the table and get them can not you $$
@@ -805,7 +822,7 @@
 ^^ here you be $$
 ^^ pass them to me sweet $$
 ^^ a few at a time $$
-^^ because we will take them over there to play  $$
+^^ because we will take them over there to play eh $$
 ^^ thank_you $$
 ^^ thank_you $$
 ^^ I think that be all $$
@@ -815,7 +832,7 @@
 ^^ I think I do $$
 ^^ do I not say it loud enough $$
 ^^ okay $$
-^^ let us just get them all straight  $$
+^^ let us just get them all straight eh $$
 ^^ I think there be one the wrong way up there $$
 ^^ there it be $$
 ^^ right $$
@@ -836,7 +853,7 @@
 ^^ snap $$
 ^^ oh I think I get that one $$
 ^^ right $$
-^^ well    we will put it on your pile there $$
+^^ well we'll put it we will put it on your pile there $$
 ^^ yeah $$
 ^^ okay $$
 ^^ so do you go first again $$
@@ -926,7 +943,7 @@
 ^^ another worm $$
 ^^ oh snap $$
 ^^ yes you do $$
-^^ well put them there for spare  $$
+^^ well put them there for spare eh $$
 ^^ have you have enough $$
 ^^ okay sweet $$
 ^^ you want them or you do not $$
@@ -945,22 +962,22 @@
 ^^ put them all on top of each_other $$
 ^^ I like teddy number eight $$
 ^^ thank_you $$
-^^  number three $$
+^^ um number three $$
 ^^ oh thank_you $$
 ^^ okay $$
 ^^ well can I have teddy number five please $$
 ^^ thank_you $$
 ^^ I can have another one can I $$
-^^  have you get number one $$
+^^ er have you get number one $$
 ^^ great $$
 ^^ number one $$
 ^^ thank_you $$
 ^^ another one $$
-^^  number two $$
+^^ um number two $$
 ^^ whoops $$
 ^^ that be number two yeah $$
 ^^ thank_you $$
-^^  yes $$
+^^ er yes $$
 ^^ number seven will be very nice $$
 ^^ yeah $$
 ^^ number seven $$
@@ -976,9 +993,9 @@
 ^^ make some room there $$
 ^^ thank_you $$
 ^^ and which teddy bear you like $$
-^^  well shall I have  number four $$
+^^ um well shall I have um number four $$
 ^^ oh $$
-^^  what number have you get leave then $$
+^^ um what number have you get leave then $$
 ^^ have you lose him $$
 ^^ oh $$
 ^^ oh well $$
@@ -998,7 +1015,7 @@
 ^^ I have get a few $$
 ^^ it go after number two $$
 ^^ next to number two $$
-^^  it can go next to number three $$
+^^ um it can go next to number three $$
 ^^ oh right $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not $$
 ^^ yeah $$
@@ -1038,6 +1055,7 @@
 ^^ nursery $$
 ^^ why $$
 ^^ have nursery get one of those $$
+^^ a $$
 ^^ oh $$
 ^^ it look like a horse $$
 ^^ oh yeah $$
@@ -1049,13 +1067,13 @@
 ^^ mhm $$
 ^^ yeah $$
 ^^ mhm $$
-^^  well do not put it anywhere where we can not find it $$
+^^ um well do not put it anywhere where we can not find it $$
 ^^ here be your oven here anyway $$
 ^^ if you want to $$
 ^^ okay $$
 ^^ oh you be go to cook all of them $$
 ^^ mhm $$
-^^  yes please $$
+^^ er yes please $$
 ^^ be they very hot $$
 ^^ oh well we will have to blow them then $$
 ^^ mhm $$
@@ -1131,7 +1149,7 @@
 ^^ yeah $$
 ^^ well you can do $$
 ^^ yeah $$
-^^ just  not at person again $$
+^^ just not not at person again $$
 ^^ no $$
 ^^ you could throw them at the wall $$
 ^^ yeah $$
@@ -1163,7 +1181,7 @@
 ^^ so when be your baby go to be born Liz $$
 ^^ Thursday $$
 ^^ Friday $$
-^^ you have not get long to wait then  $$
+^^ you have not get long to wait then eh $$
 ^^ be you get tire sometimes $$
 ^^ yeah $$
 ^^ he be be he $$
@@ -1172,7 +1190,7 @@
 ^^ yeah $$
 ^^ a strawberry $$
 ^^ oh yeah $$
-^^  that bit of play might have get a bit dry sweet because I do not know it be in there $$
+^^ that that bit of play might have get a bit dry sweet because I do not know it be in there $$
 ^^ have it get dry $$
 ^^ I do not know it be in there so I do not put it away do I $$
 ^^ mhm $$
@@ -1192,7 +1210,7 @@
 ^^ do you want to make a nana $$
 ^^ be it the nana you want to make $$
 ^^ oh right $$
-^^ well let us   just make this into a bit of a $$
+^^ well let us just er just make this into a bit of a $$
 ^^ oh excuse me $$
 ^^ a lump $$
 ^^ that be right $$
@@ -1233,7 +1251,7 @@
 ^^ oh there you be $$
 ^^ there it be on the orange one $$
 ^^ that be okay sweet $$
-^^ and   have you leave the purple bit over there now $$
+^^ and you've left have you leave the purple bit over there now $$
 ^^ have you $$
 ^^ because it be not here $$
 ^^ do you take it over there with you $$
@@ -1243,7 +1261,7 @@
 ^^ right $$
 ^^ so if you want to do the aeroplane how do you put it in here $$
 ^^ that be right $$
-^^ and you get     those hole over those dot do not you $$
+^^ and you get those dots over those those hole over those dot do not you $$
 ^^ put it on top of those four little dot $$
 ^^ like that yeah $$
 ^^ and put the play in the middle $$
@@ -1306,7 +1324,7 @@
 ^^ oh $$
 ^^ oh $$
 ^^ oh well that be get all the extra bit off have not it $$
-^^   you will have to take the whole thing out and shake it in your hand $$
+^^ you'll have you will have to take the whole thing out and shake it in your hand $$
 ^^ oh $$
 ^^ have it not come out yet $$
 ^^ be it stick $$
@@ -1327,7 +1345,7 @@
 ^^ okay $$
 ^^ bring it over here $$
 ^^ we be do these in blue be we $$
-^^ be you bring   your   yellow stick $$
+^^ be you bring your yellow your yellow thing yellow stick $$
 ^^ a sheep $$
 ^^ oh $$
 ^^ that be too small that sweet $$
@@ -1378,7 +1396,7 @@
 ^^ there he be $$
 ^^ oh yeah $$
 ^^ that be great $$
-^^  sort of $$
+^^ um sort of $$
 ^^ yeah $$
 ^^ we will look in my bag a little bit later $$
 ^^ okay $$
@@ -1417,12 +1435,13 @@
 ^^ I will have a drink sweet $$
 ^^ yes please $$
 ^^ oh yes please $$
-^^  yes okay $$
+^^ um yes okay $$
 ^^ thank_you very much $$
 ^^ cup of coffee be it $$
 ^^ okay $$
+^^ mm $$
 ^^ that be nice $$
-^^  I could have a bit more yeah $$
+^^ um I could have a bit more yeah $$
 ^^ whoops $$
 ^^ thank_you sweet $$
 ^^ oh $$
@@ -1438,7 +1457,7 @@
 ^^ stand up on your foot with me $$
 ^^ no Liz $$
 ^^ bring your head up off the floor $$
-^^  and stand up $$
+^^ and and stand up $$
 ^^ right $$
 ^^ now you put your head down $$
 ^^ right down $$
@@ -1449,7 +1468,7 @@
 ^^ be that good $$
 ^^ oh $$
 ^^ right $$
-^^   put your head down $$
+^^ tuck it put your head down $$
 ^^ right down $$
 ^^ whee $$
 ^^ yes we be $$
@@ -1484,6 +1503,7 @@
 ^^ what be that at the top $$
 ^^ that round one $$
 ^^ a orange be it $$
+^^ a $$
 ^^ mhm $$
 ^^ right $$
 ^^ oh $$
@@ -1522,6 +1542,7 @@
 ^^ yeah $$
 ^^ lot there $$
 ^^ a goat $$
+^^ a $$
 ^^ yes $$
 ^^ a little pink pig $$
 ^^ oh dear $$
@@ -1618,7 +1639,7 @@
 ^^ think we will have to have a tidy up in here Liz today $$
 ^^ no $$
 ^^ there be not be there $$
-^^   it be that little teddy $$
+^^ it's um it be that little teddy $$
 ^^ I have not see that teddy do before $$
 ^^ have we not do him before $$
 ^^ no $$
@@ -1647,7 +1668,7 @@
 ^^ mhm $$
 ^^ okay $$
 ^^ do you want to do the onion now $$
-^^   I do not think I have see the onion before either $$
+^^ I don't I do not think I have see the onion before either $$
 ^^ no $$
 ^^ mhm $$
 ^^ there you go $$
@@ -1677,27 +1698,34 @@
 ^^ do you want to read that book $$
 ^^ it be $$
 ^^ Pingu and the kite $$
+^^ www $$
 ^^ he trip up and fall over $$
 ^^ pardon $$
 ^^ yeah $$
 ^^ five and four $$
 ^^ be she $$
 ^^ oh $$
+^^ www $$
 ^^ which $$
 ^^ it be get stick on top of the igloo $$
 ^^ the igloo their house be not it $$
+^^ www $$
 ^^ it land right on Pinga head and knock her over $$
 ^^ whoops $$
+^^ www $$
 ^^ yes $$
+^^ www $$
 ^^ when Pingu and Pinga arrive at Grandpa house $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ that be right $$
-^^ I be sorry we do not help you  mend your kite say Dad $$
+^^ www $$
+^^ I be sorry we do not help you mend mend your kite say Dad $$
 ^^ that be right $$
 ^^ and they be all fly the kite be not they $$
+^^ www $$
 ^^ no $$
-^^ we will do a different one  $$
+^^ we will do a different one eh $$
 ^^ you know what Mummy like $$
 ^^ I get awful bore with the same story do not I $$
 ^^ do not I $$

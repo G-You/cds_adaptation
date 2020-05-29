@@ -1,8 +1,10 @@
 ^^ ping $$
+^^ xxx $$
 ^^ black $$
 ^^ post it $$
 ^^ John post it $$
 ^^ behind you $$
+^^ xxx $$
 ^^ stick $$
 ^^ stick $$
 ^^ quite a assortment be not there $$
@@ -10,12 +12,13 @@
 ^^ phone $$
 ^^ no $$
 ^^ can not hear $$
-^^  go in there $$
+^^ xxx go in there $$
 ^^ yes $$
 ^^ where be it $$
 ^^ where be it $$
 ^^ like that $$
 ^^ phone $$
+^^ xxx $$
 ^^ byebye $$
 ^^ byebye $$
 ^^ byebye $$
@@ -29,6 +32,7 @@
 ^^ let us down that $$
 ^^ let us put that down $$
 ^^ let us down circle $$
+^^ xxx $$
 ^^ oh orange car there $$
 ^^ like Claire car $$
 ^^ that like Claire car red $$
@@ -96,7 +100,7 @@
 ^^ yeah $$
 ^^ jump like a frog $$
 ^^ shark $$
-^^ shark   in the water like dolphin like that $$
+^^ shark in the in the water like dolphin like that $$
 ^^ and see a lobster $$
 ^^ and see a lobster $$
 ^^ and Daddy touch it $$
@@ -119,6 +123,7 @@
 ^^ p $$
 ^^ p $$
 ^^ Christmas $$
+^^ xxx $$
 ^^ a eight $$
 ^^ eight $$
 ^^ eight $$
@@ -133,6 +138,7 @@
 ^^ John dear Daddy $$
 ^^ dear Daddy $$
 ^^ dear Daddy $$
+^^ xxx $$
 ^^ get in $$
 ^^ get in the box $$
 ^^ inside here $$
@@ -148,6 +154,7 @@
 ^^ again $$
 ^^ train $$
 ^^ that a train $$
+^^ xxx $$
 ^^ by the door $$
 ^^ yes $$
 ^^ oh $$
@@ -159,7 +166,7 @@
 ^^ oh can not do it $$
 ^^ wheel $$
 ^^ the bus John do it $$
-^^ I  the yellow $$
+^^ I xxx the yellow $$
 ^^ dog yellow $$
 ^^ I bang it $$
 ^^ get Daddy $$
@@ -189,7 +196,7 @@
 ^^ old house $$
 ^^ the brick stick in the old $$
 ^^ go the old house $$
-^^ oh push it in the cupboard in that  $$
+^^ oh push it in the cupboard in that xxx $$
 ^^ like that $$
 ^^ oh $$
 ^^ choochoo $$
@@ -198,6 +205,7 @@
 ^^ choochoo $$
 ^^ the old house $$
 ^^ see $$
+^^ xxx $$
 ^^ not work $$
 ^^ it be Grandpa $$
 ^^ it be Grandpa $$
@@ -205,6 +213,8 @@
 ^^ off $$
 ^^ on $$
 ^^ dry the hair $$
+^^ xxx $$
+^^ xxx $$
 ^^ hold that $$
 ^^ that Grandpa $$
 ^^ no $$
@@ -224,8 +234,10 @@
 ^^ there be a egg $$
 ^^ oh $$
 ^^ John have a look $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh yes $$
-^^ the  trouser off $$
+^^ the trouser trouser off $$
 ^^ off $$
 ^^ big $$
 ^^ big here $$
@@ -237,6 +249,7 @@
 ^^ John strawberry $$
 ^^ oh look $$
 ^^ that be a same one $$
+^^ xxx $$
 ^^ oh look $$
 ^^ it be a tomato $$
 ^^ it be a tomato $$
@@ -251,10 +264,12 @@
 ^^ tomato $$
 ^^ open it $$
 ^^ please $$
+^^ xxx $$
 ^^ the tomato $$
 ^^ the lid on $$
 ^^ turn around $$
 ^^ turn around $$
+^^ xxx $$
 ^^ please $$
 ^^ oh $$
 ^^ do it $$
@@ -269,7 +284,7 @@
 ^^ tomato $$
 ^^ apple $$
 ^^ tomato in there $$
-^^  tomato  in there $$
+^^ tomato tomato in in there $$
 ^^ I see $$
 ^^ ice $$
 ^^ ice $$
@@ -312,6 +327,7 @@
 ^^ there be doll $$
 ^^ there be doll $$
 ^^ there be doll $$
+^^ xxx $$
 ^^ Mummy do it $$
 ^^ off $$
 ^^ button $$
@@ -328,7 +344,8 @@
 ^^ with John toy $$
 ^^ with John toy $$
 ^^ look at that $$
-^^  John toy $$
+^^ xxx John toy $$
+^^ xxx $$
 ^^ John $$
 ^^ it be doll $$
 ^^ doll dress $$
@@ -360,7 +377,8 @@
 ^^ the cow $$
 ^^ cow be the doll $$
 ^^ the doll $$
-^^  the pig $$
+^^ xxx the pig $$
+^^ xxx $$
 ^^ poor doll $$
 ^^ poor doll $$
 ^^ poor doll $$
@@ -378,21 +396,23 @@
 ^^ it be a car $$
 ^^ baby $$
 ^^ oh $$
-^^  round and round $$
+^^ xxx round and round $$
 ^^ it be round and round $$
+^^ xxx $$
 ^^ circle in there $$
-^^   circle in there $$
+^^ circles circles circle in there $$
 ^^ horse in there $$
-^^ circle  in there $$
+^^ circle in in there $$
 ^^ what be it $$
 ^^ slipper the doll $$
-^^ doll  $$
+^^ doll xxx $$
 ^^ oh look $$
 ^^ no $$
 ^^ it go the doll $$
 ^^ go the doll $$
 ^^ sleep $$
 ^^ it sleep $$
+^^ xxx $$
 ^^ door $$
 ^^ door $$
 ^^ door $$
@@ -400,12 +420,14 @@
 ^^ Anna $$
 ^^ there be Anna $$
 ^^ there be $$
+^^ xxx $$
 ^^ chicken $$
 ^^ chicken $$
 ^^ chicken $$
 ^^ there $$
 ^^ grass the chicken $$
 ^^ grass $$
+^^ xxx $$
 ^^ eat it $$
 ^^ they eat $$
 ^^ I get one cow $$
@@ -419,14 +441,14 @@
 ^^ yes $$
 ^^ all the monkey two $$
 ^^ there the Christmas break the Daddy $$
-^^ it be break  $$
+^^ it be break xxx $$
 ^^ oh yes $$
 ^^ hen $$
 ^^ a hen $$
 ^^ cockerel $$
 ^^ cockadoodle $$
-^^  Nicki $$
-^^ a cousin  Nicki $$
+^^ xxx Nicki $$
+^^ a cousin Nicki Nicki $$
 ^^ Nicki $$
 ^^ and Chrissie $$
 ^^ Richard $$
@@ -437,6 +459,7 @@
 ^^ Nicki $$
 ^^ and Sylvia $$
 ^^ Sylvia $$
+^^ xxx $$
 ^^ go swim $$
 ^^ go swim Sylvia $$
 ^^ go swim boy $$
@@ -444,14 +467,17 @@
 ^^ yeah $$
 ^^ John in the $$
 ^^ a jump off $$
+^^ xxx $$
 ^^ and I put the money in door $$
-^^ a  $$
+^^ a xxx $$
 ^^ the money in $$
+^^ xxx $$
 ^^ up and down $$
 ^^ go go go go go go $$
 ^^ John open it $$
 ^^ see Daddy $$
-^^ take the  $$
+^^ take the xxx $$
+^^ xxx $$
 ^^ chicken go in there $$
 ^^ chicken in there $$
 ^^ in there $$
@@ -473,7 +499,7 @@
 ^^ gentle down the stream $$
 ^^ I get some chip $$
 ^^ chip $$
-^^  like $$
+^^ xxx like $$
 ^^ where cow $$
 ^^ cow $$
 ^^ cow $$
@@ -521,12 +547,13 @@
 ^^ a pig $$
 ^^ yeah $$
 ^^ eat the cow now $$
-^^ John  $$
+^^ John xxx $$
 ^^ pig be have hay $$
 ^^ b and q $$
 ^^ b and q $$
 ^^ that the pig b and q $$
 ^^ yeah $$
+^^ xxx $$
 ^^ pig be at b and q $$
 ^^ farm $$
 ^^ more hay $$
@@ -547,6 +574,7 @@
 ^^ in the bin $$
 ^^ in the bin $$
 ^^ oh sorry $$
+^^ xxx $$
 ^^ where be it $$
 ^^ there $$
 ^^ yes $$
@@ -554,6 +582,7 @@
 ^^ yeah $$
 ^^ where be it $$
 ^^ no $$
+^^ xxx $$
 ^^ listen Peter and wolf $$
 ^^ and wolf $$
 ^^ that wolf $$
@@ -561,6 +590,7 @@
 ^^ yeah $$
 ^^ mhm $$
 ^^ yeah $$
+^^ xxx $$
 ^^ duck in the water $$
 ^^ spider book $$
 ^^ there be a spider book $$
@@ -569,6 +599,7 @@
 ^^ there be a farm $$
 ^^ there be a farm $$
 ^^ and there be a baby pig $$
+^^ a $$
 ^^ tail $$
 ^^ on there $$
 ^^ on the farm $$
@@ -582,7 +613,7 @@
 ^^ cow go in the house $$
 ^^ where the gate $$
 ^^ a tower $$
-^^  some neigh $$
+^^ er some neigh $$
 ^^ neigh $$
 ^^ neigh $$
 ^^ oh $$
@@ -591,7 +622,7 @@
 ^^ yeah $$
 ^^ horse $$
 ^^ oh there $$
-^^ the  $$
+^^ the xxx $$
 ^^ the gate come out $$
 ^^ that $$
 ^^ oh yes $$
@@ -601,6 +632,7 @@
 ^^ this want more thing $$
 ^^ oh $$
 ^^ elephant $$
+^^ xxx $$
 ^^ all the animal $$
 ^^ John do it $$
 ^^ John do it $$
@@ -609,9 +641,10 @@
 ^^ just one there $$
 ^^ the wall $$
 ^^ it be on here $$
+^^ xxx $$
 ^^ want more $$
 ^^ yeah $$
-^^  in there $$
+^^ on in there $$
 ^^ in here $$
 ^^ dinner $$
 ^^ animal $$
@@ -619,11 +652,11 @@
 ^^ watch $$
 ^^ oh the farm in there $$
 ^^ the farm in there $$
-^^ the farm  on there $$
+^^ the farm in on there $$
 ^^ the farm on there $$
 ^^ where other farm $$
 ^^ I look $$
-^^ look a  $$
+^^ look a xxx $$
 ^^ look some money $$
 ^^ look $$
 ^^ money $$
@@ -643,6 +676,7 @@
 ^^ five $$
 ^^ three $$
 ^^ three $$
+^^ xxx $$
 ^^ oh heavy $$
 ^^ window $$
 ^^ uhoh $$
@@ -651,8 +685,10 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ please $$
+^^ xxx $$
 ^^ one two $$
 ^^ five seven $$
+^^ xxx $$
 ^^ oh $$
 ^^ no brick $$
 ^^ no brick $$
@@ -687,6 +723,7 @@
 ^^ oh look $$
 ^^ money John $$
 ^^ money John $$
+^^ xxx $$
 ^^ come out $$
 ^^ it be come out $$
 ^^ more $$
@@ -722,7 +759,7 @@
 ^^ whoo $$
 ^^ whee $$
 ^^ whoa $$
-^^ John go  on the horse $$
+^^ John go on on the horse $$
 ^^ Mummy on the horse $$
 ^^ John on $$
 ^^ Mummy up $$
@@ -757,14 +794,17 @@
 ^^ yeah $$
 ^^ I bite warm $$
 ^^ yeah $$
-^^  man go on the horse $$
+^^ man man go on the horse $$
 ^^ yeah $$
 ^^ yes $$
+^^ xxx $$
 ^^ on $$
-^^  on the tree $$
-^^  the tree $$
+^^ xxx on the tree $$
+^^ xxx the tree $$
 ^^ pig $$
+^^ xxx $$
 ^^ hurt $$
+^^ xxx $$
 ^^ bang bang $$
 ^^ run $$
 ^^ I run $$
@@ -824,6 +864,7 @@
 ^^ find the cow $$
 ^^ find the cow $$
 ^^ cow $$
+^^ xxx $$
 ^^ there be doll $$
 ^^ there be a cow $$
 ^^ there be doll $$
@@ -857,6 +898,7 @@
 ^^ train $$
 ^^ train $$
 ^^ get train on $$
+^^ xxx $$
 ^^ choochoo $$
 ^^ oh $$
 ^^ uhoh $$
@@ -909,12 +951,15 @@
 ^^ go on the doll $$
 ^^ on head $$
 ^^ that be nice $$
+^^ xxx $$
 ^^ on the doll $$
+^^ xxx $$
 ^^ bib $$
 ^^ bib $$
 ^^ oh $$
 ^^ oh $$
-^^  fasten the  $$
+^^ xxx fasten the xxx $$
+^^ xxx $$
 ^^ whoa $$
 ^^ whoa $$
 ^^ get a dress on $$
@@ -930,7 +975,7 @@
 ^^ yeah $$
 ^^ arm here $$
 ^^ doll $$
-^^  that doll $$
+^^ xxx that doll $$
 ^^ yeah $$
 ^^ Grannys $$
 ^^ Grannys $$
@@ -940,21 +985,23 @@
 ^^ banana $$
 ^^ stay down there $$
 ^^ cockadoodledoo $$
+^^ xxx $$
 ^^ horse $$
 ^^ it be horse $$
-^^   this get more $$
-^^ get  $$
+^^ there's a this get more $$
+^^ get xxx $$
 ^^ Daddy be get more $$
 ^^ the farm $$
 ^^ farm $$
 ^^ farm $$
 ^^ farm $$
 ^^ farm animal $$
-^^  farm animal on the green bit $$
+^^ xxx $$
+^^ animal farm animal on the green bit $$
 ^^ yeah $$
 ^^ yes $$
 ^^ yes $$
-^^  stand there $$
+^^ stand stand there $$
 ^^ no $$
 ^^ can not do it $$
 ^^ row row row the boat $$
@@ -989,7 +1036,7 @@
 ^^ little lamb $$
 ^^ little lamb $$
 ^^ school $$
-^^  first $$
+^^ xxx first $$
 ^^ pig first $$
 ^^ pig first $$
 ^^ pig first $$
@@ -1004,7 +1051,7 @@
 ^^ chicken $$
 ^^ bite the chicken $$
 ^^ like some sausage $$
-^^ like  like some egg $$
+^^ like some like some egg $$
 ^^ like some egg $$
 ^^ like some egg $$
 ^^ yeah $$
@@ -1017,11 +1064,12 @@
 ^^ oh $$
 ^^ in there $$
 ^^ cook it $$
-^^ I  cook $$
+^^ I cooking cook $$
 ^^ cook $$
 ^^ cake $$
 ^^ cake $$
 ^^ cook the cake $$
+^^ xxx $$
 ^^ oh John $$
 ^^ I cook it $$
 ^^ cook it $$
@@ -1039,8 +1087,9 @@
 ^^ get sausage $$
 ^^ oh no $$
 ^^ get out $$
-^^  get  $$
-^^ get  $$
+^^ xxx $$
+^^ got get xxx $$
+^^ get xxx $$
 ^^ open it please $$
 ^^ please $$
 ^^ open please $$
@@ -1048,7 +1097,7 @@
 ^^ and another one $$
 ^^ John get money $$
 ^^ get some money $$
-^^  please $$
+^^ xxx please $$
 ^^ and post in $$
 ^^ dear John $$
 ^^ it be John $$
@@ -1063,7 +1112,9 @@
 ^^ cook the chip again $$
 ^^ I carry some $$
 ^^ not ready $$
-^^ cook the  $$
+^^ xxx $$
+^^ xxx $$
+^^ cook the xxx $$
 ^^ cook the banana $$
 ^^ cook the banana $$
 ^^ banana $$

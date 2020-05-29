@@ -1,10 +1,11 @@
 ^^ I run $$
 ^^ yeah $$
-^^  a tower $$
+^^ um a tower $$
 ^^ these brick $$
-^^ shall we  on  $$
+^^ shall we on on xxx $$
+^^ xxx $$
 ^^ I put some there $$
-^^    we get this tower big $$
+^^ we getting this we get this tower big $$
 ^^ we get this blue one $$
 ^^ I get this one on there $$
 ^^ there $$
@@ -56,7 +57,7 @@
 ^^ just one $$
 ^^ just six $$
 ^^ six $$
-^^  you four $$
+^^ you you four $$
 ^^ you four $$
 ^^ you thirty four $$
 ^^ my Dad thirty eight $$
@@ -72,14 +73,14 @@
 ^^ yeah $$
 ^^ oh $$
 ^^ go to sleep $$
-^^  Tig awake $$
+^^ um Tig awake $$
 ^^ oh $$
 ^^ gorilla fall over $$
 ^^ they go to sleep $$
 ^^ go hide their back $$
 ^^ their back $$
 ^^ here be your back $$
-^^   get your back $$
+^^ get your get your back $$
 ^^ get your back $$
 ^^ get your back $$
 ^^ get your back $$
@@ -88,7 +89,7 @@
 ^^ shall we get these up $$
 ^^ yeah $$
 ^^ I get the giraffe up $$
-^^ I  I get $$
+^^ I get I get $$
 ^^ what be that $$
 ^^ eagle $$
 ^^ look $$
@@ -98,7 +99,7 @@
 ^^ I want to get panda up $$
 ^^ no $$
 ^^ who be that $$
-^^      shall we sing row row $$
+^^ shall we sing shall we shall we sing row row $$
 ^^ shall we sing $$
 ^^ ring a ring of rose $$
 ^^ no $$
@@ -215,7 +216,7 @@
 ^^ in the basket $$
 ^^ for cook $$
 ^^ pepper $$
-^^  in the basket $$
+^^ in in the basket $$
 ^^ I put this in the basket $$
 ^^ I put this in the basket $$
 ^^ I put this in my basket $$
@@ -259,7 +260,7 @@
 ^^ shall it go on $$
 ^^ this $$
 ^^ I run $$
-^^ this go   in here $$
+^^ this go in in in here $$
 ^^ in the box $$
 ^^ go away $$
 ^^ in here $$
@@ -278,7 +279,7 @@
 ^^ and here be another sore $$
 ^^ yeah $$
 ^^ that be $$
-^^   here be my another sore $$
+^^ here's my here be my another sore $$
 ^^ bruise $$
 ^^ I get bruise $$
 ^^ bruise $$
@@ -286,7 +287,7 @@
 ^^ I sit on it $$
 ^^ yeah $$
 ^^ I can sit lemon $$
-^^    I sit on it $$
+^^ I sitting on I sit on it $$
 ^^ I stick $$
 ^^ I hop $$
 ^^ I hop $$
@@ -302,7 +303,7 @@
 ^^ what inside $$
 ^^ I go to get salmon $$
 ^^ salmon $$
-^^   I go shop $$
+^^ I go I go shop $$
 ^^ see you in a bit $$
 ^^ yeah $$
 ^^ I get orange $$
@@ -327,7 +328,7 @@
 ^^ do rolly $$
 ^^ rolly $$
 ^^ no $$
-^^   you do not do it $$
+^^ you don't you do not do it $$
 ^^ you not do it $$
 ^^ I do it again $$
 ^^ I go that there $$
@@ -344,7 +345,7 @@
 ^^ look at tiger head up $$
 ^^ look $$
 ^^ where be the little tiger $$
-^^ sit  on Mummy back $$
+^^ sit on on Mummy back $$
 ^^ here the big fish $$
 ^^ where be the little fish $$
 ^^ swim in the water $$
@@ -357,7 +358,7 @@
 ^^ eat some grass $$
 ^^ can not do $$
 ^^ I want one $$
-^^  yellow one $$
+^^ um yellow one $$
 ^^ more $$
 ^^ this one $$
 ^^ go $$
@@ -381,8 +382,9 @@
 ^^ I go on $$
 ^^ more $$
 ^^ this line $$
+^^ um $$
 ^^ one two three $$
-^^  another line $$
+^^ another another line $$
 ^^ one there $$
 ^^ there $$
 ^^ there $$
@@ -428,7 +430,7 @@
 ^^ go there $$
 ^^ slide $$
 ^^ slide off $$
-^^ I bump      on my bum then $$
+^^ I bump in in my in my on my bum then $$
 ^^ yeah $$
 ^^ oh $$
 ^^ oh $$
@@ -456,7 +458,7 @@
 ^^ I hurt myself $$
 ^^ yeah $$
 ^^ yeah $$
-^^ can you put my sock  on now $$
+^^ can you put my sock on on now $$
 ^^ I hurt myself on it $$
 ^^ yeah $$
 ^^ I get brick on my toe $$
@@ -465,16 +467,16 @@
 ^^ look Anna $$
 ^^ look $$
 ^^ yeah $$
-^^      bite $$
-^^      bite $$
-^^     bite $$
-^^   bite $$
-^^    bite $$
-^^  bite $$
-^^     bite $$
-^^    bite $$
-^^   bite $$
-^^       bite $$
+^^ bite bite bite bite bite bite $$
+^^ bite bite bite bite bite bite $$
+^^ bite bite bite bite bite $$
+^^ bite bite bite $$
+^^ bite bite bite bite $$
+^^ bite bite $$
+^^ bite bite bite bite bite $$
+^^ bite bite bite bite $$
+^^ bite bite bite $$
+^^ bite bite bite bite bite bite bite $$
 ^^ stuff on it $$
 ^^ that stuff there $$
 ^^ bite me $$
@@ -487,7 +489,7 @@
 ^^ do not touch Mummy $$
 ^^ do not touch $$
 ^^ because it be very cold $$
-^^  just touch $$
+^^ just just touch $$
 ^^ just touch $$
 ^^ it be a slide $$
 ^^ slide $$
@@ -517,8 +519,8 @@
 ^^ build a house $$
 ^^ I get this yellow bit $$
 ^^ just this yellow $$
-^^   big house $$
-^^   big $$
+^^ big big big house $$
+^^ big big big $$
 ^^ big $$
 ^^ just big it $$
 ^^ how it be $$
@@ -538,10 +540,11 @@
 ^^ door $$
 ^^ door to go out $$
 ^^ I need these child $$
-^^ and   this be a boy $$
+^^ and this is this be a boy $$
 ^^ this be $$
 ^^ need lots_of boy $$
 ^^ this be boy $$
+^^ xxx $$
 ^^ get the door $$
 ^^ can not get the door $$
 ^^ shall we get toy for boy $$
@@ -574,16 +577,18 @@
 ^^ can this cut you $$
 ^^ yeah $$
 ^^ yeah $$
-^^ I go to cut  on that chick $$
+^^ I go to cut your on that chick $$
 ^^ go to go squeak squeak $$
 ^^ there $$
 ^^ I be look this man $$
 ^^ shall we do $$
-^^ shall we   get this off $$
+^^ shall we get this get this off $$
 ^^ shall we build a shop $$
 ^^ round this $$
+^^ um $$
 ^^ I go to do this green one on there $$
 ^^ I go to do this red one behind this on there $$
+^^ xxx $$
 ^^ go there $$
 ^^ there $$
 ^^ back a bit $$
@@ -599,10 +604,10 @@
 ^^ shall we build $$
 ^^ shall we build $$
 ^^ not these $$
-^^  play the brick $$
+^^ er play the brick $$
 ^^ brick $$
 ^^ put these brick away $$
-^^  I help the brick to play there $$
+^^ I I help the brick to play there $$
 ^^ do not get all mine $$
 ^^ do not dream $$
 ^^ just $$
@@ -621,6 +626,7 @@
 ^^ here be a blue $$
 ^^ here be a $$
 ^^ I get a grey $$
+^^ xxx $$
 ^^ grey $$
 ^^ grey $$
 ^^ grey $$
@@ -675,7 +681,7 @@
 ^^ on the doll $$
 ^^ two leg $$
 ^^ here be the panda $$
-^^  these $$
+^^ xxx these $$
 ^^ go sit in there $$
 ^^ it be a trunk that $$
 ^^ get the trunk down $$
@@ -692,7 +698,7 @@
 ^^ go sleep $$
 ^^ go sleep $$
 ^^ shall we build a tower Mummy $$
-^^   where be the green go $$
+^^ where's the where be the green go $$
 ^^ where be the green $$
 ^^ here be a green $$
 ^^ what be that $$
@@ -705,7 +711,7 @@
 ^^ I not play a night $$
 ^^ I get this $$
 ^^ you have get to get a lick $$
-^^  it be just orange $$
+^^ just it be just orange $$
 ^^ it be just white $$
 ^^ just white $$
 ^^ I do not like it $$
@@ -760,10 +766,10 @@
 ^^ good boy panda $$
 ^^ only take a minute $$
 ^^ here $$
-^^    he get this jacket $$
-^^ he get a jacket  Anna $$
+^^ he got this he get this jacket $$
+^^ he get a jacket um Anna $$
 ^^ can he sit down now $$
-^^  shall we $$
+^^ shall shall we $$
 ^^ oh $$
 ^^ no $$
 ^^ I do not $$
@@ -773,9 +779,9 @@
 ^^ get wheel $$
 ^^ drive $$
 ^^ get to get to drive $$
-^^  drive $$
+^^ xxx drive $$
 ^^ take it off $$
-^^ take it off  $$
+^^ take it off xxx $$
 ^^ to get warm $$
 ^^ get warm $$
 ^^ today $$
@@ -813,6 +819,7 @@
 ^^ ribbon $$
 ^^ shall you get a ribbon out $$
 ^^ can me $$
+^^ a $$
 ^^ out $$
 ^^ I want it $$
 ^^ can me have it $$
@@ -825,7 +832,7 @@
 ^^ I get these ring now $$
 ^^ another one $$
 ^^ get $$
-^^  I get these $$
+^^ got I get these $$
 ^^ I want the bobble on $$
 ^^ what be that in there $$
 ^^ go $$
@@ -842,11 +849,11 @@
 ^^ shall we build a tower Mummy $$
 ^^ yeah $$
 ^^ come and get these $$
-^^   sit $$
-^^  sit $$
-^^   sit down $$
-^^   sit up $$
-^^  sit up $$
+^^ sit sit sit $$
+^^ sit sit $$
+^^ sit sit sit down $$
+^^ sit sit sit up $$
+^^ sit sit up $$
 ^^ sit up $$
 ^^ and here be the penguin $$
 ^^ go to stand $$
@@ -892,7 +899,7 @@
 ^^ chew $$
 ^^ Lucky chew stick $$
 ^^ me $$
-^^ I do not need to   let her kitchen $$
+^^ I do not need to let her let her kitchen $$
 ^^ bump my foot on the board $$
 ^^ yeah $$
 ^^ you can not reach $$
@@ -906,15 +913,15 @@
 ^^ there $$
 ^^ no no there $$
 ^^ a gorilla $$
-^^    bite $$
-^^       bite $$
-^^   bite $$
-^^    bite $$
+^^ bite bite bite bite $$
+^^ bite bite bite bite bite bite bite $$
+^^ bite bite bite $$
+^^ bite bite bite bite $$
 ^^ giraffe $$
 ^^ zebra $$
 ^^ bite $$
 ^^ can you set him go $$
-^^ can you  set $$
+^^ can you set set $$
 ^^ can you $$
 ^^ my Mum get poor back $$
 ^^ yeah $$
@@ -931,7 +938,7 @@
 ^^ to build a tunnel $$
 ^^ build a tunnel $$
 ^^ you do a big tunnel and me do a little tunnel $$
-^^ you  be a big tunnel there $$
+^^ you be be a big tunnel there $$
 ^^ oh $$
 ^^ can me over $$
 ^^ shall we build $$
@@ -967,7 +974,7 @@
 ^^ say please $$
 ^^ and another $$
 ^^ oh $$
-^^ the train be go through  my tunnel now $$
+^^ the train be go through that my tunnel now $$
 ^^ stop $$
 ^^ yeah $$
 ^^ can me have $$
@@ -984,13 +991,13 @@
 ^^ no $$
 ^^ look $$
 ^^ look Anna $$
-^^ look at  my chimney $$
+^^ look at my my chimney $$
 ^^ look at this one $$
 ^^ look $$
 ^^ look $$
 ^^ I go to get the vet $$
 ^^ yeah $$
-^^       I go to go to the vet $$
+^^ I going to get to the I go to go to the vet $$
 ^^ I go to the vet to make him good $$
 ^^ yeah $$
 ^^ he be all right now $$
@@ -1003,9 +1010,9 @@
 ^^ not go in that field $$
 ^^ in this next field $$
 ^^ that way $$
-^^   shall we wind him up now $$
+^^ shall we shall we wind him up now $$
 ^^ yeah $$
-^^     I want to build   a big chimney $$
+^^ I wanna build a I want to build a big a big chimney $$
 ^^ a big chimney $$
 ^^ look at how my chimney be big $$
 ^^ look how it be my chimney $$
@@ -1028,6 +1035,7 @@
 ^^ yeah $$
 ^^ one two three four five $$
 ^^ can me put bridge away $$
+^^ xxx $$
 ^^ Harold $$
 ^^ wooden brick away $$
 ^^ this mine put away $$
@@ -1044,7 +1052,7 @@
 ^^ I get snot nose $$
 ^^ I get my brick out $$
 ^^ tower $$
-^^  house $$
+^^ um house $$
 ^^ I have cheese on toast $$
 ^^ cheese on toast $$
 ^^ clean our nose $$
@@ -1054,7 +1062,7 @@
 ^^ do not wake me up $$
 ^^ it be a gorilla $$
 ^^ I get a brick out $$
-^^   shall we build a house $$
+^^ shall we shall we build a house $$
 ^^ shall we do a house $$
 ^^ be you wind $$
 ^^ be you wind $$
@@ -1085,7 +1093,7 @@
 ^^ that be one there $$
 ^^ I want that one $$
 ^^ that be not yours $$
-^^ you    have get this one now $$
+^^ you have have get have get this one now $$
 ^^ this one $$
 ^^ think this one go to go there the brick $$
 ^^ this one go to go fix there a brick $$
@@ -1106,7 +1114,7 @@
 ^^ I get steam $$
 ^^ a biscuit $$
 ^^ yeah $$
-^^ and ice  up top $$
+^^ and ice up up top $$
 ^^ I do not like it $$
 ^^ it bite cold $$
 ^^ what be this $$
@@ -1121,7 +1129,7 @@
 ^^ yeah $$
 ^^ I have ice at tea $$
 ^^ I have ice Mummy $$
-^^  I be to the zoo $$
+^^ I I be to the zoo $$
 ^^ yeah $$
 ^^ elephant $$
 ^^ boy cow $$
@@ -1130,7 +1138,7 @@
 ^^ look $$
 ^^ some more $$
 ^^ we see some panda as_well $$
-^^  where be the leopard $$
+^^ where's where be the leopard $$
 ^^ no we do not $$
 ^^ yeah $$
 ^^ see the monkey $$
@@ -1198,7 +1206,7 @@
 ^^ where be it go $$
 ^^ can not see $$
 ^^ I can not see $$
-^^   shall we play with house $$
+^^ shall we shall we play with house $$
 ^^ no $$
 ^^ how we go to build a tunnel then $$
 ^^ shall we build these Anna brick now $$
@@ -1236,7 +1244,7 @@
 ^^ my Dad go to work $$
 ^^ for me and Mummy $$
 ^^ yeah $$
-^^ I bump  that toe $$
+^^ I bump my that toe $$
 ^^ yeah $$
 ^^ not $$
 ^^ on a plate $$
@@ -1246,7 +1254,7 @@
 ^^ oh $$
 ^^ it be sticky $$
 ^^ yeah $$
-^^ here  $$
+^^ here xxx $$
 ^^ put this one back a bit $$
 ^^ be you Fireman_Sam $$
 ^^ Fireman_Sam $$
@@ -1276,15 +1284,18 @@
 ^^ I get some pizza here $$
 ^^ we have eat it $$
 ^^ do not use your finger a little bit $$
-^^    do not use your finger $$
+^^ don't don't use do not use your finger $$
 ^^ drop my $$
 ^^ how I go to get this pizza cook $$
-^^  cook $$
+^^ xxx cook $$
 ^^ pizza $$
 ^^ this be pizza $$
 ^^ be it ready to cook $$
 ^^ you want to ready to get it cook now $$
+^^ xxx $$
 ^^ ice $$
+^^ xxx $$
+^^ xxx $$
 ^^ ice $$
 ^^ oh I do not like it $$
 ^^ I do not like it $$

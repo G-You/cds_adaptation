@@ -1,3 +1,4 @@
+^^ xxx $$
 ^^ yeah $$
 ^^ a hair up there $$
 ^^ there $$
@@ -8,6 +9,7 @@
 ^^ Nicole help $$
 ^^ yeah $$
 ^^ there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ there $$
 ^^ yeah $$
@@ -24,15 +26,16 @@
 ^^ Lucy $$
 ^^ yeah $$
 ^^ no $$
-^^  do not know $$
+^^ um do not know $$
 ^^ teddy $$
 ^^ yeah $$
 ^^ nobody $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ Mummy poor $$
+^^ xxx $$
 ^^ Dorothy $$
-^^  Coco $$
+^^ um Coco $$
 ^^ Toto $$
 ^^ yeah $$
 ^^ yeah $$
@@ -42,18 +45,21 @@
 ^^ no no $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ pizza $$
 ^^ pizza two minute $$
 ^^ right $$
 ^^ it be not have it $$
 ^^ not $$
+^^ xxx $$
 ^^ right $$
 ^^ one for Caroline $$
 ^^ whoops_a_daisy $$
 ^^ there $$
 ^^ that $$
 ^^ spoon $$
+^^ xxx $$
 ^^ Caroline $$
 ^^ no $$
 ^^ do it all $$
@@ -61,6 +67,7 @@
 ^^ do it $$
 ^^ Nicole get a $$
 ^^ Nicole get a spoon $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -74,14 +81,15 @@
 ^^ there $$
 ^^ Caroline $$
 ^^ one Nicole $$
-^^ I  dinner $$
+^^ I xxx dinner $$
 ^^ a spoon and knife $$
 ^^ to eat it with $$
 ^^ yeah $$
 ^^ love $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
-^^  want toast now $$
+^^ want want toast now $$
 ^^ want toast $$
 ^^ Caroline $$
 ^^ and Nicole $$
@@ -105,6 +113,7 @@
 ^^ no $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ there $$
 ^^ yeah $$
 ^^ oh $$
@@ -133,7 +142,7 @@
 ^^ glass of orange $$
 ^^ yeah $$
 ^^ have a drink please $$
-^^  lemon  $$
+^^ um lemon xxx $$
 ^^ nobody $$
 ^^ no no $$
 ^^ no $$
@@ -157,7 +166,9 @@
 ^^ downstairs $$
 ^^ upstairs $$
 ^^ upstairs $$
+^^ xxx $$
 ^^ when Daddy come $$
+^^ xxx $$
 ^^ yeah $$
 ^^ more pizza Caroline $$
 ^^ all_gone $$
@@ -165,6 +176,7 @@
 ^^ cut them up again $$
 ^^ oh $$
 ^^ Mummy like $$
+^^ xxx $$
 ^^ and that $$
 ^^ there $$
 ^^ Mummy one $$
@@ -172,7 +184,7 @@
 ^^ cook now $$
 ^^ cook $$
 ^^ yeah $$
-^^  two minute $$
+^^ a two minute $$
 ^^ minute $$
 ^^ yeah $$
 ^^ yeah $$
@@ -180,6 +192,7 @@
 ^^ there $$
 ^^ two minute $$
 ^^ where my orange $$
+^^ xxx $$
 ^^ where beer go $$
 ^^ there $$
 ^^ there beer $$
@@ -190,6 +203,7 @@
 ^^ beer $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ where orange $$
 ^^ yeah $$
 ^^ no $$
@@ -198,11 +212,14 @@
 ^^ no $$
 ^^ hot $$
 ^^ cold $$
-^^ cold  $$
+^^ cold xxx $$
+^^ xxx $$
 ^^ ah $$
 ^^ no $$
 ^^ go $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ hot $$
 ^^ hot $$
 ^^ hot $$
@@ -228,11 +245,12 @@
 ^^ a pizza $$
 ^^ egg $$
 ^^ egg $$
+^^ xxx $$
 ^^ seven $$
 ^^ a car $$
 ^^ car $$
 ^^ panda $$
-^^  that $$
+^^ xxx that $$
 ^^ cat $$
 ^^ that $$
 ^^ you tell me what they be $$
@@ -249,30 +267,35 @@
 ^^ there $$
 ^^ little pig $$
 ^^ yeah $$
+^^ xxx $$
 ^^ right $$
 ^^ now $$
 ^^ where the lid $$
+^^ xxx $$
 ^^ put away $$
-^^ let us  there $$
+^^ let us xxx there $$
 ^^ there $$
-^^ there  $$
+^^ there xxx $$
+^^ xxx $$
 ^^ pretend sleep $$
-^^ pretend  $$
+^^ pretend xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ that one $$
 ^^ trouser $$
+^^ xxx $$
 ^^ that $$
 ^^ yes $$
 ^^ gherkin there $$
 ^^ that one there $$
-^^  her wear that there $$
+^^ um her wear that there $$
 ^^ wear this there $$
 ^^ trouser on $$
-^^  trouser $$
+^^ um trouser $$
 ^^ Nicole find duck now $$
 ^^ panda $$
 ^^ now mum $$
+^^ xxx $$
 ^^ oh no $$
 ^^ no $$
 ^^ oh no $$
@@ -316,6 +339,7 @@
 ^^ Nicole find it no $$
 ^^ Tots_tv $$
 ^^ oh $$
+^^ xxx $$
 ^^ nobody $$
 ^^ mum read it $$
 ^^ there $$
@@ -351,8 +375,9 @@
 ^^ the last day $$
 ^^ shop $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh Molly_cat $$
-^^ Molly  $$
+^^ Molly xxx $$
 ^^ Molly $$
 ^^ yeah $$
 ^^ yeah $$
@@ -366,6 +391,7 @@
 ^^ there $$
 ^^ no $$
 ^^ sleep there $$
+^^ xxx $$
 ^^ poor Molly $$
 ^^ Molly $$
 ^^ look $$
@@ -375,13 +401,15 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ Molly talk $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ our cat $$
-^^ the bird sit and eat  a bird dinner $$
+^^ the bird sit and eat the a bird dinner $$
 ^^ yeah $$
 ^^ there $$
 ^^ yeah $$
-^^ plant  come here $$
+^^ plant xxx come here $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ oh $$
@@ -391,9 +419,11 @@
 ^^ little car $$
 ^^ yes $$
 ^^ right $$
-^^ you  $$
+^^ you xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ drive right $$
 ^^ no $$
 ^^ can not $$
@@ -408,17 +438,20 @@
 ^^ blue $$
 ^^ purple $$
 ^^ nobody $$
+^^ xxx $$
 ^^ look $$
 ^^ Caroline do that $$
 ^^ Caroline do that $$
-^^  buss $$
-^^ and that  $$
+^^ um buss $$
+^^ and that xxx $$
 ^^ yeah please $$
 ^^ yeah $$
 ^^ in there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ Nicole $$
+^^ xxx $$
 ^^ leave Nicole that $$
 ^^ no $$
 ^^ right $$
@@ -426,7 +459,7 @@
 ^^ leave that alone $$
 ^^ right $$
 ^^ leave that there alone $$
-^^  Nicole roll it $$
+^^ leave Nicole roll it $$
 ^^ no $$
 ^^ do that now $$
 ^^ yeah $$
@@ -435,6 +468,7 @@
 ^^ ready $$
 ^^ Nicole finish $$
 ^^ Caroline have it $$
+^^ xxx $$
 ^^ toy be in car $$
 ^^ toy in car $$
 ^^ toy in car $$
@@ -444,7 +478,8 @@
 ^^ and do that $$
 ^^ and Caroline toy come later $$
 ^^ yeah $$
-^^  Caroline toy come in now $$
+^^ xxx $$
+^^ xxx Caroline toy come in now $$
 ^^ silly $$
 ^^ there you be Caroline $$
 ^^ oh here $$
@@ -453,15 +488,18 @@
 ^^ no $$
 ^^ no $$
 ^^ pan out $$
+^^ xxx $$
 ^^ Nicole pan out $$
-^^   Nicole pan out $$
+^^ Nicole Nicole Nicole pan out $$
 ^^ yeah $$
+^^ um xxx $$
 ^^ green purple $$
 ^^ yeah $$
 ^^ Nicole cook $$
 ^^ green purple $$
 ^^ yeah $$
 ^^ Nicole do it again $$
+^^ xxx $$
 ^^ whoops_a_daisy $$
 ^^ whoops_a_daisy $$
 ^^ whoops_a_daisy $$
@@ -471,32 +509,38 @@
 ^^ yes $$
 ^^ yeah $$
 ^^ like it $$
-^^  Mummy watch me $$
+^^ xxx $$
+^^ Mummy Mummy watch me $$
 ^^ Mummy watch Nicole $$
-^^  Mummy watch Nicole $$
-^^  Mummy sit here $$
+^^ xxx $$
+^^ Mummy Mummy watch Nicole $$
+^^ Mummy Mummy sit here $$
 ^^ Nicole sit here $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ oh love Daddy $$
 ^^ a potato $$
 ^^ cold $$
 ^^ yeah $$
 ^^ yeah $$
-^^  and Nicole play with bike $$
-^^ then  play a car $$
+^^ and and Nicole play with bike $$
+^^ then a play a car $$
 ^^ right $$
 ^^ yeah $$
-^^ and  $$
-^^ then   then Nicole  $$
+^^ and xxx $$
+^^ then Lucy Lucy then Nicole xxx $$
 ^^ right $$
-^^  go shop $$
+^^ xxx $$
+^^ a go shop $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ oh $$
 ^^ lady $$
 ^^ oh Mummy $$
 ^^ Nicole do that $$
+^^ xxx $$
 ^^ there $$
 ^^ yeah $$
 ^^ yeah $$
@@ -504,28 +548,29 @@
 ^^ yeah $$
 ^^ now $$
 ^^ yeah $$
-^^  there $$
-^^  there $$
+^^ a there $$
+^^ a there $$
 ^^ Mummy $$
-^^ Nicole  now $$
+^^ Nicole xxx now $$
 ^^ Nicole pepper $$
 ^^ Nicole get the pepper $$
 ^^ right $$
 ^^ yes $$
 ^^ salt and pepper $$
-^^ you do  salt and pepper $$
+^^ you do um salt and pepper $$
 ^^ there $$
+^^ xxx $$
 ^^ no $$
-^^  Caroline sit like  Nicole bottom $$
+^^ um Caroline sit like a Nicole bottom $$
 ^^ Mummy sit like Nicole $$
-^^  sit down by Nicole $$
+^^ xxx sit down by Nicole $$
 ^^ right $$
 ^^ yeah $$
 ^^ there $$
 ^^ Nicole play $$
 ^^ Mummy forget $$
 ^^ yeah $$
-^^  potato $$
+^^ um potato $$
 ^^ tape $$
 ^^ tape $$
 ^^ yeah $$
@@ -542,36 +587,39 @@
 ^^ like play $$
 ^^ like play $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah $$
-^^  Nicole type $$
+^^ um Nicole type $$
 ^^ yeah $$
 ^^ Caroline $$
-^^  Nicole move $$
+^^ Nicole Nicole move $$
 ^^ tata $$
 ^^ yeah $$
 ^^ uhoh $$
 ^^ uhoh $$
 ^^ uhoh $$
 ^^ uhoh $$
-^^  Nicole come back again $$
+^^ Nicole Nicole come back again $$
 ^^ yeah $$
+^^ xxx $$
 ^^ Nicole go $$
 ^^ come back $$
-^^  come back $$
+^^ coming come back $$
 ^^ play come $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
+^^ xxx $$
 ^^ pie cook $$
 ^^ no $$
 ^^ like play $$
-^^  play cook $$
+^^ pla play cook $$
 ^^ eat it $$
 ^^ Caroline and Mummy Nicole eat it $$
-^^  play $$
+^^ a play $$
 ^^ right $$
 ^^ no $$
-^^  eat that and  $$
+^^ um eat that and xxx $$
 ^^ eat it pie altogether $$
 ^^ right $$
 ^^ eat it $$
@@ -581,17 +629,19 @@
 ^^ yeah $$
 ^^ Caroline $$
 ^^ no $$
+^^ xxx $$
 ^^ yes $$
 ^^ right $$
 ^^ oh $$
 ^^ there $$
 ^^ there $$
 ^^ all_gone $$
+^^ xxx $$
 ^^ yes please $$
 ^^ oh $$
 ^^ lunch $$
 ^^ yeah $$
-^^ this one  $$
+^^ this one xxx $$
 ^^ oh $$
 ^^ Nicole do one now $$
 ^^ Nicole do one $$
@@ -600,30 +650,35 @@
 ^^ I will do it $$
 ^^ there $$
 ^^ knobble $$
+^^ xxx $$
+^^ xxx $$
 ^^ what have we get here $$
-^^ go  $$
-^^ Nicole play in  now $$
+^^ go xxx $$
+^^ Nicole play in xxx now $$
 ^^ that on $$
 ^^ yeah $$
 ^^ yeah $$
-^^  try some $$
+^^ um try some $$
 ^^ no $$
 ^^ it back again $$
 ^^ mine $$
 ^^ yeah $$
-^^  in oven $$
+^^ um in oven $$
 ^^ oh yes $$
 ^^ yes $$
 ^^ oh oh $$
 ^^ toy here $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ no way $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Nicole $$
 ^^ Nicole $$
-^^  two little plate $$
+^^ um two little plate $$
 ^^ now $$
 ^^ no $$
 ^^ yeah $$
@@ -632,86 +687,104 @@
 ^^ Nicole get one Nicole $$
 ^^ oh $$
 ^^ oh $$
-^^  no $$
+^^ yeah no $$
 ^^ tissue $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ Nicole $$
+^^ xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ right $$
 ^^ cake here $$
 ^^ have it $$
 ^^ and Nicole $$
+^^ xxx $$
 ^^ pretend $$
 ^^ no $$
+^^ xxx $$
 ^^ all_gone $$
 ^^ all_gone $$
 ^^ where go $$
 ^^ in there $$
 ^^ this $$
 ^^ right $$
+^^ xxx $$
 ^^ oh $$
 ^^ Nicole make a pie again $$
 ^^ Nicole make a pie $$
-^^  yes $$
+^^ um yes $$
 ^^ yeah $$
 ^^ a pie $$
 ^^ Caroline Mummy Daddy Nicole $$
-^^ for Caroline and  Daddy $$
+^^ for Caroline and a Daddy $$
+^^ xxx $$
+^^ xxx $$
 ^^ leave that there $$
-^^ you get have  cake shop $$
+^^ you get have xxx cake shop $$
 ^^ yeah $$
 ^^ get them cake shop $$
-^^ get  $$
-^^ get  $$
-^^ get  $$
+^^ get xxx $$
+^^ get xxx $$
+^^ get xxx $$
 ^^ yeah $$
 ^^ there $$
 ^^ and no touch $$
 ^^ right $$
-^^ touch  play out $$
-^^ no sit Nicole sit  $$
+^^ touch a play out $$
+^^ xxx $$
+^^ no sit Nicole sit xxx $$
 ^^ Mummy sit here by Nicole $$
-^^ Nicole  $$
-^^  Bev $$
+^^ Nicole xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ um Bev $$
 ^^ no $$
 ^^ Bev there no $$
+^^ xxx $$
 ^^ Bev go to work $$
 ^^ yeah $$
-^^  other lady  do  look after Nicole $$
+^^ xxx $$
+^^ other other lady a do a look after Nicole $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ flour $$
 ^^ flour $$
 ^^ cake $$
 ^^ yeah $$
-^^  Nicole wee $$
+^^ Nicole Nicole wee $$
 ^^ yeah $$
 ^^ no no no $$
-^^ up  there $$
+^^ up xxx there $$
 ^^ Nicole self $$
 ^^ yeah $$
-^^ open it  $$
+^^ xxx $$
+^^ open it xxx $$
 ^^ oh $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ yeah $$
 ^^ oh $$
 ^^ Nicole $$
 ^^ Nicole do that $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ good $$
 ^^ butter $$
+^^ xxx $$
 ^^ Caroline $$
 ^^ Caroline $$
 ^^ put paper away $$
-^^  that $$
-^^  that $$
+^^ um that $$
+^^ um that $$
 ^^ I do $$
 ^^ yeah $$
 ^^ nobody $$
 ^^ yeah $$
 ^^ get here $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ get here $$
 ^^ we put that away $$
@@ -721,7 +794,8 @@
 ^^ and rabbit be there $$
 ^^ horse lie down in little grass $$
 ^^ a little pig stand up $$
-^^ that  $$
+^^ xxx $$
+^^ that xxx $$
 ^^ that one go there $$
 ^^ little horse go there $$
 ^^ and moo there $$
@@ -738,13 +812,15 @@
 ^^ there $$
 ^^ I take them $$
 ^^ I take out $$
-^^  there $$
+^^ um there $$
 ^^ egg there $$
-^^ that  $$
+^^ that xxx $$
 ^^ now go $$
 ^^ now go $$
 ^^ car $$
 ^^ that $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ same clothes on $$
 ^^ oh $$
@@ -752,6 +828,7 @@
 ^^ hat on $$
 ^^ hat on $$
 ^^ hat on $$
+^^ xxx $$
 ^^ hat on $$
 ^^ hat on $$
 ^^ hat $$
@@ -761,6 +838,7 @@
 ^^ Mummy hold doll $$
 ^^ just there $$
 ^^ there $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ yeah $$
@@ -771,12 +849,16 @@
 ^^ oh Mummy $$
 ^^ open up $$
 ^^ open up $$
-^^  Mummy go shop $$
-^^ and take   $$
-^^ and Mummy take  $$
+^^ xxx $$
+^^ xxx $$
+^^ a Mummy go shop $$
+^^ and take um xxx $$
+^^ xxx $$
+^^ and Mummy take xxx $$
 ^^ Mummy got to take that $$
 ^^ oh $$
-^^ Mummy  Caroline $$
+^^ Mummy xxx Caroline $$
+^^ xxx $$
 ^^ have a soup $$
 ^^ and macaroni $$
 ^^ have that $$
@@ -786,15 +868,16 @@
 ^^ and Caroline $$
 ^^ go now $$
 ^^ and take $$
-^^  and Mummy have  $$
+^^ and and Mummy have xxx $$
 ^^ right $$
 ^^ bye $$
 ^^ Nicole wee $$
 ^^ a wee again $$
+^^ xxx $$
 ^^ cheese $$
 ^^ and that $$
 ^^ have that $$
-^^ have that  $$
+^^ have that xxx $$
 ^^ buy juice $$
 ^^ juice $$
 ^^ tomato again $$
@@ -802,6 +885,7 @@
 ^^ hot $$
 ^^ Jamie Rory come $$
 ^^ yeah $$
+^^ xxx $$
 ^^ hot $$
 ^^ right $$
 ^^ right $$
@@ -827,9 +911,11 @@
 ^^ Nicole go $$
 ^^ Nicole pretend $$
 ^^ yeah $$
+^^ xxx $$
 ^^ no $$
 ^^ pretend $$
 ^^ move that $$
+^^ xxx $$
 ^^ throw Postman_Pat $$
 ^^ Mummy again $$
 ^^ no $$
@@ -845,13 +931,17 @@
 ^^ no room $$
 ^^ no $$
 ^^ Toad_Toad_Hall $$
-^^ Nicole get some  $$
+^^ xxx $$
+^^ Nicole get some xxx $$
+^^ xxx $$
 ^^ no no $$
 ^^ no way $$
 ^^ leave book here $$
 ^^ leave book here $$
-^^  Nicole there $$
+^^ um Nicole there $$
+^^ xxx $$
 ^^ there $$
+^^ xxx $$
 ^^ Daddy chair $$
 ^^ mhm $$
 ^^ no $$
@@ -873,16 +963,20 @@
 ^^ oh $$
 ^^ oh $$
 ^^ oh $$
-^^  Mummy  $$
+^^ um Mummy xxx $$
 ^^ where other one $$
 ^^ want it in there $$
+^^ xxx $$
 ^^ chicken $$
 ^^ chicken $$
 ^^ no way $$
+^^ xxx $$
 ^^ Caroline play toy $$
 ^^ where Caroline $$
 ^^ no $$
+^^ xxx $$
 ^^ Nicole put it all back $$
+^^ xxx $$
 ^^ leave that there $$
 ^^ like it $$
 ^^ there $$
@@ -901,7 +995,7 @@
 ^^ yes $$
 ^^ Nicole chocolate $$
 ^^ yes $$
-^^  want  chocolate $$
+^^ a want a chocolate $$
 ^^ chocolate $$
 ^^ no no $$
 ^^ go $$
@@ -911,28 +1005,31 @@
 ^^ yeah $$
 ^^ mhm $$
 ^^ Mummy that one $$
+^^ xxx $$
 ^^ no $$
 ^^ tea $$
 ^^ Nicole want tea $$
 ^^ Nicole want it $$
-^^  yeah $$
-^^  yeah $$
-^^   I do that now $$
+^^ um yeah $$
+^^ um yeah $$
+^^ I do I do that now $$
 ^^ just move it in $$
 ^^ I get Tiger $$
 ^^ Nicole that $$
 ^^ right $$
+^^ xxx $$
 ^^ there $$
+^^ xxx $$
 ^^ that $$
 ^^ that $$
 ^^ do it $$
 ^^ then I put it on $$
-^^  that finish and watch  $$
-^^  finish that $$
+^^ um that finish and watch xxx $$
+^^ um finish that $$
 ^^ Nicole finish that $$
 ^^ Nicole $$
-^^ Nicole  Nicole that $$
-^^  Nicole that $$
+^^ Nicole um Nicole that $$
+^^ um Nicole that $$
 ^^ okay $$
 ^^ Nicole that $$
 ^^ no $$
@@ -941,9 +1038,10 @@
 ^^ there $$
 ^^ right $$
 ^^ that $$
+^^ xxx $$
 ^^ there there there $$
-^^  take that $$
-^^  put that in there $$
+^^ um take that $$
+^^ um put that in there $$
 ^^ and then I press it that $$
 ^^ that $$
 ^^ then I put it out again $$
@@ -952,6 +1050,8 @@
 ^^ play $$
 ^^ no no $$
 ^^ Nicole do that $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ Mummy do it $$
 ^^ no $$
@@ -970,6 +1070,7 @@
 ^^ no no $$
 ^^ no $$
 ^^ like Caroline come $$
+^^ xxx $$
 ^^ Nicole Duplo out $$
 ^^ Duplo $$
 ^^ yeah $$
@@ -980,7 +1081,7 @@
 ^^ go now $$
 ^^ Mummy $$
 ^^ no $$
-^^ Caroline  $$
+^^ Caroline xxx $$
 ^^ yes $$
 ^^ well do $$
 ^^ oh $$
@@ -988,6 +1089,7 @@
 ^^ Caroline get three $$
 ^^ Molly can wind it $$
 ^^ no Molly $$
+^^ xxx $$
 ^^ Nicole catch one $$
 ^^ yeah $$
 ^^ mhm $$
@@ -1000,7 +1102,10 @@
 ^^ Mum put that away $$
 ^^ no $$
 ^^ too early $$
-^^  and a jig puzzle now $$
+^^ xxx $$
+^^ and and a jig puzzle now $$
+^^ xxx $$
+^^ xxx $$
 ^^ Nicole do $$
 ^^ Nicole like that one $$
 ^^ yeah $$
@@ -1009,7 +1114,7 @@
 ^^ Nicole find that $$
 ^^ it be that $$
 ^^ yeah $$
-^^  and  $$
+^^ and and xxx $$
 ^^ here $$
 ^^ knickers on $$
 ^^ where the knickers $$
@@ -1017,13 +1122,16 @@
 ^^ Molly touch the curtain $$
 ^^ Molly bad cat $$
 ^^ oh $$
-^^ there be  $$
+^^ xxx $$
+^^ there be xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ and that on now $$
 ^^ this one $$
 ^^ do not know $$
+^^ xxx $$
+^^ xxx $$
 ^^ that be angry face $$
 ^^ angry angry face $$
 ^^ angry face $$
@@ -1034,11 +1142,11 @@
 ^^ Nicole do there $$
 ^^ point too long $$
 ^^ where shoe $$
-^^   and ready bed $$
+^^ and ready and ready bed $$
 ^^ and ready bed $$
 ^^ it ready $$
 ^^ ready bed $$
-^^ and her  $$
+^^ and her xxx $$
 ^^ oh dear $$
 ^^ angry face $$
 ^^ angry face $$
@@ -1051,7 +1159,8 @@
 ^^ yeah $$
 ^^ swap the foot over $$
 ^^ swap the foot over $$
-^^  and wipe it $$
+^^ and and wipe it $$
+^^ xxx $$
 ^^ put that away $$
 ^^ no $$
 ^^ no $$
@@ -1061,48 +1170,51 @@
 ^^ the play in Nicole pan $$
 ^^ wait $$
 ^^ a pan $$
-^^ because   a pan hot $$
+^^ because a pan a pan hot $$
+^^ xxx $$
 ^^ I do it there $$
 ^^ I ready $$
 ^^ ready bed $$
 ^^ ready bed $$
 ^^ I just there $$
-^^ I    play the teddy $$
+^^ I playing with with play the teddy $$
 ^^ no head $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ and that very angry look $$
-^^ and that be  $$
+^^ and that be xxx $$
 ^^ oh $$
 ^^ why $$
 ^^ why Mummy $$
-^^  why $$
+^^ um why $$
 ^^ why Mummy $$
 ^^ why the teddy cry $$
 ^^ why teddy cry $$
 ^^ she get a poor $$
 ^^ yeah $$
-^^ and  Nicole jump a bed now $$
+^^ and Nicole Nicole jump a bed now $$
 ^^ Nicole jump in a bed $$
 ^^ oh $$
 ^^ and Nicole jump in bed $$
 ^^ Nicole go $$
-^^  Nicole go now $$
+^^ a Nicole go now $$
 ^^ no $$
 ^^ no away $$
 ^^ oh $$
 ^^ sit here $$
 ^^ oh $$
 ^^ sit here $$
-^^  Mummy sit down here $$
+^^ a Mummy sit down here $$
 ^^ want sit down $$
 ^^ Mummy sit here $$
 ^^ Mummy sit there $$
 ^^ sit here talk Nicole $$
 ^^ stand here then $$
-^^ Nicole do  $$
+^^ xxx $$
+^^ Nicole do xxx $$
+^^ xxx $$
 ^^ Molly go $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ I be to play $$
 ^^ picture $$
 ^^ picture $$
@@ -1118,12 +1230,13 @@
 ^^ and Nicole have a cheese one please $$
 ^^ telephone $$
 ^^ telephone $$
+^^ xxx $$
 ^^ no $$
-^^  Nicole want a that $$
+^^ want Nicole want a that $$
 ^^ Nicole want $$
-^^  open that $$
-^^ open  $$
-^^ and Nicole  $$
+^^ xxx open that $$
+^^ open xxx $$
+^^ and Nicole xxx $$
 ^^ malt malt malt $$
 ^^ malt $$
 ^^ malt $$
@@ -1131,6 +1244,7 @@
 ^^ eat that $$
 ^^ eat that $$
 ^^ here $$
+^^ xxx $$
 ^^ Mummy taste $$
 ^^ you eat it $$
 ^^ lick cheese off $$
@@ -1142,7 +1256,7 @@
 ^^ my daddy do $$
 ^^ yeah $$
 ^^ mhm $$
-^^ pizza  $$
+^^ pizza xxx $$
 ^^ pizza $$
 ^^ yeah $$
 ^^ where Mummy pizza $$
@@ -1156,19 +1270,21 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ my pasta $$
+^^ xxx $$
 ^^ mhm $$
 ^^ pussy $$
 ^^ Molly $$
 ^^ nobody $$
-^^  Molly Mummy $$
+^^ Molly Molly Mummy $$
 ^^ Clive $$
 ^^ Clive Mummy $$
 ^^ Clive Molly Mummy $$
+^^ xxx $$
 ^^ Dina $$
 ^^ Dina $$
 ^^ Dina $$
 ^^ Andrew Daddy $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ Nicole do cook $$
 ^^ come $$
 ^^ come on and $$
@@ -1179,9 +1295,10 @@
 ^^ yeah $$
 ^^ Nicole malt $$
 ^^ malt $$
-^^  no $$
+^^ um no $$
 ^^ no $$
-^^ that  $$
+^^ that xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ no no no $$
 ^^ yeah $$
@@ -1189,7 +1306,7 @@
 ^^ and Nicole do that $$
 ^^ right $$
 ^^ yeah $$
-^^  black $$
+^^ um black $$
 ^^ black $$
 ^^ black $$
 ^^ white $$
@@ -1197,6 +1314,7 @@
 ^^ black and white $$
 ^^ Nicole do cloud look $$
 ^^ yeah $$
+^^ xxx $$
 ^^ do one $$
 ^^ do round and round $$
 ^^ Nicole do $$
@@ -1210,8 +1328,9 @@
 ^^ oh dear $$
 ^^ Nicole write Nicole $$
 ^^ Nicole do color $$
-^^ Nicole do  black and white $$
-^^  green $$
+^^ Nicole do um black and white $$
+^^ um green $$
+^^ um xxx $$
 ^^ Nicole get it $$
 ^^ Nicole get it $$
 ^^ oh $$
@@ -1232,22 +1351,24 @@
 ^^ no $$
 ^^ there $$
 ^^ do a little bit there $$
-^^  that $$
+^^ um that $$
 ^^ trouser be brown $$
 ^^ green $$
 ^^ green $$
 ^^ red $$
 ^^ red $$
-^^ and  that $$
+^^ and a that $$
 ^^ red and a $$
 ^^ Nicole do that $$
 ^^ Nicole do that $$
+^^ xxx $$
 ^^ shirt brown $$
 ^^ white $$
 ^^ and this here $$
 ^^ and tape finish go downstairs $$
 ^^ right $$
-^^ a  a_lot_of toy come down $$
+^^ a lot a_lot_of toy come down $$
+^^ xxx $$
 ^^ the toy come down $$
 ^^ Nicole play with $$
 ^^ yeah $$
@@ -1272,27 +1393,28 @@
 ^^ no $$
 ^^ count to three $$
 ^^ Nicole downstairs $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ Nicole do that $$
 ^^ color $$
 ^^ no $$
 ^^ hot $$
-^^  hot $$
+^^ xxx hot $$
 ^^ pie $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ yeah $$
 ^^ no $$
-^^  and the play in it later $$
+^^ and and the play in it later $$
 ^^ a later time $$
-^^  and the doll in there $$
+^^ and and the doll in there $$
+^^ xxx $$
 ^^ I get that out $$
 ^^ I get that out $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ doll do drawing $$
 ^^ no $$
-^^ the  doll like that $$
+^^ the dolly doll like that $$
 ^^ and Caroline Nicole like that $$
 ^^ not ready yet $$
 ^^ not ready $$
@@ -1304,9 +1426,11 @@
 ^^ not touch it $$
 ^^ it hot $$
 ^^ too hot $$
-^^  pie $$
+^^ um pie $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ work $$
 ^^ why $$
 ^^ why $$
@@ -1314,12 +1438,14 @@
 ^^ where knife go $$
 ^^ knife $$
 ^^ and that $$
-^^ knife and fork  $$
+^^ xxx $$
+^^ knife and fork xxx $$
 ^^ knife and fork $$
 ^^ Nicole $$
 ^^ Nicole put umbrella up $$
 ^^ and sing Nicole $$
 ^^ and Nicole need it $$
+^^ xxx $$
 ^^ why $$
 ^^ rain $$
 ^^ yeah $$
@@ -1341,6 +1467,7 @@
 ^^ can stand there $$
 ^^ can stand there $$
 ^^ stand there $$
+^^ xxx $$
 ^^ I get the animal out $$
 ^^ duck $$
 ^^ yeah $$
@@ -1350,7 +1477,8 @@
 ^^ farm Grandma $$
 ^^ all queue up $$
 ^^ yeah $$
-^^ cow eat  milk $$
+^^ xxx $$
+^^ cow eat um milk $$
 ^^ milk $$
 ^^ my egg $$
 ^^ egg $$
@@ -1361,8 +1489,9 @@
 ^^ goose $$
 ^^ a goose $$
 ^^ a goose $$
+^^ xxx $$
 ^^ no $$
-^^  and that one nice $$
+^^ and and that one nice $$
 ^^ that $$
 ^^ and that in here $$
 ^^ that in here $$
@@ -1376,9 +1505,12 @@
 ^^ do not they $$
 ^^ what that $$
 ^^ that $$
-^^ that  $$
+^^ that xxx $$
+^^ xxx $$
 ^^ other one $$
 ^^ other one $$
+^^ xxx $$
+^^ xxx $$
 ^^ beep $$
 ^^ I be go away $$
 ^^ beep $$
@@ -1408,13 +1540,15 @@
 ^^ no $$
 ^^ and then $$
 ^^ I go now $$
+^^ xxx $$
 ^^ yeah $$
 ^^ oh $$
 ^^ yeah $$
 ^^ that one $$
+^^ xxx $$
 ^^ oh $$
 ^^ that on bed $$
-^^ Nicole catch  $$
+^^ Nicole catch xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ why $$
@@ -1433,14 +1567,18 @@
 ^^ open up $$
 ^^ Nicole eat it $$
 ^^ oh no $$
-^^  put away no $$
+^^ xxx $$
+^^ xxx $$
+^^ put put away no $$
 ^^ where orange $$
 ^^ where orange $$
 ^^ no $$
+^^ xxx $$
 ^^ chicken $$
 ^^ chicken $$
 ^^ yeah $$
 ^^ chicken $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1448,7 +1586,7 @@
 ^^ do like a ball $$
 ^^ no $$
 ^^ this here $$
-^^ not  now $$
+^^ not xxx now $$
 ^^ yeah $$
 ^^ oh $$
 ^^ Mummy do it $$
@@ -1459,6 +1597,8 @@
 ^^ Grandad $$
 ^^ get a new dog $$
 ^^ get a new dog $$
+^^ xxx $$
+^^ xxx $$
 ^^ roll it $$
 ^^ I roll it $$
 ^^ where orange $$
@@ -1478,6 +1618,7 @@
 ^^ and that $$
 ^^ and boat $$
 ^^ and the boat $$
+^^ xxx $$
 ^^ yes $$
 ^^ away boat $$
 ^^ oh $$
@@ -1486,8 +1627,8 @@
 ^^ get the train out $$
 ^^ oh $$
 ^^ again $$
-^^ again  $$
-^^   Nicole train $$
+^^ again xxx $$
+^^ Nicole Nicole Nicole train $$
 ^^ there $$
 ^^ go $$
 ^^ choo $$
@@ -1503,11 +1644,14 @@
 ^^ finish $$
 ^^ hat $$
 ^^ hat on $$
+^^ xxx $$
 ^^ that hat on $$
+^^ xxx $$
 ^^ what $$
 ^^ what be that $$
 ^^ do it $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
 ^^ Nicole can not $$
 ^^ oh $$
@@ -1527,9 +1671,9 @@
 ^^ yeah $$
 ^^ nobody $$
 ^^ go $$
-^^  go to the shop $$
+^^ um go to the shop $$
 ^^ no $$
-^^  hungry yet $$
+^^ um hungry yet $$
 ^^ no $$
 ^^ Nicole train track $$
 ^^ a track $$
@@ -1538,54 +1682,62 @@
 ^^ right $$
 ^^ train come minute $$
 ^^ train come $$
+^^ xxx $$
 ^^ mhm $$
-^^   and meat $$
+^^ and and and meat $$
 ^^ that $$
 ^^ do eat that $$
-^^  nobody $$
+^^ um nobody $$
 ^^ like a pear $$
 ^^ yes $$
-^^   like a pear $$
+^^ like a like a pear $$
 ^^ and be that come in $$
-^^ come  $$
+^^ come xxx $$
 ^^ yeah $$
 ^^ where $$
 ^^ that again $$
 ^^ to shop $$
-^^  elephant $$
+^^ um elephant $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ out the way $$
 ^^ whee $$
 ^^ is giraffe come $$
 ^^ giraffe $$
 ^^ maybe $$
 ^^ maybe $$
-^^   Nicole get $$
-^^   no get that in $$
-^^  naughty $$
+^^ Nicole Nicole Nicole get $$
+^^ no no no get that in $$
+^^ a naughty $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ that like there $$
 ^^ and take them back $$
 ^^ yeah $$
 ^^ where train $$
-^^ and Nicole  $$
+^^ and Nicole xxx $$
+^^ xxx $$
 ^^ train $$
 ^^ come again $$
 ^^ come on $$
 ^^ come $$
-^^ come  $$
+^^ come xxx $$
 ^^ come $$
+^^ xxx $$
 ^^ come down $$
-^^ come  $$
+^^ come xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ no $$
-^^ I  I want $$
+^^ xxx $$
+^^ I want I want $$
 ^^ hungry $$
-^^ I want  $$
+^^ I want xxx $$
 ^^ hungry $$
-^^  meat $$
+^^ um meat $$
 ^^ poor $$
 ^^ no way $$
 ^^ Nicole make a wrong $$
@@ -1605,6 +1757,7 @@
 ^^ poor now $$
 ^^ poor $$
 ^^ oh $$
+^^ xxx $$
 ^^ there $$
 ^^ I go now $$
 ^^ time to go $$
@@ -1617,6 +1770,7 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ you sit down $$
+^^ xxx $$
 ^^ yeah $$
 ^^ sick $$
 ^^ sick $$
@@ -1639,14 +1793,14 @@
 ^^ Nicole get that $$
 ^^ yeah $$
 ^^ oh $$
-^^  Nicole want a wee $$
-^^  where go $$
+^^ Nicole Nicole want a wee $$
+^^ um where go $$
 ^^ burger $$
 ^^ on there $$
 ^^ no $$
 ^^ no $$
-^^  Nicole $$
-^^ Nicole  $$
+^^ xxx Nicole $$
+^^ Nicole xxx $$
 ^^ nobody $$
 ^^ yeah $$
 ^^ Humpty_Dumpty $$
@@ -1655,9 +1809,10 @@
 ^^ there $$
 ^^ dingding $$
 ^^ I dingding $$
+^^ xxx $$
 ^^ yeah $$
 ^^ there Humpty_Dumpty $$
-^^ Nicole do it  $$
+^^ Nicole do it xxx $$
 ^^ knock him off wall $$
 ^^ wow $$
 ^^ yeah $$
@@ -1681,10 +1836,12 @@
 ^^ and some on Nicole spoon $$
 ^^ that back $$
 ^^ back in here $$
+^^ xxx $$
 ^^ oh $$
 ^^ wow $$
 ^^ rightie ho $$
 ^^ soup $$
+^^ xxx $$
 ^^ open it now $$
 ^^ Coco_Pops $$
 ^^ coffee $$
@@ -1698,24 +1855,27 @@
 ^^ I go school now $$
 ^^ bye $$
 ^^ bye $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ night_night $$
+^^ xxx $$
 ^^ yeah $$
 ^^ doll $$
 ^^ Inga $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ yeah $$
 ^^ there $$
+^^ xxx $$
 ^^ move doll there $$
-^^ and  $$
+^^ and xxx $$
 ^^ they be good now $$
 ^^ yeah $$
 ^^ they be good now $$
 ^^ yeah $$
-^^  Nicole not tire $$
+^^ Nicole Nicole not tire $$
 ^^ yeah $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ very tire now $$
 ^^ very tire $$
 ^^ yeah $$
@@ -1726,8 +1886,11 @@
 ^^ go back later $$
 ^^ no $$
 ^^ yeah $$
+^^ xxx $$
 ^^ home now $$
+^^ xxx $$
 ^^ yeah $$
+^^ um xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ do one $$
@@ -1750,22 +1913,26 @@
 ^^ horse $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ not yet $$
 ^^ not yet $$
 ^^ not tire now $$
+^^ xxx $$
 ^^ read Nicole $$
 ^^ read Nicole $$
 ^^ yeah $$
-^^ Nicole  $$
-^^ there  Nicole lot and lots_of toy now $$
+^^ Nicole xxx $$
+^^ xxx $$
+^^ there Nicole Nicole lot and lots_of toy now $$
 ^^ get that $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ yeah $$
 ^^ oh $$
 ^^ look $$
 ^^ Nicole want to get that out $$
 ^^ there $$
-^^ Nicole  $$
+^^ xxx $$
+^^ Nicole xxx $$
 ^^ clean it now $$
 ^^ right $$
 ^^ no $$
@@ -1777,23 +1944,24 @@
 ^^ lay book here $$
 ^^ lay book there $$
 ^^ Nicole read $$
-^^ Charlie_Chalk  $$
+^^ Charlie_Chalk xxx $$
 ^^ read $$
 ^^ want to Charlie_Chalk $$
 ^^ where Charlie_Chalk $$
 ^^ no Charlie_Chalk $$
-^^ read  $$
+^^ read um $$
 ^^ leave that there $$
 ^^ leave that $$
 ^^ go go go go go go go $$
 ^^ yeah $$
 ^^ that $$
 ^^ yeah $$
-^^  Sunny $$
+^^ um Sunny $$
 ^^ no $$
-^^ no  $$
+^^ no xxx $$
 ^^ no $$
 ^^ and put that on $$
+^^ xxx $$
 ^^ there $$
 ^^ and one in there $$
 ^^ get your arm out $$
@@ -1806,7 +1974,9 @@
 ^^ no $$
 ^^ Mummy do it $$
 ^^ no $$
-^^ Nicole  $$
+^^ xxx $$
+^^ Nicole xxx $$
+^^ xxx $$
 ^^ Nicole $$
 ^^ Nicole $$
 ^^ yeah $$
@@ -1816,7 +1986,9 @@
 ^^ Mummy $$
 ^^ Mummy $$
 ^^ Mummy do it $$
+^^ xxx $$
 ^^ Nicole can not $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ cold look $$
@@ -1836,6 +2008,7 @@
 ^^ get in here $$
 ^^ get in here $$
 ^^ get in here $$
+^^ xxx $$
 ^^ there $$
 ^^ that $$
 ^^ there $$
@@ -1845,7 +2018,7 @@
 ^^ in there $$
 ^^ there $$
 ^^ there $$
-^^ Nicole  there $$
+^^ Nicole a there $$
 ^^ swap $$
 ^^ here $$
 ^^ mhm $$
@@ -1859,8 +2032,9 @@
 ^^ get little girl $$
 ^^ get little girl call Lauren $$
 ^^ yeah $$
-^^  she come $$
+^^ um she come $$
 ^^ Mummy poor $$
+^^ xxx $$
 ^^ green $$
 ^^ blue $$
 ^^ nobody $$
@@ -1870,7 +2044,7 @@
 ^^ orange $$
 ^^ orange $$
 ^^ orange $$
-^^ and  $$
+^^ and um $$
 ^^ Caroline go $$
 ^^ a one $$
 ^^ a two $$
@@ -1879,15 +2053,17 @@
 ^^ and Nicole get two now $$
 ^^ no have one now $$
 ^^ put it in little bag $$
-^^ a little  bag $$
+^^ a little xxx bag $$
+^^ xxx $$
 ^^ little bag $$
 ^^ I hold $$
 ^^ get in here $$
 ^^ nobody leave now $$
 ^^ yeah $$
+^^ xxx $$
 ^^ that go Lauren $$
 ^^ yeah $$
-^^ Lauren  $$
+^^ Lauren xxx $$
 ^^ and that Lauren be $$
 ^^ Nicole be get little girl call Mummy $$
 ^^ Caroline call baby $$
@@ -1896,20 +2072,22 @@
 ^^ Abigail $$
 ^^ Abigail $$
 ^^ Lauren $$
-^^  Petra $$
+^^ um Petra $$
 ^^ Petra pull Nicole jump $$
 ^^ and dance $$
 ^^ and tumble Humpty_Dumpty $$
 ^^ and nobody play now $$
+^^ xxx $$
 ^^ there $$
 ^^ have it $$
 ^^ yeah $$
 ^^ and later finish work $$
 ^^ Nicole poor $$
-^^ Nicole  $$
+^^ Nicole xxx $$
 ^^ nobody $$
 ^^ yeah $$
 ^^ Nicole crayon $$
+^^ xxx $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1922,9 +2100,12 @@
 ^^ Nicole get that now $$
 ^^ Nicole get two coffee now $$
 ^^ two coffee $$
+^^ xxx $$
 ^^ yeah $$
 ^^ cup of tea $$
 ^^ Nicole tire $$
+^^ xxx $$
+^^ xxx $$
 ^^ lie on bed $$
 ^^ night_night $$
 ^^ yes please $$
@@ -1933,30 +2114,36 @@
 ^^ Mummy tire $$
 ^^ Nicole $$
 ^^ yeah $$
-^^  hat up $$
-^^ and want  $$
+^^ xxx hat up $$
+^^ xxx $$
+^^ and want xxx $$
+^^ xxx $$
 ^^ Mummy get $$
 ^^ Mummy get it $$
 ^^ Mummy get that $$
 ^^ Mummy $$
 ^^ stand up $$
 ^^ yeah $$
-^^ and not  put it hat $$
+^^ and not put put it hat $$
 ^^ right $$
 ^^ and go in $$
-^^  rain right $$
+^^ xxx rain right $$
 ^^ yeah $$
 ^^ oh $$
+^^ xxx $$
 ^^ again $$
 ^^ that $$
+^^ xxx $$
 ^^ turn back $$
 ^^ turn back $$
 ^^ turn round $$
 ^^ yeah $$
 ^^ mhm $$
 ^^ yeah $$
+^^ xxx $$
 ^^ again $$
 ^^ again $$
+^^ xxx $$
 ^^ not stand up $$
 ^^ why $$
 ^^ break $$
@@ -1966,30 +2153,34 @@
 ^^ no $$
 ^^ very very cold $$
 ^^ very very $$
-^^   mum wrong $$
+^^ mummie mummie mum wrong $$
 ^^ and get down $$
 ^^ sit down look $$
 ^^ sit down that way there $$
 ^^ get $$
-^^ a calf  $$
+^^ a calf xxx $$
 ^^ and go here $$
 ^^ go back in there $$
 ^^ a goat $$
 ^^ goat $$
+^^ xxx $$
 ^^ oh $$
-^^  over there $$
-^^  there $$
+^^ xxx over there $$
+^^ xxx there $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ in box $$
 ^^ give Nicole that $$
 ^^ Nicole lose $$
 ^^ Nicole $$
 ^^ that $$
-^^ take the  $$
+^^ take the xxx $$
 ^^ that be a hot $$
 ^^ Nicole $$
 ^^ hot and ma nana come $$
 ^^ hot $$
-^^  out $$
+^^ xxx out $$
 ^^ get that out $$
 ^^ oh $$
 ^^ and that $$
@@ -2003,25 +2194,29 @@
 ^^ those come out again $$
 ^^ come out again $$
 ^^ Nicole like that $$
-^^ Nicole like  that $$
+^^ Nicole like xxx that $$
 ^^ yeah $$
 ^^ Nicole like blue color $$
 ^^ Nicole like blue color $$
-^^  and Caroline $$
+^^ and and Caroline $$
 ^^ Nicole like blue color $$
 ^^ oh $$
 ^^ where other one $$
 ^^ where other one go $$
 ^^ there $$
 ^^ oh $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ Nicole like cheese $$
 ^^ lemon $$
+^^ xxx $$
 ^^ no $$
 ^^ Nicole have potato $$
 ^^ like potato $$
 ^^ have you get potato $$
 ^^ where go $$
+^^ xxx $$
 ^^ Nicole tire $$
 ^^ yeah $$
 ^^ cuddle mum $$
@@ -2032,7 +2227,9 @@
 ^^ Nicole stay here $$
 ^^ Nicole $$
 ^^ cuddle mum there $$
+^^ xxx $$
 ^^ right $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ no $$
@@ -2040,14 +2237,16 @@
 ^^ good_night Caroline $$
 ^^ sleep well $$
 ^^ I have wake up $$
+^^ xxx $$
 ^^ no $$
 ^^ Nicole tire $$
-^^  Nicole upstairs $$
+^^ Nicole Nicole upstairs $$
 ^^ little nap $$
 ^^ yeah $$
-^^   Satsuma $$
+^^ sat sat Satsuma $$
 ^^ again look $$
 ^^ roll $$
+^^ xxx $$
 ^^ and that roll $$
 ^^ Nicole like that $$
 ^^ Nicole like that one $$
@@ -2064,50 +2263,56 @@
 ^^ play Duplo yes $$
 ^^ yeah $$
 ^^ yeah $$
-^^  put that away now $$
+^^ xxx put that away now $$
 ^^ no $$
 ^^ oh $$
 ^^ and that $$
 ^^ that be hungry $$
 ^^ oh dear $$
-^^  and did Lauren do that $$
+^^ um and did Lauren do that $$
 ^^ oh $$
 ^^ who that $$
+^^ xxx $$
+^^ xxx $$
 ^^ and that tea ready later $$
 ^^ and $$
+^^ xxx $$
 ^^ where little boy go $$
 ^^ Nicole want little boy $$
 ^^ yeah $$
 ^^ nobody $$
-^^  get the  $$
+^^ um get the xxx $$
 ^^ do that $$
 ^^ and do that $$
 ^^ do that $$
 ^^ do that please $$
 ^^ yeah $$
-^^ and  $$
+^^ and xxx $$
 ^^ yeah $$
-^^  and where other one go $$
-^^   and $$
-^^  and train come $$
+^^ and and where other one go $$
+^^ and and and $$
+^^ and and train come $$
 ^^ train come $$
 ^^ that train come $$
 ^^ and here $$
-^^ and Nicole  $$
+^^ and Nicole xxx $$
 ^^ mum build a house now $$
 ^^ beepbeep $$
 ^^ beep $$
+^^ xxx $$
 ^^ yeah $$
 ^^ alright $$
-^^  come Caroline $$
+^^ um come Caroline $$
 ^^ yeah $$
-^^  and wrong way $$
+^^ xxx $$
+^^ and and wrong way $$
 ^^ go to ferry $$
+^^ xxx $$
 ^^ and come round $$
 ^^ come $$
 ^^ come $$
 ^^ yeah $$
-^^ make a bridge  $$
+^^ make a bridge xxx $$
 ^^ make a bridge like that $$
 ^^ yeah $$
 ^^ yeah $$
@@ -2120,6 +2325,8 @@
 ^^ oh dear me $$
 ^^ make a road $$
 ^^ make a road $$
+^^ xxx $$
+^^ xxx $$
 ^^ Nicole can not $$
 ^^ I can not $$
 ^^ come $$
@@ -2128,28 +2335,35 @@
 ^^ Nicole can not come in $$
 ^^ Nicole in there $$
 ^^ mum daddy go $$
-^^  make it that again $$
+^^ um make it that again $$
+^^ xxx $$
 ^^ oh $$
 ^^ lion come out $$
-^^  lion come out $$
+^^ lion lion come out $$
 ^^ lion come out $$
+^^ xxx $$
 ^^ flip heck $$
 ^^ there $$
+^^ xxx $$
 ^^ and make a tunnel $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
 ^^ want a big bridge $$
-^^  tip out $$
+^^ xxx tip out $$
 ^^ yeah $$
 ^^ oh $$
 ^^ me $$
 ^^ and $$
 ^^ make another tunnel $$
+^^ xxx $$
 ^^ oh look $$
 ^^ oh look $$
 ^^ oh $$
 ^^ that way $$
+^^ xxx $$
 ^^ and Nicole come that way $$
+^^ xxx $$
 ^^ no $$
 ^^ Nicole get a book $$
 ^^ yeah $$
@@ -2158,19 +2372,21 @@
 ^^ ferry time now $$
 ^^ ferry $$
 ^^ there $$
+^^ xxx $$
 ^^ and where ferry go $$
 ^^ here $$
 ^^ ferry here $$
 ^^ leave it there $$
 ^^ wait for Nicole $$
 ^^ a train $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Nicole come round $$
 ^^ oh no $$
 ^^ and leave that there $$
-^^ and  there $$
+^^ and xxx there $$
 ^^ make the dinner look $$
-^^ and Nicole get  $$
+^^ and Nicole get xxx $$
 ^^ Nicole sit down $$
 ^^ lunch $$
 ^^ my lunch $$
@@ -2182,34 +2398,40 @@
 ^^ beep $$
 ^^ go $$
 ^^ no $$
-^^ and  $$
-^^   I go  later $$
+^^ xxx $$
+^^ and um $$
+^^ I go I go xxx later $$
 ^^ maybe finish dinner $$
 ^^ go now $$
 ^^ go soon and finish the dinner then $$
 ^^ yeah $$
 ^^ soon $$
 ^^ where dinner get to $$
-^^  and get out $$
+^^ get and get out $$
+^^ xxx $$
 ^^ okay $$
-^^  Nicole slide $$
+^^ Nicole Nicole slide $$
 ^^ inside $$
 ^^ be that wet $$
 ^^ why $$
 ^^ Nicole in $$
 ^^ Nicole again like that $$
+^^ xxx $$
 ^^ there $$
-^^ go Nicole  look $$
+^^ go Nicole xxx look $$
 ^^ eat their dinner look $$
 ^^ pea $$
+^^ xxx $$
 ^^ nobody $$
-^^  go to shop first $$
+^^ um go to shop first $$
 ^^ go shop $$
 ^^ yeah $$
-^^ and shop  $$
+^^ and shop xxx $$
+^^ xxx $$
 ^^ where go $$
-^^ and  play with  $$
-^^  Nicole  $$
+^^ and a play with xxx $$
+^^ xxx $$
+^^ Nicole Nicole xxx $$
 ^^ oh dear $$
 ^^ yeah $$
 ^^ nobody $$
@@ -2218,12 +2440,13 @@
 ^^ there $$
 ^^ where that fit in $$
 ^^ that fit in $$
+^^ xxx $$
 ^^ no $$
 ^^ oh $$
 ^^ I burp $$
 ^^ burp $$
 ^^ burp $$
-^^ and  that here $$
+^^ and that that here $$
 ^^ and one there $$
 ^^ one little there $$
 ^^ and sit on there $$
@@ -2234,569 +2457,59 @@
 ^^ look there $$
 ^^ and time to go $$
 ^^ beep $$
+^^ xxx $$
 ^^ and that $$
 ^^ wait $$
 ^^ wait for Nicole $$
 ^^ byebye $$
-^^ Nicole wait  $$
-^^ where little  $$
+^^ Nicole wait xxx $$
+^^ xxx $$
+^^ where little xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ noone $$
-^^  run now $$
-^^ and  $$
+^^ xxx run now $$
+^^ and xxx $$
 ^^ Nicole build a bridge $$
 ^^ Nicole $$
+^^ xxx $$
 ^^ that in now $$
 ^^ oh $$
 ^^ this one $$
-^^  Nicole $$
+^^ Nicole Nicole $$
 ^^ this one $$
 ^^ the blue one $$
 ^^ there $$
 ^^ right $$
 ^^ and this there $$
 ^^ that down that way $$
-^^  and Nicole go see David in Friday $$
+^^ and and Nicole go see David in Friday $$
 ^^ and go to play $$
+^^ xxx $$
 ^^ go on Friday $$
-^^  and ma pick Nicole up $$
+^^ and and ma pick Nicole up $$
 ^^ why $$
 ^^ why $$
 ^^ nobody $$
 ^^ yeah $$
-^^ and Lucy  a wee $$
+^^ and Lucy xxx a wee $$
 ^^ and Jackie have pajamas on $$
 ^^ still have pajamas on $$
 ^^ yeah $$
 ^^ and Lucy still get pajamas on $$
-^^ and  and  and watch $$
+^^ and watch and watch and watch $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
-^^  and Lucy have a bath  $$
+^^ and and Lucy have a bath xxx $$
 ^^ yeah $$
 ^^ and wash her hair $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ next Jackie come down $$
 ^^ come downstairs again $$
 ^^ and Tots_tv $$
-^^  play on $$
-^^ that go in there $$
-^^ where car go $$
-^^ Nicole get them at play $$
-^^ a fish $$
-^^ a fish $$
-^^ fish in a boat $$
-^^ Daddy $$
-^^ Daddy in a chair $$
-^^ yeah $$
-^^ dolphin $$
-^^ little boy $$
-^^ yeah $$
-^^ and $$
-^^ Nicole can not do the sun $$
-^^ difficult $$
-^^ a lady $$
-^^ Nicole $$
-^^ holiday $$
-^^ big one $$
-^^ sand $$
-^^ yeah $$
-^^ yeah $$
-^^  I be do green $$
-^^ Daddy go in $$
-^^ yes $$
-^^ sand $$
-^^ fish $$
-^^ yeah $$
-^^ the car go here and go away $$
-^^  not go $$
-^^ look $$
-^^ around around $$
-^^ that  a boat $$
-^^ where dolphin go $$
-^^ here $$
-^^ ice go here $$
-^^ and that be a man give a little boy ice $$
-^^ and ice man come $$
-^^ that be a beach $$
-^^ yeah $$
-^^ I go take Aunty_Lily that $$
-^^ yes $$
-^^ yes $$
-^^  draw that $$
-^^ yes $$
-^^ I get sticky hand $$
-^^ chicken $$
-^^ chicken $$
-^^ chicken $$
-^^ chicken $$
-^^ that be a pig $$
-^^ that be a pig $$
-^^ yeah $$
-^^ that be a horse $$
-^^ moo $$
-^^ that one $$
-^^ then that one $$
-^^ a duck $$
-^^ that be duck $$
-^^ rabbit $$
-^^  a sheep $$
-^^ a rabbit $$
-^^ yeah $$
-^^ no $$
-^^   I do lot and lots_of animal $$
-^^ animal $$
-^^ think teddy now $$
-^^ and animal $$
-^^ come out $$
-^^ shake $$
-^^ go out now $$
-^^ and then you go out $$
-^^ train $$
-^^ train $$
-^^ bed $$
-^^ yes $$
-^^ and my jacket $$
-^^ yes $$
-^^ no $$
-^^ the cry one $$
-^^ yeah $$
-^^ the cry $$
-^^ that be  $$
-^^ oh $$
-^^ yeah $$
-^^ Mummy $$
-^^ want her Mummy think $$
-^^ yeah $$
-^^ where be the teddy Mummy life $$
-^^ teddy be Mummy $$
-^^ yeah $$
-^^ I get it $$
-^^ nobody $$
-^^ play $$
-^^ mhm $$
-^^ that be  $$
-^^ red $$
-^^ red $$
-^^ brown $$
-^^ blue $$
-^^ blue $$
-^^ want that $$
-^^ I be cold $$
-^^ yeah $$
-^^ mhm $$
-^^ thank_you Mummy $$
-^^ that be Nicole $$
-^^ there be train $$
-^^ train $$
-^^ my train $$
-^^ my train $$
-^^ no $$
-^^ cold $$
-^^ cold $$
-^^ cold $$
-^^ cold look $$
-^^ yeah $$
-^^ I want to $$
-^^ where be shoe $$
-^^ there $$
-^^ yes $$
-^^ cow boot  $$
-^^ no $$
-^^ no $$
-^^ tape $$
-^^ like that in $$
-^^ two $$
-^^ there $$
-^^ and that Caroline be $$
-^^ want rolling a minute $$
-^^ in a minute $$
-^^ there you be $$
-^^ yeah $$
-^^ do one now $$
-^^ do one $$
-^^ a teddy $$
-^^ and  that one $$
-^^ yuck yuck $$
-^^ Nicole $$
-^^ Nicole $$
-^^ Mummy $$
-^^ want it $$
-^^ no $$
-^^ want that one $$
-^^ yeah $$
-^^ yeah $$
-^^ yeah $$
-^^ I make a car $$
-^^ err $$
-^^ no can do it $$
-^^ I go get my $$
-^^ sticky $$
-^^ can you do my hand for me $$
-^^ yes $$
-^^ make it clean for me $$
-^^ make it clean $$
-^^ I get two $$
-^^ two $$
-^^ two and two $$
-^^ one two three four $$
-^^ one two three five six $$
-^^ why $$
-^^ pie $$
-^^ no $$
-^^ here look $$
-^^ want the car $$
-^^ look $$
-^^ in here for me $$
-^^ there $$
-^^ I put it in the oven $$
-^^ go and put it in my  $$
-^^ that be for Daddy $$
-^^ that be for Daddy now $$
-^^ yes $$
-^^ have that for dinner $$
-^^ yes $$
-^^ oh $$
-^^ byebye Caroline $$
-^^ oh $$
-^^ whee $$
-^^ oh $$
-^^ yes $$
-^^ have some $$
-^^ no $$
-^^ you come here $$
-^^ ready $$
-^^ no $$
-^^ oh $$
-^^ Mummy $$
-^^ can not get Nicole  $$
-^^ oh $$
-^^ Mummy pig $$
-^^ where pig $$
-^^ where pig $$
-^^ where pig $$
-^^ do not do that $$
-^^ in play $$
-^^ get that off $$
-^^ that $$
-^^ no $$
-^^ no $$
-^^ Nicole do that $$
-^^ no $$
-^^ Mummy $$
-^^ Nicole do that $$
-^^ oink $$
-^^ oink $$
-^^ get the play $$
-^^ put it $$
-^^ yes $$
-^^ play with it  again $$
-^^ right $$
-^^ yeah $$
-^^ no $$
-^^ yeah $$
-^^ Nicole  can not $$
-^^ there $$
-^^ byebye $$
-^^ I try to put $$
-^^ no $$
-^^ I can not $$
-^^ I be too $$
-^^ piece in there $$
-^^ I can not look $$
-^^ oh yeah $$
-^^ oh $$
-^^ a ring $$
-^^ circle $$
-^^ just get  $$
-^^ yeah $$
-^^ look $$
-^^ look $$
-^^ look at these $$
-^^ look at $$
-^^ a circle $$
-^^ Nicole do it $$
-^^ no $$
-^^ Nicole do it $$
-^^  do it for me $$
-^^ Nicole can not do it $$
-^^ a circle $$
-^^  a boat $$
-^^ a boat $$
-^^ yes $$
-^^ a boat $$
-^^ that be Nicole $$
-^^ go holiday $$
-^^ that Aunty_Lily $$
-^^ put in Nicole cook then $$
-^^ why $$
-^^ oh $$
-^^ mhm $$
-^^  want a blanket $$
-^^ there $$
-^^ no $$
-^^ not today $$
-^^ milk $$
-^^ milk $$
-^^  yes $$
-^^ yes $$
-^^ yes $$
-^^ no $$
-^^ nobody $$
-^^ nobody $$
-^^ Lucy $$
-^^ Nicky $$
-^^ Lucy $$
-^^ no $$
-^^ not today $$
-^^ no $$
-^^ no $$
-^^ Laura be not there today $$
-^^ Laura be not there today $$
-^^ no $$
-^^ and Matt $$
-^^ and Matt $$
-^^ yes $$
-^^ no $$
-^^ not today $$
-^^ Jordan go $$
-^^ yes $$
-^^ no $$
-^^ the child play it $$
-^^ a paint $$
-^^ yeah $$
-^^ and  then   $$
-^^ come home $$
-^^ hello $$
-^^  pub $$
-^^ and then come back $$
-^^ hello $$
-^^ and then  $$
-^^ and then we do not $$
-^^ hello $$
-^^ go pub again $$
-^^ yes $$
-^^  you have ask for your blanket $$
-^^ one $$
-^^ two $$
-^^ there you be $$
-^^ present $$
-^^ yeah $$
-^^ yeah $$
-^^ yeah $$
-^^ yeah $$
-^^ yeah $$
-^^ oh $$
-^^ no $$
-^^ no $$
-^^ no $$
-^^ no $$
-^^ not today $$
-^^ I dance $$
-^^ no $$
-^^ yeah $$
-^^  for Mummy $$
-^^ no $$
-^^ want Mummy $$
-^^ yeah $$
-^^ there $$
-^^ no $$
-^^ not today $$
-^^ yeah $$
-^^ Wind in the Willows $$
-^^ I want Wind_in_Willows tape on $$
-^^ yes $$
-^^ want it  just here $$
-^^ read it $$
-^^ open road $$
-^^ just here $$
-^^ just here $$
-^^ just here $$
-^^ Ratty $$
-^^ Mole $$
-^^ Ratty $$
-^^ a boat $$
-^^ nobody $$
-^^ nobody $$
-^^ mhm $$
-^^ where man $$
-^^ where man $$
-^^ yeah $$
-^^ yeah $$
-^^ and  $$
-^^ where man $$
-^^ other one on there $$
-^^ yeah $$
-^^ there $$
-^^ look $$
-^^ oh $$
-^^ open $$
-^^ open $$
-^^ open $$
-^^ open road $$
-^^ open road $$
-^^ open road $$
-^^ open $$
-^^ want go there $$
-^^ want go there $$
-^^ want go there $$
-^^ oh $$
-^^ Toad $$
-^^ I want a book $$
-^^ I want Toad $$
-^^ want Toad Mummy $$
-^^ where fire $$
-^^ where fire $$
-^^ mhm $$
-^^ you do it  $$
-^^ you $$
-^^ Mole $$
-^^ Mole $$
-^^ Mole $$
-^^ no $$
-^^ that be Mole $$
-^^ no $$
-^^ that be Mole $$
-^^ here $$
-^^ yeah $$
-^^ see them $$
-^^ ow $$
-^^ ow $$
-^^ read it $$
-^^ open road $$
-^^ look $$
-^^ open $$
-^^ Nicole do again $$
-^^  I draw on a face $$
-^^ I draw on a face $$
-^^ why $$
-^^ because do that $$
-^^ and the nose $$
-^^ nose $$
-^^ eye $$
-^^ eye $$
-^^ eye blue $$
-^^ blue $$
-^^ yeah $$
-^^ Mummy $$
-^^ pink $$
-^^ pink $$
-^^ pink $$
-^^ two pink $$
-^^ one and two and three and four and five $$
-^^ one two three $$
-^^ and do that again Mummy $$
-^^ do that again $$
-^^ yeah $$
-^^ pick them up $$
-^^ color doll hair $$
-^^ color $$
-^^ blue $$
-^^ red $$
-^^ and Nicole get brown hair $$
-^^ that $$
-^^ one two three $$
-^^ oh $$
-^^ then pick them up $$
-^^ oh $$
-^^ pick them up $$
-^^ pick them up $$
-^^ one two three whee $$
-^^ one two three whee $$
-^^ you do that again $$
-^^ Nicole $$
-^^ one two three $$
-^^ yeah $$
-^^ Mummy do it $$
-^^ clipclop $$
-^^ here $$
-^^ clipclop $$
-^^ yes $$
-^^ we can $$
-^^ my cup of tea $$
-^^ where Nicole cup of tea $$
-^^ no $$
-^^ not $$
-^^ yeah $$
-^^ yeah $$
-^^ yes $$
-^^ get Toad $$
-^^ Daddy $$
-^^ that $$
-^^  I can not $$
-^^ oh $$
-^^ oh $$
-^^ look $$
-^^ there $$
-^^ oh $$
-^^ yes $$
-^^ you do $$
-^^ Mummy $$
-^^ Mummy $$
-^^  cuddle $$
-^^ Nicole want a cuddle $$
-^^ Nicole $$
-^^ Nana want a cuddle Mummy $$
-^^ Nicole $$
-^^ Nana want a cuddle $$
-^^ pick up $$
-^^ pick up $$
-^^ one two three $$
-^^ one two three $$
-^^ two three $$
-^^ Mummy $$
-^^ no $$
-^^ no $$
-^^ not today $$
-^^ mhm $$
-^^ yeah $$
-^^ yeah $$
-^^ no $$
-^^ no $$
-^^ not today $$
-^^ yeah $$
-^^ hm $$
-^^ where be you go $$
-^^ why $$
-^^ I can not $$
-^^ I say $$
-^^ I $$
-^^ yeah $$
-^^ yes $$
-^^ go sleep $$
-^^ yeah $$
-^^ near dark $$
-^^ yes $$
-^^ yes $$
-^^ Nicole $$
-^^ where Mummy $$
-^^ where Mummy $$
-^^ open door $$
-^^ yeah $$
-^^ yes please $$
-^^ there it be $$
-^^ oh $$
-^^ no $$
-^^ no $$
-^^ can not $$
-^^ no $$
-^^ can not $$
-^^ Nicole throw that down there $$
-^^ Nicole throw that down there $$
-^^ yeah $$
-^^ where Mummy $$
-^^ oh $$
-^^ Nicole hungry $$
-^^ yeah $$
-^^ Nicole hungry $$
-^^ I want  $$
-^^ I want  $$
-^^ why $$
-^^ oh $$
-^^ Mummy tea $$
-^^ Mummy  $$
-^^ can not $$
-^^ can not see that $$
-^^ the library $$
-^^ go now $$
+^^ xxx $$
+^^ a play on $$
+^^ xxx $$

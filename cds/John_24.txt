@@ -32,7 +32,7 @@
 ^^ no $$
 ^^ let us do something else instead $$
 ^^ come on $$
-^^ Granny give you this do not she Gran  John $$
+^^ Granny give you this do not she Gran er John $$
 ^^ Granny give you this puzzle $$
 ^^ you put it back $$
 ^^ who else do we see last week with Granny $$
@@ -241,6 +241,7 @@
 ^^ it be a yellow tower $$
 ^^ thank_you $$
 ^^ thank_you $$
+^^ a $$
 ^^ oh steady John $$
 ^^ where be the horse tail $$
 ^^ very good $$
@@ -293,9 +294,9 @@
 ^^ and these snow $$
 ^^ look they be dance $$
 ^^ it be fun be not it $$
-^^ they have get orange for their  nose $$
+^^ they have get orange for their nose nose $$
 ^^ a spider mhm $$
-^^ there be a picture of a spider in  your animal book John $$
+^^ there be a picture of a spider in your your animal book John $$
 ^^ underneath the truck book there be your animal book $$
 ^^ oh you prefer that one $$
 ^^ okay $$
@@ -389,7 +390,7 @@
 ^^ and the bucket full of water $$
 ^^ look he be spill the bucket $$
 ^^ water be come out_of the bucket $$
-^^ but if  a truck hold some water in his bucket it will not spill $$
+^^ but if there a truck hold some water in his bucket it will not spill $$
 ^^ look at this big boulder $$
 ^^ that must be very heavy $$
 ^^ yeah a big piece of stone $$
@@ -403,9 +404,9 @@
 ^^ they be very dirty be not they now $$
 ^^ there be the bulldoze $$
 ^^ the bucket $$
-^^   no $$
-^^ it look a bit like  a roll but it be a bulldoze $$
-^^ because  the steam have  big wheel $$
+^^ no no no $$
+^^ it look a bit like a a roll but it be a bulldoze $$
+^^ because the the steam have um big wheel $$
 ^^ this one have caterpillar track $$
 ^^ it be different $$
 ^^ and this be call a mass excavator apparent $$
@@ -430,7 +431,7 @@
 ^^ where be they $$
 ^^ oh yeah $$
 ^^ a blue dig $$
-^^   yeah it be $$
+^^ yeah it's yeah it be $$
 ^^ what be this one $$
 ^^ a yellow one be not it $$
 ^^ what else can you see $$
@@ -447,7 +448,7 @@
 ^^ oh give it to me $$
 ^^ give it to me $$
 ^^ be you a bit of a giggle $$
-^^ shall we look at  the animal book John $$
+^^ shall we look at the the animal book John $$
 ^^ no okay $$
 ^^ oh that be a good book that one $$
 ^^ oh $$
@@ -489,7 +490,7 @@
 ^^ no these be clothes for the doll $$
 ^^ different clothes $$
 ^^ shall we put this dress on the doll $$
-^^ well we have to  take the other one off if you want this one on $$
+^^ well we have to put take the other one off if you want this one on $$
 ^^ button $$
 ^^ and let us try and get it this way $$
 ^^ do this bit $$
@@ -523,7 +524,7 @@
 ^^ this dress $$
 ^^ okay $$
 ^^ right you help me with the arm $$
-^^ you help  put the doll arm in the sleeve $$
+^^ you help put put the doll arm in the sleeve $$
 ^^ there we be $$
 ^^ look John $$
 ^^ her hand through the sleeve $$
@@ -578,7 +579,7 @@
 ^^ do you remember $$
 ^^ we see it in the book $$
 ^^ what be this $$
-^^ it be a  $$
+^^ it be a w $$
 ^^ whale $$
 ^^ giraffe $$
 ^^ with a long neck $$
@@ -592,7 +593,7 @@
 ^^ but look $$
 ^^ this one get stripe on it $$
 ^^ so perhaps it be a tiger $$
-^^ oh can I have the  giraffe $$
+^^ oh can I have the raff giraffe $$
 ^^ there be something else here $$
 ^^ what be that $$
 ^^ oh yeah $$
@@ -607,13 +608,13 @@
 ^^ there be a gate here $$
 ^^ and another gate $$
 ^^ very good John $$
-^^  that be sweet $$
+^^ a that be sweet $$
 ^^ what be that then $$
 ^^ oh it look like a baby one $$
 ^^ I think it be mean to be stick $$
 ^^ yes I think it be mean to be stick on the brick $$
 ^^ shall we leave it $$
-^^   no $$
+^^ no no no $$
 ^^ Mummy can not do it because it be stick $$
 ^^ stick $$
 ^^ look what I can see $$
@@ -630,7 +631,8 @@
 ^^ Johnny will have a new master $$
 ^^ he will have but a penny a day $$
 ^^ because he can not work any fast $$
-^^ be you put  the tiger on the seesaw $$
+^^ a $$
+^^ be you put the the tiger on the seesaw $$
 ^^ shall we put the baby $$
 ^^ he can go on that side $$
 ^^ and we can put a penguin on the other side of the seesaw $$
@@ -644,7 +646,7 @@
 ^^ just push it hard $$
 ^^ okay $$
 ^^ have she wake up then $$
-^^ look there be no need to bash her  over the head $$
+^^ look there be no need to bash her over over the head $$
 ^^ she will wake up on her own $$
 ^^ no that be mean to be stick as_well $$
 ^^ that be stick $$
@@ -711,6 +713,7 @@
 ^^ that be right $$
 ^^ it be stick $$
 ^^ yes $$
+^^ xxx $$
 ^^ Mummy do it $$
 ^^ off $$
 ^^ off $$
@@ -770,12 +773,14 @@
 ^^ big egg and a small egg $$
 ^^ oh $$
 ^^ let us have a look $$
+^^ mm $$
 ^^ it be a pear $$
 ^^ do you want to put the pear here $$
 ^^ well this be mean to be a chicken leg I think $$
 ^^ grape $$
 ^^ oh another favorite of yours $$
 ^^ be they nice $$
+^^ mm $$
 ^^ shall we put them on the table $$
 ^^ ice $$
 ^^ pardon $$
@@ -813,6 +818,7 @@
 ^^ this have chocolate on it $$
 ^^ what be that John $$
 ^^ show me $$
+^^ www $$
 ^^ John what be in your box $$
 ^^ show me $$
 ^^ be something stick $$
@@ -990,9 +996,11 @@
 ^^ oh $$
 ^^ can you take this out $$
 ^^ have you get it $$
-^^  be not it $$
+^^ a $$
+^^ xxx be not it $$
 ^^ okay that be probable enough of that $$
 ^^ find another one of these to draw $$
+^^ www $$
 ^^ do you want to find another piece to put in there $$
 ^^ put it in the drill $$
 ^^ good $$
@@ -1015,7 +1023,7 @@
 ^^ shall we stop that then $$
 ^^ okay $$
 ^^ how about $$
-^^    you have not get anything else in there $$
+^^ what else have you have not get anything else in there $$
 ^^ how about $$
 ^^ parrot $$
 ^^ John $$
@@ -1101,15 +1109,15 @@
 ^^ this be more like a tomahawk this $$
 ^^ bang $$
 ^^ yeah it be only a small bolt $$
-^^ oh  this be mean to be a hammer $$
+^^ oh this this be mean to be a hammer $$
 ^^ this be mean to be a hammer $$
 ^^ yeah $$
 ^^ it be a bang $$
-^^ perhaps if we make  this bit more like a hammer $$
+^^ perhaps if we make it this bit more like a hammer $$
 ^^ more like that I think to be a hammer $$
 ^^ do that look a bit more like a hammer $$
 ^^ mhm $$
-^^ you bang  the nail in with a hammer $$
+^^ you bang the the nail in with a hammer $$
 ^^ bang the nail in $$
 ^^ mhm $$
 ^^ mhm $$
@@ -1185,6 +1193,7 @@
 ^^ that be fun $$
 ^^ yeah $$
 ^^ penguin drink $$
+^^ mm $$
 ^^ will you like a drink $$
 ^^ will you like a drink $$
 ^^ you be okay be you $$
@@ -1226,6 +1235,7 @@
 ^^ and Daddy rabbit $$
 ^^ there be the little girl rabbit $$
 ^^ brush her tooth $$
+^^ a $$
 ^^ all do yes $$
 ^^ just get up for a moment John $$
 ^^ I will plug the phone $$
@@ -1309,7 +1319,7 @@
 ^^ there you go $$
 ^^ John $$
 ^^ you have not to pull her hair $$
-^^ hold  her body $$
+^^ hold her her body $$
 ^^ that be it and then pull the clothes $$
 ^^ hold the body and pull the clothes $$
 ^^ good $$
@@ -1401,6 +1411,7 @@
 ^^ no you hold it here $$
 ^^ and you can peel yourself $$
 ^^ John $$
+^^ www $$
 ^^ yeah $$
 ^^ do not forget that bite on the end John $$
 ^^ mhm $$
@@ -1410,7 +1421,9 @@
 ^^ yeah $$
 ^^ it be okay John $$
 ^^ I will put it in the bin $$
+^^ www $$
 ^^ white $$
+^^ www $$
 ^^ go go go go go go go go go go go $$
 ^^ do you think she like banana $$
 ^^ I think she be get a bit cold John $$
@@ -1430,7 +1443,7 @@
 ^^ not too bad be they $$
 ^^ sticky finger $$
 ^^ mhm $$
-^^ shall we put her  to bed $$
+^^ shall we put her to to bed $$
 ^^ there doll $$
 ^^ we will put her some blanket on $$
 ^^ just pretend these be blanket $$
@@ -1444,7 +1457,7 @@
 ^^ trouser $$
 ^^ oh doll be yes $$
 ^^ what be on the doll trouser John $$
-^^ what be all these  on the trouser $$
+^^ what be all these on on the trouser $$
 ^^ mhm $$
 ^^ mhm $$
 ^^ why do you want the knickers off $$
@@ -1463,7 +1476,7 @@
 ^^ splash in the water $$
 ^^ and she can play with the whale $$
 ^^ do you want to put the whale in the bath $$
-^^ and  and the little baby whale $$
+^^ and the and the little baby whale $$
 ^^ in the bath $$
 ^^ and the penguin $$
 ^^ okay $$
@@ -1473,6 +1486,7 @@
 ^^ the doll go in the bath $$
 ^^ be she have a good bath $$
 ^^ she be not splash like John $$
+^^ www $$
 ^^ do she want some more brick to play with perhaps $$
 ^^ do she want to play with something else in the bath $$
 ^^ perhaps you could pretend this be doll bottle of milk because it be white $$
@@ -1515,7 +1529,7 @@
 ^^ John stay here $$
 ^^ come and stay here $$
 ^^ we need to put the clothes in the doll $$
-^^ because   we need to put her away after this $$
+^^ because we haven't we need to put her away after this $$
 ^^ yeah you put the blanket over doll $$
 ^^ can you see the doll face $$
 ^^ you do not want to cover her face up $$
@@ -1547,6 +1561,7 @@
 ^^ it be a bath now $$
 ^^ you have get your clothes on $$
 ^^ you can not have a bath with all these on $$
+^^ www $$
 ^^ doll bath as_well $$
 ^^ whee $$
 ^^ in the bath $$
@@ -1575,6 +1590,7 @@
 ^^ near do $$
 ^^ there you go $$
 ^^ that be Mummy tea $$
+^^ www $$
 ^^ do it go in there $$
 ^^ oh $$
 ^^ two hat $$
@@ -1617,6 +1633,7 @@
 ^^ your favorite $$
 ^^ what be these $$
 ^^ chip $$
+^^ mm $$
 ^^ yeah chicken $$
 ^^ be that for Mummy $$
 ^^ thank_you $$
@@ -1624,6 +1641,7 @@
 ^^ yeah it be mean to be stick $$
 ^^ oh well $$
 ^^ I can see chocolate cake $$
+^^ mm $$
 ^^ it be pretend John $$
 ^^ what else can you see in here $$
 ^^ what be this $$
@@ -1676,8 +1694,10 @@
 ^^ I think I will cook this before I eat it $$
 ^^ no it be not a lollipop $$
 ^^ it be a aubergine $$
+^^ mm $$
 ^^ ice $$
 ^^ shall we put them all back in the box now $$
 ^^ thank_you $$
 ^^ shall we put everything back in here $$
 ^^ that be Mummy $$
+^^ mm $$

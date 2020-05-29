@@ -19,7 +19,7 @@
 ^^ be it on $$
 ^^ yes $$
 ^^ yes I know $$
-^^    real need tighten up do not it $$
+^^ but you need real need tighten up do not it $$
 ^^ come on $$
 ^^ have you get it on $$
 ^^ pull $$
@@ -47,7 +47,7 @@
 ^^ a screw yes $$
 ^^ for mend $$
 ^^ a hammer $$
-^^ well   we will show Anna in a minute what that do $$
+^^ well we'll show we will show Anna in a minute what that do $$
 ^^ now come on $$
 ^^ tighten this up $$
 ^^ hm $$
@@ -135,10 +135,10 @@
 ^^ come on then $$
 ^^ pick it up $$
 ^^ it be a big one be not it $$
-^^ oh you have take  these off again have not you $$
+^^ oh you have take these these off again have not you $$
 ^^ where be the car $$
 ^^ the car be here $$
-^^ well    I do not think there be a tractor $$
+^^ well I don't think I do not think there be a tractor $$
 ^^ I think the little green tractor be about somewhere be not it $$
 ^^ we be play with that early on $$
 ^^ come on $$
@@ -257,7 +257,7 @@
 ^^ well you should have stop it at the station should not you $$
 ^^ well lift up the lid $$
 ^^ be she go to sit down $$
-^^ have we good put her suitcase on her knee or shall we put it in   the other carriage do you think $$
+^^ have we good put her suitcase on her knee or shall we put it in the other the other carriage do you think $$
 ^^ put it in the other carriage $$
 ^^ will not will not will not will not will not will not will not will not will not $$
 ^^ oh he be come back again be not he $$
@@ -272,7 +272,7 @@
 ^^ hm $$
 ^^ come on $$
 ^^ there be another gentleman here wait for the train be not there $$
-^^ shall we  have another carriage $$
+^^ shall we er have another carriage $$
 ^^ do this go on the back $$
 ^^ right $$
 ^^ shall we have some luggage $$
@@ -292,7 +292,7 @@
 ^^ be that our bridge $$
 ^^ well come on then $$
 ^^ let us build up our bridge $$
-^^ shall we have a little  telephone box $$
+^^ shall we have a little er telephone box $$
 ^^ on the station $$
 ^^ there we be $$
 ^^ we will put stop and have the station there $$
@@ -332,6 +332,7 @@
 ^^ yes $$
 ^^ she want to get on the bus but she be just telephone her husband first be not she $$
 ^^ to explain to him what she be do $$
+^^ willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't willn't $$
 ^^ no $$
 ^^ pick her up $$
 ^^ yes $$
@@ -368,7 +369,7 @@
 ^^ you will never guess what be happen as_well $$
 ^^ that lady be leave her luggage on the train $$
 ^^ what be she go to do $$
-^^ will she have to  stay at the station and wait for the train to come back again $$
+^^ will she have to er stay at the station and wait for the train to come back again $$
 ^^ oh dear $$
 ^^ well she be go to miss the bus be not she $$
 ^^ there we be $$
@@ -381,6 +382,7 @@
 ^^ oh we have just make it this time have not we $$
 ^^ shall we put the other carriage back $$
 ^^ hm $$
+^^ www $$
 ^^ shall we put the other carriage back $$
 ^^ be the lady go to get her luggage this time $$
 ^^ I do not know how these go on $$
@@ -456,16 +458,16 @@
 ^^ Anna do not know about Percy tractor do she $$
 ^^ so she will think you be talk rubbish $$
 ^^ at the farm yes $$
-^^ Percy tractor live at the farm  do not he $$
+^^ Percy tractor live at the farm doesn't do not he $$
 ^^ right $$
 ^^ I see $$
 ^^ the train stop have not he $$
 ^^ it move the snow yes $$
 ^^ we see the tractor move the snow on Postman_Pat do not we $$
 ^^ hm $$
-^^ Postman_Pat could not get through with the letter could he until the tractor come along and    move the snow $$
+^^ Postman_Pat could not get through with the letter could he until the tractor come along and moved the er move the snow $$
 ^^ could it $$
-^^   what do Postman_Pat go on to deliver his letter $$
+^^ what did what do Postman_Pat go on to deliver his letter $$
 ^^ hm $$
 ^^ he go on a sled do not he $$
 ^^ have you be on a sled $$
@@ -512,8 +514,8 @@
 ^^ here be the garage $$
 ^^ where be all the bit $$
 ^^ be these the petrol pump $$
-^^ oh you have not put the  $$
-^^   be this  petrol station open $$
+^^ oh you have not put the er $$
+^^ is this be this er petrol station open $$
 ^^ right $$
 ^^ there we be then $$
 ^^ where be the ramp $$
@@ -537,21 +539,21 @@
 ^^ his inspection ramp have not you $$
 ^^ here we be $$
 ^^ here be the car attendant $$
-^^ this be the one that    open the barrier so_that the car can come out $$
+^^ this be the one that opens the um open the barrier so_that the car can come out $$
 ^^ and so_that the car can go in to the car $$
 ^^ which car be go in $$
 ^^ be these two race car go in $$
 ^^ no $$
 ^^ well which car be go in then $$
 ^^ come on $$
-^^  this little man be fill up the pump be not he $$
+^^ this this little man be fill up the pump be not he $$
 ^^ if you want some petrol you have get to go round there $$
 ^^ or shall we let Fozzie_Bear do that $$
 ^^ will not will not will not will not will not will not $$
 ^^ right $$
-^^  where be all the car for the car and the garage $$
+^^ where where be all the car for the car and the garage $$
 ^^ where be all the car that want repair $$
-^^ do this  race car want repair $$
+^^ do this um race car want repair $$
 ^^ right $$
 ^^ there we be $$
 ^^ we will take it in here $$
@@ -600,11 +602,11 @@
 ^^ shall we make that in to the hospital $$
 ^^ right $$
 ^^ there be the fire with its light out flash go ahead be not it $$
-^^   neenaw $$
+^^ neenaw neenaw neenaw $$
 ^^ and here come the tractor afterwards bring poor old Harry $$
 ^^ and there we go $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
-^^ now who be go to look after the  $$
+^^ now who be go to look after the er $$
 ^^ oh here they be $$
 ^^ will not will not will not will not will not will not $$
 ^^ he will look after the car under the inspection ramp on a temporary basis $$
@@ -623,11 +625,11 @@
 ^^ that eat leaf on tall tree $$
 ^^ that be why it be get a long neck so it can reach them $$
 ^^ it be a giraffe be not it $$
-^^ oh you have get a giraffe in your  train have not you $$
+^^ oh you have get a giraffe in your um train have not you $$
 ^^ you put it in there do you $$
 ^^ well do you know what it be $$
 ^^ it be a elephant $$
-^^  I be not too sure $$
+^^ um I be not too sure $$
 ^^ leaf I think $$
 ^^ and they spray water out_of their trunk do not they $$
 ^^ who be that $$
@@ -636,6 +638,7 @@
 ^^ let us have a look $$
 ^^ take those out $$
 ^^ those be those ring that you can not cope with $$
+^^ www $$
 ^^ do you want a drink Aran $$
 ^^ do you $$
 ^^ yes please or no thank_you $$
@@ -672,6 +675,7 @@
 ^^ what be it $$
 ^^ do not you recognize it $$
 ^^ some apple $$
+^^ um $$
 ^^ I do not actual buy any apple $$
 ^^ no $$
 ^^ you be wrong $$
@@ -683,7 +687,7 @@
 ^^ you know what those be do not you $$
 ^^ they be orange be not they $$
 ^^ where be the top to what $$
-^^ well  here be the tin $$
+^^ well that's here be the tin $$
 ^^ it be a tin of red salmon $$
 ^^ and there be the top to it $$
 ^^ look $$
@@ -708,7 +712,7 @@
 ^^ and your bake bean $$
 ^^ oh $$
 ^^ you have drop a onion $$
-^^ you be  every shop delight be not you $$
+^^ you be every every shop delight be not you $$
 ^^ you have drop everything all over the floor now $$
 ^^ oh look $$
 ^^ there be some food for a pussy $$
@@ -719,7 +723,7 @@
 ^^ it be just get a cat on it because it show you what a cat like to eat $$
 ^^ well I do not think that one actual open $$
 ^^ it be not one of the one that open you see $$
-^^   this be one of the one that open $$
+^^ this is this be one of the one that open $$
 ^^ you see that one red salmon $$
 ^^ you can take the lid off $$
 ^^ you take the lid off $$
@@ -826,7 +830,7 @@
 ^^ what do the elephant use his trunk for $$
 ^^ his arm move $$
 ^^ he be a panda $$
-^^ do you know what a  panda eat $$
+^^ do you know what a panda panda eat $$
 ^^ hm $$
 ^^ he eat bamboo shoot $$
 ^^ you do not know that do you $$
@@ -835,7 +839,7 @@
 ^^ oh $$
 ^^ we have get a tiger here $$
 ^^ tell you what $$
-^^    remember on Thursday when we go to the theater do not we $$
+^^ remember that um remember on Thursday when we go to the theater do not we $$
 ^^ and there be a tiger there be not there $$
 ^^ be there a tiger there $$
 ^^ what else be there $$
@@ -849,7 +853,7 @@
 ^^ be we go to have the bone of the monkey $$
 ^^ hm $$
 ^^ be we $$
-^^ where be the  $$
+^^ where be the xxx $$
 ^^ it be go have it $$
 ^^ be you sure $$
 ^^ and where be Drybones $$
@@ -883,12 +887,12 @@
 ^^ that be a shark be not it $$
 ^^ a great big shark $$
 ^^ it be a fish $$
-^^  grr $$
+^^ um grr $$
 ^^ in a fish like way $$
 ^^ that be that $$
 ^^ well that be a dolphin be not it $$
 ^^ you have get some dolphin on your chair have not you $$
-^^  it eat little bit of plankton $$
+^^ um it eat little bit of plankton $$
 ^^ it be like little bit of vegetable in the water $$
 ^^ why do you want me to throw it away $$
 ^^ why $$
@@ -959,7 +963,7 @@
 ^^ we never pull hair $$
 ^^ that be very naughty $$
 ^^ poor doll $$
-^^ well  Mummy will love doll good $$
+^^ well Mummy'll Mummy will love doll good $$
 ^^ well you love doll good then $$
 ^^ come on $$
 ^^ rock her from side to side and sing to her $$
@@ -977,7 +981,7 @@
 ^^ oh you can $$
 ^^ what be be eat $$
 ^^ doll be eat $$
-^^ well perhaps because  you have not be very nice to her perhaps  we will sit doll down and we will give her a cake $$
+^^ well perhaps because you you have not be very nice to her perhaps we'll we will sit doll down and we will give her a cake $$
 ^^ there we be $$
 ^^ here you be $$
 ^^ you have a cake doll $$
@@ -1026,7 +1030,7 @@
 ^^ one be eat finger and one be eat toe $$
 ^^ do you think shark like cake $$
 ^^ oh well then $$
-^^  let us give the shark the cake instead $$
+^^ let's let us give the shark the cake instead $$
 ^^ leave doll toe alone $$
 ^^ what be it like in there $$
 ^^ be it dark in there $$
@@ -1035,7 +1039,7 @@
 ^^ I do not think you be stick be you $$
 ^^ oh dear $$
 ^^ that be a nasty cough again be not it $$
-^^ that be  a lace collar for doll to wear $$
+^^ that be er a lace collar for doll to wear $$
 ^^ when she want to be very smart $$
 ^^ when she be go out $$
 ^^ she put a lace collar on around her dress $$
@@ -1059,7 +1063,7 @@
 ^^ come back with the shark $$
 ^^ come on $$
 ^^ back in $$
-^^ well  let us take Dan_dog to protect you from the shark $$
+^^ well let's let us take Dan_dog to protect you from the shark $$
 ^^ come on $$
 ^^ will not will not will not will not will not will not will not will not will not $$
 ^^ you have bring Dan_dog $$
@@ -1070,7 +1074,7 @@
 ^^ be you hide $$
 ^^ what be you hide from $$
 ^^ be you hide from Drybones $$
-^^ have Drybones  go away $$
+^^ have Drybones gone go away $$
 ^^ you be go to sleep be you $$
 ^^ be you a tire boy $$
 ^^ you want to what $$
@@ -1189,7 +1193,7 @@
 ^^ shall we take them to the shark hospital $$
 ^^ right well we will make this here the shark hospital $$
 ^^ well I do not $$
-^^ do we need a breakdown truck to take two  shark to hospital $$
+^^ do we need a breakdown truck to take two sharks shark to hospital $$
 ^^ all right then $$
 ^^ come on $$
 ^^ let us see if we can tow a shark $$
@@ -1275,5 +1279,5 @@
 ^^ how have you get into difficulty $$
 ^^ have you go into a pool that be too deep $$
 ^^ mhm $$
-^^ because you usual put both foot   on the bottom of the pool do not you $$
+^^ because you usual put both foot on the on the bottom of the pool do not you $$
 ^^ so you could not drown real could you $$

@@ -1,5 +1,6 @@
 ^^ be he up the stair $$
 ^^ you move out_of the way sheep $$
+^^ www $$
 ^^ right Carl $$
 ^^ do you want it to go under here $$
 ^^ no who be that $$
@@ -8,7 +9,7 @@
 ^^ bump down the stair $$
 ^^ oh watch his head $$
 ^^ watch his head $$
-^^   I think this be a bridge $$
+^^ I thought I think this be a bridge $$
 ^^ be it stair $$
 ^^ oh dear $$
 ^^ I have a feel it be go to break Carl $$
@@ -81,7 +82,7 @@
 ^^ who sit on the $$
 ^^ that be the cow $$
 ^^ where be the horse $$
-^^  look $$
+^^ a look $$
 ^^ look who Mummy be get $$
 ^^ can you sit the man on the $$
 ^^ where do he go $$
@@ -91,6 +92,7 @@
 ^^ what do the elephant say $$
 ^^ the jungle book $$
 ^^ you know the song $$
+^^ going going going going going going going going going going going going $$
 ^^ everyone be go under the bridge $$
 ^^ yeah your car $$
 ^^ Carl $$
@@ -111,15 +113,15 @@
 ^^ what do Mummy do to baby $$
 ^^ what do Mummy do to baby $$
 ^^ oh they kiss $$
-^^  nice Mummy $$
+^^ a nice Mummy $$
 ^^ can baby kiss his Daddy $$
 ^^ Mummy have the baby $$
-^^ that be  Mummy $$
+^^ that be Mummy Mummy $$
 ^^ hello Daddy $$
 ^^ and who be this $$
 ^^ it be the seal $$
 ^^ want it off $$
-^^  I will put him there $$
+^^ I'll I will put him there $$
 ^^ and put Daddy there $$
 ^^ and Mummy $$
 ^^ and where shall Mummy put baby $$
@@ -138,7 +140,7 @@
 ^^ hello $$
 ^^ be they kiss $$
 ^^ hello there baby not bird $$
-^^  oh it be a bird $$
+^^ that oh it be a bird $$
 ^^ I suppose it be both be not it $$
 ^^ it be a baby and a bird $$
 ^^ what be the cow do now $$
@@ -152,7 +154,7 @@
 ^^ Mummy do it this time $$
 ^^ Mummy do it $$
 ^^ Mummy do it $$
-^^   where have they go $$
+^^ where've they where have they go $$
 ^^ Carl $$
 ^^ where have they go $$
 ^^ where be the car go $$
@@ -166,10 +168,10 @@
 ^^ what see $$
 ^^ Carl $$
 ^^ do you want to look at a book $$
-^^  you pick a book $$
+^^ you you pick a book $$
 ^^ oh Daddy $$
 ^^ Daddy be go $$
-^^    do you want to wave $$
+^^ do you wanna do you want to wave $$
 ^^ do you want to wave $$
 ^^ do you want to wave $$
 ^^ come on $$
@@ -198,9 +200,9 @@
 ^^ what be the dog do $$
 ^^ he be cross $$
 ^^ oh who be he cross at $$
-^^    who be he cross at $$
+^^ who's he cross who be he cross at $$
 ^^ he be just cross $$
-^^  what be he jump in $$
+^^ a what be he jump in $$
 ^^ what be the dog jump in $$
 ^^ what $$
 ^^ he be cross $$
@@ -271,21 +273,24 @@
 ^^ oh look $$
 ^^ oh look $$
 ^^ that be a horse $$
-^^  it be not a cow $$
+^^ it's it be not a cow $$
 ^^ it be a horse $$
 ^^ and look $$
 ^^ that little boy get its tail $$
 ^^ and a man yeah $$
 ^^ oh look $$
 ^^ look at the cake $$
+^^ mm $$
 ^^ it be nice yeah $$
 ^^ that be what you do $$
 ^^ you blow them out $$
 ^^ clever boy $$
 ^^ a birth cake $$
+^^ mm $$
 ^^ yum $$
 ^^ look $$
 ^^ that be the juice $$
+^^ mm $$
 ^^ and look cake $$
 ^^ and ice $$
 ^^ be you count them $$
@@ -418,7 +423,7 @@
 ^^ where be the dog go $$
 ^^ what be the dog do $$
 ^^ that be a paint $$
-^^ well  he be bite into it $$
+^^ well he's he be bite into it $$
 ^^ do not do that $$
 ^^ what $$
 ^^ it be all spill out look $$
@@ -441,7 +446,7 @@
 ^^ he be get paint on them $$
 ^^ he be stand in it $$
 ^^ oh dear dog $$
-^^  it be bad look $$
+^^ a it be bad look $$
 ^^ oh no $$
 ^^ oh no $$
 ^^ now dog be go to have to have a bath $$
@@ -476,7 +481,7 @@
 ^^ now he be go down the stair $$
 ^^ upstairs $$
 ^^ downstairs $$
-^^  look now $$
+^^ a look now $$
 ^^ a man on the stair $$
 ^^ what be he do $$
 ^^ be he go $$
@@ -486,7 +491,7 @@
 ^^ he be go to go down the stair and catch the dog $$
 ^^ that be a phone $$
 ^^ that be Carl phone $$
-^^   what be he do $$
+^^ what's he what be he do $$
 ^^ he be fall $$
 ^^ whoops_a_daisy $$
 ^^ whoops_a_daisy $$
@@ -498,7 +503,7 @@
 ^^ you be $$
 ^^ do you want to take your dodie out $$
 ^^ can Mummy have your dodie $$
-^^  you be a big boy $$
+^^ a you be a big boy $$
 ^^ you do not need that dodie $$
 ^^ you want to go popos $$
 ^^ not yet you do not want to $$
@@ -527,7 +532,7 @@
 ^^ who be that $$
 ^^ he be look at you through there $$
 ^^ peep $$
-^^  who be Daddy get Carl $$
+^^ who's who be Daddy get Carl $$
 ^^ kiss for Daddy $$
 ^^ oh show off $$
 ^^ Carl $$
@@ -562,14 +567,14 @@
 ^^ clever boy $$
 ^^ that be Mummy thumb $$
 ^^ Mummy finger $$
-^^ yeah  Daddy turn $$
+^^ yeah Daddy's Daddy turn $$
 ^^ clever boy $$
 ^^ look you have run out_of pen $$
 ^^ good boy $$
 ^^ Carl $$
 ^^ draw a sheep $$
 ^^ not draw on him $$
-^^  draw him $$
+^^ draw draw him $$
 ^^ oh you be go to draw your hand $$
 ^^ okay $$
 ^^ clever boy $$
@@ -592,9 +597,10 @@
 ^^ whose hand be that $$
 ^^ be you color it in $$
 ^^ see $$
-^^   can Mummy draw $$
+^^ can Mummy can Mummy draw $$
 ^^ look $$
 ^^ can I have that a second $$
+^^ um $$
 ^^ what be that $$
 ^^ what be that $$
 ^^ a banana $$
@@ -622,7 +628,7 @@
 ^^ be you color it in $$
 ^^ good boy $$
 ^^ house and the door $$
-^^  what be next to the house $$
+^^ what what be next to the house $$
 ^^ oh $$
 ^^ do Mummy ear fall out $$
 ^^ let us put it back $$
@@ -636,6 +642,7 @@
 ^^ look $$
 ^^ who be this $$
 ^^ who be this $$
+^^ www $$
 ^^ who be it $$
 ^^ oh it be a cow $$
 ^^ well Mummy think it be a pig but I $$
@@ -647,6 +654,7 @@
 ^^ and what do the pig do $$
 ^^ he cry wee $$
 ^^ wee wee wee $$
+^^ www $$
 ^^ you stay here Carl $$
 ^^ Carl $$
 ^^ come here $$
@@ -667,7 +675,7 @@
 ^^ be this Symber $$
 ^^ oh Carl $$
 ^^ be care $$
-^^ bring Symber here so he can look at  the drawing $$
+^^ bring Symber here so he can look at the the drawing $$
 ^^ bring Symber to look at the picture $$
 ^^ be this Symber $$
 ^^ here $$
@@ -700,7 +708,7 @@
 ^^ you fall down $$
 ^^ all fall down $$
 ^^ oh $$
-^^  get up $$
+^^ get get up $$
 ^^ get up $$
 ^^ bounce bounce $$
 ^^ come on Carl $$
@@ -732,6 +740,7 @@
 ^^ what do Spot say $$
 ^^ what do Spot say Carl $$
 ^^ stop look at yourself $$
+^^ www $$
 ^^ be you help Daddy $$
 ^^ Carl $$
 ^^ what be Daddy do $$
@@ -787,11 +796,13 @@
 ^^ that be not nice $$
 ^^ why do not you want to speak to Nana $$
 ^^ bye $$
+^^ www $$
 ^^ oh be it for me $$
 ^^ Carl $$
 ^^ what be you do $$
 ^^ Carl $$
 ^^ come here $$
+^^ www $$
 ^^ Carl $$
 ^^ Carl $$
 ^^ Carl $$
@@ -817,6 +828,7 @@
 ^^ oh and a crocodile $$
 ^^ croc $$
 ^^ Carl $$
+^^ www $$
 ^^ come here $$
 ^^ Carl $$
 ^^ oh look $$
@@ -848,7 +860,7 @@
 ^^ you want one $$
 ^^ your sock yeah $$
 ^^ where do that one go $$
-^^  show Daddy how that $$
+^^ a show Daddy how that $$
 ^^ Carl $$
 ^^ be that off the car $$
 ^^ Carl $$
@@ -878,7 +890,7 @@
 ^^ sit down $$
 ^^ shut the door $$
 ^^ I think that be probable $$
-^^  shall we put it on the floor $$
+^^ what's shall we put it on the floor $$
 ^^ where be they go to go $$
 ^^ where be they go to go $$
 ^^ where be the teddy go $$
@@ -912,7 +924,7 @@
 ^^ off you go $$
 ^^ be they go for a nice ride $$
 ^^ be they go to the park $$
-^^   be they go to the park $$
+^^ are they be they go to the park $$
 ^^ be they go to feed the duck $$
 ^^ be they go to feed the duck $$
 ^^ well go on $$
@@ -922,8 +934,8 @@
 ^^ be you go to park the car $$
 ^^ make it stop $$
 ^^ right $$
-^^   teddy get out $$
-^^    teddy get out_of the car $$
+^^ teddy get teddy get out $$
+^^ teddy get out teddy get out_of the car $$
 ^^ Carl $$
 ^^ be teddy go to get out_of the car $$
 ^^ Carl $$
@@ -977,7 +989,7 @@
 ^^ what be you do $$
 ^^ have it get stick $$
 ^^ oh you have get it now $$
-^^ oh  where be Missus Teddy go $$
+^^ oh where's where be Missus Teddy go $$
 ^^ where be she go $$
 ^^ where be she go $$
 ^^ have she go shop $$
@@ -1027,7 +1039,7 @@
 ^^ you tell him no $$
 ^^ look $$
 ^^ who be this $$
-^^  do not you $$
+^^ xxx do not you $$
 ^^ that be a snake $$
 ^^ be that a snake $$
 ^^ snake $$
@@ -1042,7 +1054,8 @@
 ^^ mister fox be run $$
 ^^ mister fox be run fast $$
 ^^ to get away from the fire $$
-^^  he be run fast $$
+^^ he's he be run fast $$
+^^ www $$
 ^^ oh Mummy tell Daddy off $$
 ^^ be he run $$
 ^^ no you do it $$
@@ -1078,7 +1091,7 @@
 ^^ that be the water yes $$
 ^^ clever boy $$
 ^^ look he be get to swim now $$
-^^     swim $$
+^^ look he's got to swim $$
 ^^ where be Thomas $$
 ^^ what be you go to do with it $$
 ^^ be you go to put them back $$
@@ -1099,7 +1112,7 @@
 ^^ try again $$
 ^^ me put it in $$
 ^^ no $$
-^^ it  do not go in that one $$
+^^ it doesn't do not go in that one $$
 ^^ do it go in that one $$
 ^^ no $$
 ^^ do not go in that one $$
@@ -1107,7 +1120,7 @@
 ^^ yeah $$
 ^^ you find it $$
 ^^ you put it in $$
-^^  you know that one $$
+^^ a you know that one $$
 ^^ Carl find it $$
 ^^ where do it go $$
 ^^ clever boy $$
@@ -1174,7 +1187,7 @@
 ^^ and his juice $$
 ^^ and look $$
 ^^ Daddy be put his bib on $$
-^^  what be that Carl $$
+^^ what's what be that Carl $$
 ^^ the little boy in his pram now $$
 ^^ yes look he be drink his juice $$
 ^^ so do you know what be the baby do $$
@@ -1217,7 +1230,7 @@
 ^^ yeah throw bread for the duck $$
 ^^ look what they say quackquackquack $$
 ^^ quackquackquack $$
-^^    what be that duck do $$
+^^ what's this one what be that duck do $$
 ^^ he be eat $$
 ^^ he be not eat $$
 ^^ he be swim $$
@@ -1242,6 +1255,7 @@
 ^^ no it do not work $$
 ^^ Daddy want to come in $$
 ^^ open the door $$
+^^ www $$
 ^^ yeah you tell Daddy $$
 ^^ be quiet Daddy $$
 ^^ he be ask you what you be do $$
@@ -1253,6 +1267,7 @@
 ^^ screw $$
 ^^ where be the screw Mummy $$
 ^^ where be the screw $$
+^^ www $$
 ^^ Carl be get a screw look $$
 ^^ there you go $$
 ^^ give that to Daddy $$
@@ -1288,13 +1303,14 @@
 ^^ turn it round $$
 ^^ where be you go $$
 ^^ where be you go $$
-^^  where be Carl go $$
+^^ where's where be Carl go $$
 ^^ with teddy $$
 ^^ be you go to bring that here $$
 ^^ what have you get $$
 ^^ no what be that $$
 ^^ what be Carl get $$
 ^^ what be Carl hold $$
+^^ a $$
 ^^ oh Carl $$
 ^^ that be not nice $$
 ^^ come on now $$
@@ -1302,10 +1318,10 @@
 ^^ no you be not play nice $$
 ^^ mhm $$
 ^^ look let us get all the bit $$
-^^  who be that $$
+^^ a who be that $$
 ^^ it be a bird $$
 ^^ that one do not fit $$
-^^   what be he do $$
+^^ what's he what be he do $$
 ^^ you want to find the sheep $$
 ^^ oh there be the sheep look $$
 ^^ who be that $$
@@ -1314,7 +1330,7 @@
 ^^ a tortoise $$
 ^^ clever boy $$
 ^^ there be some flower $$
-^^ there be  a flower $$
+^^ there be one a flower $$
 ^^ do you know who that be Carl $$
 ^^ that be a house $$
 ^^ clever boy $$
@@ -1325,6 +1341,7 @@
 ^^ you do not $$
 ^^ it be a squirrel $$
 ^^ look he be eat $$
+^^ mm $$
 ^^ he be eat his dinner $$
 ^^ oh you be a clever boy $$
 ^^ oh what be that $$
@@ -1378,15 +1395,17 @@
 ^^ he be eat banana $$
 ^^ he be $$
 ^^ and what be he sit on $$
+^^ www $$
 ^^ oh you go to get your banana $$
 ^^ be Carl eat his banana $$
 ^^ hm $$
 ^^ be it nice $$
 ^^ Mummy can have some $$
+^^ mm $$
 ^^ that be good $$
 ^^ look monkey be get his look $$
-^^  oh he be eat some of Carl banana $$
-^^  that be good $$
+^^ monkey's oh he be eat some of Carl banana $$
+^^ mm that be good $$
 ^^ Carl $$
 ^^ Carl $$
 ^^ what be that $$
@@ -1408,7 +1427,7 @@
 ^^ there be the tick $$
 ^^ you want it on $$
 ^^ oh $$
-^^   it be your clock $$
+^^ it's your it be your clock $$
 ^^ yes it be $$
 ^^ have you break it $$
 ^^ come here $$
@@ -1422,7 +1441,7 @@
 ^^ oh look $$
 ^^ what be he do $$
 ^^ he be read $$
-^^  he be not read $$
+^^ he's he be not read $$
 ^^ he look as_if he be read to Mummy $$
 ^^ where be he go $$
 ^^ he be read a book $$
@@ -1437,6 +1456,7 @@
 ^^ come to get your banana $$
 ^^ oh $$
 ^^ oh he like that banana $$
+^^ mm $$
 ^^ he be come $$
 ^^ what do the elephant say $$
 ^^ one two three four $$
@@ -1482,7 +1502,7 @@
 ^^ it be a crab $$
 ^^ he be come to get Carl $$
 ^^ he be come to get Carl $$
-^^    he be get you $$
+^^ he's going to he be get you $$
 ^^ he be get you $$
 ^^ he be pinch you $$
 ^^ oh it be time to go $$
@@ -1514,7 +1534,7 @@
 ^^ if he be see his bucket and spade $$
 ^^ but he have not $$
 ^^ that be Henry $$
-^^  look Henry be look through the window $$
+^^ Henry look Henry be look through the window $$
 ^^ he be look at the Fat Controller $$
 ^^ oh $$
 ^^ the Fat Controller not find the bucket and spade $$
@@ -1552,6 +1572,7 @@
 ^^ you be drink juice $$
 ^^ Zita be drink orange $$
 ^^ and Carl be drink lemonade $$
+^^ mm $$
 ^^ you want some more $$
 ^^ nice lemonade $$
 ^^ oh look there be some crisp in the shop $$
@@ -1569,13 +1590,13 @@
 ^^ clever boy $$
 ^^ oh peeppeep $$
 ^^ be Thomas say that to the bird $$
-^^ no  those be straw for the juice $$
+^^ no those those be straw for the juice $$
 ^^ oh look $$
-^^ there be  the tea $$
+^^ there be the the tea $$
 ^^ there be the tea $$
 ^^ clever boy $$
 ^^ oh they have go in the shop $$
-^^ to  ask the man in the paper shop if he be see their bucket and spade $$
+^^ to ask ask the man in the paper shop if he be see their bucket and spade $$
 ^^ but the man have not $$
 ^^ okay $$
 ^^ that be Bertie $$
@@ -1591,8 +1612,8 @@
 ^^ Carl like sweet $$
 ^^ there be lots_of sweet $$
 ^^ yeah that sweetie be shape like a ball $$
-^^  what else can Carl see $$
-^^  what be on the car $$
+^^ what what else can Carl see $$
+^^ what what be on the car $$
 ^^ what can Carl see $$
 ^^ yeah there be Thomas $$
 ^^ a little Thomas $$
@@ -1616,7 +1637,7 @@
 ^^ where be the penny $$
 ^^ they be inside the box $$
 ^^ oh they be $$
-^^ look they be go to ask at the  the left luggage $$
+^^ look they be go to ask at the l the left luggage $$
 ^^ that be Toby $$
 ^^ and what can they see $$
 ^^ some bag $$
@@ -1641,6 +1662,7 @@
 ^^ that be my tape record $$
 ^^ do not touch $$
 ^^ do not touch it $$
+^^ www $$
 ^^ be that the elephant $$
 ^^ what do he say $$
 ^^ he say yeah $$
@@ -1648,13 +1670,16 @@
 ^^ that be a crisp yeah $$
 ^^ that be outside he say $$
 ^^ yeah $$
+^^ www $$
 ^^ watch your sock $$
 ^^ you will fall $$
+^^ www $$
 ^^ be that nice $$
-^^  Zita not here $$
+^^ Zita Zita not here $$
 ^^ no $$
 ^^ Zita be at her house $$
 ^^ Carl $$
+^^ www $$
 ^^ Carl $$
 ^^ we have not finish the story $$
 ^^ we have not finish this story $$
@@ -1672,7 +1697,7 @@
 ^^ Thomas have set off look $$
 ^^ look $$
 ^^ oh I can see Zita and Carl $$
-^^ no          what can $$
+^^ no what can you what can you what can you what can $$
 ^^ what can you see $$
 ^^ what can they see $$
 ^^ yeah but what can you see out_of the window $$
@@ -1681,7 +1706,7 @@
 ^^ that be a bunny $$
 ^^ it be not a dog $$
 ^^ look again $$
-^^  who be that $$
+^^ who who be that $$
 ^^ it be mister fox $$
 ^^ and who be that in the water $$
 ^^ you want to get down $$
@@ -1691,16 +1716,16 @@
 ^^ no where be you go $$
 ^^ be you get a car $$
 ^^ I know what I have get $$
-^^  Mummy be here $$
+^^ Mummy's Mummy be here $$
 ^^ look what Mummy be get $$
 ^^ Mummy be get in here $$
 ^^ I bring these for your car $$
 ^^ look $$
 ^^ what be in here $$
-^^  look at that $$
+^^ a look at that $$
 ^^ wow $$
-^^    what have we get in here $$
-^^ no  do not do that $$
+^^ look what we've what have we get in here $$
+^^ no don't do not do that $$
 ^^ oh there be the petrol $$
 ^^ that be for the car $$
 ^^ all the traffic light $$
@@ -1757,7 +1782,7 @@
 ^^ go round them $$
 ^^ clever boy $$
 ^^ oh dear $$
-^^ you make it  drive round these $$
+^^ you make it go drive round these $$
 ^^ look Carl $$
 ^^ you make it drive round these $$
 ^^ look $$
@@ -1776,7 +1801,7 @@
 ^^ what do you do $$
 ^^ what happen $$
 ^^ the truck $$
-^^   knock it down $$
+^^ it fell knock it down $$
 ^^ fall down $$
 ^^ oh it go round and round $$
 ^^ round and round $$
@@ -1789,13 +1814,13 @@
 ^^ look again $$
 ^^ what be it $$
 ^^ it be not a cow $$
-^^   it be a dog $$
+^^ it's a it be a dog $$
 ^^ it be a dog $$
 ^^ it be like Bert $$
 ^^ it be go woofwoof $$
 ^^ it be chase the car $$
 ^^ it be chase the car $$
-^^    it be a naughty dog $$
+^^ it's a naughty it be a naughty dog $$
 ^^ woofwoofwoof $$
 ^^ woofwoofwoof $$
 ^^ what be Carl say $$
@@ -1904,12 +1929,12 @@
 ^^ ambulance $$
 ^^ Carl say it $$
 ^^ ambulance $$
-^^  Carl say it $$
+^^ Carl Carl say it $$
 ^^ let go $$
 ^^ okay $$
 ^^ what be the neenaw do $$
 ^^ oh neenaw $$
-^^ what be  oh dear $$
+^^ what be the oh dear $$
 ^^ the tree be fall down $$
 ^^ who be that there $$
 ^^ a bird look $$
@@ -1929,8 +1954,8 @@
 ^^ not a neenaw $$
 ^^ look it be a light $$
 ^^ Carl $$
-^^  this $$
-^^  Mummy put it back on $$
+^^ this this $$
+^^ Mummy Mummy put it back on $$
 ^^ I do not think it be big enough for that Carl $$
 ^^ how many be he get on now $$
 ^^ oh it be fall off $$
@@ -1978,11 +2003,11 @@
 ^^ oh look $$
 ^^ Mummy get Thomas come choochoochoochoo $$
 ^^ oh he be get to make a cup of tea for Daddy $$
-^^     be you go to help $$
+^^ are you going to be you go to help $$
 ^^ help $$
 ^^ that be the neenaw $$
 ^^ what shall we build then $$
-^^ oh    shall we build a bridge $$
+^^ oh shall we b shall we build a bridge $$
 ^^ go and get your block $$
 ^^ Carl go and get his block $$
 ^^ where be they $$
@@ -2007,6 +2032,7 @@
 ^^ oh who be that $$
 ^^ who be that knock on the door $$
 ^^ hang on $$
+^^ www $$
 ^^ what be Daddy get on $$
 ^^ oh dear $$
 ^^ what be Daddy do $$
@@ -2030,11 +2056,13 @@
 ^^ Daddy be noise like Carl $$
 ^^ what be Carl do with the car $$
 ^^ Carl $$
+^^ www $$
 ^^ Carl $$
+^^ www $$
 ^^ come on Carl $$
 ^^ oh man and a brumbrum $$
 ^^ what see $$
-^^  where do all the car go $$
+^^ where's where do all the car go $$
 ^^ under the bridge $$
 ^^ shall we get your road out $$
 ^^ do you want to get your road out Carl $$
@@ -2110,7 +2138,7 @@
 ^^ oh look Carl $$
 ^^ the giraffe $$
 ^^ look Carl $$
-^^ that little boy be  in a boat $$
+^^ that little boy be in in a boat $$
 ^^ he be in a boat $$
 ^^ that be somebody in a house $$
 ^^ be you go to tell Mummy who that be $$
@@ -2148,7 +2176,7 @@
 ^^ what be he ride $$
 ^^ what be the boy ride $$
 ^^ what be that $$
-^^   crocodile be go to get you $$
+^^ croc croc crocodile be go to get you $$
 ^^ what be he ride $$
 ^^ what be that boy ride $$
 ^^ it be not a truck $$
@@ -2159,7 +2187,7 @@
 ^^ and who be that $$
 ^^ yeah but who be this $$
 ^^ here be baby $$
-^^  who be that $$
+^^ who's who be that $$
 ^^ be that baby $$
 ^^ yeah Granddad be hold the baby look $$
 ^^ that be right $$
@@ -2175,7 +2203,7 @@
 ^^ who be that $$
 ^^ who be that there $$
 ^^ that be Mummy be not it $$
-^^  now $$
+^^ a now $$
 ^^ no that be Zita Mummy $$
 ^^ it be Aunty_Shirley $$
 ^^ oh look what Daddy be get on $$
@@ -2267,7 +2295,7 @@
 ^^ what be that though Carl $$
 ^^ all right $$
 ^^ I will take my foot off $$
-^^ his  $$
+^^ his xxx $$
 ^^ can Mummy have that one $$
 ^^ there be his leg look $$
 ^^ there be his leg $$
@@ -2305,9 +2333,10 @@
 ^^ night_night $$
 ^^ night_night $$
 ^^ night_night man $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh dear $$
-^^  you pick him up $$
+^^ you you pick him up $$
 ^^ night_night $$
 ^^ that be nice $$
 ^^ sleep tight $$
@@ -2320,7 +2349,7 @@
 ^^ he be awake $$
 ^^ it be Granddad $$
 ^^ he be awake $$
-^^   who be that one $$
+^^ who's who's who be that one $$
 ^^ that be Daddy $$
 ^^ and who be that one $$
 ^^ that be Granddad $$
@@ -2339,7 +2368,7 @@
 ^^ stop that $$
 ^^ go away $$
 ^^ where be his hat $$
-^^ well   which be his hat $$
+^^ well which one's which be his hat $$
 ^^ go on $$
 ^^ I will hold him $$
 ^^ oh have they get to go bobos again $$
@@ -2356,7 +2385,7 @@
 ^^ oh be he sleep on his side $$
 ^^ oh he sleep on his front $$
 ^^ pick him up $$
-^^ oh   he be fast asleep $$
+^^ oh he's fast he be fast asleep $$
 ^^ oh he be have his hat on $$
 ^^ be it on $$
 ^^ whoops $$
@@ -2389,7 +2418,7 @@
 ^^ Carl $$
 ^^ tell Daddy what this man be do $$
 ^^ and a horse $$
-^^ look   what be that man do Carl $$
+^^ look what's that what be that man do Carl $$
 ^^ what be he do $$
 ^^ he be ride the horse Daddy $$
 ^^ he be ride on a horse $$
@@ -2397,12 +2426,13 @@
 ^^ put the man on the horse $$
 ^^ who be that man Carl $$
 ^^ who be it $$
+^^ www $$
 ^^ what happen $$
 ^^ what be that $$
 ^^ Carl look $$
 ^^ what be that $$
 ^^ Carl look $$
-^^ can the man ride   on the elephant $$
+^^ can the man ride on the on the elephant $$
 ^^ let Mummy help you $$
 ^^ oh $$
 ^^ horse $$
@@ -2414,7 +2444,7 @@
 ^^ Carl $$
 ^^ one $$
 ^^ I be try to find a little man that ride on the elephant $$
-^^  put him on the train $$
+^^ put put him on the train $$
 ^^ put the elephant on the train $$
 ^^ oh look Carl $$
 ^^ look I have find the man $$
@@ -2454,11 +2484,14 @@
 ^^ it be a tree $$
 ^^ oh be you not go to tell him what it be $$
 ^^ what be what $$
+^^ um $$
 ^^ come on Daddy $$
 ^^ what be it $$
+^^ www $$
 ^^ tree $$
 ^^ that be the elephant garden $$
 ^^ a apple on the tree $$
+^^ www $$
 ^^ what be this $$
 ^^ what be this $$
 ^^ a bridge $$
@@ -2470,6 +2503,7 @@
 ^^ cow on the elephant $$
 ^^ oh $$
 ^^ oh dear $$
+^^ www $$
 ^^ put them on the train $$
 ^^ Carl $$
 ^^ put them on the train $$
@@ -2485,17 +2519,17 @@
 ^^ the horse be on yeah $$
 ^^ it be go round and round Carl $$
 ^^ Carl $$
-^^    shall we look in the book of Thomas and see what animal be in Thomas book $$
+^^ shall I get shall we look in the book of Thomas and see what animal be in Thomas book $$
 ^^ here be Thomas look $$
 ^^ there be animal in this book $$
 ^^ who be that $$
 ^^ that be a cat $$
-^^ and  who be that $$
+^^ and what who be that $$
 ^^ Carl $$
 ^^ Carl $$
 ^^ who be that $$
-^^  oh that be Zita $$
-^^  Zita be jump $$
+^^ that oh that be Zita $$
+^^ Zita's Zita be jump $$
 ^^ everybody be jump $$
 ^^ bye Carl $$
 ^^ be you go to say goodbye to Daddy $$
@@ -2508,7 +2542,7 @@
 ^^ well you have your chance $$
 ^^ look $$
 ^^ look let us turn the page $$
-^^  Carl turn the page $$
+^^ turn Carl turn the page $$
 ^^ it be a train $$
 ^^ let us park the train up $$
 ^^ choochoo $$
@@ -2527,13 +2561,13 @@
 ^^ no turn the first page $$
 ^^ Zita and Carl $$
 ^^ and what be they do look $$
-^^  they be build a castle $$
+^^ they're they be build a castle $$
 ^^ building a big castle $$
 ^^ helicopter $$
 ^^ look Carl $$
-^^  that be Zita and Carl dinner $$
+^^ that's that be Zita and Carl dinner $$
 ^^ what have you get for your dinner $$
-^^ yeah  what be you go to eat $$
+^^ yeah what what be you go to eat $$
 ^^ that be Gordon $$
 ^^ oh dear look $$
 ^^ Carl $$
@@ -2552,7 +2586,7 @@
 ^^ what do the man say on the phone $$
 ^^ do he say hello $$
 ^^ be that Granddad $$
-^^   what be he do $$
+^^ what's he what be he do $$
 ^^ oh yeah he be get a fish on his tie $$
 ^^ you be a clever boy $$
 ^^ that fish be on Granddad yeah $$
@@ -2601,7 +2635,7 @@
 ^^ she be look at Mummy $$
 ^^ she be look at Mummy $$
 ^^ there be a man on a boat $$
-^^   look he be row the boat on the water $$
+^^ look he's look he be row the boat on the water $$
 ^^ he be go down the river $$
 ^^ and that man be fish $$
 ^^ fish fish fish fish fish fish fish fish fish $$
@@ -2642,7 +2676,7 @@
 ^^ look $$
 ^^ Carl $$
 ^^ do you know what that be $$
-^^ but do you know what be  in that $$
+^^ but do you know what be in in that $$
 ^^ it be a bowl $$
 ^^ oh have it break $$
 ^^ Carl fix it $$
@@ -2651,7 +2685,7 @@
 ^^ Carl $$
 ^^ who be that $$
 ^^ that be Daddy $$
-^^  what be Daddy do $$
+^^ what's what be Daddy do $$
 ^^ those be Daddy shoe $$
 ^^ and a bag $$
 ^^ where be the door $$
@@ -2672,7 +2706,7 @@
 ^^ she be asleep $$
 ^^ she be asleep $$
 ^^ shh she be asleep $$
-^^     you could take  the baby for a ride $$
+^^ you could take the you could take the the baby for a ride $$
 ^^ in your pram $$
 ^^ oh be she go back in there $$
 ^^ okay $$
@@ -2704,7 +2738,7 @@
 ^^ oh no no $$
 ^^ nice $$
 ^^ it be Zita $$
-^^  and what be that Carl $$
+^^ and and what be that Carl $$
 ^^ what be this $$
 ^^ what be it $$
 ^^ be she asleep $$
@@ -2717,7 +2751,7 @@
 ^^ oh look $$
 ^^ I see that as_well $$
 ^^ who be that $$
-^^ oh  what be they do $$
+^^ oh what what be they do $$
 ^^ oh that be the Daddy fish $$
 ^^ it be a whale this Carl $$
 ^^ what be he do $$
@@ -2739,9 +2773,9 @@
 ^^ it be a tiger $$
 ^^ grr $$
 ^^ look Carl $$
-^^   shall we make a pool for the fish $$
+^^ let's make shall we make a pool for the fish $$
 ^^ Carl go to help Mummy $$
-^^   make a pool $$
+^^ make a make a pool $$
 ^^ whee in the water $$
 ^^ Carl help Mummy $$
 ^^ be you go to help Mummy Carl $$
@@ -2752,7 +2786,7 @@
 ^^ whee $$
 ^^ that be a nice pool be not it $$
 ^^ the giraffe be go in the pool as_well $$
-^^ oh look the  baby be swim $$
+^^ oh look the baby baby be swim $$
 ^^ look $$
 ^^ they be all look at Carl $$
 ^^ hello Carl $$
@@ -2775,7 +2809,7 @@
 ^^ right you take her clothes off $$
 ^^ Carl do it $$
 ^^ take her pajamas off $$
-^^     do Carl like the doll $$
+^^ does Carl like the do Carl like the doll $$
 ^^ be it Zita this $$
 ^^ do you like Zita $$
 ^^ Carl $$
@@ -2784,7 +2818,7 @@
 ^^ Carl $$
 ^^ Carl $$
 ^^ oh look Carl $$
-^^ look  Zita hand $$
+^^ look Zita's Zita hand $$
 ^^ okay $$
 ^^ poor Zita $$
 ^^ Carl do not like her $$
@@ -2809,7 +2843,7 @@
 ^^ three $$
 ^^ four $$
 ^^ five six $$
-^^  who be that for $$
+^^ who's who be that for $$
 ^^ oh $$
 ^^ which one awake $$
 ^^ which egg awake $$
@@ -2832,7 +2866,7 @@
 ^^ shall we put them away $$
 ^^ excuse me $$
 ^^ no you do not want to $$
-^^  that be Mummy $$
+^^ that's that be Mummy $$
 ^^ that be the baby $$
 ^^ oh there be the little baby fish $$
 ^^ look Carl $$
@@ -2854,16 +2888,16 @@
 ^^ the bit $$
 ^^ Mummy put them away $$
 ^^ well let us put them back $$
-^^  you be a menace Carl $$
+^^ Carl's you be a menace Carl $$
 ^^ oh Mummy be go to give a egg to the baby $$
 ^^ there you go $$
 ^^ there you go Zita $$
 ^^ there be a egg $$
 ^^ that be Zita be that now $$
-^^ no  that be for Zita $$
+^^ no that's that be for Zita $$
 ^^ yeah let us give that one to Zita $$
 ^^ poor Zita $$
-^^ it be okay because  Mummy be go to give Zita this one $$
+^^ it be okay because I Mummy be go to give Zita this one $$
 ^^ here you go Zita $$
 ^^ that be yours $$
 ^^ well whose be it $$
@@ -2873,7 +2907,7 @@
 ^^ see look $$
 ^^ one for Carl $$
 ^^ and one for Zita $$
-^^ look   you have these egg $$
+^^ look you have you have these egg $$
 ^^ and Zita be go to have that one $$
 ^^ no no $$
 ^^ let Zita have that one $$
@@ -2907,7 +2941,7 @@
 ^^ oh look who Mummy be find $$
 ^^ penguin $$
 ^^ who else $$
-^^  Carl have a look $$
+^^ Carl Carl have a look $$
 ^^ Carl who be that $$
 ^^ Carl who be $$
 ^^ that be a Daddy fish $$
@@ -2924,7 +2958,7 @@
 ^^ whoops $$
 ^^ be care $$
 ^^ Mummy be pull your sock up $$
-^^  what be you do $$
+^^ what what be you do $$
 ^^ oh be careful $$
 ^^ be you go over Zita $$
 ^^ be care $$
@@ -2956,13 +2990,13 @@
 ^^ what be you do $$
 ^^ be you eat sweet $$
 ^^ Carl $$
-^^ have you see   all these food $$
+^^ have you see all this all these food $$
 ^^ all this food $$
 ^^ lot and lots_of nice food there $$
 ^^ be you eat the sweet $$
 ^^ what be that $$
 ^^ what be it $$
-^^  what do Carl like $$
+^^ um what do Carl like $$
 ^^ Carl $$
 ^^ what do Carl like $$
 ^^ what do Carl like $$
@@ -2985,7 +3019,7 @@
 ^^ who can Carl see $$
 ^^ Mummy can see Mummy $$
 ^^ Carl $$
-^^   who can Carl see $$
+^^ who can who can Carl see $$
 ^^ yes you have get sweet $$
 ^^ do not eat them all $$
 ^^ do you look at this $$
@@ -3026,6 +3060,7 @@
 ^^ can mister tiger have a sweetie $$
 ^^ oh that be nice $$
 ^^ oh he like that $$
+^^ mm $$
 ^^ yum yum $$
 ^^ can you get another one $$
 ^^ can he have another one $$
@@ -3045,6 +3080,7 @@
 ^^ yes Carl pick them up $$
 ^^ oh Zita want one $$
 ^^ please $$
+^^ mm $$
 ^^ can she have $$
 ^^ oh those be for Zita $$
 ^^ there be Carl sweet $$
@@ -3069,7 +3105,7 @@
 ^^ come here $$
 ^^ let me just wipe your nose $$
 ^^ give it a blow $$
-^^    shall we wipe Zita nose $$
+^^ shall we wipe shall we wipe Zita nose $$
 ^^ be Carl go to do it $$
 ^^ Carl wipe Zita nose $$
 ^^ oh good boy $$
@@ -3106,7 +3142,7 @@
 ^^ do you want them $$
 ^^ oh look $$
 ^^ penguin be with them $$
-^^   what be that fish do $$
+^^ what's that what be that fish do $$
 ^^ oh should not hit the man $$
 ^^ see Daddy will say no no no $$
 ^^ do not do that $$

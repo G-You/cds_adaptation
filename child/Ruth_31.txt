@@ -31,6 +31,8 @@
 ^^ Hatman $$
 ^^ mhm $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Jim $$
 ^^ Witch $$
@@ -40,8 +42,8 @@
 ^^ the water $$
 ^^ mhm $$
 ^^ mhm $$
-^^  Bouncing_Ben $$
-^^  Jumping_Jim $$
+^^ um Bouncing_Ben $$
+^^ Jumping Jumping_Jim $$
 ^^ mhm $$
 ^^ mhm $$
 ^^ Naughty_Nick $$
@@ -57,11 +59,11 @@
 ^^ two Naughty_Nick $$
 ^^ one Naughty_Nick $$
 ^^ huh $$
-^^  Naughty_Nick $$
+^^ um Naughty_Nick $$
 ^^ Bouncing_Ben $$
 ^^ that one $$
 ^^ oh there one $$
-^^  Naughty_Nick $$
+^^ um Naughty_Nick $$
 ^^ Mike $$
 ^^ two Naughty_Nick $$
 ^^ Jumping_Jim $$
@@ -71,6 +73,7 @@
 ^^ away $$
 ^^ no $$
 ^^ huh $$
+^^ xxx $$
 ^^ me get ball $$
 ^^ where ball $$
 ^^ huh $$
@@ -134,6 +137,8 @@
 ^^ here $$
 ^^ want that $$
 ^^ Mama $$
+^^ xxx $$
+^^ xxx $$
 ^^ tea $$
 ^^ they see a tower $$
 ^^ they see a tower $$
@@ -144,6 +149,7 @@
 ^^ what there $$
 ^^ on there $$
 ^^ what there $$
+^^ xxx $$
 ^^ Naughty_Nick $$
 ^^ another Naughty_Nick $$
 ^^ another Naughty_Nick $$
@@ -152,12 +158,13 @@
 ^^ here $$
 ^^ here $$
 ^^ here Anna $$
+^^ xxx $$
 ^^ me baby $$
 ^^ oh there $$
 ^^ that one $$
 ^^ huh $$
 ^^ milk no $$
-^^  milk the white baby $$
+^^ milk milk the white baby $$
 ^^ milk white baby $$
 ^^ mhm $$
 ^^ no $$
@@ -166,8 +173,8 @@
 ^^ here big white baby go a walk $$
 ^^ the big white baby go $$
 ^^ mhm $$
-^^  out $$
-^^ stick  $$
+^^ xxx out $$
+^^ stick xxx $$
 ^^ fall down $$
 ^^ mhm $$
 ^^ sticker fall down $$
@@ -185,7 +192,8 @@
 ^^ there $$
 ^^ Naughty_Nick $$
 ^^ Bouncy_Ben $$
-^^  that $$
+^^ xxx $$
+^^ um that $$
 ^^ hat one $$
 ^^ hat one $$
 ^^ mhm $$
@@ -247,7 +255,7 @@
 ^^ huh $$
 ^^ no $$
 ^^ where me tea set $$
-^^    get baby tea $$
+^^ baby want baby get baby tea $$
 ^^ huh $$
 ^^ huh $$
 ^^ what $$
@@ -272,20 +280,21 @@
 ^^ make the tea a baby $$
 ^^ make tea a little baby $$
 ^^ mhm $$
+^^ xxx $$
 ^^ Anna help me $$
 ^^ me get my white baby $$
 ^^ me get that $$
 ^^ no $$
 ^^ a picnic $$
 ^^ me pick that up Anna $$
-^^  Bobby_Bear $$
-^^  me get the bag $$
+^^ er Bobby_Bear $$
+^^ get me get the bag $$
 ^^ Bobby_Bear fall down $$
-^^ nice  no $$
+^^ nice xxx no $$
 ^^ okay $$
 ^^ mhm $$
 ^^ mhm $$
-^^  ditiduck $$
+^^ um ditiduck $$
 ^^ no $$
 ^^ there Bobby_Bear tea $$
 ^^ no way $$
@@ -305,7 +314,7 @@
 ^^ like toast $$
 ^^ ditiduck $$
 ^^ oh that $$
-^^ no on  there baby $$
+^^ no on there there baby $$
 ^^ huh $$
 ^^ more baby $$
 ^^ and me ditiduck $$
@@ -325,7 +334,7 @@
 ^^ ditiduck $$
 ^^ toast $$
 ^^ tea too $$
-^^  no $$
+^^ um no $$
 ^^ here no $$
 ^^ sorry $$
 ^^ sorry big baby $$
@@ -346,13 +355,14 @@
 ^^ and $$
 ^^ there the white baby $$
 ^^ the white there $$
-^^  white baby $$
+^^ xxx white baby $$
 ^^ baby fork too $$
 ^^ baby fork Mama fork Dada fork $$
 ^^ there Dada fork no $$
 ^^ there Mama fork $$
 ^^ huh $$
 ^^ okay $$
+^^ xxx $$
 ^^ huh $$
 ^^ there big fork $$
 ^^ oh dear $$
@@ -360,6 +370,7 @@
 ^^ no fork here no $$
 ^^ another one there no $$
 ^^ hm $$
+^^ xxx $$
 ^^ okay $$
 ^^ no like a big fork no $$
 ^^ huh $$
@@ -367,19 +378,19 @@
 ^^ jump stick again $$
 ^^ me blow again $$
 ^^ huh $$
-^^  Mama $$
+^^ xxx Mama $$
 ^^ oh stick $$
 ^^ look Mama $$
 ^^ look there $$
 ^^ feed that Mama white baby $$
-^^   I feed Bobby_Bear tea $$
+^^ baby Bobby_Bear I feed Bobby_Bear tea $$
 ^^ me feed that baby mhm $$
 ^^ huh $$
 ^^ huh $$
 ^^ huh $$
 ^^ a bit naughty $$
 ^^ baba sit down $$
-^^  tea $$
+^^ xxx tea $$
 ^^ there nice $$
 ^^ mhm $$
 ^^ huh $$
@@ -421,7 +432,8 @@
 ^^ mhm $$
 ^^ where Mama Red_Riding too $$
 ^^ again $$
-^^  Mama $$
+^^ xxx Mama $$
+^^ xxx $$
 ^^ find another one $$
 ^^ where another one $$
 ^^ happy_birthday to Bobby_Bear $$
@@ -433,6 +445,7 @@
 ^^ no want the baby tea $$
 ^^ out the box $$
 ^^ mhm $$
+^^ xxx $$
 ^^ mhm $$
 ^^ happy_birthday $$
 ^^ no $$
@@ -440,7 +453,8 @@
 ^^ Mama sing mhm happy_birthday to me $$
 ^^ mhm $$
 ^^ I want the right music on $$
-^^ want  $$
+^^ xxx $$
+^^ want xxx $$
 ^^ mhm $$
 ^^ music $$
 ^^ that tape $$
@@ -462,7 +476,7 @@
 ^^ huh $$
 ^^ no $$
 ^^ mhm $$
-^^  again $$
+^^ xxx again $$
 ^^ Anna baby $$
 ^^ I want Anna baby too picnic $$
 ^^ sit down picnic $$
@@ -476,6 +490,7 @@
 ^^ have her tea $$
 ^^ a picnic $$
 ^^ the picnic mhm $$
+^^ xxx $$
 ^^ Anna baby tea $$
 ^^ music back on please $$
 ^^ music back on please $$
@@ -516,8 +531,8 @@
 ^^ oh $$
 ^^ down there $$
 ^^ happy_birthday $$
-^^ there  $$
-^^ there  house there $$
+^^ there xxx $$
+^^ there xxx house there $$
 ^^ no $$
 ^^ Mummy $$
 ^^ no $$
@@ -533,7 +548,7 @@
 ^^ for Mummy $$
 ^^ yeah $$
 ^^ yeah $$
-^^  that $$
+^^ xxx that $$
 ^^ a big baby $$
 ^^ what that there $$
 ^^ and that $$
@@ -547,7 +562,7 @@
 ^^ Mama $$
 ^^ me ditiduck $$
 ^^ no $$
-^^ me do  a b $$
+^^ me do a a b $$
 ^^ yeah $$
 ^^ star $$
 ^^ yeah $$
@@ -575,6 +590,7 @@
 ^^ for Anna $$
 ^^ Anna $$
 ^^ here Anna $$
+^^ a $$
 ^^ baby duck $$
 ^^ and Santa too $$
 ^^ oh $$
@@ -591,7 +607,7 @@
 ^^ reindeer $$
 ^^ and Santa hat $$
 ^^ huh $$
-^^  I see that $$
+^^ er I see that $$
 ^^ I want be a Santa again $$
 ^^ I want be a Santa again $$
 ^^ no $$
@@ -601,7 +617,7 @@
 ^^ me tidy up $$
 ^^ yeah $$
 ^^ yeah $$
-^^ I  $$
+^^ I xxx $$
 ^^ hey $$
 ^^ me tidy up $$
 ^^ no $$
@@ -609,6 +625,7 @@
 ^^ yeah $$
 ^^ snow $$
 ^^ hat and scarf $$
+^^ xxx $$
 ^^ and glove $$
 ^^ mhm $$
 ^^ huh $$
@@ -635,10 +652,10 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
-^^ and  Santa $$
+^^ and xxx Santa $$
 ^^ Santa say hoho $$
 ^^ Santa hohoho $$
-^^ and all in my  $$
+^^ and all in my xxx $$
 ^^ one for Mummy $$
 ^^ yeah $$
 ^^ that Santa say $$
@@ -650,7 +667,7 @@
 ^^ oh dear $$
 ^^ spoon $$
 ^^ yeah $$
-^^  no $$
+^^ er no $$
 ^^ big spoon $$
 ^^ yeah $$
 ^^ another big spoon $$
@@ -673,7 +690,7 @@
 ^^ I want the choo come $$
 ^^ I go a nursery $$
 ^^ yeah $$
-^^  toy $$
+^^ xxx toy $$
 ^^ huh $$
 ^^ huh $$
 ^^ not that $$
@@ -705,6 +722,7 @@
 ^^ me $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ more child get the car $$
 ^^ that one my car $$
 ^^ yeah $$
@@ -712,6 +730,7 @@
 ^^ the big Mummy car $$
 ^^ dear me $$
 ^^ a Daddy in $$
+^^ a $$
 ^^ yeah $$
 ^^ oh Mama $$
 ^^ that on there no $$
@@ -724,6 +743,8 @@
 ^^ get all the toy $$
 ^^ there $$
 ^^ there not $$
+^^ xxx $$
+^^ xxx $$
 ^^ mhm $$
 ^^ no $$
 ^^ no $$
@@ -746,6 +767,7 @@
 ^^ no $$
 ^^ huh $$
 ^^ dear me $$
+^^ a $$
 ^^ oh $$
 ^^ and that not right $$
 ^^ yeah $$
@@ -754,7 +776,7 @@
 ^^ no $$
 ^^ huh $$
 ^^ no $$
-^^  naughty Ruth $$
+^^ naughty naughty Ruth $$
 ^^ naughty boy $$
 ^^ naughty boy $$
 ^^ naughty boy $$
@@ -805,6 +827,7 @@
 ^^ Lisa drive the choo $$
 ^^ mhm yeah $$
 ^^ here now watch $$
+^^ xxx $$
 ^^ stop $$
 ^^ stop here $$
 ^^ there walk $$
@@ -832,13 +855,14 @@
 ^^ yeah $$
 ^^ Lena $$
 ^^ Nac_nac $$
-^^   I need a wee $$
+^^ I need I need a wee $$
 ^^ do my wee $$
 ^^ what $$
 ^^ here Mummy Daddy come $$
 ^^ byebye $$
 ^^ yeah $$
 ^^ what $$
+^^ xxx $$
 ^^ they go back there $$
 ^^ away $$
 ^^ away to work $$
@@ -848,7 +872,7 @@
 ^^ huh $$
 ^^ huh $$
 ^^ what $$
-^^ that  $$
+^^ that xxx $$
 ^^ there no bowl $$
 ^^ no more bowl $$
 ^^ more bowl $$
@@ -858,7 +882,10 @@
 ^^ no $$
 ^^ nursery $$
 ^^ a Daddy $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
+^^ a $$
 ^^ all the brick $$
 ^^ brick Mummy $$
 ^^ brick $$
@@ -872,6 +899,7 @@
 ^^ mhm $$
 ^^ clothes away $$
 ^^ no tidy up $$
+^^ a $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
@@ -882,7 +910,7 @@
 ^^ ow $$
 ^^ no $$
 ^^ the tiger bite Mummy $$
-^^  bite baby $$
+^^ bite bite baby $$
 ^^ ow $$
 ^^ ow $$
 ^^ no $$
@@ -898,7 +926,7 @@
 ^^ what $$
 ^^ oh tea $$
 ^^ hat $$
-^^  tea in there $$
+^^ um tea in there $$
 ^^ put the tea in there $$
 ^^ oh dear me $$
 ^^ oh ice $$
@@ -937,7 +965,7 @@
 ^^ go away $$
 ^^ mhm $$
 ^^ want that one $$
-^^ Mama  $$
+^^ Mama xxx $$
 ^^ Mama hold tight $$
 ^^ hold tight $$
 ^^ here $$
@@ -972,6 +1000,8 @@
 ^^ orange please $$
 ^^ no $$
 ^^ I go back home $$
+^^ xxx $$
+^^ xxx $$
 ^^ I drink it in there $$
 ^^ take in there $$
 ^^ there $$
@@ -1024,6 +1054,7 @@
 ^^ baba nice $$
 ^^ the monkey $$
 ^^ the monkey $$
+^^ xxx $$
 ^^ me not like monkey no $$
 ^^ no $$
 ^^ a bit naughty $$
@@ -1033,17 +1064,21 @@
 ^^ no Mum $$
 ^^ huh $$
 ^^ there $$
-^^  mhm $$
+^^ xxx mhm $$
 ^^ chip $$
+^^ mm $$
+^^ mm $$
 ^^ that nice $$
 ^^ no $$
 ^^ no want it $$
 ^^ want my Mummy $$
 ^^ no $$
+^^ a $$
 ^^ no $$
 ^^ no $$
 ^^ no away $$
 ^^ no $$
+^^ a $$
 ^^ no $$
 ^^ no take me away $$
 ^^ no $$

@@ -10,12 +10,15 @@
 ^^ measure you $$
 ^^ very fat $$
 ^^ yes $$
+^^ xxx $$
 ^^ how about Old_Bear $$
 ^^ on back $$
 ^^ twenty $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ Old_Bear $$
 ^^ yeah $$
+^^ xxx $$
 ^^ measure his eye $$
 ^^ measure his toe $$
 ^^ measure your toe $$
@@ -64,10 +67,11 @@
 ^^ him be shoulder $$
 ^^ him be shoulder $$
 ^^ I do it $$
+^^ xxx $$
 ^^ that $$
 ^^ stay on $$
 ^^ yeah $$
-^^  stay on him $$
+^^ um stay on him $$
 ^^ have to measure him right on him be shoulder there $$
 ^^ measure $$
 ^^ your shoulder $$
@@ -79,7 +83,7 @@
 ^^ Old_Bear ear $$
 ^^ Old_Bear ear $$
 ^^ let us measure his ear $$
-^^  stay on $$
+^^ xxx stay on $$
 ^^ get on $$
 ^^ measure your right down there $$
 ^^ yeah $$
@@ -92,17 +96,20 @@
 ^^ lie down bit $$
 ^^ lie down bottom $$
 ^^ yeah $$
+^^ xxx $$
 ^^ ten $$
 ^^ him be $$
-^^  what about bottom $$
+^^ what what about bottom $$
 ^^ foot $$
 ^^ paw $$
 ^^ a paw $$
 ^^ instead $$
 ^^ right there $$
-^^  hold it straight $$
+^^ a hold it straight $$
+^^ xxx $$
 ^^ twenty $$
 ^^ twenty five $$
+^^ xxx $$
 ^^ what be Gail stand on $$
 ^^ this $$
 ^^ yeah $$
@@ -114,9 +121,10 @@
 ^^ two leg $$
 ^^ I not go cinema $$
 ^^ I not go cinema $$
+^^ xxx $$
 ^^ do him be tum now $$
 ^^ Hannah $$
-^^  you go to Lionus $$
+^^ um you go to Lionus $$
 ^^ oh yeah $$
 ^^ not with Daddy $$
 ^^ Daddy $$
@@ -129,9 +137,11 @@
 ^^ Lanzarotte $$
 ^^ Lanzarotte $$
 ^^ Lanzarotte $$
+^^ xxx $$
 ^^ Centre_Parcs $$
 ^^ Centre_Parcs $$
 ^^ Centre_Parcs $$
+^^ xxx $$
 ^^ I take it now $$
 ^^ yeah $$
 ^^ to shop $$
@@ -147,11 +157,15 @@
 ^^ and little boy $$
 ^^ yeah $$
 ^^ twenty $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ Andy $$
 ^^ Andy $$
 ^^ Andy $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ can not see number now $$
 ^^ there $$
 ^^ there $$
@@ -175,6 +189,7 @@
 ^^ not bad Old_Bear $$
 ^^ beep $$
 ^^ I be come $$
+^^ xxx $$
 ^^ whoops $$
 ^^ stick $$
 ^^ uhoh $$
@@ -186,6 +201,7 @@
 ^^ oh $$
 ^^ that be good $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ oh $$
 ^^ him stand up $$
 ^^ daddy $$
@@ -196,7 +212,9 @@
 ^^ who be come up $$
 ^^ just go and see $$
 ^^ I can not see $$
+^^ xxx $$
 ^^ I can not see $$
+^^ xxx $$
 ^^ I can not push it $$
 ^^ oh $$
 ^^ bite hard $$
@@ -238,7 +256,9 @@
 ^^ there be squash a ball $$
 ^^ oh $$
 ^^ squash it $$
+^^ xxx $$
 ^^ no $$
+^^ xxx $$
 ^^ no $$
 ^^ I want to do it $$
 ^^ it be sticky be not it $$
@@ -262,7 +282,7 @@
 ^^ there $$
 ^^ sticky $$
 ^^ have look in mirror $$
-^^ you  $$
+^^ you xxx $$
 ^^ want see yourself $$
 ^^ Caroline $$
 ^^ yeah $$
@@ -279,11 +299,13 @@
 ^^ there be two one $$
 ^^ no $$
 ^^ read this one next $$
-^^  read this one $$
-^^ want   come on your knee $$
+^^ this read this one $$
+^^ xxx $$
+^^ want come on come on your knee $$
 ^^ want to come on your knee $$
 ^^ want to come on your knee $$
 ^^ no $$
+^^ xxx $$
 ^^ this one $$
 ^^ this one $$
 ^^ Grandparents $$
@@ -300,7 +322,9 @@
 ^^ squirt his Grandpa $$
 ^^ no $$
 ^^ not sometimes $$
+^^ xxx $$
 ^^ a ball $$
+^^ xxx $$
 ^^ what be there $$
 ^^ mhm $$
 ^^ yeah $$
@@ -308,6 +332,7 @@
 ^^ a ball $$
 ^^ the window $$
 ^^ no $$
+^^ xxx $$
 ^^ nothing $$
 ^^ another one $$
 ^^ two one $$
@@ -315,6 +340,7 @@
 ^^ no $$
 ^^ no $$
 ^^ one story $$
+^^ xxx $$
 ^^ one more $$
 ^^ one more page $$
 ^^ yeah $$
@@ -324,17 +350,20 @@
 ^^ it be not $$
 ^^ oh $$
 ^^ can not $$
-^^  tie $$
+^^ xxx tie $$
 ^^ tie it up $$
+^^ xxx $$
 ^^ tie it up $$
 ^^ mhm $$
 ^^ down we go $$
 ^^ whee $$
 ^^ down we go $$
 ^^ down we go $$
-^^ go  in here $$
-^^ let us go and get  here $$
+^^ go xxx in here $$
+^^ let us go and get xxx here $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ silly me $$
 ^^ silly me $$
 ^^ want to put her knickers on $$
@@ -347,7 +376,7 @@
 ^^ this on $$
 ^^ put this on $$
 ^^ put this ribbon on $$
-^^  there be more ribbon there $$
+^^ there there be more ribbon there $$
 ^^ there be more ribbon $$
 ^^ more ribbon $$
 ^^ want some $$
@@ -358,17 +387,19 @@
 ^^ Mummy be quite do well $$
 ^^ I go to party $$
 ^^ yeah $$
-^^  house $$
-^^ I  $$
+^^ xxx house $$
+^^ I xxx $$
+^^ xxx $$
 ^^ where be her hat $$
 ^^ there $$
 ^^ which one it be $$
 ^^ have use this one $$
 ^^ have use this one $$
-^^  I do $$
+^^ I I do $$
 ^^ oh yes $$
 ^^ oh $$
 ^^ so busy have to come back $$
+^^ xxx $$
 ^^ I do it good $$
 ^^ I can $$
 ^^ yes $$
@@ -406,9 +437,10 @@
 ^^ flip $$
 ^^ no $$
 ^^ put this on $$
+^^ xxx $$
 ^^ this be a new one $$
 ^^ you do it there $$
-^^  have to do it curl $$
+^^ have have to do it curl $$
 ^^ I can $$
 ^^ curl $$
 ^^ you do it curl $$
@@ -421,6 +453,7 @@
 ^^ like that $$
 ^^ have to put it round her $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ what be that $$
@@ -431,17 +464,18 @@
 ^^ whoops $$
 ^^ Lala $$
 ^^ I take it on my foot $$
-^^ it be  $$
+^^ it be xxx $$
 ^^ dark $$
 ^^ dark $$
 ^^ oh $$
 ^^ yeah $$
 ^^ can I give this for him $$
-^^  want to put this on Andy $$
+^^ want want to put this on Andy $$
 ^^ mhm $$
 ^^ Andy be get a little waistcoat $$
 ^^ yes $$
 ^^ person $$
+^^ xxx $$
 ^^ I just get it for you $$
 ^^ there you be Andy $$
 ^^ there $$
@@ -468,6 +502,7 @@
 ^^ want to go in here $$
 ^^ go in here $$
 ^^ oh $$
+^^ xxx $$
 ^^ I put this shirt on $$
 ^^ put this panda shirt on $$
 ^^ no $$
@@ -479,14 +514,17 @@
 ^^ it be not go like that $$
 ^^ like that $$
 ^^ go like that $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ just check $$
 ^^ get him be jump $$
+^^ xxx $$
 ^^ no $$
 ^^ my my $$
-^^ that be my  hair $$
+^^ that be my brush hair $$
 ^^ no $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ have to do it like that $$
 ^^ near get one arm in $$
@@ -494,12 +532,16 @@
 ^^ not like that $$
 ^^ no $$
 ^^ bite too craze $$
+^^ xxx $$
+^^ xxx $$
 ^^ Mum $$
 ^^ want to put this on $$
 ^^ want to put this on Andy $$
+^^ xxx $$
 ^^ do like that $$
 ^^ want to put this on $$
 ^^ want to put this on $$
+^^ xxx $$
 ^^ I do not want to sit down $$
 ^^ I do not want to sit down $$
 ^^ I go in car $$
@@ -523,6 +565,7 @@
 ^^ flip Mummy $$
 ^^ how do you do it now $$
 ^^ look $$
+^^ xxx $$
 ^^ want to do the dungaree up $$
 ^^ yes $$
 ^^ dungaree $$
@@ -540,9 +583,11 @@
 ^^ sorry $$
 ^^ no $$
 ^^ oh $$
+^^ xxx $$
 ^^ get bit small $$
 ^^ oh $$
 ^^ go and get that $$
+^^ xxx $$
 ^^ go and get that $$
 ^^ go Mummy $$
 ^^ put the light on $$
@@ -557,6 +602,10 @@
 ^^ mhm $$
 ^^ Andy get a nasty cough $$
 ^^ yes $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ each of us $$
 ^^ two sofa $$
 ^^ one each $$
@@ -565,6 +614,7 @@
 ^^ whack $$
 ^^ I hurt my finger $$
 ^^ look $$
+^^ xxx $$
 ^^ show you $$
 ^^ I hurt my finger $$
 ^^ it be a bit of red $$
@@ -575,7 +625,7 @@
 ^^ Andy flop $$
 ^^ mhm $$
 ^^ yeah $$
-^^  Andy do $$
+^^ xxx Andy do $$
 ^^ my whack $$
 ^^ yeah $$
 ^^ Andy purple $$
@@ -597,6 +647,7 @@
 ^^ want to do this $$
 ^^ want to do this $$
 ^^ want to do the twist $$
+^^ xxx $$
 ^^ no work now $$
 ^^ that say off $$
 ^^ no $$
@@ -622,7 +673,9 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ that sad $$
+^^ xxx $$
 ^^ I get a fun shoe $$
+^^ xxx $$
 ^^ phew $$
 ^^ you want to put it on your foot $$
 ^^ on Andy foot $$
@@ -634,8 +687,9 @@
 ^^ whoops $$
 ^^ I near slip $$
 ^^ I do it proper $$
-^^ I can  $$
-^^  sing a tune $$
+^^ I can xxx $$
+^^ xxx $$
+^^ xxx sing a tune $$
 ^^ Michael sing a tune $$
 ^^ Michael $$
 ^^ sing a tune $$
@@ -645,7 +699,7 @@
 ^^ Elton_John $$
 ^^ yeah $$
 ^^ Elton_John on tellie $$
-^^  Diana sad $$
+^^ xxx Diana sad $$
 ^^ Old_Mother_Hubbard $$
 ^^ none $$
 ^^ none at all $$
@@ -666,7 +720,7 @@
 ^^ dust $$
 ^^ dust $$
 ^^ yeah $$
-^^  get some spot on her cheek $$
+^^ a get some spot on her cheek $$
 ^^ chicken $$
 ^^ cake $$
 ^^ motor $$
@@ -678,6 +732,7 @@
 ^^ oh look $$
 ^^ go all pink $$
 ^^ asleep $$
+^^ xxx $$
 ^^ Noah $$
 ^^ oh $$
 ^^ spider $$
@@ -686,15 +741,18 @@
 ^^ I whack your nipple $$
 ^^ mhm $$
 ^^ snake $$
+^^ xxx $$
 ^^ two monkey $$
 ^^ and the same $$
 ^^ two crocodile $$
 ^^ one two three $$
+^^ xxx $$
 ^^ bugger $$
 ^^ bugger $$
 ^^ bugger $$
 ^^ read it $$
 ^^ read it $$
+^^ xxx $$
 ^^ flapjack $$
 ^^ flapjack $$
 ^^ mhm $$
@@ -712,6 +770,7 @@
 ^^ sing it $$
 ^^ yeah $$
 ^^ it be $$
+^^ xxx $$
 ^^ mhm $$
 ^^ read that one $$
 ^^ where be my Mummy $$
@@ -737,12 +796,13 @@
 ^^ Pa a bit too big $$
 ^^ yeah $$
 ^^ big boy $$
-^^ because  $$
+^^ because xxx $$
 ^^ oh $$
 ^^ Andy wake up $$
 ^^ bite too little $$
 ^^ just go to walk $$
 ^^ mhm $$
+^^ xxx $$
 ^^ Daddy $$
 ^^ Mummy $$
 ^^ Gail $$
@@ -766,12 +826,12 @@
 ^^ I being chicken now $$
 ^^ a dog $$
 ^^ woof $$
-^^  I being cat $$
+^^ I I being cat $$
 ^^ mieow $$
 ^^ you want to do now $$
 ^^ yeah $$
-^^ oh  $$
-^^  I being horse $$
+^^ oh er $$
+^^ I I being horse $$
 ^^ a duck $$
 ^^ duck now $$
 ^^ being farm $$
@@ -791,6 +851,7 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ flat $$
 ^^ Mummy car $$
 ^^ wheel $$
@@ -808,10 +869,11 @@
 ^^ and I please for Daddy $$
 ^^ Daddy $$
 ^^ when I say byebye $$
-^^ I play outside  and I play with Martin $$
+^^ I play outside and and I play with Martin $$
 ^^ squirrel $$
 ^^ and whoops $$
 ^^ whoops $$
+^^ xxx $$
 ^^ slide $$
 ^^ yeah $$
 ^^ oh splash $$
@@ -829,7 +891,9 @@
 ^^ Mummy work $$
 ^^ yeah $$
 ^^ sniff dog $$
+^^ xxx $$
 ^^ I work it out myself $$
+^^ xxx $$
 ^^ another one $$
 ^^ yeah $$
 ^^ one tail $$
@@ -854,6 +918,7 @@
 ^^ bother $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ that be fun bear go yesterday $$
 ^^ with Daddy $$
 ^^ the arcade $$
@@ -875,7 +940,9 @@
 ^^ oh $$
 ^^ a spot $$
 ^^ spot $$
+^^ xxx $$
 ^^ want to go and get it in here $$
+^^ xxx $$
 ^^ not now $$
 ^^ oh $$
 ^^ get it wrong Mummy $$
@@ -885,7 +952,7 @@
 ^^ my spot dog hat $$
 ^^ no $$
 ^^ want to go and get it $$
-^^  just go and get it $$
+^^ just just go and get it $$
 ^^ no $$
 ^^ it be $$
 ^^ yeah $$
@@ -911,12 +978,15 @@
 ^^ sorry $$
 ^^ mhm $$
 ^^ want to play your toy Caroline $$
+^^ xxx $$
 ^^ her knickers $$
 ^^ yeah $$
 ^^ hello $$
 ^^ hello $$
 ^^ oh $$
+^^ xxx $$
 ^^ her $$
+^^ xxx $$
 ^^ oh $$
 ^^ sit down $$
 ^^ sit down $$
@@ -926,6 +996,7 @@
 ^^ sit down $$
 ^^ sit $$
 ^^ sit down $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -933,6 +1004,7 @@
 ^^ doll down $$
 ^^ no $$
 ^^ doll down $$
+^^ xxx $$
 ^^ look Mum $$
 ^^ Mum $$
 ^^ look $$
@@ -941,6 +1013,7 @@
 ^^ look $$
 ^^ Andy $$
 ^^ Andy $$
+^^ xxx $$
 ^^ tickle Andy head $$
 ^^ tickle Andy head $$
 ^^ tickle Andy head $$
@@ -958,10 +1031,11 @@
 ^^ you like that Andy $$
 ^^ yeah $$
 ^^ go go go go go go $$
-^^ this one  you be chew $$
+^^ this one a you be chew $$
 ^^ Andy $$
 ^^ here you go $$
 ^^ here you go $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ get something else clothes $$
@@ -975,8 +1049,9 @@
 ^^ these $$
 ^^ yeah $$
 ^^ that be good $$
+^^ xxx $$
 ^^ and this leg $$
-^^  want to put this on $$
+^^ want want to put this on $$
 ^^ sick $$
 ^^ put this on her $$
 ^^ yeah $$
@@ -986,7 +1061,7 @@
 ^^ it be go all right to top $$
 ^^ oh yeah $$
 ^^ yeah $$
-^^  that be her dress $$
+^^ that that be her dress $$
 ^^ that be her dress $$
 ^^ want to put it $$
 ^^ put it on her leg $$
@@ -1009,13 +1084,15 @@
 ^^ where I put it $$
 ^^ oh yeah $$
 ^^ where I put it $$
+^^ xxx $$
 ^^ like a dog $$
 ^^ oh $$
 ^^ it be not fit on proper $$
 ^^ oh $$
 ^^ want to put something else on $$
 ^^ this one a bit too trick $$
-^^  top $$
+^^ xxx top $$
+^^ xxx $$
 ^^ oh $$
 ^^ I take this off $$
 ^^ I take this off now $$
@@ -1056,14 +1133,16 @@
 ^^ hm $$
 ^^ I can not $$
 ^^ just one more $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ do not know $$
 ^^ no $$
 ^^ no $$
 ^^ he be put it on $$
+^^ xxx $$
 ^^ there you go Mummy $$
-^^ put  on $$
+^^ put xxx on $$
 ^^ please $$
 ^^ on bum $$
 ^^ bum $$
@@ -1079,6 +1158,7 @@
 ^^ eat him $$
 ^^ do him be leg $$
 ^^ do him be leg $$
+^^ xxx $$
 ^^ do him be leg $$
 ^^ oh $$
 ^^ not do that yet $$
@@ -1089,11 +1169,12 @@
 ^^ I do it $$
 ^^ trap my finger $$
 ^^ trap my finger $$
+^^ xxx $$
 ^^ where be this come from $$
 ^^ where be this come from $$
 ^^ where be this come from $$
 ^^ yeah $$
-^^  in there $$
+^^ in in there $$
 ^^ oh yeah $$
 ^^ oh $$
 ^^ I can not do it $$
@@ -1118,7 +1199,7 @@
 ^^ and me and you $$
 ^^ Mummy $$
 ^^ I can not pedal $$
-^^ I  can pedal $$
+^^ I have can pedal $$
 ^^ I can pedal round $$
 ^^ yeah $$
 ^^ pedal round $$
@@ -1138,14 +1219,17 @@
 ^^ keep me warm $$
 ^^ have to get it straight $$
 ^^ like that $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ under my chin $$
 ^^ look in mirror $$
 ^^ look in mirror $$
 ^^ mhm $$
-^^ go  $$
+^^ go xxx $$
+^^ xxx $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ pirate $$
 ^^ yes $$
 ^^ yes $$
@@ -1160,11 +1244,13 @@
 ^^ Mummy $$
 ^^ yeah $$
 ^^ what be Andy like $$
+^^ xxx $$
 ^^ go go go go go go $$
 ^^ Gail $$
+^^ xxx $$
 ^^ go go go go go go $$
-^^ have to  round  Andy neck $$
-^^  have to put my glass on $$
+^^ have to xxx round your Andy neck $$
+^^ have have to put my glass on $$
 ^^ Andy go and look in mirror $$
 ^^ go and look in mirror Andy $$
 ^^ go and look in mirror $$
@@ -1178,14 +1264,16 @@
 ^^ put the glass on $$
 ^^ put the glass on $$
 ^^ oh Gail $$
+^^ xxx $$
 ^^ let us see $$
 ^^ want put that on $$
 ^^ put this for Mummy $$
 ^^ a pirate $$
-^^  round your neck $$
+^^ round round your neck $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ like that $$
+^^ xxx $$
 ^^ I want to be a ghost $$
 ^^ I do not want to be eye $$
 ^^ eye $$
@@ -1195,19 +1283,20 @@
 ^^ not like that $$
 ^^ like on my head $$
 ^^ not like that $$
+^^ xxx $$
 ^^ put it on your ghost $$
 ^^ you be be ghost $$
 ^^ it be you $$
-^^  Andy be monster $$
+^^ Andy Andy be monster $$
 ^^ Andy be a monster $$
-^^ on  Andy neck $$
+^^ on your Andy neck $$
 ^^ Lala want to be a monster $$
 ^^ Andy want to be a monster $$
 ^^ grrr $$
 ^^ it be go now $$
 ^^ pop you in $$
 ^^ put her to bed $$
-^^  put her bed $$
+^^ putting put her bed $$
 ^^ just put her to bed $$
 ^^ put her to bed $$
 ^^ put her to bed $$
@@ -1217,7 +1306,8 @@
 ^^ put that underneath her head $$
 ^^ mhm $$
 ^^ yeah $$
-^^  wrap round $$
+^^ xxx $$
+^^ wrap wrap round $$
 ^^ just put this round $$
 ^^ no $$
 ^^ warm $$
@@ -1227,6 +1317,7 @@
 ^^ yeah $$
 ^^ it be Mummy be now $$
 ^^ it be Mummy $$
+^^ xxx $$
 ^^ you have to do it Mummy $$
 ^^ this scarf $$
 ^^ it be bit too long $$
@@ -1238,7 +1329,7 @@
 ^^ it be him $$
 ^^ you want to be monster $$
 ^^ yeah $$
-^^  I do not want to be frighten $$
+^^ I I do not want to be frighten $$
 ^^ Mummy $$
 ^^ put this on your head $$
 ^^ I do not want to be frighten $$
@@ -1258,8 +1349,10 @@
 ^^ do not take it off $$
 ^^ go $$
 ^^ Andy need a doctor $$
+^^ xxx $$
 ^^ put it on your head now $$
 ^^ put this on your head $$
+^^ xxx $$
 ^^ lie on it $$
 ^^ no $$
 ^^ light be not off $$
@@ -1274,6 +1367,7 @@
 ^^ no $$
 ^^ no $$
 ^^ on your $$
+^^ xxx $$
 ^^ on there $$
 ^^ on there Mummy $$
 ^^ on your nose $$
@@ -1281,8 +1375,10 @@
 ^^ yeah $$
 ^^ this be car not work $$
 ^^ Gail one be not work $$
+^^ xxx $$
+^^ xxx $$
 ^^ broke $$
-^^  have open it $$
+^^ xxx have open it $$
 ^^ you have to open it $$
 ^^ have to open it Mummy $$
 ^^ it be break $$
@@ -1294,6 +1390,7 @@
 ^^ he be get it $$
 ^^ no $$
 ^^ do it again $$
+^^ xxx $$
 ^^ let me hold it $$
 ^^ do that again $$
 ^^ where be your cup of tea $$
@@ -1317,7 +1414,8 @@
 ^^ you want to blow it $$
 ^^ yeah $$
 ^^ her will maybe cry $$
-^^ you get to put  her clothes on $$
+^^ you get to put these her clothes on $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ okay $$
@@ -1327,6 +1425,8 @@
 ^^ that be it be $$
 ^^ yeah $$
 ^^ I do it $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh $$
 ^^ I can not do it $$
 ^^ yeah $$
@@ -1342,10 +1442,13 @@
 ^^ this be not right yet $$
 ^^ that be not right $$
 ^^ no $$
+^^ xxx $$
 ^^ like that $$
-^^  tie like that $$
+^^ a tie like that $$
+^^ xxx $$
 ^^ you have to put it $$
 ^^ I can not do it this $$
+^^ xxx $$
 ^^ do this one $$
 ^^ do it loose $$
 ^^ like that $$
@@ -1361,14 +1464,14 @@
 ^^ yeah $$
 ^^ pink $$
 ^^ your hair $$
-^^ your hair  $$
+^^ your hair xxx $$
 ^^ Andy hair $$
 ^^ your hair $$
 ^^ it be want $$
 ^^ have a look in mirror $$
 ^^ want there $$
 ^^ want there $$
-^^   you want to wind this up your hair $$
+^^ you want you want to wind this up your hair $$
 ^^ on doll head $$
 ^^ sorry $$
 ^^ on doll head $$
@@ -1378,7 +1481,7 @@
 ^^ no $$
 ^^ you $$
 ^^ loose like that $$
-^^  loose like that $$
+^^ xxx loose like that $$
 ^^ yeah $$
 ^^ loose $$
 ^^ like that $$
@@ -1396,17 +1499,20 @@
 ^^ I can not find them $$
 ^^ get her hat $$
 ^^ get her hat $$
-^^ I find  her hat $$
+^^ I find her her hat $$
 ^^ put her hat on $$
 ^^ put her hat on Mummy $$
 ^^ put her hat on $$
 ^^ put her hat on Mummy $$
 ^^ put her hat on $$
+^^ xxx $$
 ^^ her hat on $$
 ^^ hold her $$
+^^ xxx $$
 ^^ you sit on your bag $$
 ^^ put her hat on $$
 ^^ put her hat on $$
+^^ xxx $$
 ^^ put her hat on $$
 ^^ put her hat on $$
 ^^ where be her shoe go $$
@@ -1435,24 +1541,26 @@
 ^^ have to put it in there $$
 ^^ no $$
 ^^ no $$
-^^  that be a dress $$
+^^ her that be a dress $$
 ^^ that be to put her leg in $$
 ^^ rip it Mummy $$
 ^^ no $$
 ^^ oh no $$
+^^ xxx $$
 ^^ not do it proper $$
 ^^ no $$
 ^^ like that $$
 ^^ oh $$
-^^   not do this one proper right $$
+^^ not done not do this one proper right $$
 ^^ oh $$
 ^^ sick $$
 ^^ sick $$
+^^ xxx $$
 ^^ I want to get a wipe $$
 ^^ yeah $$
 ^^ and put mine in $$
 ^^ it be go now $$
-^^ I want to  play with that $$
+^^ I want to do play with that $$
 ^^ I want to play with this $$
 ^^ this $$
 ^^ what be this call $$
@@ -1467,7 +1575,7 @@
 ^^ sorry Andy $$
 ^^ there look $$
 ^^ oh $$
-^^ I can not  $$
+^^ I can not xxx $$
 ^^ want play with these Mummy $$
 ^^ I can not open this $$
 ^^ you will have to do it Mummy $$
@@ -1481,6 +1589,7 @@
 ^^ Samson not get a tail $$
 ^^ think it fall off $$
 ^^ that one get a tail on $$
+^^ xxx $$
 ^^ this be the Daddy one there $$
 ^^ this one the Mummy one $$
 ^^ this one a Daddy one $$
@@ -1510,13 +1619,13 @@
 ^^ stand in a row $$
 ^^ this be not $$
 ^^ look now $$
-^^  her go have a sleep now $$
+^^ him's her go have a sleep now $$
 ^^ go and cover them up $$
 ^^ go and have get $$
 ^^ cover these animal up $$
 ^^ yeah $$
 ^^ yeah $$
-^^  wrap them up $$
+^^ a wrap them up $$
 ^^ no $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1528,10 +1637,11 @@
 ^^ Aston_Villa $$
 ^^ him be go to sleep $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there be one $$
 ^^ there be one $$
 ^^ no $$
-^^  must take one to work $$
+^^ must must take one to work $$
 ^^ daddy $$
 ^^ can not see one $$
 ^^ yes $$
@@ -1543,18 +1653,21 @@
 ^^ go fast $$
 ^^ fast Mummy $$
 ^^ you want to do it fast $$
-^^   oh $$
+^^ what what oh $$
 ^^ what I do $$
 ^^ what I do $$
 ^^ yeah $$
-^^ I want to get  $$
+^^ I want to get xxx $$
 ^^ I can not do it $$
-^^  I can not $$
-^^ I  get $$
+^^ I I can not $$
+^^ I xxx get $$
 ^^ and get big like that $$
 ^^ yeah $$
 ^^ like that $$
 ^^ fast $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ I just crawl $$
 ^^ I crawl $$
 ^^ what be you do tickle $$
@@ -1574,10 +1687,13 @@
 ^^ you be do it fast like that $$
 ^^ I just crawl in here $$
 ^^ like this $$
+^^ xxx $$
+^^ xxx $$
 ^^ let me come in Andy $$
 ^^ sorry $$
 ^^ it be okay $$
 ^^ I be just go post a letter $$
+^^ xxx $$
 ^^ there you go Mummy $$
 ^^ you $$
 ^^ yeah $$
@@ -1586,7 +1702,7 @@
 ^^ Caroline $$
 ^^ me $$
 ^^ say Caroline $$
-^^ it say  I write for you $$
+^^ it say I I write for you $$
 ^^ I write for you $$
 ^^ Mummy $$
 ^^ mhm $$
@@ -1598,12 +1714,13 @@
 ^^ say $$
 ^^ no $$
 ^^ this one you $$
-^^   this one  for something else $$
+^^ this one's this one for for something else $$
 ^^ take yours away $$
 ^^ oh $$
 ^^ there you go $$
 ^^ there you go person $$
 ^^ one for you $$
+^^ xxx $$
 ^^ just go different person $$
 ^^ yes $$
 ^^ think I do $$
@@ -1632,17 +1749,22 @@
 ^^ where be the crayon go $$
 ^^ the crayon $$
 ^^ can not do it $$
+^^ xxx $$
+^^ xxx $$
 ^^ come over here Caroline $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
 ^^ want a red one $$
+^^ xxx $$
 ^^ a blue one $$
 ^^ put it there $$
 ^^ oh $$
 ^^ that there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ no $$
-^^  that be crayon $$
+^^ that's that be crayon $$
 ^^ yeah $$
 ^^ crayon $$
 ^^ no $$
@@ -1671,6 +1793,7 @@
 ^^ where be the star go $$
 ^^ can not see the star $$
 ^^ where be the star go $$
+^^ xxx $$
 ^^ here $$
 ^^ here $$
 ^^ draw this one $$
@@ -1684,14 +1807,17 @@
 ^^ silly $$
 ^^ no $$
 ^^ I put these in here $$
+^^ xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ yeah $$
-^^ I can not see your  $$
+^^ I can not see your xxx $$
 ^^ see where it go $$
 ^^ no $$
 ^^ oh $$
 ^^ I have not get you cup of tea yet $$
 ^^ where be the cup of tea one $$
+^^ xxx $$
 ^^ oh $$
 ^^ where be it go to $$
 ^^ that be not one $$
@@ -1711,6 +1837,7 @@
 ^^ milk $$
 ^^ where be the tea go $$
 ^^ where you put $$
+^^ xxx $$
 ^^ Crikey Charlie $$
 ^^ two lid $$
 ^^ no $$
@@ -1735,8 +1862,8 @@
 ^^ jump $$
 ^^ think someone be open them $$
 ^^ no $$
-^^  those be different for person $$
-^^ for  $$
+^^ they those be different for person $$
+^^ for xxx $$
 ^^ for Caroline $$
 ^^ get this thing out $$
 ^^ that thing there $$
@@ -1751,7 +1878,7 @@
 ^^ I can get it $$
 ^^ I get it $$
 ^^ I get it $$
-^^  what be it for $$
+^^ it what be it for $$
 ^^ what be it for $$
 ^^ do it like that $$
 ^^ oh $$
@@ -1765,7 +1892,7 @@
 ^^ it be good now $$
 ^^ like that $$
 ^^ you want to do it $$
-^^  do the loud noise $$
+^^ do do the loud noise $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1795,6 +1922,7 @@
 ^^ like that $$
 ^^ like that $$
 ^^ no $$
+^^ xxx $$
 ^^ what be that $$
 ^^ no $$
 ^^ no $$
@@ -1815,13 +1943,14 @@
 ^^ where $$
 ^^ roar $$
 ^^ roar $$
+^^ xxx $$
 ^^ not like that $$
 ^^ where be it go $$
-^^  you go and find it $$
+^^ a you go and find it $$
 ^^ no $$
 ^^ think like Snowdon $$
 ^^ like me $$
-^^  like $$
+^^ like like $$
 ^^ daddy like Snowdon $$
 ^^ mhm $$
 ^^ think $$
@@ -1830,8 +1959,9 @@
 ^^ think no $$
 ^^ oh yeah $$
 ^^ buied a video $$
-^^  think buied a video $$
+^^ think think buied a video $$
 ^^ Old_bear $$
+^^ xxx $$
 ^^ no $$
 ^^ something else $$
 ^^ I want to go posh meal one day $$
@@ -1845,11 +1975,13 @@
 ^^ it be yours $$
 ^^ can have grape $$
 ^^ oh $$
-^^ he be  my juice $$
+^^ he be xxx my juice $$
+^^ xxx $$
 ^^ there be Andy $$
 ^^ not get water in it $$
 ^^ you can have grape $$
-^^  your sister break this $$
+^^ xxx $$
+^^ you your sister break this $$
 ^^ your sister break this $$
 ^^ you $$
 ^^ yes $$
@@ -1858,6 +1990,7 @@
 ^^ no $$
 ^^ just find some like that $$
 ^^ mhm $$
+^^ xxx $$
 ^^ it be my Snowdon $$
 ^^ just go to shop $$
 ^^ want to try it on $$
@@ -1866,7 +1999,7 @@
 ^^ want take doll with me $$
 ^^ want take doll with me $$
 ^^ I do it straight this $$
-^^  just do $$
+^^ just just do $$
 ^^ like that mum $$
 ^^ like that mum $$
 ^^ like that $$
@@ -1879,7 +2012,7 @@
 ^^ no $$
 ^^ put it on $$
 ^^ put it on $$
-^^  put it on $$
+^^ a put it on $$
 ^^ oh $$
 ^^ put it on $$
 ^^ no $$
@@ -1893,6 +2026,7 @@
 ^^ no $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ no want it $$
 ^^ two $$
 ^^ him $$
@@ -1900,10 +2034,11 @@
 ^^ no $$
 ^^ not three baby $$
 ^^ that be Snowdon $$
+^^ xxx $$
 ^^ you squash him $$
 ^^ no $$
 ^^ you squash him $$
-^^  I need a wee $$
+^^ I I need a wee $$
 ^^ mhm $$
 ^^ want bring pot in here $$
 ^^ oh $$
@@ -1912,6 +2047,7 @@
 ^^ no $$
 ^^ I go and get the pot $$
 ^^ I go and get the pot $$
+^^ xxx $$
 ^^ mhm $$
 ^^ no $$
 ^^ I have not get snot nose $$
@@ -1930,10 +2066,12 @@
 ^^ that be not $$
 ^^ want my tights on $$
 ^^ mhm $$
+^^ xxx $$
 ^^ where be my tights $$
 ^^ yes $$
 ^^ no $$
 ^^ you not go home $$
+^^ xxx $$
 ^^ this your cat $$
 ^^ this your cat $$
 ^^ it be $$
@@ -1952,20 +2090,23 @@
 ^^ it be go in bath mum $$
 ^^ think he be go to Lanzarotte $$
 ^^ have not get wing $$
+^^ xxx $$
 ^^ good boy $$
 ^^ Andy be get tooth $$
 ^^ not many at top $$
 ^^ doll $$
-^^  and Noddy and cat $$
+^^ and and Noddy and cat $$
 ^^ and they go throw them up in air $$
 ^^ go throw up in air $$
 ^^ now $$
+^^ xxx $$
 ^^ what be he get on his trouser $$
 ^^ sick $$
 ^^ there $$
 ^^ err $$
+^^ xxx $$
 ^^ I go throw up in the air $$
 ^^ yeah $$
-^^ Noddy  and cat $$
+^^ Noddy and and cat $$
 ^^ and Noddy and cat $$
 ^^ go throw them up high $$

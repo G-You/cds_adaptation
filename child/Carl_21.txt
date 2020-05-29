@@ -114,21 +114,21 @@
 ^^ and jungle book $$
 ^^ the song $$
 ^^ that a brumbrum $$
-^^ a  and a brumbrum $$
+^^ a xxx and a brumbrum $$
 ^^ peek $$
 ^^ that Pingu $$
 ^^ it Daddy Pingu $$
 ^^ man and a mum $$
 ^^ baby $$
 ^^ that be baby $$
-^^  that Mummy $$
-^^ and  that Daddy $$
+^^ that that Mummy $$
+^^ and that that Daddy $$
 ^^ kiss $$
 ^^ Mummy and baby $$
 ^^ and the daddy there $$
 ^^ hello Daddy $$
 ^^ hello Daddy $$
-^^  hello $$
+^^ hello hello $$
 ^^ want it off $$
 ^^ off $$
 ^^ I want $$
@@ -152,7 +152,7 @@
 ^^ that be a cow and that a pig $$
 ^^ pig $$
 ^^ cow $$
-^^ hello there  bird $$
+^^ hello there birdie bird $$
 ^^ hello there bird $$
 ^^ what they do $$
 ^^ there the step $$
@@ -170,7 +170,7 @@
 ^^ what cat do $$
 ^^ what the cat $$
 ^^ oh dear $$
-^^   where the brumbrum go $$
+^^ where the where the brumbrum go $$
 ^^ what they do $$
 ^^ where the brumbrum $$
 ^^ oh $$
@@ -237,7 +237,7 @@
 ^^ what he cross $$
 ^^ I not cross $$
 ^^ oh $$
-^^ what be that  juice $$
+^^ what be that xxx juice $$
 ^^ there be wee $$
 ^^ there juice $$
 ^^ there dog $$
@@ -247,7 +247,7 @@
 ^^ there it be $$
 ^^ whoops $$
 ^^ whoops $$
-^^ what  $$
+^^ what xxx $$
 ^^ tooth $$
 ^^ that a bridge $$
 ^^ it a brush $$
@@ -276,7 +276,7 @@
 ^^ oh dear shoe $$
 ^^ clean them $$
 ^^ where clean mess $$
-^^ man   and a dog $$
+^^ man and a and a dog $$
 ^^ and a tree $$
 ^^ and a tree $$
 ^^ fish fish fish fish fish fish fish fish fish $$
@@ -330,7 +330,7 @@
 ^^ what they do $$
 ^^ birth cake $$
 ^^ a mess $$
-^^ make a mess and a  $$
+^^ make a mess and a xxx $$
 ^^ man a hand $$
 ^^ no $$
 ^^ no $$
@@ -366,7 +366,7 @@
 ^^ oh $$
 ^^ what be happen $$
 ^^ what be you do $$
-^^ what you  do $$
+^^ what you do do $$
 ^^ house $$
 ^^ a tree $$
 ^^ a tree $$
@@ -382,6 +382,7 @@
 ^^ and apple $$
 ^^ apple $$
 ^^ oh $$
+^^ a $$
 ^^ oh $$
 ^^ apple $$
 ^^ apple $$
@@ -427,9 +428,13 @@
 ^^ Mummy $$
 ^^ what $$
 ^^ he a naughty paint $$
+^^ a $$
+^^ a $$
 ^^ that a dog $$
 ^^ what dog do $$
-^^   that a daddy $$
+^^ xxx $$
+^^ a $$
+^^ that a that a daddy $$
 ^^ that a mum $$
 ^^ a daddy $$
 ^^ that a daddy $$
@@ -446,6 +451,7 @@
 ^^ paint $$
 ^^ oh dear $$
 ^^ what paint $$
+^^ xxx $$
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ foot $$
@@ -478,7 +484,7 @@
 ^^ dog $$
 ^^ mhm $$
 ^^ there stair $$
-^^ and a  $$
+^^ and a xxx $$
 ^^ oh dear $$
 ^^ where the stair $$
 ^^ oh dear $$
@@ -496,7 +502,7 @@
 ^^ what you do $$
 ^^ whoops $$
 ^^ and a Daddy phone and a $$
-^^ and a door     and a Daddy door $$
+^^ and a door and and and and and a Daddy door $$
 ^^ oh dear $$
 ^^ where a door $$
 ^^ yes $$
@@ -504,6 +510,7 @@
 ^^ want popos $$
 ^^ Daddy $$
 ^^ come here Daddy $$
+^^ a $$
 ^^ no $$
 ^^ no boat $$
 ^^ boat $$
@@ -519,6 +526,7 @@
 ^^ a down $$
 ^^ a pen $$
 ^^ oh $$
+^^ um $$
 ^^ oh $$
 ^^ what be that $$
 ^^ what be that $$
@@ -538,7 +546,7 @@
 ^^ oh $$
 ^^ sheep $$
 ^^ hand $$
-^^  that $$
+^^ xxx that $$
 ^^ oh $$
 ^^ hand $$
 ^^ that $$
@@ -546,13 +554,15 @@
 ^^ my hand $$
 ^^ my hand there $$
 ^^ my hand there $$
+^^ um $$
 ^^ oh $$
+^^ um $$
 ^^ a nana $$
 ^^ moon $$
 ^^ moon $$
 ^^ look see $$
 ^^ look see $$
-^^  a nana $$
+^^ xxx a nana $$
 ^^ what be it $$
 ^^ star $$
 ^^ they star $$
@@ -575,13 +585,14 @@
 ^^ and window $$
 ^^ that a window $$
 ^^ there a door $$
+^^ xxx $$
 ^^ a house and door $$
 ^^ oh dear $$
 ^^ whoops $$
 ^^ to $$
 ^^ a brumbrum $$
 ^^ tree $$
-^^ hello tree  $$
+^^ hello tree xxx $$
 ^^ and this $$
 ^^ and that Daddy be $$
 ^^ that Daddy star $$
@@ -598,7 +609,7 @@
 ^^ I go $$
 ^^ whoops $$
 ^^ what be this $$
-^^ hello  $$
+^^ hello xxx $$
 ^^ what a Mummy say grr $$
 ^^ I draw bus $$
 ^^ want $$
@@ -630,7 +641,7 @@
 ^^ up down $$
 ^^ whoops $$
 ^^ what be $$
-^^  I fall $$
+^^ xxx I fall $$
 ^^ oh $$
 ^^ up $$
 ^^ down $$
@@ -662,7 +673,7 @@
 ^^ Spot $$
 ^^ oh that Spot $$
 ^^ yes $$
-^^  Daddy $$
+^^ a Daddy $$
 ^^ Daddy $$
 ^^ Daddy $$
 ^^ Daddy $$
@@ -689,6 +700,7 @@
 ^^ hello $$
 ^^ hello Granddad and Nana $$
 ^^ whoops $$
+^^ a $$
 ^^ one $$
 ^^ one $$
 ^^ one $$
@@ -732,9 +744,10 @@
 ^^ want one $$
 ^^ want one $$
 ^^ that sock $$
+^^ um $$
 ^^ brumbrum $$
 ^^ what be that $$
-^^ oh  that brum brum brum $$
+^^ oh that's that brum brum brum $$
 ^^ yes $$
 ^^ hm $$
 ^^ that $$
@@ -799,6 +812,7 @@
 ^^ no car $$
 ^^ there car and there brumbrum $$
 ^^ whoops $$
+^^ xxx $$
 ^^ there you be $$
 ^^ Mummy car $$
 ^^ that a brumbrum $$
@@ -828,7 +842,7 @@
 ^^ there one two $$
 ^^ brumm $$
 ^^ there be $$
-^^ there  $$
+^^ there xxx $$
 ^^ teddy work $$
 ^^ there the door $$
 ^^ brumm $$
@@ -840,7 +854,7 @@
 ^^ in there $$
 ^^ brumm $$
 ^^ neenawneenaw $$
-^^ what the  $$
+^^ what the xxx $$
 ^^ what the brumbrum $$
 ^^ brumm $$
 ^^ peep $$
@@ -869,6 +883,7 @@
 ^^ burn $$
 ^^ hot hot $$
 ^^ do $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh $$
 ^^ hm $$
@@ -876,6 +891,7 @@
 ^^ oh noise $$
 ^^ there water $$
 ^^ where Thomas $$
+^^ a $$
 ^^ where the dog $$
 ^^ oh $$
 ^^ no $$
@@ -901,8 +917,9 @@
 ^^ this one in there $$
 ^^ in there $$
 ^^ oh $$
+^^ xxx $$
 ^^ what be that $$
-^^ that a  $$
+^^ that a xxx $$
 ^^ house $$
 ^^ what this $$
 ^^ a book $$
@@ -955,7 +972,7 @@
 ^^ yeah $$
 ^^ where Zita go $$
 ^^ where the truck go $$
-^^ there  that brumbrum $$
+^^ there that that brumbrum $$
 ^^ that brumbrum $$
 ^^ yeah $$
 ^^ that one $$
@@ -993,7 +1010,7 @@
 ^^ oh $$
 ^^ where be you go $$
 ^^ where you go $$
-^^  there you be $$
+^^ there there you be $$
 ^^ oh no $$
 ^^ teddy $$
 ^^ there teddy $$
@@ -1015,7 +1032,7 @@
 ^^ that sheep $$
 ^^ tortoise $$
 ^^ there flower $$
-^^  there flower $$
+^^ there there flower $$
 ^^ a $$
 ^^ that be a house $$
 ^^ a house $$
@@ -1077,8 +1094,9 @@
 ^^ that the ball $$
 ^^ that the boat $$
 ^^ and there the helicopter $$
-^^   there the bird $$
+^^ there the there the bird $$
 ^^ and that Carl $$
+^^ xxx $$
 ^^ there Carl $$
 ^^ mhm $$
 ^^ Gordon $$
@@ -1109,6 +1127,7 @@
 ^^ a box $$
 ^^ penny $$
 ^^ it a cat $$
+^^ xxx $$
 ^^ down the stair $$
 ^^ that Daddy $$
 ^^ that Thomas $$
@@ -1121,7 +1140,7 @@
 ^^ mhm $$
 ^^ more $$
 ^^ biscuit $$
-^^  that nana $$
+^^ that that nana $$
 ^^ orange $$
 ^^ orange $$
 ^^ that orange $$
@@ -1152,15 +1171,15 @@
 ^^ the box $$
 ^^ inside $$
 ^^ that penny $$
-^^ penny in  $$
-^^  penny $$
+^^ penny in xxx $$
+^^ xxx penny $$
 ^^ no $$
 ^^ no $$
 ^^ and that Toby $$
 ^^ they see $$
-^^  that bag $$
+^^ that that bag $$
 ^^ bag $$
-^^  there the bag $$
+^^ there there the bag $$
 ^^ that the bag $$
 ^^ box $$
 ^^ a box $$
@@ -1181,13 +1200,13 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ that a crisp $$
-^^ that  that be  outside $$
+^^ that the that be the outside $$
 ^^ oh what Daddy do $$
 ^^ there Zita $$
 ^^ Zita $$
 ^^ hm $$
 ^^ outside $$
-^^ Carl see Zita  $$
+^^ Carl see Zita xxx $$
 ^^ Thomas and Zita and Carl $$
 ^^ cow $$
 ^^ sheep $$
@@ -1234,6 +1253,9 @@
 ^^ neenaw neenaw $$
 ^^ neenaw $$
 ^^ where it go $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ oh neenaw $$
 ^^ oh dear $$
 ^^ the neenaw $$
@@ -1322,7 +1344,7 @@
 ^^ yes $$
 ^^ neenaw $$
 ^^ no $$
-^^ no  $$
+^^ no xxx $$
 ^^ oh neenaw $$
 ^^ neenaw $$
 ^^ neenaw $$
@@ -1347,7 +1369,7 @@
 ^^ do not fit car $$
 ^^ oh brumbrum $$
 ^^ ambulance $$
-^^  that be a brumbrum $$
+^^ that that be a brumbrum $$
 ^^ the neenaw $$
 ^^ and the neenaw $$
 ^^ the neenaw $$
@@ -1363,12 +1385,12 @@
 ^^ there be the tree $$
 ^^ that bird $$
 ^^ bird tree $$
-^^  there neenaw $$
-^^   there neenaw $$
+^^ there there neenaw $$
+^^ there there there neenaw $$
 ^^ that the neenaw $$
-^^    a neenaw $$
+^^ that that that a neenaw $$
 ^^ neenaw $$
-^^   that $$
+^^ that that that $$
 ^^ that $$
 ^^ that $$
 ^^ what be that $$
@@ -1399,7 +1421,7 @@
 ^^ a tap $$
 ^^ there he night $$
 ^^ teddy $$
-^^  tire $$
+^^ a tire $$
 ^^ cuddle teddy $$
 ^^ man and a neenaw $$
 ^^ there be a neenaw $$
@@ -1408,8 +1430,9 @@
 ^^ neenaw $$
 ^^ there be neenaw $$
 ^^ there be a neenaw $$
+^^ a $$
 ^^ neenaw $$
-^^  help $$
+^^ um help $$
 ^^ that be a neenaw $$
 ^^ yes $$
 ^^ go get them $$
@@ -1437,6 +1460,7 @@
 ^^ no $$
 ^^ hi Mum $$
 ^^ hi Mum $$
+^^ eh $$
 ^^ what see $$
 ^^ oh man and a car $$
 ^^ where the brumbrum go $$
@@ -1450,12 +1474,12 @@
 ^^ hm $$
 ^^ grrr $$
 ^^ a lion $$
-^^   that Daddy $$
+^^ that is that Daddy $$
 ^^ and baby $$
-^^   that Daddy and baby $$
+^^ that is that Daddy and baby $$
 ^^ peekaboo peekaboo $$
 ^^ monkey $$
-^^  and a head $$
+^^ xxx and a head $$
 ^^ down in there $$
 ^^ whoops $$
 ^^ a down and a baby $$
@@ -1484,7 +1508,7 @@
 ^^ now $$
 ^^ grrr $$
 ^^ grrr $$
-^^   crocodile $$
+^^ croc croc crocodile $$
 ^^ what $$
 ^^ ride the truck $$
 ^^ bike $$
@@ -1506,6 +1530,7 @@
 ^^ my Nana $$
 ^^ my Nana $$
 ^^ that Carl and Nana $$
+^^ xxx $$
 ^^ I want box $$
 ^^ where the nana $$
 ^^ all right $$
@@ -1529,6 +1554,7 @@
 ^^ want the boat $$
 ^^ all right $$
 ^^ there the boat $$
+^^ xxx $$
 ^^ boat $$
 ^^ oh $$
 ^^ a man $$
@@ -1542,13 +1568,14 @@
 ^^ there a man $$
 ^^ you sure $$
 ^^ oh there man $$
+^^ a $$
 ^^ there a man $$
 ^^ what be that Mummy nana $$
 ^^ oh what be that $$
 ^^ one two $$
 ^^ oh dear $$
 ^^ what you do man $$
-^^  the man $$
+^^ a the man $$
 ^^ and that one $$
 ^^ ow $$
 ^^ what he do $$
@@ -1558,18 +1585,19 @@
 ^^ ow $$
 ^^ oh dear $$
 ^^ he fall $$
-^^ get  $$
+^^ get xxx $$
 ^^ one two three $$
 ^^ oh $$
 ^^ man in there man $$
 ^^ what be that $$
 ^^ that Granddad $$
+^^ xxx $$
 ^^ ow watch $$
 ^^ off $$
 ^^ take it off $$
 ^^ off $$
 ^^ what that $$
-^^ give me  $$
+^^ give me xxx $$
 ^^ no $$
 ^^ a hand and a man $$
 ^^ a man and another man $$
@@ -1591,16 +1619,17 @@
 ^^ one two three $$
 ^^ ow $$
 ^^ where $$
-^^  the man $$
+^^ a the man $$
 ^^ the man $$
-^^  there the man $$
+^^ a there the man $$
 ^^ oh dear $$
 ^^ oh there a house $$
 ^^ there the door $$
 ^^ where the man $$
 ^^ the man $$
-^^  the man $$
-^^  the man $$
+^^ a $$
+^^ a the man $$
+^^ a the man $$
 ^^ that Mummy man $$
 ^^ that Carl man $$
 ^^ one two three $$
@@ -1623,7 +1652,7 @@
 ^^ no $$
 ^^ no the man tight $$
 ^^ oh $$
-^^  there Granddad $$
+^^ a there Granddad $$
 ^^ that one mine $$
 ^^ that Daddy $$
 ^^ that Granddad $$
@@ -1666,13 +1695,14 @@
 ^^ hat on man $$
 ^^ hat on man $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ hm $$
 ^^ bed $$
 ^^ no $$
 ^^ no want another one $$
 ^^ another one $$
 ^^ another one $$
-^^ another one  $$
+^^ another one xxx $$
 ^^ man on a train $$
 ^^ no $$
 ^^ no $$
@@ -1689,7 +1719,7 @@
 ^^ oh $$
 ^^ there Daddy $$
 ^^ oh $$
-^^  a Daddy $$
+^^ a a Daddy $$
 ^^ hi Daddy $$
 ^^ hi Daddy $$
 ^^ oh what be that Daddy $$
@@ -1758,6 +1788,7 @@
 ^^ do $$
 ^^ oh dear $$
 ^^ there house $$
+^^ xxx $$
 ^^ bridge $$
 ^^ there door $$
 ^^ door $$
@@ -1810,7 +1841,7 @@
 ^^ Thomas and train $$
 ^^ a cat $$
 ^^ hm $$
-^^   that Zita $$
+^^ that is that Zita $$
 ^^ that Zita $$
 ^^ there Carl $$
 ^^ no $$
@@ -1822,7 +1853,7 @@
 ^^ train $$
 ^^ what be that $$
 ^^ that Thomas $$
-^^ and  $$
+^^ and xxx $$
 ^^ that Daddy $$
 ^^ first page $$
 ^^ that Zita Carl $$
@@ -1830,7 +1861,7 @@
 ^^ that ball $$
 ^^ that Carl boat $$
 ^^ that helicopter $$
-^^ that  $$
+^^ that xxx $$
 ^^ my din $$
 ^^ that be Gordon $$
 ^^ oh dear $$
@@ -1856,7 +1887,7 @@
 ^^ there fish $$
 ^^ Granddad $$
 ^^ the fish on Granddad $$
-^^ Carl and  fish $$
+^^ Carl and xxx fish $$
 ^^ there Thomas and Zita and Carl $$
 ^^ that Zita $$
 ^^ there Zita din $$
@@ -1893,7 +1924,7 @@
 ^^ that Toby $$
 ^^ Thomas and a drink $$
 ^^ there Thomas drink $$
-^^ that Zita  Carl drink $$
+^^ that Zita Carl Carl drink $$
 ^^ that Carl $$
 ^^ that Carl $$
 ^^ that $$
@@ -1948,13 +1979,13 @@
 ^^ train Thomas $$
 ^^ oh $$
 ^^ stop train $$
-^^ stop  $$
+^^ stop xxx $$
 ^^ Thomas and Toby $$
 ^^ stop everybody $$
 ^^ no do not do that Mummy $$
 ^^ that train and Thomas $$
 ^^ what be that $$
-^^  that $$
+^^ um that $$
 ^^ oh dear $$
 ^^ break $$
 ^^ that train $$
@@ -2014,6 +2045,7 @@
 ^^ elephant $$
 ^^ that Zita $$
 ^^ yeah $$
+^^ a $$
 ^^ that pajamas $$
 ^^ oh what that $$
 ^^ there pajamas and pajamas $$
@@ -2027,7 +2059,7 @@
 ^^ oh $$
 ^^ oh $$
 ^^ oh what be that $$
-^^  there Zita $$
+^^ there there Zita $$
 ^^ oh what be that $$
 ^^ what be that $$
 ^^ asleep $$
@@ -2083,7 +2115,7 @@
 ^^ there the bang $$
 ^^ go whee $$
 ^^ whee $$
-^^   there be a egg $$
+^^ there's a there be a egg $$
 ^^ there be a egg $$
 ^^ there a egg $$
 ^^ there a egg $$
@@ -2119,7 +2151,7 @@
 ^^ oh $$
 ^^ there be a egg $$
 ^^ another egg $$
-^^  the egg $$
+^^ a the egg $$
 ^^ one two three $$
 ^^ one two three $$
 ^^ one two three $$
@@ -2127,6 +2159,7 @@
 ^^ there be one $$
 ^^ one two $$
 ^^ there you be $$
+^^ a $$
 ^^ there $$
 ^^ one $$
 ^^ one two $$
@@ -2241,7 +2274,7 @@
 ^^ hm $$
 ^^ hm $$
 ^^ want some $$
-^^ want  some $$
+^^ want xxx some $$
 ^^ no $$
 ^^ no nana $$
 ^^ there cat $$
@@ -2257,8 +2290,10 @@
 ^^ Zita $$
 ^^ Zita $$
 ^^ Zita $$
+^^ mm $$
 ^^ hm $$
 ^^ mhm $$
+^^ mm $$
 ^^ mhm $$
 ^^ eat the sweet $$
 ^^ blue one $$
@@ -2267,6 +2302,7 @@
 ^^ hm $$
 ^^ hm $$
 ^^ that fish $$
+^^ xxx $$
 ^^ what do $$
 ^^ oh $$
 ^^ what be that in brumbrum $$
@@ -2290,6 +2326,7 @@
 ^^ ow $$
 ^^ no $$
 ^^ no sweet $$
+^^ mm $$
 ^^ hm $$
 ^^ hm $$
 ^^ hm $$
@@ -2307,7 +2344,7 @@
 ^^ oh elephant $$
 ^^ oh $$
 ^^ oh $$
-^^  that the man $$
+^^ that that the man $$
 ^^ the man $$
 ^^ there a man and a $$
 ^^ oh $$
@@ -2322,6 +2359,7 @@
 ^^ oh $$
 ^^ gribbet $$
 ^^ mhm $$
+^^ xxx $$
 ^^ there fish $$
 ^^ whee $$
 ^^ no $$

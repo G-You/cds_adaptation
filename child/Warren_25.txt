@@ -41,6 +41,7 @@
 ^^ yes $$
 ^^ go there $$
 ^^ I pull off that $$
+^^ xxx $$
 ^^ take it off now $$
 ^^ Mummy $$
 ^^ these out $$
@@ -150,6 +151,7 @@
 ^^ lake $$
 ^^ church $$
 ^^ Henry church $$
+^^ xxx $$
 ^^ a boat $$
 ^^ plane $$
 ^^ sea $$
@@ -173,8 +175,8 @@
 ^^ plane $$
 ^^ plane Mummy $$
 ^^ Mummy roll it $$
-^^ Mummy  $$
-^^   roll it $$
+^^ Mummy xxx $$
+^^ roll roll roll it $$
 ^^ Warren do it $$
 ^^ two three four five six $$
 ^^ oh stick $$
@@ -195,6 +197,7 @@
 ^^ no $$
 ^^ in there $$
 ^^ my do it $$
+^^ xxx $$
 ^^ park there $$
 ^^ and there a van there $$
 ^^ there van $$
@@ -205,12 +208,12 @@
 ^^ break $$
 ^^ over there $$
 ^^ make a train $$
-^^   make another train $$
+^^ make a make another train $$
 ^^ no $$
 ^^ make a blue train $$
 ^^ Warren make this $$
-^^  car $$
-^^  car $$
+^^ xxx car $$
+^^ xxx car $$
 ^^ it come off now $$
 ^^ next to the van there $$
 ^^ make a van $$
@@ -222,7 +225,7 @@
 ^^ fly saucer $$
 ^^ there a van $$
 ^^ there a van $$
-^^ another van  $$
+^^ another van xxx $$
 ^^ Warren take it off $$
 ^^ that one blue $$
 ^^ where be that one $$
@@ -238,6 +241,7 @@
 ^^ yes $$
 ^^ I want some $$
 ^^ I want some more medicine $$
+^^ xxx $$
 ^^ where my spoon go $$
 ^^ my spoon go $$
 ^^ my spoon go $$
@@ -270,6 +274,7 @@
 ^^ make a van $$
 ^^ Mummy $$
 ^^ oooo $$
+^^ xxx $$
 ^^ make another van $$
 ^^ bite round the edge $$
 ^^ oh $$
@@ -285,6 +290,7 @@
 ^^ three train $$
 ^^ go in there $$
 ^^ another one go in there $$
+^^ xxx $$
 ^^ oh stick $$
 ^^ oh $$
 ^^ oh stick $$
@@ -295,6 +301,7 @@
 ^^ there be a van $$
 ^^ play with it $$
 ^^ put it the back $$
+^^ xxx $$
 ^^ right at back $$
 ^^ Mummy help put right at back $$
 ^^ go now $$
@@ -305,13 +312,17 @@
 ^^ another one van come $$
 ^^ another $$
 ^^ this be a train there $$
+^^ xxx $$
 ^^ the smoke $$
 ^^ smoke go blow up sky $$
 ^^ train $$
+^^ xxx $$
 ^^ bring the medicine $$
 ^^ bring the medicine $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ that one $$
+^^ xxx $$
 ^^ Mummy $$
 ^^ Percy wheel there $$
 ^^ that Percy wheel $$
@@ -338,7 +349,7 @@
 ^^ get Percy out $$
 ^^ make Percy $$
 ^^ make Percy $$
-^^  Percy $$
+^^ xxx Percy $$
 ^^ there be Percy $$
 ^^ this be $$
 ^^ be that Percy eye $$
@@ -389,6 +400,8 @@
 ^^ Mummy make Percy $$
 ^^ Mummy make Percy $$
 ^^ Mummy help make Percy $$
+^^ xxx $$
+^^ er $$
 ^^ Percy be there Warren $$
 ^^ yes $$
 ^^ Thomas_Tank_Engine go there $$
@@ -412,7 +425,7 @@
 ^^ this $$
 ^^ do Percy face $$
 ^^ Mummy make Percy $$
-^^  Mummy make Percy again $$
+^^ make Mummy make Percy again $$
 ^^ Mummy $$
 ^^ Warren help Mummy $$
 ^^ no go there $$
@@ -423,7 +436,7 @@
 ^^ I get it $$
 ^^ make animal $$
 ^^ mouse mouse $$
-^^ Mummy make  that one $$
+^^ Mummy make that that one $$
 ^^ pink one pink $$
 ^^ green $$
 ^^ make yellow $$
@@ -458,8 +471,10 @@
 ^^ there $$
 ^^ the little roll pin $$
 ^^ there $$
+^^ xxx $$
 ^^ there be another pin $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ oh $$
 ^^ oh dear $$
 ^^ make a bus Mummy $$
@@ -473,6 +488,7 @@
 ^^ and that $$
 ^^ car $$
 ^^ car go there now $$
+^^ xxx $$
 ^^ pig $$
 ^^ oink $$
 ^^ Mummy pig $$
@@ -489,19 +505,22 @@
 ^^ go in the pot $$
 ^^ oh oh $$
 ^^ Mummy make a tower $$
-^^  shape $$
+^^ xxx $$
+^^ xxx shape $$
 ^^ another shape $$
 ^^ another shape $$
-^^  open it $$
+^^ xxx open it $$
 ^^ that one $$
 ^^ yes $$
 ^^ I bash the tower $$
+^^ xxx $$
 ^^ yes $$
 ^^ red $$
 ^^ red $$
 ^^ pink $$
 ^^ yellow $$
 ^^ where the tractor go $$
+^^ xxx $$
 ^^ see Nana Granddad $$
 ^^ see Nana Granddad $$
 ^^ Warren bed $$
@@ -524,19 +543,22 @@
 ^^ yes $$
 ^^ vehicle $$
 ^^ close the door $$
+^^ xxx $$
+^^ xxx $$
 ^^ round and round $$
 ^^ round and round $$
 ^^ round and round $$
 ^^ wheel bus go round and round $$
 ^^ all day long $$
-^^   neenaw $$
-^^   neenaw $$
-^^  neenaw $$
+^^ nee nee neenaw $$
+^^ nee nee neenaw $$
+^^ nee neenaw $$
 ^^ home lunch $$
 ^^ there be another break $$
 ^^ policecar break down $$
 ^^ policecar break down $$
 ^^ oh $$
+^^ xxx $$
 ^^ pull that $$
 ^^ crash $$
 ^^ no $$
@@ -547,6 +569,8 @@
 ^^ move $$
 ^^ break $$
 ^^ oh $$
+^^ xxx $$
+^^ xxx $$
 ^^ go fast $$
 ^^ look Anna $$
 ^^ bird be eat the nuts $$
@@ -591,7 +615,8 @@
 ^^ Mummy help $$
 ^^ sleep in the car $$
 ^^ brumm $$
-^^  find the trailer $$
+^^ find find the trailer $$
+^^ xxx $$
 ^^ big tower $$
 ^^ big hammer bang $$
 ^^ big hammer bang $$
@@ -604,6 +629,7 @@
 ^^ trailer go $$
 ^^ trailer go Mummy $$
 ^^ trailer go $$
+^^ xxx $$
 ^^ a person $$
 ^^ thank_you $$
 ^^ too big $$
@@ -625,7 +651,7 @@
 ^^ that brown one go $$
 ^^ that one $$
 ^^ pull that off $$
-^^ that one  go elephant $$
+^^ that one go go elephant $$
 ^^ too big $$
 ^^ go on trailer $$
 ^^ go on the trailer $$
@@ -683,9 +709,9 @@
 ^^ ow $$
 ^^ Warren do that one $$
 ^^ there one $$
-^^ that  $$
+^^ that xxx $$
 ^^ that one $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ fall down $$
 ^^ ow $$
 ^^ last piece $$
@@ -697,14 +723,16 @@
 ^^ my my my $$
 ^^ my make a tower $$
 ^^ my make $$
+^^ a $$
 ^^ that one $$
-^^ no  that one $$
+^^ no that that one $$
 ^^ I make it $$
-^^  put it $$
+^^ xxx put it $$
 ^^ that my tower $$
 ^^ my make it $$
 ^^ my tower $$
 ^^ oh $$
+^^ a $$
 ^^ there you be Mummy $$
 ^^ trailer car $$
 ^^ go throw down $$
@@ -713,7 +741,7 @@
 ^^ pig $$
 ^^ pig be asleep $$
 ^^ pig sleep $$
-^^   that one go sleep $$
+^^ that one that one go sleep $$
 ^^ brumm $$
 ^^ oh dear crash $$
 ^^ crash $$
@@ -721,7 +749,7 @@
 ^^ come off $$
 ^^ monkey on $$
 ^^ monkey foot $$
-^^ monkey go  $$
+^^ monkey go xxx $$
 ^^ I do it $$
 ^^ I do it $$
 ^^ one two three $$
@@ -785,7 +813,7 @@
 ^^ plane $$
 ^^ go up in sky $$
 ^^ airport $$
-^^  toy $$
+^^ xxx toy $$
 ^^ Warren sit the toy $$
 ^^ Mummy $$
 ^^ get up $$
@@ -804,10 +832,11 @@
 ^^ more toy $$
 ^^ orange juice and egg $$
 ^^ oh dear $$
-^^  Warren help Mummy the egg $$
+^^ Warren Warren help Mummy the egg $$
 ^^ more shop $$
 ^^ buy orange juice $$
 ^^ oh $$
+^^ xxx $$
 ^^ the tray $$
 ^^ hide there $$
 ^^ yes $$
@@ -815,13 +844,16 @@
 ^^ want some $$
 ^^ Mummy want some milk $$
 ^^ put some bean $$
+^^ xxx $$
 ^^ potato $$
 ^^ aubergine $$
 ^^ byebye shop $$
+^^ xxx $$
 ^^ nana $$
 ^^ yes $$
+^^ xxx $$
 ^^ oh $$
-^^ Warren  $$
+^^ Warren xxx $$
 ^^ I hit Mummy Anna $$
 ^^ put in my basket $$
 ^^ hot bottle $$
@@ -829,14 +861,16 @@
 ^^ it be break down $$
 ^^ car be break down $$
 ^^ it go in the garage $$
+^^ xxx $$
 ^^ another neenaw Anna $$
 ^^ it break down $$
 ^^ open the garage $$
 ^^ it be break $$
 ^^ let us open the garage $$
+^^ xxx $$
 ^^ I mend it $$
 ^^ I mend it $$
-^^   neenaw $$
+^^ nee nee neenaw $$
 ^^ beepbeep $$
 ^^ open in $$
 ^^ car go in $$
@@ -849,10 +883,11 @@
 ^^ man $$
 ^^ no $$
 ^^ on a track $$
+^^ xxx $$
 ^^ brumm $$
 ^^ bang $$
 ^^ bash $$
-^^  policecar $$
+^^ xxx policecar $$
 ^^ the trailer go in $$
 ^^ trailer go in $$
 ^^ this go open the door $$
@@ -887,6 +922,7 @@
 ^^ wheel break $$
 ^^ oh dear $$
 ^^ whoops $$
+^^ xxx $$
 ^^ oh that be bus there $$
 ^^ that be bus $$
 ^^ go in the bus $$
@@ -906,7 +942,7 @@
 ^^ Mummy shout naughty boy $$
 ^^ touch it $$
 ^^ look it $$
-^^  touch apple tree $$
+^^ xxx touch apple tree $$
 ^^ apple tree $$
 ^^ Christmas tree $$
 ^^ touch $$
@@ -937,11 +973,11 @@
 ^^ get that $$
 ^^ get that $$
 ^^ oh Mummy $$
-^^ Warren  $$
+^^ Warren xxx $$
 ^^ no $$
 ^^ nothing in the garage $$
 ^^ tractor there $$
-^^ oh  bash  $$
+^^ oh xxx bash xxx $$
 ^^ bash $$
 ^^ brumm $$
 ^^ oh dear $$
@@ -955,8 +991,9 @@
 ^^ bye bus $$
 ^^ later bus $$
 ^^ no $$
+^^ xxx $$
 ^^ oh there $$
-^^  box $$
+^^ xxx box $$
 ^^ oh that man there $$
 ^^ that one $$
 ^^ that one bus $$
@@ -1000,9 +1037,10 @@
 ^^ hurt my $$
 ^^ police hat $$
 ^^ police hat $$
-^^   neenaw $$
-^^   neenaw $$
+^^ nee nee neenaw $$
+^^ nee nee neenaw $$
 ^^ Warren wind up $$
+^^ a $$
 ^^ it get you $$
 ^^ I wipe it $$
 ^^ I wind it $$
@@ -1013,7 +1051,7 @@
 ^^ go go go go go go go go go $$
 ^^ send it back to Mummy $$
 ^^ I get it $$
-^^ I  send $$
+^^ I send send $$
 ^^ no $$
 ^^ mine $$
 ^^ my engine $$
@@ -1021,19 +1059,21 @@
 ^^ please $$
 ^^ engine back Mummy $$
 ^^ there $$
+^^ xxx $$
 ^^ there you go $$
 ^^ no Mummy $$
 ^^ Mummy $$
 ^^ Mummy have a key $$
 ^^ Mummy have a key $$
 ^^ me wind it $$
-^^  neenaws $$
+^^ xxx neenaws $$
 ^^ make neenaw neenaw $$
 ^^ make neenaw neenaw $$
 ^^ no $$
 ^^ no $$
 ^^ key in $$
 ^^ key $$
+^^ xxx $$
 ^^ Warren get a man out $$
 ^^ make neenaw neenaws $$
 ^^ wrong way $$
@@ -1048,7 +1088,7 @@
 ^^ that $$
 ^^ oh dear $$
 ^^ Warren break down the wheel $$
-^^  that light there $$
+^^ that that light there $$
 ^^ that light break $$
 ^^ there $$
 ^^ there blue light $$
@@ -1069,14 +1109,15 @@
 ^^ the neenaw $$
 ^^ floodlight $$
 ^^ oh this $$
-^^  make hose pipe there $$
+^^ make make hose pipe there $$
 ^^ chip $$
 ^^ and chip for Anna $$
 ^^ mhm $$
 ^^ red sauce $$
 ^^ red sauce Anna $$
-^^ that one  $$
+^^ that one xxx $$
 ^^ oh $$
+^^ xxx $$
 ^^ chip $$
 ^^ sauce on $$
 ^^ red sauce $$
@@ -1105,13 +1146,14 @@
 ^^ oh look $$
 ^^ pull the wheel $$
 ^^ pull the wheel off $$
-^^ get some  more jig $$
+^^ get some more more jig $$
 ^^ kitten $$
 ^^ Warren $$
 ^^ Warren eat it $$
 ^^ Warren eat it $$
 ^^ Warren do it $$
 ^^ that one $$
+^^ xxx $$
 ^^ Warren kiss it cat $$
 ^^ Warren kiss it $$
 ^^ it be poor $$
@@ -1122,6 +1164,7 @@
 ^^ that that $$
 ^^ that $$
 ^^ that one $$
+^^ xxx $$
 ^^ that one go there $$
 ^^ that one go $$
 ^^ there $$
@@ -1152,7 +1195,7 @@
 ^^ okay $$
 ^^ that one $$
 ^^ I get that body there $$
-^^  that nappie there $$
+^^ that that nappie there $$
 ^^ that nappie $$
 ^^ that one $$
 ^^ no $$
@@ -1161,10 +1204,11 @@
 ^^ that one $$
 ^^ that one $$
 ^^ that one $$
+^^ xxx $$
 ^^ one two three four five six seven eight nine ten eleven twelve $$
 ^^ one there $$
-^^   wobble $$
-^^   wobble $$
+^^ wobble wobble wobble $$
+^^ wobble wobble wobble $$
 ^^ tissue $$
 ^^ get tissue $$
 ^^ tissue $$
@@ -1183,9 +1227,11 @@
 ^^ ouch $$
 ^^ look Mummy $$
 ^^ no $$
+^^ xxx $$
 ^^ get Thomas $$
-^^ Warren  $$
+^^ Warren xxx $$
 ^^ Thomas in $$
+^^ xxx $$
 ^^ Mummy get him $$
 ^^ get a stick $$
 ^^ that one $$
@@ -1206,7 +1252,7 @@
 ^^ please $$
 ^^ Grandma $$
 ^^ there nothing in $$
-^^  rock tomorrow $$
+^^ xxx rock tomorrow $$
 ^^ yes $$
 ^^ rock $$
 ^^ no $$
@@ -1223,9 +1269,11 @@
 ^^ Mummy get it $$
 ^^ Warren get it $$
 ^^ Warren get it $$
+^^ xxx $$
 ^^ Warren get him $$
 ^^ Warren do it again $$
 ^^ get my Thomas out $$
+^^ xxx $$
 ^^ Warren find it $$
 ^^ Thomas $$
 ^^ do it again $$
@@ -1238,7 +1286,7 @@
 ^^ Mummy do it again $$
 ^^ Mummy do it again $$
 ^^ come back $$
-^^   I get it $$
+^^ Warren get I get it $$
 ^^ get Thomas out $$
 ^^ move fire $$
 ^^ get Thomas out $$
@@ -1249,8 +1297,10 @@
 ^^ move fire $$
 ^^ I break that $$
 ^^ I break that $$
+^^ xxx $$
 ^^ I mend it $$
 ^^ it Warren break badge $$
+^^ xxx $$
 ^^ there nothing in $$
 ^^ there nothing in $$
 ^^ there nothing in $$
@@ -1264,9 +1314,10 @@
 ^^ go up there $$
 ^^ train be on the bump road $$
 ^^ Mummy a tunnel $$
-^^ back  $$
+^^ back xxx $$
+^^ xxx $$
 ^^ beepbeep $$
-^^  a train $$
+^^ xxx a train $$
 ^^ pooppoop $$
 ^^ bang $$
 ^^ oh dear $$
@@ -1296,24 +1347,28 @@
 ^^ go to bash $$
 ^^ I go to bash $$
 ^^ oh $$
+^^ a $$
 ^^ oh look $$
+^^ xxx $$
 ^^ make Henry tunnel $$
 ^^ there Henry tunnel $$
 ^^ Henry tunnel $$
 ^^ Henry $$
-^^ it be a  $$
-^^  that one be go in $$
+^^ xxx $$
+^^ it be a xxx $$
+^^ that that one be go in $$
 ^^ oh two break there $$
 ^^ there $$
 ^^ wrong wheel there $$
 ^^ wrong wheel $$
-^^  wrong wheel there $$
+^^ wrong wrong wheel there $$
 ^^ yeah $$
 ^^ it be go backwards $$
+^^ xxx $$
 ^^ bash $$
 ^^ oh dear dear $$
-^^ the  come off again $$
-^^   Henry tunnel get  $$
+^^ the xxx come off again $$
+^^ Henry's tunnel Henry tunnel get xxx $$
 ^^ bang $$
 ^^ oh dear $$
 ^^ me bash Henry tunnel $$
@@ -1322,7 +1377,7 @@
 ^^ Henry $$
 ^^ Warren make Henry tunnel $$
 ^^ Anna make Henry tunnel $$
-^^  Anna make Henry tunnel $$
+^^ Anna Anna make Henry tunnel $$
 ^^ get my brick out $$
 ^^ that one go up there $$
 ^^ that one go up there $$
@@ -1330,8 +1385,9 @@
 ^^ stick in $$
 ^^ make Henry tunnel $$
 ^^ I push all in $$
+^^ xxx $$
 ^^ do $$
-^^  do $$
+^^ xxx do $$
 ^^ Henry tunnel $$
 ^^ get the brick out $$
 ^^ get the brick out $$
@@ -1339,7 +1395,7 @@
 ^^ another bang $$
 ^^ Anna make Henry tunnel $$
 ^^ Anna make Henry tunnel $$
-^^ the  on Henry tunnel $$
+^^ the xxx on Henry tunnel $$
 ^^ fancy Henry tunnel $$
 ^^ Warren lie the balloon $$
 ^^ lie on the balloon $$
@@ -1353,9 +1409,9 @@
 ^^ go in $$
 ^^ go $$
 ^^ fancy castle $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ all coach go $$
-^^  the coach $$
+^^ xxx the coach $$
 ^^ one two three four five $$
 ^^ plane $$
 ^^ can not see it $$
@@ -1378,6 +1434,7 @@
 ^^ there $$
 ^^ Henry there $$
 ^^ there one $$
+^^ xxx $$
 ^^ look in the water $$
 ^^ no $$
 ^^ there James there $$
@@ -1406,7 +1463,8 @@
 ^^ put my finger there $$
 ^^ that one $$
 ^^ put my finger there $$
-^^ Warren  $$
+^^ Warren xxx $$
+^^ xxx $$
 ^^ look at van $$
 ^^ brumm $$
 ^^ on the floor $$
@@ -1439,6 +1497,7 @@
 ^^ the road again $$
 ^^ van go on it $$
 ^^ go back $$
+^^ xxx $$
 ^^ I pull it again $$
 ^^ train break down $$
 ^^ train be break down $$
@@ -1447,16 +1506,16 @@
 ^^ train stop $$
 ^^ train tow $$
 ^^ park in the station $$
-^^  car in there $$
+^^ xxx car in there $$
 ^^ in there $$
-^^ car  $$
-^^ car tow the train  $$
-^^ oh there  $$
+^^ car xxx $$
+^^ car tow the train xxx $$
+^^ oh there xxx $$
 ^^ make a track bus $$
 ^^ make a $$
-^^ oh    dear $$
+^^ oh dear dear dear dear $$
 ^^ look $$
-^^ the  blue one $$
+^^ the xxx blue one $$
 ^^ yes $$
 ^^ there cross $$
 ^^ that one can fit $$
@@ -1465,9 +1524,10 @@
 ^^ oh the boat $$
 ^^ no $$
 ^^ mine $$
-^^  my car $$
+^^ xxx my car $$
 ^^ that one can not fit $$
 ^^ that one can not fit $$
+^^ xxx $$
 ^^ train fit $$
 ^^ train fit it $$
 ^^ train fit it $$
@@ -1484,14 +1544,15 @@
 ^^ make Henry tunnel $$
 ^^ make Henry tunnel $$
 ^^ please $$
+^^ xxx $$
 ^^ house $$
-^^ make a house  again $$
+^^ make a house xxx again $$
 ^^ the tractor $$
 ^^ caterpillar track $$
 ^^ pull the tractor $$
 ^^ pull the tractor $$
 ^^ train go in $$
-^^   pick the $$
+^^ pick the pick the $$
 ^^ fall $$
 ^^ oh dear $$
 ^^ Henry tunnel fall down $$
@@ -1501,23 +1562,27 @@
 ^^ that one coach $$
 ^^ help $$
 ^^ train back $$
+^^ xxx $$
 ^^ pick train up $$
 ^^ do that $$
 ^^ break the tunnel $$
 ^^ stay in the rain $$
 ^^ go now $$
-^^  the blanket $$
+^^ xxx $$
+^^ xxx the blanket $$
 ^^ Henry come out $$
 ^^ down in the tunnel $$
 ^^ no $$
-^^  go in the tunnel $$
+^^ xxx go in the tunnel $$
 ^^ come in $$
 ^^ come in $$
 ^^ come in $$
+^^ xxx $$
 ^^ it drive along $$
 ^^ man man man $$
 ^^ man man man man $$
 ^^ man man man man $$
+^^ xxx $$
 ^^ it be cold $$
 ^^ it be cold $$
 ^^ that man there $$
@@ -1567,17 +1632,21 @@
 ^^ Jenny $$
 ^^ another egg $$
 ^^ turnip $$
-^^ like a spin top  $$
+^^ like a spin top xxx $$
 ^^ that one $$
 ^^ that one $$
 ^^ buy shop $$
+^^ xxx $$
 ^^ yeah $$
-^^ go put shop in  $$
+^^ go put shop in xxx $$
+^^ xxx $$
 ^^ buy shop money $$
-^^  Warren have it $$
+^^ xxx $$
+^^ Warren Warren have it $$
 ^^ put them in $$
 ^^ some more shop $$
-^^ do some more in  $$
+^^ do some more in xxx $$
+^^ xxx $$
 ^^ go shop $$
 ^^ my put shop $$
 ^^ more shop in $$
@@ -1602,6 +1671,7 @@
 ^^ Warren change $$
 ^^ give the money $$
 ^^ my do it now $$
+^^ a $$
 ^^ buy shop again $$
 ^^ buy shop again $$
 ^^ orange juice $$
@@ -1615,7 +1685,7 @@
 ^^ there $$
 ^^ in the car $$
 ^^ go in the car $$
-^^  change money box $$
+^^ change change money box $$
 ^^ change my money box $$
 ^^ six pound $$
 ^^ one two three four five six $$
@@ -1627,7 +1697,7 @@
 ^^ my basket $$
 ^^ there one $$
 ^^ my bus dirt $$
-^^ and my  $$
+^^ and my xxx $$
 ^^ my $$
 ^^ there bus $$
 ^^ my bus $$
@@ -1648,10 +1718,11 @@
 ^^ there it be $$
 ^^ go in $$
 ^^ baby tiger $$
+^^ xxx $$
 ^^ where be a blue one $$
 ^^ where be a blue one $$
 ^^ oh look $$
-^^  there $$
+^^ xxx there $$
 ^^ one two three jump $$
 ^^ one two three jump $$
 ^^ one two three jump $$
@@ -1668,6 +1739,7 @@
 ^^ he be cry again $$
 ^^ Warren have it $$
 ^^ Warren $$
+^^ xxx $$
 ^^ excuse me Nana $$
 ^^ excuse me Mummy $$
 ^^ Anna $$
@@ -1690,7 +1762,7 @@
 ^^ he cry $$
 ^^ I good now $$
 ^^ make cry $$
-^^ want  Thomas again now $$
+^^ want xxx Thomas again now $$
 ^^ Anna toy $$
 ^^ I put in my basket $$
 ^^ go in green box $$

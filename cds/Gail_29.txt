@@ -69,7 +69,7 @@
 ^^ trash $$
 ^^ we trash it do not we $$
 ^^ yeah $$
-^^  you and Martin trash it do not you $$
+^^ you you and Martin trash it do not you $$
 ^^ do you $$
 ^^ they do not crash $$
 ^^ it look like you be go to crash into them do not it $$
@@ -81,7 +81,7 @@
 ^^ there be Father_Christmas asleep be not there $$
 ^^ and some mouse put up a christmas tree $$
 ^^ yeah $$
-^^  what do you ask Father_Christmas for $$
+^^ what what do you ask Father_Christmas for $$
 ^^ what do you ask him for $$
 ^^ magic tunnel do you $$
 ^^ and then Andy go to see him as_well do not he later $$
@@ -117,6 +117,7 @@
 ^^ do Alice eat some $$
 ^^ do she $$
 ^^ no wonder it all appear $$
+^^ www $$
 ^^ now $$
 ^^ what else do we do $$
 ^^ we go to see Granny and Grandpa do not we $$
@@ -154,16 +155,19 @@
 ^^ now $$
 ^^ go go go go go $$
 ^^ you be be silly $$
+^^ www $$
 ^^ be we go to go to Centre_Parcs with Martin $$
+^^ xxx $$
 ^^ be you go to share a bed with Martin $$
 ^^ mhm $$
 ^^ will you $$
 ^^ mhm $$
 ^^ Martin $$
-^^  yes $$
+^^ um yes $$
 ^^ okay $$
 ^^ why $$
 ^^ you do not need to have your sock off do you $$
+^^ www $$
 ^^ what $$
 ^^ oh right $$
 ^^ where do he come from $$
@@ -188,7 +192,7 @@
 ^^ via $$
 ^^ that mean $$
 ^^ via mean on the way $$
-^^ it  past through somewhere $$
+^^ it came past through somewhere $$
 ^^ it come from Jerusalem and it stop at Granny house and then it come here $$
 ^^ it be make out_of olive $$
 ^^ and what else do Granny bring back $$
@@ -212,10 +216,13 @@
 ^^ it be a catalogue be not it $$
 ^^ you be read it be you $$
 ^^ what can you see in it $$
+^^ xxx $$
+^^ www $$
 ^^ those be all Barbie thing they be $$
 ^^ do you like the Barbie song $$
 ^^ that be right $$
 ^^ awful be not it that song $$
+^^ www $$
 ^^ do you like it $$
 ^^ sing it again then $$
 ^^ it be on Top_of_the_Pops be not it $$
@@ -243,6 +250,7 @@
 ^^ no $$
 ^^ I think he be a bit little $$
 ^^ you genmod like that $$
+^^ xxx $$
 ^^ he be a bit little for that dog $$
 ^^ hm $$
 ^^ think he be too little $$
@@ -286,7 +294,7 @@
 ^^ be he $$
 ^^ well $$
 ^^ doll go on it $$
-^^  be there a basket then for doll $$
+^^ is be there a basket then for doll $$
 ^^ or something $$
 ^^ what do you mean then $$
 ^^ right $$
@@ -307,7 +315,7 @@
 ^^ what be that man do $$
 ^^ oh $$
 ^^ there it be $$
-^^  exercise like Mummy $$
+^^ xxx exercise like Mummy $$
 ^^ there look $$
 ^^ there $$
 ^^ at the top $$
@@ -336,9 +344,10 @@
 ^^ but what come out $$
 ^^ that be right $$
 ^^ why do you think chocolate come out_of a gun $$
-^^  do not you $$
+^^ xxx do not you $$
 ^^ mhm $$
 ^^ it will be nice to think chocolate come out_of gun $$
+^^ xxx $$
 ^^ hm $$
 ^^ what do I want for Christmas $$
 ^^ be you ask me $$
@@ -348,16 +357,17 @@
 ^^ no $$
 ^^ where do you see those $$
 ^^ be they fun $$
-^^  which one do you want to buy for Daddy $$
+^^ what which one do you want to buy for Daddy $$
 ^^ yeah $$
 ^^ but what be they like $$
 ^^ I know $$
 ^^ but I do not think they genmod be very good for when Daddy go to put the bin out and thing $$
+^^ xxx $$
 ^^ do not you think Daddy will look a bit fun walk outside with spider on his foot $$
 ^^ he genmod just have to stay inside will he $$
 ^^ will not be able to post a letter in them will he $$
 ^^ no $$
-^^  where do they sell the spider slipper anyway $$
+^^ where where do they sell the spider slipper anyway $$
 ^^ where have you see them $$
 ^^ where do you see them for sale $$
 ^^ you do not know $$
@@ -374,6 +384,7 @@
 ^^ you will need that for when we go on holiday will not you $$
 ^^ to Lanzarotte $$
 ^^ be you $$
+^^ www $$
 ^^ be you $$
 ^^ not a good idea $$
 ^^ they will help will they $$
@@ -403,7 +414,7 @@
 ^^ do you know $$
 ^^ that be a rhinoceros I think $$
 ^^ do not you $$
-^^  I think that be him $$
+^^ what I think that be him $$
 ^^ that be a rhino $$
 ^^ yeah $$
 ^^ be it $$
@@ -411,6 +422,7 @@
 ^^ oh $$
 ^^ they get their pajamas $$
 ^^ what else be they do $$
+^^ xxx $$
 ^^ that be it $$
 ^^ and here $$
 ^^ oh $$
@@ -421,10 +433,13 @@
 ^^ that be a bit novel $$
 ^^ then $$
 ^^ go go go go go go go $$
+^^ xxx $$
 ^^ you genmod like that one $$
 ^^ it be on $$
 ^^ do not touch $$
 ^^ oh yes $$
+^^ xxx $$
+^^ xxx $$
 ^^ be they very tire like Mummy $$
 ^^ they be all rest $$
 ^^ do not know $$
@@ -434,6 +449,7 @@
 ^^ oh dear $$
 ^^ that will have wake them up will not it $$
 ^^ what a noise $$
+^^ mm $$
 ^^ be not they $$
 ^^ pardon $$
 ^^ scramble $$
@@ -446,12 +462,12 @@
 ^^ be that one small $$
 ^^ yeah $$
 ^^ shall we make scramble egg $$
-^^ like we have on  Sunday tea $$
+^^ like we have on Sun Sunday tea $$
 ^^ we have them with bean do not we $$
 ^^ oh right $$
 ^^ thank_you $$
 ^^ this plate sharp $$
-^^  well $$
+^^ um well $$
 ^^ have you cook it $$
 ^^ have it boil $$
 ^^ what be it $$
@@ -476,10 +492,12 @@
 ^^ your postcard $$
 ^^ what happen to Andy sock $$
 ^^ do we know $$
+^^ www $$
 ^^ it be not sausage $$
 ^^ it be one sausage $$
 ^^ sausage $$
 ^^ that be a nice shoe $$
+^^ xxx $$
 ^^ do not need new shoe $$
 ^^ you can just wear margarine pot on your foot $$
 ^^ do you think $$
@@ -494,18 +512,21 @@
 ^^ have you $$
 ^^ carry it $$
 ^^ oh dear $$
-^^ we should take this  $$
+^^ we should take this xxx $$
 ^^ shall we take this foot to hospital shall I $$
 ^^ this one $$
 ^^ think it need some tickle $$
 ^^ think it do $$
 ^^ make it good $$
+^^ xxx $$
 ^^ what $$
 ^^ what be happen to it $$
+^^ xxx $$
 ^^ magic $$
 ^^ it be mend $$
 ^^ do not you think so $$
 ^^ do not what $$
+^^ www $$
 ^^ pull it over to me then $$
 ^^ that be it $$
 ^^ there we go $$
@@ -516,6 +537,7 @@
 ^^ hm $$
 ^^ well $$
 ^^ do it then $$
+^^ xxx $$
 ^^ that be hold her plait in $$
 ^^ no $$
 ^^ it be too tight $$
@@ -542,11 +564,12 @@
 ^^ Mummy tire $$
 ^^ bet Daddy tire too be not he $$
 ^^ mhm $$
+^^ www $$
 ^^ I know $$
 ^^ on top or underneath $$
 ^^ on top $$
 ^^ good $$
-^^ do it  $$
+^^ do it xxx $$
 ^^ meet Caroline at MacDonalds $$
 ^^ think she be go to MacDonalds $$
 ^^ your wedding $$
@@ -590,6 +613,7 @@
 ^^ I be go $$
 ^^ I be go $$
 ^^ oh $$
+^^ xxx $$
 ^^ that will do $$
 ^^ I be in $$
 ^^ I do not think Mummy will fit $$
@@ -597,7 +621,8 @@
 ^^ I can not get in any further you silly think $$
 ^^ she be too big $$
 ^^ I have do pretty well $$
-^^  that one $$
+^^ xxx that one $$
+^^ xxx $$
 ^^ there be no way I will get in that car $$
 ^^ it be far too small $$
 ^^ you will have to get in that one $$
@@ -621,8 +646,11 @@
 ^^ okay $$
 ^^ this be the good I $$
 ^^ this be the good I can do $$
+^^ www $$
 ^^ hard to what $$
 ^^ swing right up high $$
+^^ www $$
+^^ www $$
 ^^ your what $$
 ^^ mhm $$
 ^^ that be a bit of glue be it $$
@@ -636,6 +664,7 @@
 ^^ bite it $$
 ^^ do not think so $$
 ^^ wherever you put them $$
+^^ xxx $$
 ^^ in the fridge $$
 ^^ I do not know $$
 ^^ it could be $$
@@ -660,6 +689,7 @@
 ^^ you do not know $$
 ^^ you want a chat but you do not know what about $$
 ^^ be you in trouble $$
+^^ xxx $$
 ^^ where do we go at the week $$
 ^^ do we go to see baby James $$
 ^^ do we have a nice time $$
@@ -679,6 +709,7 @@
 ^^ yesterday you call it $$
 ^^ and Mummy do not know what you be talk about $$
 ^^ you call it the Big_Fesh $$
+^^ www $$
 ^^ you get it a bit wrong do not you $$
 ^^ it be not call the Big_Fesh $$
 ^^ that be good $$
@@ -722,7 +753,7 @@
 ^^ be you $$
 ^^ oh good $$
 ^^ while you be in the ditch $$
-^^ while you be  wait for help $$
+^^ while you be waiting wait for help $$
 ^^ oh $$
 ^^ you have rescue $$
 ^^ oh $$
@@ -735,6 +766,7 @@
 ^^ it be about teddy eat $$
 ^^ but you have rip most of the bit off it when you be a baby do not you $$
 ^^ we buy that from where baby James life $$
+^^ xxx $$
 ^^ Daddy go to the foot do not he $$
 ^^ do Norwich win $$
 ^^ Gail $$
@@ -747,7 +779,7 @@
 ^^ think he do $$
 ^^ and we go to see a castle do not we on Sunday $$
 ^^ and how do you get in $$
-^^  do you get the key $$
+^^ did do you get the key $$
 ^^ why not $$
 ^^ you just do not know $$
 ^^ so $$
@@ -763,7 +795,7 @@
 ^^ do you remember $$
 ^^ no $$
 ^^ do we go to Run_Riot the other day $$
-^^  who do we go there with $$
+^^ what who do we go there with $$
 ^^ we go with Hannah a long time ago do not we $$
 ^^ who do we go with this week $$
 ^^ Granny Andy and $$
@@ -782,6 +814,7 @@
 ^^ you quite like it do not you $$
 ^^ do you prefer it on Mummy knee $$
 ^^ do that man tell you off $$
+^^ xxx $$
 ^^ do he talk to you $$
 ^^ and what do he say $$
 ^^ he say where be Mummy go do he $$
@@ -790,7 +823,7 @@
 ^^ climb up $$
 ^^ and we go on that spin thing do not we $$
 ^^ do you remember $$
-^^  feel dizzy $$
+^^ xxx feel dizzy $$
 ^^ very little $$
 ^^ and there be lots_of ball be not there $$
 ^^ and do Andy $$
@@ -803,7 +836,7 @@
 ^^ because you could not climb up could you $$
 ^^ but there be not anyone to push my bottom though be there $$
 ^^ think I need it $$
-^^ oh  $$
+^^ oh er $$
 ^^ and where do we go for our dinner that day $$
 ^^ our lunch $$
 ^^ do we go to that pub $$
@@ -815,7 +848,7 @@
 ^^ I do not know how that balloon get up there $$
 ^^ must have float up $$
 ^^ and that be $$
-^^ there be that  that  Mummy know on the next table be not there $$
+^^ there be that xxx that Daddy Mummy know on the next table be not there $$
 ^^ remember $$
 ^^ and we talk to him $$
 ^^ he be a magistrate from Mummy work $$
@@ -837,6 +870,7 @@
 ^^ pardon $$
 ^^ what $$
 ^^ let us go now to get your hair cut $$
+^^ xxx $$
 ^^ biscuit one $$
 ^^ we do not go to the biscuit shop any more $$
 ^^ because they be too expensive $$
@@ -870,7 +904,7 @@
 ^^ what do you say when Mummy say I be a bit sad $$
 ^^ be you go to cheer me up $$
 ^^ what do you say $$
-^^  who do you see at Mummy work once $$
+^^ who who do you see at Mummy work once $$
 ^^ Gail $$
 ^^ I will give you a clue $$
 ^^ look at Mummy $$
@@ -925,8 +959,10 @@
 ^^ do not know $$
 ^^ you tell me $$
 ^^ be it $$
+^^ www $$
 ^^ can you find Andy a toy $$
 ^^ you have not look $$
+^^ www $$
 ^^ what be you do $$
 ^^ you have flop $$
 ^^ shall we look at that book together $$
@@ -955,6 +991,7 @@
 ^^ that be right $$
 ^^ fast asleep $$
 ^^ that be right $$
+^^ xxx $$
 ^^ what be this one $$
 ^^ when the tape click $$
 ^^ go and have a look $$
@@ -965,6 +1002,7 @@
 ^^ oh $$
 ^^ not time for a biscuit yet then $$
 ^^ see how your cat be do $$
+^^ xxx $$
 ^^ oh $$
 ^^ very well $$
 ^^ what be $$
@@ -972,12 +1010,15 @@
 ^^ what be he be do $$
 ^^ have she $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ big kiss $$
 ^^ big kiss $$
 ^^ that be nice be not it $$
 ^^ what be this one $$
 ^^ what be she do $$
 ^^ what be she do in that one $$
+^^ xxx $$
+^^ xxx $$
 ^^ be that what you say $$
 ^^ want my Mummy $$
 ^^ she be tiny be not she $$
@@ -1019,10 +1060,12 @@
 ^^ oh $$
 ^^ well $$
 ^^ the other foot be good be it $$
+^^ xxx $$
 ^^ sorry $$
 ^^ which one $$
 ^^ that one now $$
 ^^ like that $$
+^^ xxx $$
 ^^ well $$
 ^^ you sit up $$
 ^^ you be too heavy $$
@@ -1043,6 +1086,7 @@
 ^^ this one $$
 ^^ which one $$
 ^^ like that $$
+^^ xxx $$
 ^^ this be confuse you be not it $$
 ^^ cross my leg $$
 ^^ which one $$
@@ -1060,16 +1104,20 @@
 ^^ yeah $$
 ^^ shall I $$
 ^^ fun noise be not it $$
+^^ xxx $$
 ^^ that be right $$
 ^^ Mummy good at that $$
 ^^ well $$
 ^^ I will ring in a minute and see $$
 ^^ when the tape click $$
 ^^ and see if we can get in this afternoon $$
+^^ xxx $$
 ^^ be it about to $$
+^^ xxx $$
 ^^ you have to wait for the tape to click $$
 ^^ because otherwise it will not be able to hear you will it $$
 ^^ near there $$
+^^ xxx $$
 ^^ you hold it $$
 ^^ I will click it $$
 ^^ you can $$
@@ -1077,6 +1125,7 @@
 ^^ listen $$
 ^^ it do $$
 ^^ that be it $$
+^^ xxx $$
 ^^ hold it $$
 ^^ craze be not it $$
 ^^ hold it and just shake it $$
@@ -1085,6 +1134,7 @@
 ^^ oh $$
 ^^ what do you say $$
 ^^ what do you say $$
+^^ www $$
 ^^ no $$
 ^^ you must not kick $$
 ^^ no $$
@@ -1092,13 +1142,15 @@
 ^^ what $$
 ^^ do you $$
 ^^ what $$
-^^ I be sure you do but  $$
+^^ I be sure you do but xxx $$
 ^^ what do you bang it on $$
 ^^ oh $$
+^^ xxx $$
 ^^ no $$
 ^^ you do not want it $$
 ^^ be you $$
 ^^ oh right $$
+^^ www $$
 ^^ yuck $$
 ^^ what be you play with Gail $$
 ^^ have you get a sheep $$
@@ -1109,10 +1161,13 @@
 ^^ tip everything out $$
 ^^ a pig $$
 ^^ be it real $$
+^^ mm $$
 ^^ that be a cow $$
 ^^ a moo $$
+^^ www $$
 ^^ be there a farm there to look after all those animal $$
 ^^ we watch Babe do not we yesterday $$
+^^ xxx $$
 ^^ no $$
 ^^ we can not watch it now $$
 ^^ no $$
@@ -1120,6 +1175,8 @@
 ^^ we finish it do not we $$
 ^^ what happen at the end $$
 ^^ do they round up all the sheep $$
+^^ xxx $$
+^^ xxx $$
 ^^ maybe later $$
 ^^ yeah $$
 ^^ Pudsy_Bear $$
@@ -1139,6 +1196,7 @@
 ^^ go for a walk $$
 ^^ pardon $$
 ^^ oh $$
+^^ www $$
 ^^ not yet $$
 ^^ we have get age yet $$
 ^^ oh_my_goodness $$
@@ -1164,14 +1222,14 @@
 ^^ be you tire $$
 ^^ well $$
 ^^ you be not have it $$
-^^  Duplo $$
+^^ xxx Duplo $$
 ^^ you have not get it real $$
 ^^ it be in that box $$
 ^^ with the train and everything $$
 ^^ build a tower $$
 ^^ it have get block in there $$
 ^^ it have $$
-^^  where be you go $$
+^^ which where be you go $$
 ^^ oh $$
 ^^ well $$
 ^^ we can use Caroline Duplo $$
@@ -1185,7 +1243,7 @@
 ^^ well $$
 ^^ see what be in Caroline one $$
 ^^ lift up that green thing $$
-^^  that board $$
+^^ that that board $$
 ^^ well $$
 ^^ where be you try to put it $$
 ^^ flipping_heck $$
@@ -1203,6 +1261,7 @@
 ^^ I be here $$
 ^^ what be the matter $$
 ^^ tell me what be the matter $$
+^^ xxx $$
 ^^ what be the matter $$
 ^^ Mummy the matter $$
 ^^ push it $$
@@ -1220,18 +1279,22 @@
 ^^ music to my ear $$
 ^^ I want you to have a sleep too when Caroline be go $$
 ^^ oh look $$
-^^ there be that farm that the lady  on look $$
+^^ there be that farm that the lady xxx on look $$
 ^^ can you see it $$
 ^^ here $$
 ^^ there be the lady $$
+^^ xxx $$
+^^ xxx $$
 ^^ there be the pirate $$
 ^^ do you remember the pirate $$
 ^^ well do $$
 ^^ it be a green baby $$
 ^^ green bib on $$
+^^ xxx $$
 ^^ well $$
 ^^ she be get a bib on $$
-^^ oh  $$
+^^ www $$
+^^ oh xxx $$
 ^^ well do $$
 ^^ well do $$
 ^^ good girl $$
@@ -1266,11 +1329,14 @@
 ^^ what be it $$
 ^^ it be a rhino $$
 ^^ think it be eat some of that fry egg $$
-^^  Cruella_de_Ville be not it $$
+^^ Cruella Cruella_de_Ville be not it $$
 ^^ Cruella $$
 ^^ oh $$
 ^^ what film be she in $$
 ^^ fluff coat $$
+^^ xxx $$
+^^ www $$
+^^ www $$
 ^^ can you find all the spot dog for me $$
 ^^ I can see Gromit $$
 ^^ I can see Wendoline $$
@@ -1293,7 +1359,7 @@
 ^^ by Mummy foot $$
 ^^ there $$
 ^^ see it $$
-^^  Wendoline salt pot $$
+^^ xxx Wendoline salt pot $$
 ^^ by your knee $$
 ^^ other knee $$
 ^^ other side $$
@@ -1315,7 +1381,7 @@
 ^^ there $$
 ^^ watch where I throw the penguin $$
 ^^ there $$
-^^  land on $$
+^^ xxx land on $$
 ^^ another Wendoline $$
 ^^ you have get four $$
 ^^ no $$
@@ -1350,13 +1416,16 @@
 ^^ it be horrid your nose $$
 ^^ what be the matter $$
 ^^ very small one $$
+^^ www $$
 ^^ go go go go go $$
 ^^ because it be not on the floor be it $$
 ^^ silly $$
 ^^ silly $$
+^^ www $$
 ^^ Andy go upside do not he Gail $$
 ^^ do you see $$
 ^^ do you see $$
+^^ www $$
 ^^ think he be get tooth Gail $$
 ^^ want to have a look $$
 ^^ see if he be get any $$
@@ -1369,6 +1438,7 @@
 ^^ do you think he have $$
 ^^ oh $$
 ^^ very rock boat that one be not it $$
+^^ xxx $$
 ^^ have that goldfish turn into a whistle $$
 ^^ there be lots_of spot dog on the floor $$
 ^^ think there be a hundred and one $$
@@ -1381,6 +1451,7 @@
 ^^ by Caroline $$
 ^^ oh $$
 ^^ a different kennel $$
+^^ www $$
 ^^ do he fit in $$
 ^^ what $$
 ^^ the sheep $$
@@ -1388,7 +1459,9 @@
 ^^ you think it be $$
 ^^ think it be yours $$
 ^^ I do not think I have get one like that $$
+^^ xxx $$
 ^^ be you take all those Wendolines $$
+^^ www $$
 ^^ be you go to come and watch these number go round Gail $$
 ^^ come and watch $$
 ^^ come here $$

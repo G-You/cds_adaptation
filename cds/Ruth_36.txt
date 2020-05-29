@@ -20,10 +20,10 @@
 ^^ be you naughty again $$
 ^^ oh you be be naughty again $$
 ^^ be you not go $$
-^^ you little naughty   rascal $$
+^^ you little naughty rascal rascal rascal $$
 ^^ let us play a game $$
 ^^ now do you want to do drawing or shop or little toy $$
-^^   your little  play mobile $$
+^^ your little your little play play mobile $$
 ^^ yeah but you do not know how to play hide and seek $$
 ^^ no $$
 ^^ we be just stay in here $$
@@ -40,11 +40,12 @@
 ^^ no $$
 ^^ do I $$
 ^^ well what do I do $$
-^^ do I  $$
+^^ do I er $$
 ^^ make your tea $$
 ^^ what do you want for tea $$
 ^^ cheese $$
 ^^ anything else $$
+^^ www $$
 ^^ no $$
 ^^ we be not have dodies $$
 ^^ that be a horrible dodie $$
@@ -52,6 +53,7 @@
 ^^ what do you want $$
 ^^ you do not have a dodie $$
 ^^ you can not have a dodie while you be have your tea $$
+^^ www $$
 ^^ right $$
 ^^ what do you want $$
 ^^ cheese and what $$
@@ -75,7 +77,7 @@
 ^^ go go go go go go go go go go go go go go go $$
 ^^ sit down $$
 ^^ be that nice $$
-^^  be it hot $$
+^^ is be it hot $$
 ^^ okay $$
 ^^ there you go $$
 ^^ ugh $$
@@ -93,16 +95,18 @@
 ^^ that be fine $$
 ^^ do you want your pudding now $$
 ^^ here be your spoon $$
-^^   this be chocolate ice $$
+^^ this is this be chocolate ice $$
 ^^ do it look like chocolate ice $$
 ^^ be that nice $$
 ^^ mhm $$
 ^^ I be go to eat your chocolate ice all up $$
-^^ but  I like it $$
+^^ but I I like it $$
 ^^ you like it $$
 ^^ shall we share $$
 ^^ do you have a mouth and I have a mouth $$
 ^^ right $$
+^^ www $$
+^^ mm $$
 ^^ right $$
 ^^ go go go go go go go go $$
 ^^ okay $$
@@ -119,7 +123,7 @@
 ^^ you be a silly $$
 ^^ you forget it as_well $$
 ^^ do not you forget $$
-^^ what color be  that bib $$
+^^ what color be that that bib $$
 ^^ green $$
 ^^ yeah $$
 ^^ pink $$
@@ -132,7 +136,7 @@
 ^^ oh there be one $$
 ^^ there you go $$
 ^^ I do not know $$
-^^ do you  put it behind there $$
+^^ do you bring put it behind there $$
 ^^ no $$
 ^^ what do you put there $$
 ^^ your button $$
@@ -160,7 +164,7 @@
 ^^ well shall we put it up here until we find out where it be from $$
 ^^ shall we $$
 ^^ tell Anna what you play with Sophie $$
-^^    what do you play in $$
+^^ what did you what do you play in $$
 ^^ swim pool $$
 ^^ swim pool $$
 ^^ yeah $$
@@ -176,7 +180,7 @@
 ^^ yeah $$
 ^^ go go go go go go go $$
 ^^ a $$
-^^     what be we go $$
+^^ are we going to what be we go $$
 ^^ go go go go go go go go $$
 ^^ go go go go go go go go go $$
 ^^ do I want to bake your cake $$
@@ -193,7 +197,7 @@
 ^^ will that be nice $$
 ^^ when it be your birth $$
 ^^ and tell Anna who be come to your birth $$
-^^   let us sit down and think who be come to your birth $$
+^^ let's think let us sit down and think who be come to your birth $$
 ^^ yeah $$
 ^^ tell Anna who be come to your birth $$
 ^^ now let us think $$
@@ -229,10 +233,11 @@
 ^^ yeah $$
 ^^ do not be silly $$
 ^^ mhm $$
-^^ well    do you have any water in that bath $$
+^^ well you hafta have do you have any water in that bath $$
 ^^ well put some water in $$
+^^ www $$
 ^^ yes darling $$
-^^ have you  have you put water in that $$
+^^ have you put have you put water in that $$
 ^^ I genmod like you to apologize for your attitude $$
 ^^ you have not put your water in yet $$
 ^^ well you good get out because it will get too warm $$
@@ -269,7 +274,7 @@
 ^^ what darling $$
 ^^ yes $$
 ^^ be that where it be suppose to be $$
-^^         that be the soap contain be not it $$
+^^ is that where is that where where soap that be the soap contain be not it $$
 ^^ it live in there $$
 ^^ right $$
 ^^ be it not hair $$
@@ -309,7 +314,7 @@
 ^^ probable not $$
 ^^ I do not think so $$
 ^^ I do not think $$
-^^  mine be fat than yours $$
+^^ mine's mine be fat than yours $$
 ^^ look $$
 ^^ that be all the way it go on mine $$
 ^^ let us put it back on again $$
@@ -318,7 +323,7 @@
 ^^ there you go $$
 ^^ baby cot $$
 ^^ let us get your pajamas on first $$
-^^   where be your pajamas $$
+^^ where's your where be your pajamas $$
 ^^ these will be your pajamas $$
 ^^ remember to clean your tooth and brush your hair $$
 ^^ go go go go go go go go $$
@@ -388,7 +393,7 @@
 ^^ okay $$
 ^^ shall we put these baby thing away now $$
 ^^ well that be the big boat be not it $$
-^^ well  $$
+^^ well a $$
 ^^ wait $$
 ^^ put these one away first because we will get them all mix up $$
 ^^ wait $$
@@ -423,7 +428,7 @@
 ^^ or a little while $$
 ^^ yes $$
 ^^ big mess $$
-^^    where do we see this today $$
+^^ where did we where do we see this today $$
 ^^ where do we see this $$
 ^^ a little one $$
 ^^ whose house be it at $$
@@ -459,6 +464,7 @@
 ^^ I will do it again if you want me to $$
 ^^ row row $$
 ^^ do you not $$
+^^ www $$
 ^^ be you go behind me $$
 ^^ I will move up then $$
 ^^ be you $$
@@ -485,7 +491,7 @@
 ^^ to be very fit to be a row $$
 ^^ you need big muscle $$
 ^^ have you get big muscle $$
-^^  right $$
+^^ right right $$
 ^^ go go go go go go go go go go go $$
 ^^ yeah $$
 ^^ oh they be fantastic big muscle $$
@@ -520,7 +526,7 @@
 ^^ that will make the cake very nice indeed $$
 ^^ yeah $$
 ^^ thank_you $$
-^^   they be all separate those $$
+^^ they're all they be all separate those $$
 ^^ that one be mean to be in here $$
 ^^ that be right $$
 ^^ can I have some fish $$
@@ -542,10 +548,11 @@
 ^^ it be good now be it $$
 ^^ it be good $$
 ^^ it be still a bit poor $$
-^^ and  what do Daddy put on it $$
+^^ and what what do Daddy put on it $$
 ^^ a plaster $$
 ^^ that be right $$
 ^^ yeah $$
+^^ www $$
 ^^ yes darling $$
 ^^ oh be that right $$
 ^^ you be right actual darling $$
@@ -554,10 +561,11 @@
 ^^ yes $$
 ^^ this be the top to this one be not it $$
 ^^ mhm $$
-^^  do you know what be that you be put in $$
+^^ that's do you know what be that you be put in $$
 ^^ sugar $$
 ^^ bit of sugar $$
 ^^ yeah $$
+^^ www $$
 ^^ yeah $$
 ^^ I genmod love a cup of tea $$
 ^^ this be my tea $$
@@ -570,8 +578,8 @@
 ^^ put a bit of milk in it $$
 ^^ okay $$
 ^^ can I have a piece of cake as_well $$
-^^     shall I just have one piece $$
-^^ be you make  Mummy a cup of tea now $$
+^^ shall I just have shall I just have one piece $$
+^^ be you make er Mummy a cup of tea now $$
 ^^ be she have some milk $$
 ^^ here I be $$
 ^^ be that a bit more milk $$
@@ -590,8 +598,8 @@
 ^^ no $$
 ^^ luck old Anna hey $$
 ^^ I will have some salt on my tomato $$
-^^ because   I do not mind salt on my tomato $$
-^^  no $$
+^^ because I quite I do not mind salt on my tomato $$
+^^ er no $$
 ^^ that be pepper $$
 ^^ I do not like pepper on tomato $$
 ^^ I will have salt on my tomato $$
@@ -623,7 +631,7 @@
 ^^ good get a sharp knife $$
 ^^ right $$
 ^^ okay then $$
-^^  a little bit $$
+^^ er a little bit $$
 ^^ that be a lot $$
 ^^ oh thank_you $$
 ^^ real $$
@@ -650,7 +658,7 @@
 ^^ right $$
 ^^ yes $$
 ^^ we do not play with this last time $$
-^^    do you want to play shop or something $$
+^^ do you wanna do you want to play shop or something $$
 ^^ okay $$
 ^^ keep $$
 ^^ what keep $$
@@ -678,7 +686,7 @@
 ^^ do she get very very hungry $$
 ^^ right $$
 ^^ oh real $$
-^^      do she eat well $$
+^^ does your little girl is do she eat well $$
 ^^ a bit not $$
 ^^ what do she $$
 ^^ what darling $$
@@ -691,7 +699,7 @@
 ^^ do she sit nice in one place $$
 ^^ just eat a little bit $$
 ^^ and then do she say she do not want anymore $$
-^^   she throw it on the floor $$
+^^ she throws she throw it on the floor $$
 ^^ she be $$
 ^^ do do do do do do do do do do do do $$
 ^^ no $$
@@ -704,7 +712,7 @@
 ^^ do not he get cross $$
 ^^ right $$
 ^^ do Mummy get cross $$
-^^ and   what do little baby say $$
+^^ and what what what do little baby say $$
 ^^ oh $$
 ^^ oh and then do she do it again $$
 ^^ oh $$
@@ -723,7 +731,7 @@
 ^^ what be her name $$
 ^^ Ruth $$
 ^^ hello Ruth $$
-^^  do she like me $$
+^^ does do she like me $$
 ^^ do she $$
 ^^ hello Ruth $$
 ^^ oh she look very pretty $$
@@ -748,7 +756,7 @@
 ^^ very good $$
 ^^ you want to $$
 ^^ right $$
-^^   do she have fun $$
+^^ does she do she have fun $$
 ^^ what do she like to do Ruth $$
 ^^ do she like her friend $$
 ^^ do she have plenty of friend $$
@@ -768,7 +776,7 @@
 ^^ they be have a wee sleep in there $$
 ^^ right okay $$
 ^^ there $$
-^^   do Ruth have a sleep $$
+^^ is she do Ruth have a sleep $$
 ^^ have you $$
 ^^ right $$
 ^^ so when you have finish the shop will she go to bed $$
@@ -779,7 +787,7 @@
 ^^ a pretend bottle $$
 ^^ what be in the pretend bottle $$
 ^^ bit of water $$
-^^ oh  right $$
+^^ oh right right $$
 ^^ now what will you like in my shop $$
 ^^ grape $$
 ^^ do your baby like grape $$
@@ -806,7 +814,7 @@
 ^^ right $$
 ^^ now what else will you like $$
 ^^ tomato $$
-^^  there $$
+^^ er there $$
 ^^ there be a little tomato $$
 ^^ that be for the baby $$
 ^^ oh that be for you and there be a little little tomato for the baby $$
@@ -819,7 +827,7 @@
 ^^ that be the big tomato there $$
 ^^ and that be the $$
 ^^ oh the real big tomato $$
-^^  there $$
+^^ there there $$
 ^^ what be wrong with that $$
 ^^ do you $$
 ^^ right $$
@@ -832,7 +840,7 @@
 ^^ I do not think I have a pepper $$
 ^^ what be that $$
 ^^ egg $$
-^^ you go over there  and I will give you some egg $$
+^^ you go over there and and I will give you some egg $$
 ^^ you want that $$
 ^^ egg $$
 ^^ right $$
@@ -848,6 +856,7 @@
 ^^ no $$
 ^^ you have have all the orange $$
 ^^ you have have a little orange and a big orange $$
+^^ a $$
 ^^ that $$
 ^^ that be fruit juice $$
 ^^ fruit cocktail $$
@@ -880,7 +889,7 @@
 ^^ thank_you Mummy $$
 ^^ oh she be get very good manner $$
 ^^ right $$
-^^   will she get it if she eat up her tea $$
+^^ will she will she get it if she eat up her tea $$
 ^^ oh right $$
 ^^ right $$
 ^^ right $$
@@ -902,7 +911,7 @@
 ^^ there be some dog food $$
 ^^ and I think I have get some cat here $$
 ^^ have you get a cat too $$
-^^  where be the cat $$
+^^ er where be the cat $$
 ^^ be it lose $$
 ^^ oh there it be $$
 ^^ there be the cat $$
@@ -983,7 +992,7 @@
 ^^ let us put all the shop $$
 ^^ no $$
 ^^ it do not $$
-^^   no $$
+^^ no no no $$
 ^^ that just go beep $$
 ^^ we do not weigh that because that be just a tin $$
 ^^ beep $$
@@ -1042,7 +1051,7 @@
 ^^ okay $$
 ^^ you need a card $$
 ^^ right $$
-^^ that be  sixteen pound and thirty pence $$
+^^ that be um sixteen pound and thirty pence $$
 ^^ shall I just do your card $$
 ^^ thank_you $$
 ^^ go go go go go go go go $$
@@ -1076,9 +1085,10 @@
 ^^ have you be shop $$
 ^^ be I $$
 ^^ have you be shop $$
+^^ going going going going going going going going going going going going $$
 ^^ table $$
 ^^ that be right $$
-^^  a little bit I could have yes $$
+^^ um a little bit I could have yes $$
 ^^ I think I will have to stay here $$
 ^^ well bring the table over to Anna $$
 ^^ well then Anna can stay in her chair $$
@@ -1108,7 +1118,7 @@
 ^^ Pete can be your dog $$
 ^^ where be Pete go $$
 ^^ he be not in here $$
-^^   waddle $$
+^^ waddle waddle waddle $$
 ^^ here be your dog $$
 ^^ oh yes $$
 ^^ there be Pete $$
@@ -1126,7 +1136,8 @@
 ^^ take it out $$
 ^^ yeah $$
 ^^ you need the spoon to get out_of the tin $$
-^^  now $$
+^^ xxx now $$
+^^ xxx $$
 ^^ oh there be a spoon will do $$
 ^^ I think you can put Pete down $$
 ^^ you be rather strangle him at the moment $$
@@ -1136,6 +1147,7 @@
 ^^ right $$
 ^^ have you $$
 ^^ be I your sink $$
+^^ www $$
 ^^ that be right $$
 ^^ that be right $$
 ^^ the cat $$
@@ -1152,13 +1164,13 @@
 ^^ good $$
 ^^ and be Pete eat up his $$
 ^^ do she like her cat $$
-^^  why be Ruth lie on the table $$
+^^ why why be Ruth lie on the table $$
 ^^ oh $$
 ^^ a fun place to lie $$
-^^   why do not you put her on her bed for a sleep while you put the food out $$
+^^ why don't why do not you put her on her bed for a sleep while you put the food out $$
 ^^ oh $$
 ^^ put your food back in again $$
-^^ but  yet $$
+^^ but xxx yet $$
 ^^ what do you put $$
 ^^ oh your spoon $$
 ^^ your spoon back in $$
@@ -1181,6 +1193,7 @@
 ^^ be she awake now $$
 ^^ right $$
 ^^ right $$
+^^ www $$
 ^^ oh watch the chair $$
 ^^ there you go $$
 ^^ that be it $$
@@ -1207,9 +1220,9 @@
 ^^ we do not have bake bean cold $$
 ^^ well some person eat them cold $$
 ^^ put it on here $$
-^^   this be the oven $$
+^^ this is this be the oven $$
 ^^ well you need a saucepan first $$
-^^   get your saucepan $$
+^^ get your get your saucepan $$
 ^^ get your saucepan $$
 ^^ this can be your saucepan $$
 ^^ put your bake bean in there first $$
@@ -1230,7 +1243,7 @@
 ^^ okay $$
 ^^ right $$
 ^^ put some in $$
-^^    this one Anna $$
+^^ this is for this one Anna $$
 ^^ oh that be Mummy $$
 ^^ this one for Mummy then $$
 ^^ put it out now $$

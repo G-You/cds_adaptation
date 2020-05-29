@@ -1,17 +1,22 @@
 ^^ where go very tiny baby $$
+^^ xxx $$
 ^^ this one $$
 ^^ what about Mummy $$
 ^^ in here $$
 ^^ in here $$
 ^^ baby $$
 ^^ push push $$
+^^ xxx $$
+^^ xxx $$
 ^^ there be some bit $$
 ^^ where be $$
-^^    where be a spoon $$
+^^ xxx $$
+^^ where is the where be a spoon $$
 ^^ the spade $$
 ^^ what be that $$
 ^^ I be get some mud $$
 ^^ some dog mud $$
+^^ xxx $$
 ^^ here $$
 ^^ yeah $$
 ^^ oh $$
@@ -35,7 +40,7 @@
 ^^ not very well $$
 ^^ this teddy $$
 ^^ he be sick in a bucket $$
-^^  sick in the bucket $$
+^^ xxx sick in the bucket $$
 ^^ he be be sick $$
 ^^ he be be sick $$
 ^^ where be your Mummy go $$
@@ -45,10 +50,13 @@
 ^^ and this girl $$
 ^^ put sandwich there $$
 ^^ come on little frog $$
+^^ xxx $$
 ^^ this one go to sleep $$
+^^ xxx $$
 ^^ oh $$
 ^^ that be Caitlin $$
 ^^ I have to get some cake $$
+^^ xxx $$
 ^^ on spoon $$
 ^^ one for you $$
 ^^ one for you frog $$
@@ -68,21 +76,25 @@
 ^^ wake $$
 ^^ they be wake up $$
 ^^ dirt rascal $$
+^^ xxx $$
 ^^ teddy $$
 ^^ teddy $$
-^^ that teddy be not  $$
-^^ this one  $$
+^^ that teddy be not xxx $$
+^^ this one xxx $$
 ^^ yeah $$
 ^^ you go sleep $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ these one go to sleep $$
 ^^ yeah $$
-^^ want some more  $$
+^^ want some more xxx $$
 ^^ I want some more $$
 ^^ I want some more different one $$
 ^^ mess $$
 ^^ you read it $$
 ^^ we read these $$
+^^ xxx $$
 ^^ some on that page $$
 ^^ some on that page $$
 ^^ those one are not yours $$
@@ -91,17 +103,19 @@
 ^^ that be yuck $$
 ^^ what be that $$
 ^^ I cut it up $$
-^^ this one  $$
+^^ this one xxx $$
 ^^ my game $$
 ^^ it be my game $$
 ^^ that one my game $$
+^^ xxx $$
 ^^ put some on the bike $$
+^^ xxx $$
 ^^ one day there be a great big pig $$
 ^^ sit down $$
 ^^ have umbrella $$
 ^^ one day a great big pig sit down on the floor $$
-^^  fall down $$
-^^ a horse  there $$
+^^ xxx fall down $$
+^^ a horse xxx there $$
 ^^ and a pig $$
 ^^ and go away $$
 ^^ all_gone $$
@@ -110,6 +124,7 @@
 ^^ open it $$
 ^^ open this page $$
 ^^ one caterpillar $$
+^^ xxx $$
 ^^ one day all the caterpillar $$
 ^^ there be the cat $$
 ^^ there be the cat $$
@@ -124,7 +139,7 @@
 ^^ a bone $$
 ^^ mouse $$
 ^^ mouse $$
-^^  in a swim pool $$
+^^ xxx in a swim pool $$
 ^^ yeah $$
 ^^ the wave $$
 ^^ what be you do $$
@@ -141,9 +156,11 @@
 ^^ they be $$
 ^^ yeah $$
 ^^ oh dear $$
+^^ xxx $$
 ^^ play something else $$
 ^^ yeah $$
-^^ that be not  $$
+^^ xxx $$
+^^ that be not xxx $$
 ^^ cut some cake up $$
 ^^ eat some cake $$
 ^^ eat some cake $$
@@ -151,15 +168,16 @@
 ^^ what be that lady do $$
 ^^ she be eat the cake $$
 ^^ too $$
-^^ she be put teddy   in the house $$
+^^ she be put teddy in the in the house $$
 ^^ yes $$
 ^^ you make some tea $$
 ^^ yeah $$
+^^ xxx $$
 ^^ I want put it on here $$
 ^^ Mummy $$
 ^^ there it be $$
 ^^ on there $$
-^^ baby  $$
+^^ baby xxx $$
 ^^ you come on baby $$
 ^^ this one fit in here $$
 ^^ oh $$
@@ -168,7 +186,7 @@
 ^^ want this on your chair $$
 ^^ on there $$
 ^^ on there $$
-^^ in your  $$
+^^ in your xxx $$
 ^^ come on Caitlin $$
 ^^ where am my sit $$
 ^^ oh $$
@@ -177,6 +195,7 @@
 ^^ oh $$
 ^^ can not reach $$
 ^^ that be not good $$
+^^ xxx $$
 ^^ good $$
 ^^ do your button $$
 ^^ sit up $$
@@ -189,40 +208,51 @@
 ^^ all_gone $$
 ^^ want some more $$
 ^^ no $$
+^^ xxx $$
 ^^ where be go $$
 ^^ make dinner $$
+^^ xxx $$
 ^^ that table $$
 ^^ whoops $$
+^^ xxx $$
 ^^ where mine $$
+^^ xxx $$
 ^^ go in your push $$
 ^^ mhm $$
-^^ I   need a plate $$
-^^ I need  a cup $$
+^^ I want a need a plate $$
+^^ I need a a cup $$
 ^^ need a cup of tea $$
 ^^ yeah $$
 ^^ push you over $$
 ^^ have nice sleep $$
+^^ xxx $$
+^^ xxx $$
 ^^ over $$
 ^^ oh no $$
 ^^ sit $$
 ^^ next to there $$
 ^^ get on that bit $$
+^^ xxx $$
 ^^ cheese and bread $$
 ^^ oh yeah $$
 ^^ I have get some dinner $$
 ^^ I have get some dinner $$
 ^^ do not need that $$
 ^^ oh $$
+^^ xxx $$
 ^^ that be mine be $$
 ^^ you have that one $$
 ^^ that be mine be $$
+^^ xxx $$
 ^^ bread and cheese $$
 ^^ you eat it all up $$
-^^  all up be not you $$
+^^ xxx all up be not you $$
 ^^ okay $$
 ^^ there you go $$
 ^^ oh $$
 ^^ I be have some money in my cup tea $$
+^^ xxx $$
+^^ xxx $$
 ^^ like make tea $$
 ^^ need some more tea $$
 ^^ Caitlin $$
@@ -231,9 +261,11 @@
 ^^ have you get enough $$
 ^^ like more $$
 ^^ drink all your tea up $$
+^^ xxx $$
 ^^ put this in the fridge $$
 ^^ yeah $$
 ^^ no yoghurt $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ have you get enough $$
@@ -244,7 +276,9 @@
 ^^ be it all_gone $$
 ^^ okay $$
 ^^ you stay there $$
+^^ xxx $$
 ^^ some yoghurt $$
+^^ xxx $$
 ^^ oh $$
 ^^ turn it over $$
 ^^ yeah $$
@@ -254,6 +288,7 @@
 ^^ that be mine $$
 ^^ yeah $$
 ^^ where be it go $$
+^^ xxx $$
 ^^ for Mummy $$
 ^^ this be my christmas present $$
 ^^ again $$
@@ -268,9 +303,10 @@
 ^^ right $$
 ^^ Caitlin $$
 ^^ get in here $$
-^^ because  you will get big than in there $$
+^^ because you'll you will get big than in there $$
+^^ xxx $$
 ^^ two $$
-^^ Anne be have  that  $$
+^^ Anne be have that that xxx $$
 ^^ two $$
 ^^ where be the lots_of clothes $$
 ^^ I do it $$
@@ -286,7 +322,9 @@
 ^^ be in there $$
 ^^ this be in there $$
 ^^ that be in there $$
-^^  not get this one $$
+^^ xxx not get this one $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ come on little cow $$
 ^^ where be the top $$
@@ -294,26 +332,28 @@
 ^^ yeah $$
 ^^ that be like a horse $$
 ^^ there be a pig $$
+^^ xxx $$
 ^^ what about your Mummy $$
 ^^ where goat be Mummy $$
 ^^ no $$
 ^^ there you go $$
 ^^ no $$
 ^^ not $$
-^^ Mummy goat stand  on the lid $$
+^^ Mummy goat stand on on the lid $$
 ^^ yeah $$
 ^^ pull $$
 ^^ what $$
 ^^ oh $$
 ^^ a ribbon $$
 ^^ do you want the ribbon off $$
-^^  hair $$
+^^ xxx hair $$
 ^^ what be that $$
 ^^ get it out $$
+^^ xxx $$
 ^^ this one $$
-^^ that cold  $$
+^^ that cold xxx $$
 ^^ that cold $$
-^^  Mummy $$
+^^ um Mummy $$
 ^^ two arm $$
 ^^ I have get two ring $$
 ^^ that one will not fit over $$
@@ -327,6 +367,7 @@
 ^^ welly boot $$
 ^^ I take the lid off $$
 ^^ go back to $$
+^^ xxx $$
 ^^ whoops $$
 ^^ egg $$
 ^^ yeah $$
@@ -340,9 +381,11 @@
 ^^ some chip $$
 ^^ some chip $$
 ^^ where be the chip $$
+^^ xxx $$
 ^^ want eat one $$
 ^^ it be not full $$
 ^^ doll $$
+^^ xxx $$
 ^^ oh $$
 ^^ there $$
 ^^ oh $$
@@ -358,6 +401,7 @@
 ^^ what be this $$
 ^^ oh $$
 ^^ what be that $$
+^^ xxx $$
 ^^ come on there $$
 ^^ oh $$
 ^^ where be that one go $$
@@ -367,7 +411,7 @@
 ^^ choo $$
 ^^ choo $$
 ^^ the station $$
-^^ the station  $$
+^^ the station xxx $$
 ^^ go on the ground $$
 ^^ choo $$
 ^^ in there $$
@@ -380,12 +424,13 @@
 ^^ all the animal $$
 ^^ you get in $$
 ^^ yeah $$
-^^ the station go  on there $$
+^^ the station go on on there $$
 ^^ there $$
 ^^ oh there $$
 ^^ oh $$
 ^^ oh $$
 ^^ go in little tiger $$
+^^ xxx $$
 ^^ there $$
 ^^ oh $$
 ^^ in there $$
@@ -395,14 +440,16 @@
 ^^ they go in here $$
 ^^ where do it go $$
 ^^ it go here $$
+^^ xxx $$
 ^^ yeah $$
-^^ where be the  $$
+^^ where be the xxx $$
 ^^ want get out $$
 ^^ can I tidy up $$
+^^ xxx $$
 ^^ tidy up $$
 ^^ want tidy $$
 ^^ no $$
-^^   put it in $$
+^^ keep it put it in $$
 ^^ mhm $$
 ^^ no $$
 ^^ Mummy $$
@@ -411,7 +458,7 @@
 ^^ what $$
 ^^ off he go $$
 ^^ go away $$
-^^ not  $$
+^^ not xxx $$
 ^^ no $$
 ^^ park the car $$
 ^^ shop $$
@@ -428,6 +475,7 @@
 ^^ I see $$
 ^^ I want to see $$
 ^^ no $$
+^^ xxx $$
 ^^ I want to go in there $$
 ^^ yeah $$
 ^^ yeah $$
@@ -446,16 +494,18 @@
 ^^ want it $$
 ^^ want $$
 ^^ no $$
+^^ xxx $$
 ^^ I get one $$
+^^ xxx $$
 ^^ get one $$
 ^^ no $$
 ^^ come here $$
 ^^ want here $$
 ^^ want to go in here $$
-^^ I  I  $$
-^^ want  please $$
+^^ I want I xxx $$
+^^ want xxx please $$
 ^^ come here $$
-^^ my  money bag $$
+^^ my um money bag $$
 ^^ come here $$
 ^^ money bag here $$
 ^^ money bag here $$
@@ -468,13 +518,16 @@
 ^^ no $$
 ^^ not that one $$
 ^^ yeah $$
-^^  in there $$
+^^ xxx $$
+^^ xxx in there $$
 ^^ no $$
 ^^ not that bag $$
 ^^ this bag $$
+^^ xxx $$
 ^^ this bag $$
 ^^ yeah $$
 ^^ oh $$
+^^ xxx $$
 ^^ I need some tissue in there $$
 ^^ yeah $$
 ^^ yeah $$
@@ -498,8 +551,9 @@
 ^^ no $$
 ^^ no $$
 ^^ want some dinner first $$
-^^  pea and $$
+^^ um pea and $$
 ^^ I want pea $$
+^^ xxx $$
 ^^ no $$
 ^^ get them now $$
 ^^ yeah $$

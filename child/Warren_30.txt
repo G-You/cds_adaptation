@@ -1,8 +1,10 @@
+^^ xxx $$
 ^^ Mummy get $$
+^^ xxx $$
 ^^ I do not like them $$
-^^   I do my mix $$
+^^ I doing I do my mix $$
 ^^ I want to do my mix $$
-^^  I can do it $$
+^^ I I can do it $$
 ^^ have my mix $$
 ^^ I make this one $$
 ^^ want to do this $$
@@ -15,9 +17,9 @@
 ^^ there be a sad face $$
 ^^ he be silly in the garden $$
 ^^ it be quite sad $$
-^^ this one go  the cat window $$
+^^ this one go xxx the cat window $$
 ^^ this one go right $$
-^^    the cat across the window $$
+^^ the cat across the cat across the window $$
 ^^ it be watch $$
 ^^ I put these piece on $$
 ^^ the cat be watch me $$
@@ -74,7 +76,7 @@
 ^^ it be under box $$
 ^^ it under $$
 ^^ no $$
-^^  he in a box $$
+^^ xxx he in a box $$
 ^^ that not go there $$
 ^^ no $$
 ^^ go there $$
@@ -83,7 +85,8 @@
 ^^ oh dear $$
 ^^ come come come come come $$
 ^^ another bit come $$
-^^ I not  that $$
+^^ xxx $$
+^^ I not xxx that $$
 ^^ want a drink $$
 ^^ I want a drink Mummy $$
 ^^ I want a drink $$
@@ -93,42 +96,43 @@
 ^^ I want some $$
 ^^ yes please $$
 ^^ yeah $$
-^^    I like a suck cup $$
-^^   I get a suck cup $$
+^^ I want a I like a suck cup $$
+^^ I get I get a suck cup $$
 ^^ my get a suck cup $$
 ^^ yes $$
-^^ a  $$
+^^ a xxx $$
 ^^ that one go there $$
-^^  my put by a wall $$
-^^  bump another $$
+^^ put my put by a wall $$
+^^ xxx bump another $$
 ^^ go bump on there $$
+^^ xxx $$
 ^^ he get a bump $$
 ^^ bump $$
 ^^ he be bump $$
 ^^ he be bump $$
 ^^ he real bump $$
 ^^ another piece get a bump a minute $$
-^^   I have a little drink $$
+^^ I have I have a little drink $$
 ^^ yes $$
 ^^ mhm $$
-^^ it full  all water $$
+^^ it full all all water $$
 ^^ it full up all water $$
 ^^ that one in the right place $$
 ^^ that one go there $$
 ^^ miss the cow bottom $$
 ^^ miss the cow bottom $$
-^^ I miss  that $$
+^^ I miss the that $$
 ^^ still miss a little dog $$
-^^   so $$
+^^ so so so $$
 ^^ it be the cat and a dog in the garden $$
 ^^ now me go in the garden $$
-^^  I dig in the garden next week $$
+^^ I I dig in the garden next week $$
 ^^ poo $$
 ^^ excuse me $$
 ^^ that maybe have a poo $$
 ^^ ask Mummy have a poo $$
 ^^ no $$
-^^ get  another piece get a bump a minute $$
+^^ get another another piece get a bump a minute $$
 ^^ another piece be up $$
 ^^ get one two $$
 ^^ another one move $$
@@ -147,9 +151,9 @@
 ^^ I get it out now $$
 ^^ I put it in there $$
 ^^ in the jig $$
-^^ what it get  $$
+^^ what it get xxx $$
 ^^ get two $$
-^^  two puzzle $$
+^^ two two puzzle $$
 ^^ one two three $$
 ^^ no $$
 ^^ put it in after tomorrow $$
@@ -158,7 +162,7 @@
 ^^ yes $$
 ^^ might go get a key $$
 ^^ it lock it when come inside $$
-^^   that my telephone $$
+^^ that my that my telephone $$
 ^^ that be my telephone $$
 ^^ it be not wound up $$
 ^^ I want to ring $$
@@ -170,7 +174,7 @@
 ^^ I eat my tea all up $$
 ^^ I be a good boy Grandma $$
 ^^ I do my jig puzzle $$
-^^  now $$
+^^ xxx now $$
 ^^ it be Grandma Mummy $$
 ^^ yes $$
 ^^ I turn right way up $$
@@ -191,18 +195,18 @@
 ^^ kiss tum $$
 ^^ no trap finger in the door $$
 ^^ and have magic cream $$
-^^ I maybe  have the cream good $$
+^^ I maybe have have the cream good $$
 ^^ make it good Mummy $$
 ^^ now go bump $$
 ^^ I go like that $$
 ^^ go bump $$
 ^^ might go bump $$
 ^^ my shoe $$
-^^  go $$
-^^ they go    have a little bump $$
-^^ want to go  Mummy $$
+^^ xxx go $$
+^^ they go have a little have a little bump $$
+^^ want to go xxx Mummy $$
 ^^ want to come on Mummy knee $$
-^^  I want to have my jig puzzle $$
+^^ I I want to have my jig puzzle $$
 ^^ have this one $$
 ^^ the dog puzzle $$
 ^^ byebye $$
@@ -218,8 +222,9 @@
 ^^ that one be a telephone $$
 ^^ he speak a my man $$
 ^^ yes $$
+^^ xxx $$
 ^^ might be talk the person $$
-^^ say where the  need to go $$
+^^ say where the xxx need to go $$
 ^^ maybe put on the siren $$
 ^^ might put on the siren $$
 ^^ go neenaw $$
@@ -246,30 +251,31 @@
 ^^ no $$
 ^^ it be a man $$
 ^^ a fire $$
-^^  bump my cat puzzle $$
+^^ xxx bump my cat puzzle $$
 ^^ go go go go go go go go $$
-^^  kiss it good $$
-^^  kiss it good $$
-^^  kiss it good Mummy $$
+^^ xxx kiss it good $$
+^^ xxx kiss it good $$
+^^ xxx kiss it good Mummy $$
 ^^ no $$
 ^^ my foot bump it $$
 ^^ no $$
 ^^ where be these piece go $$
 ^^ his hat be Bramwell hat $$
-^^ the hat  $$
+^^ the hat xxx $$
 ^^ of course he can $$
-^^ Bramwell_Brown  $$
+^^ xxx $$
+^^ Bramwell_Brown xxx $$
 ^^ oh do not cry $$
 ^^ silly $$
 ^^ Little_Bear $$
-^^  he go up stair $$
+^^ he's he go up stair $$
 ^^ downstairs $$
 ^^ spin fast $$
 ^^ the wash machine $$
 ^^ go go go go go $$
 ^^ go go go go go $$
 ^^ go go go go go go go $$
-^^  and wash them $$
+^^ xxx and wash them $$
 ^^ do not put chocolate over me $$
 ^^ I make a field $$
 ^^ no $$
@@ -290,7 +296,7 @@
 ^^ the person go in the bank $$
 ^^ I get some brick $$
 ^^ I get some brick $$
-^^ I make   a big road $$
+^^ I make a road a big road $$
 ^^ where be that go Mummy $$
 ^^ I can not $$
 ^^ I put it on the little cross $$
@@ -304,9 +310,10 @@
 ^^ no $$
 ^^ that one fit on there $$
 ^^ there $$
-^^ I  go tip it all out $$
+^^ I go go tip it all out $$
 ^^ all $$
 ^^ close his eye $$
+^^ xxx $$
 ^^ open this $$
 ^^ the doll eye $$
 ^^ he be get his pajamas $$
@@ -317,7 +324,7 @@
 ^^ I get little man $$
 ^^ here be two $$
 ^^ man get talk $$
-^^  they talk about race $$
+^^ about they talk about race $$
 ^^ talk about a race $$
 ^^ yes $$
 ^^ little girl on a race $$
@@ -327,7 +334,7 @@
 ^^ no $$
 ^^ not me $$
 ^^ I get a hankie $$
-^^ I want to  clean one Mummy $$
+^^ I want to xxx clean one Mummy $$
 ^^ I wet too $$
 ^^ wipe it on mine $$
 ^^ I do not want to do it inside $$
@@ -349,13 +356,13 @@
 ^^ Warren $$
 ^^ I quite bit sad $$
 ^^ yes $$
-^^ go bash my head  on my teddy $$
+^^ go bash my head on on my teddy $$
 ^^ I want to go to bed $$
 ^^ Warren $$
 ^^ that be mine $$
 ^^ I go to put in my pocket $$
 ^^ I get one pocket $$
-^^ I get    two pocket on more trouser $$
+^^ I get two small small two pocket on more trouser $$
 ^^ I roll up a little ball $$
 ^^ I make it round and round like my puzzle $$
 ^^ it be wrap like a ball $$
@@ -363,6 +370,7 @@
 ^^ I will throw it $$
 ^^ yes $$
 ^^ get the tissue out $$
+^^ xxx $$
 ^^ it be round like a ball $$
 ^^ go kick it $$
 ^^ it on a brick $$
@@ -370,12 +378,15 @@
 ^^ whoops $$
 ^^ want to pick it up $$
 ^^ I do it $$
+^^ xxx $$
 ^^ Mummy get a bump on the head $$
+^^ xxx $$
 ^^ I do not know what to do $$
 ^^ I do not know $$
 ^^ I do not know $$
 ^^ I get a little tissue $$
-^^   I throw in the house $$
+^^ I throw I throw in the house $$
+^^ xxx $$
 ^^ it in that hand $$
 ^^ in that hand $$
 ^^ in that hand $$
@@ -387,20 +398,22 @@
 ^^ no $$
 ^^ I put another one cross $$
 ^^ where be that go $$
+^^ xxx $$
 ^^ here be a h for Harry $$
 ^^ no $$
 ^^ my have a try $$
 ^^ on there $$
-^^ I put next  $$
+^^ I put next xxx $$
 ^^ I make porridge $$
 ^^ too hot $$
 ^^ need to cool down $$
 ^^ I taste Little_Bear porridge $$
 ^^ want to want to want to want to $$
+^^ xxx $$
 ^^ put it on there $$
 ^^ no $$
 ^^ and here be two little corner $$
-^^ my  have two little corner $$
+^^ my have have two little corner $$
 ^^ the monkey fit in $$
 ^^ want to fit on the train $$
 ^^ I do not want any more $$
@@ -412,7 +425,7 @@
 ^^ get one two three $$
 ^^ what be Anna get $$
 ^^ what be Anna get $$
-^^  get two $$
+^^ got get two $$
 ^^ Anna be get two $$
 ^^ one two $$
 ^^ Warren $$
@@ -427,7 +440,7 @@
 ^^ he get two ear $$
 ^^ oh no $$
 ^^ train be go off $$
-^^  go  $$
+^^ xxx go xxx $$
 ^^ I move the train $$
 ^^ it bump $$
 ^^ no $$
@@ -443,7 +456,7 @@
 ^^ that be a Daddy horse $$
 ^^ that one come in $$
 ^^ oh that one $$
-^^ the monkey be  $$
+^^ the monkey be xxx $$
 ^^ all go in the station $$
 ^^ let the person go off $$
 ^^ the train be come round the corner $$
@@ -451,6 +464,7 @@
 ^^ the drive stop the train $$
 ^^ choo $$
 ^^ oh the door lock $$
+^^ xxx $$
 ^^ that trailer go back to station $$
 ^^ the person ready to go back to station $$
 ^^ person go back to station $$
@@ -472,13 +486,13 @@
 ^^ that man walk $$
 ^^ that man stay on the train $$
 ^^ that man walk and that one stay on the train $$
-^^  go the meadow $$
+^^ er go the meadow $$
 ^^ he bang his knee $$
 ^^ I flop forwards and bang my knee on the soil $$
 ^^ on the soil $$
 ^^ on the soil $$
 ^^ look $$
-^^ it be get a foot  in there $$
+^^ it be get a foot in in there $$
 ^^ put another foot $$
 ^^ look $$
 ^^ it be fall down $$
@@ -491,12 +505,12 @@
 ^^ whoops $$
 ^^ your brick come off $$
 ^^ go go go go go go go go $$
-^^ I make  $$
+^^ I make xxx $$
 ^^ make a little roundabout $$
-^^ go  on the motor bridge $$
+^^ go xxx on the motor bridge $$
 ^^ it be go on the motor $$
 ^^ on the fast road $$
-^^      I building this little field $$
+^^ I building this I building I building this little field $$
 ^^ yes $$
 ^^ the car can not get in $$
 ^^ I put the little gate $$
@@ -518,13 +532,14 @@
 ^^ miss another piece off the sky $$
 ^^ bit of smoke steam $$
 ^^ can not see one $$
-^^  that be a little mirror $$
+^^ there's that be a little mirror $$
 ^^ maybe go $$
 ^^ I do not know go $$
 ^^ where be it go $$
 ^^ I do not know $$
 ^^ that one go there $$
-^^  there $$
+^^ xxx $$
+^^ er there $$
 ^^ here $$
 ^^ that go there $$
 ^^ that $$
@@ -553,7 +568,7 @@
 ^^ actual little red spot $$
 ^^ mhm $$
 ^^ it be more spot here $$
-^^ that one  a bit of grass $$
+^^ that one xxx a bit of grass $$
 ^^ do not know $$
 ^^ there $$
 ^^ all the little spot $$
@@ -565,7 +580,7 @@
 ^^ need a poo $$
 ^^ yes $$
 ^^ this be miss $$
-^^ I  miss the little piece on tractor piece $$
+^^ I missing miss the little piece on tractor piece $$
 ^^ yes $$
 ^^ look in the pants $$
 ^^ I need a poo Daddy $$
@@ -601,7 +616,7 @@
 ^^ yes $$
 ^^ I join more piece together $$
 ^^ I join some more piece $$
-^^ two  $$
+^^ two xxx $$
 ^^ no $$
 ^^ Mummy want to help me $$
 ^^ yes $$
@@ -645,12 +660,13 @@
 ^^ yes $$
 ^^ I have carrot $$
 ^^ that one go there $$
-^^  that be it $$
-^^ miss a bit of house  off the sky $$
+^^ that that be it $$
+^^ miss a bit of house off off the sky $$
 ^^ miss another piece off the flash light up in the sky be smoke $$
 ^^ here $$
 ^^ that one be a drive wheel $$
 ^^ there lots_of smoke come out $$
+^^ mm $$
 ^^ there be carrot $$
 ^^ it be quite bit hot $$
 ^^ it be hot $$
@@ -669,10 +685,10 @@
 ^^ and Mummy blow on it $$
 ^^ do my fire puzzle $$
 ^^ it still look the same $$
-^^ they  the same shop $$
-^^ that  that one $$
+^^ they xxx the same shop $$
+^^ that one that one $$
 ^^ it be all the same $$
-^^ it be  the same $$
+^^ it be xxx the same $$
 ^^ there the same $$
 ^^ my tractor my puzzle $$
 ^^ that one have be off a shop $$
@@ -684,10 +700,10 @@
 ^^ miss a bit of lady $$
 ^^ bit of sky and a lady $$
 ^^ bit of sky $$
-^^ it be  the lady be here $$
+^^ it be xxx the lady be here $$
 ^^ there some lady there $$
 ^^ that more bit of tree $$
-^^ the  be cut grass $$
+^^ the xxx be cut grass $$
 ^^ someone drive on the road $$
 ^^ that one go there $$
 ^^ must go $$
@@ -712,29 +728,29 @@
 ^^ I can not do a piece $$
 ^^ upstairs $$
 ^^ a bit little house on the window upstairs $$
-^^ there a bit of trailer on  steer  $$
+^^ there a bit of trailer on xxx steer xxx $$
 ^^ Mummy put that down next wheel the carrot $$
-^^ man be  $$
+^^ man be xxx $$
 ^^ man $$
-^^ it be be  the man $$
+^^ it be be xxx the man $$
 ^^ no $$
 ^^ there in the tractor $$
 ^^ that be a lady pick carrot $$
-^^  look all these carrot $$
+^^ look look all these carrot $$
 ^^ mhm $$
 ^^ poo $$
 ^^ cheese $$
 ^^ you go poo $$
 ^^ cheese $$
 ^^ want to go wobble $$
-^^ want to go  bump  ouch $$
-^^   ouch $$
+^^ want to go bumpy bump ouch ouch $$
+^^ ouch ouch ouch $$
 ^^ all down $$
 ^^ I give rabbit a kiss $$
 ^^ rabbit give Mummy a kiss $$
 ^^ go down on the bottom window $$
 ^^ and put that down $$
-^^ and  the window $$
+^^ and xxx the window $$
 ^^ that be go next to the man $$
 ^^ that one go next to the man dog $$
 ^^ want have that too $$
@@ -742,7 +758,7 @@
 ^^ that one go bottom $$
 ^^ slide down bottom $$
 ^^ put it on the bottom ladder $$
-^^  last piece $$
+^^ xxx last piece $$
 ^^ rabbit want to come out_of bed $$
 ^^ no $$
 ^^ rabbit naughty $$
@@ -752,7 +768,7 @@
 ^^ and rabbit want to come put that piece in $$
 ^^ where be that go rabbit $$
 ^^ where be that go $$
-^^  that piece and that piece $$
+^^ xxx that piece and that piece $$
 ^^ no $$
 ^^ the wrong way $$
 ^^ there $$
@@ -762,6 +778,8 @@
 ^^ there $$
 ^^ there $$
 ^^ oh no $$
+^^ xxx $$
+^^ xxx $$
 ^^ where be his pants $$
 ^^ where his shoe $$
 ^^ there be his pants $$
@@ -782,12 +800,13 @@
 ^^ hey $$
 ^^ that be my car $$
 ^^ tall giraffe stand on the road $$
+^^ xxx $$
 ^^ the tall giraffe be walk out_of the way $$
-^^   Jolly be on the pavement $$
+^^ Jolly's Jolly's Jolly be on the pavement $$
 ^^ Jolly pavement $$
 ^^ he be look out the window $$
 ^^ he be go past something $$
-^^  tree $$
+^^ xxx tree $$
 ^^ where be a man $$
 ^^ it be get star on it $$
 ^^ where this man train $$
@@ -795,7 +814,7 @@
 ^^ I do not know $$
 ^^ that be a horse $$
 ^^ that be a trailer $$
-^^  where be the train $$
+^^ where's where be the train $$
 ^^ that be a bit of train $$
 ^^ oh yes $$
 ^^ where be the train $$
@@ -807,18 +826,20 @@
 ^^ find a train $$
 ^^ there be a bit of train $$
 ^^ another bit be go $$
+^^ xxx $$
 ^^ that go there with that $$
 ^^ I can not see one $$
 ^^ I can not $$
 ^^ I can not see one $$
 ^^ brumm $$
 ^^ beepbeep $$
-^^    he be go on the pavement $$
+^^ he's going on he be go on the pavement $$
 ^^ he be come off a pavement $$
 ^^ no $$
 ^^ that be a drive $$
 ^^ a drive seat $$
 ^^ man go to go in the cab $$
+^^ xxx $$
 ^^ that be a little Thomas trailer $$
 ^^ it be like Thomas there $$
 ^^ go like Thomas there $$
@@ -828,9 +849,9 @@
 ^^ let the man in $$
 ^^ must get a man in $$
 ^^ actual he wrong way round $$
-^^    no he stand on the funnel $$
+^^ no he stand no he stand on the funnel $$
 ^^ he stand in the train $$
-^^ he be  look the guard $$
+^^ he be looking look the guard $$
 ^^ he be look the guard $$
 ^^ he be look the guard $$
 ^^ stop train $$
@@ -868,9 +889,9 @@
 ^^ ouch $$
 ^^ pooppoop $$
 ^^ all these brick $$
-^^ the train  $$
+^^ the train xxx $$
 ^^ there be the train maybe stop $$
-^^ make a tall  big tower on a train $$
+^^ make a tall big big tower on a train $$
 ^^ this be too little $$
 ^^ must put some more brick in tall $$
 ^^ have to put some more brick on this $$
@@ -893,11 +914,11 @@
 ^^ it be not Warren $$
 ^^ it be the tower $$
 ^^ no $$
-^^  again $$
+^^ xxx again $$
 ^^ yes $$
 ^^ oh dear $$
-^^ it maybe go  wobble $$
-^^  fall down $$
+^^ it maybe go wobbly wobble $$
+^^ fall fall down $$
 ^^ I get a poor tum $$
 ^^ a tissue throw $$
 ^^ throw the tissue $$
@@ -913,16 +934,17 @@
 ^^ want it $$
 ^^ no $$
 ^^ want it $$
-^^  these $$
+^^ xxx these $$
 ^^ I want put it on a field $$
 ^^ I building a fence $$
-^^  building little  $$
+^^ building building little xxx $$
 ^^ have a field $$
 ^^ yes $$
 ^^ make a tall gate $$
 ^^ go go go go go go $$
 ^^ make a gate $$
 ^^ it be go right down here at the corner $$
+^^ xxx $$
 ^^ not very big a minute $$
 ^^ no $$
 ^^ it be only little $$
@@ -934,7 +956,7 @@
 ^^ what you do $$
 ^^ what you do Mummy $$
 ^^ and that just go there $$
-^^  make the car bridge $$
+^^ making make the car bridge $$
 ^^ make the car bridge $$
 ^^ make the car bridge $$
 ^^ make the car bridge $$
@@ -954,7 +976,8 @@
 ^^ go through it $$
 ^^ a train could $$
 ^^ a train could $$
-^^ train go  under $$
+^^ xxx $$
+^^ train go over under $$
 ^^ the train go under $$
 ^^ hey $$
 ^^ who be pinch my chair $$
@@ -965,6 +988,7 @@
 ^^ move the brick $$
 ^^ I move all the thing $$
 ^^ move all the shop $$
+^^ xxx $$
 ^^ I do not want the baby tiger bridge $$
 ^^ yes $$
 ^^ this be $$
@@ -990,7 +1014,7 @@
 ^^ beep $$
 ^^ want it on the pavement $$
 ^^ he want to go on the pavement $$
-^^     the car on the pavement $$
+^^ the car go on the car on the pavement $$
 ^^ oh the car come on the pavement $$
 ^^ the car come on pavement $$
 ^^ car be on the pavement $$
@@ -1004,13 +1028,18 @@
 ^^ want to $$
 ^^ go on pavement $$
 ^^ stop $$
-^^ all these  walk $$
+^^ all these xxx walk $$
 ^^ the horse be walk $$
 ^^ shop $$
 ^^ food $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
+^^ a $$
 ^^ oh he be asleep $$
 ^^ grr $$
 ^^ a lion $$
+^^ xxx $$
 ^^ grr $$
 ^^ brumm $$
 ^^ fish and banana bridge $$
@@ -1022,13 +1051,13 @@
 ^^ go go go go go go go go $$
 ^^ he be go to school $$
 ^^ it all go on the car $$
-^^ bus go  on the car $$
+^^ bus go on on the car $$
 ^^ another man $$
 ^^ two three $$
 ^^ I get two man $$
 ^^ one two three man $$
 ^^ yes $$
-^^  bump it $$
+^^ xxx bump it $$
 ^^ beep $$
 ^^ it be bump $$
 ^^ I just try to move $$
@@ -1047,7 +1076,7 @@
 ^^ it be a very big one $$
 ^^ whee $$
 ^^ this one mine $$
-^^     oh no $$
+^^ oh no oh no oh no $$
 ^^ it be fall $$
 ^^ yes please $$
 ^^ that be yellow $$
@@ -1059,20 +1088,20 @@
 ^^ ow $$
 ^^ I good go $$
 ^^ train $$
-^^   he be call two little Thomass $$
+^^ he's called he be call two little Thomass $$
 ^^ bump $$
 ^^ he be pull two train $$
 ^^ take that out $$
-^^ take one my  $$
+^^ take one my xxx $$
 ^^ get a bump in Mummy $$
 ^^ go go go go go $$
 ^^ oh bump $$
 ^^ bump $$
 ^^ I bump $$
-^^ I  $$
+^^ I xxx $$
 ^^ bump $$
 ^^ oh $$
-^^   backwards $$
+^^ backwards backwards backwards $$
 ^^ oh $$
 ^^ oh one wheel come off a track $$
 ^^ he can not go $$
@@ -1087,12 +1116,12 @@
 ^^ oh dear $$
 ^^ good go back $$
 ^^ Henry fall over $$
-^^ here be a  Henry $$
+^^ here be a xxx Henry $$
 ^^ yes $$
 ^^ yes $$
 ^^ he be go $$
 ^^ he be go $$
-^^  I get off a track $$
+^^ it's I get off a track $$
 ^^ choochoo $$
 ^^ all that smoke come out_of it $$
 ^^ all that smoke $$
@@ -1105,8 +1134,8 @@
 ^^ I want to start it $$
 ^^ maybe get a car $$
 ^^ big crane might be pull him up $$
-^^  get a little one $$
-^^  a little one $$
+^^ xxx get a little one $$
+^^ xxx a little one $$
 ^^ oh no $$
 ^^ he be on the track now $$
 ^^ stop $$
@@ -1127,7 +1156,7 @@
 ^^ I go back the truck $$
 ^^ good go back $$
 ^^ good go bump $$
-^^ good go  bump $$
+^^ good go bump bump $$
 ^^ good bump $$
 ^^ it be bump $$
 ^^ it be bump $$
@@ -1137,24 +1166,24 @@
 ^^ brumm $$
 ^^ go to park here $$
 ^^ go round the corner $$
-^^ go round  $$
+^^ go round xxx $$
 ^^ oh $$
 ^^ I miss Henry tunnel $$
 ^^ I miss Henry tunnel $$
 ^^ make that little hook off $$
-^^ I do not want that  $$
+^^ I do not want that xxx $$
 ^^ put that on the pavement $$
 ^^ beepbeep $$
 ^^ find two polar bear $$
-^^ two panda be  stand up on the track $$
+^^ two panda be sitting stand up on the track $$
 ^^ there be a panda $$
 ^^ it call a bit of polar bear $$
 ^^ mhm $$
 ^^ so all the pigeon go in nest $$
 ^^ I feed the bird $$
 ^^ no $$
-^^ I  pip Mummy $$
-^^ I  pip Mummy $$
+^^ I xxx pip Mummy $$
+^^ I xxx pip Mummy $$
 ^^ beepbeep $$
 ^^ it be on the road $$
 ^^ I good go backwards $$
@@ -1175,14 +1204,15 @@
 ^^ good go grr $$
 ^^ gobblegobble $$
 ^^ roar $$
+^^ xxx $$
 ^^ put it back on Mummy hand $$
 ^^ go on the pavement $$
 ^^ there the pavement $$
 ^^ it be get a long tail and a short body $$
 ^^ that a fun face $$
-^^  stop $$
-^^   oh no $$
-^^  polar bear $$
+^^ stop stop $$
+^^ oh no oh no $$
+^^ xxx polar bear $$
 ^^ the polar bear want to go on the trailer $$
 ^^ that one go on there $$
 ^^ no $$
@@ -1216,7 +1246,7 @@
 ^^ oh no $$
 ^^ I go huff $$
 ^^ he fall off $$
-^^ go fast  $$
+^^ go fast xxx $$
 ^^ it be a fast road $$
 ^^ go on gentle road $$
 ^^ go on gentle road $$
@@ -1226,6 +1256,7 @@
 ^^ go go go go go $$
 ^^ lift his hand up $$
 ^^ he good go move $$
+^^ xxx $$
 ^^ good go past $$
 ^^ he go past $$
 ^^ he be turn round there $$
@@ -1252,7 +1283,7 @@
 ^^ beepbeep $$
 ^^ oh dear $$
 ^^ I want to go on the car $$
-^^  he be get a number $$
+^^ he's he be get a number $$
 ^^ he be get six $$
 ^^ he get seven $$
 ^^ one two three $$
@@ -1271,7 +1302,7 @@
 ^^ stop $$
 ^^ it stop $$
 ^^ stick $$
-^^ maybe  cake $$
+^^ maybe xxx cake $$
 ^^ yes $$
 ^^ I like a jelly on it $$
 ^^ I like a jelly on top $$
@@ -1284,12 +1315,12 @@
 ^^ maybe drink inside $$
 ^^ be drink outside on the pavement $$
 ^^ grass be too wet $$
-^^ I need  have my welly on $$
+^^ I need my have my welly on $$
 ^^ the sun make it dry $$
 ^^ I look outside something come down and eat nuts $$
 ^^ maybe bird come down eat nuts $$
 ^^ a double deck bird $$
-^^ go   stamp $$
+^^ go stamp stamp stamp $$
 ^^ no $$
 ^^ Warren fall down the stair $$
 ^^ Mummy hear it in the sit room $$
@@ -1314,21 +1345,21 @@
 ^^ yes $$
 ^^ where the lid $$
 ^^ yes $$
-^^    I buy a lady $$
+^^ I buy it I buy a lady $$
 ^^ buy this shop $$
 ^^ worm $$
 ^^ no $$
 ^^ oh $$
 ^^ cat $$
 ^^ no $$
-^^   cat poo be go out_of Sue's garden $$
+^^ cat poo cat poo be go out_of Sue's garden $$
 ^^ it be get in the stone $$
 ^^ yes $$
 ^^ cat go in Sue's garden $$
-^^ my  like cat $$
+^^ my xxx like cat $$
 ^^ some of the cat come in my garden $$
 ^^ cat no go have poo $$
-^^    I hear the water spray down the cat $$
+^^ I I heard I hear the water spray down the cat $$
 ^^ and hear a noise outside $$
 ^^ I find the cat out way out_of Mummy garden $$
 ^^ Mummy put it on his tail $$
@@ -1355,13 +1386,14 @@
 ^^ yes $$
 ^^ get to pay a lady $$
 ^^ get to pay all these lady $$
+^^ xxx $$
 ^^ ice $$
 ^^ here be a ice $$
 ^^ yes $$
 ^^ want have a little taste $$
 ^^ want have a taste $$
 ^^ it be call a ice $$
-^^ it be call  chocolate $$
+^^ it be call er chocolate $$
 ^^ go pay a lady $$
 ^^ yes $$
 ^^ use a $$
@@ -1381,6 +1413,7 @@
 ^^ no $$
 ^^ I trap my finger $$
 ^^ this go on $$
+^^ xxx $$
 ^^ go go go go go go go go $$
 ^^ go go go go go go go go $$
 ^^ yes $$
@@ -1394,7 +1427,7 @@
 ^^ stop $$
 ^^ that be milk $$
 ^^ I put that in the tea one $$
-^^  open it $$
+^^ xxx open it $$
 ^^ I put that next to there $$
 ^^ that one be back in the tip $$
 ^^ that blue one be back in the tip $$
@@ -1403,11 +1436,11 @@
 ^^ I bring my big dig $$
 ^^ maybe scoop it up $$
 ^^ go maybe scoop it up $$
-^^ a  little kick $$
-^^ I need to get  a dig $$
+^^ a little little kick $$
+^^ I need to get a a dig $$
 ^^ where be the brush go $$
 ^^ where be it go $$
-^^ I make sure all these bit of rubble come  on the dump truck $$
+^^ I make sure all these bit of rubble come on on the dump truck $$
 ^^ good go in the tip $$
 ^^ yes $$
 ^^ that one come off $$
@@ -1419,7 +1452,7 @@
 ^^ what be that $$
 ^^ it be just right $$
 ^^ that be my worm $$
-^^  my worm $$
+^^ xxx my worm $$
 ^^ no $$
 ^^ I do not want to eat tin $$
 ^^ I do not want to eat tin $$
@@ -1429,7 +1462,7 @@
 ^^ stop $$
 ^^ it be move down the road $$
 ^^ that $$
-^^  want to tidy up these $$
+^^ wanna want to tidy up these $$
 ^^ go go go go $$
 ^^ no $$
 ^^ it come down the road $$
@@ -1462,7 +1495,7 @@
 ^^ oh dear $$
 ^^ oh dear $$
 ^^ oh dear $$
-^^ well actual  $$
+^^ well actual xxx $$
 ^^ that must go there $$
 ^^ yes $$
 ^^ there be two $$
@@ -1472,7 +1505,7 @@
 ^^ no $$
 ^^ yes $$
 ^^ somebody $$
-^^ it be call  person $$
+^^ it be call er person $$
 ^^ make a tower on there $$
 ^^ I can not put it on $$
 ^^ after another brick $$
@@ -1480,7 +1513,7 @@
 ^^ this brick $$
 ^^ I make a very little field $$
 ^^ the cow maybe go in $$
-^^ I make some  $$
+^^ I make some xxx $$
 ^^ I make some good corner $$
 ^^ make some corner $$
 ^^ oh there be a tiger $$
@@ -1495,12 +1528,12 @@
 ^^ maybe sort the thing $$
 ^^ all the thing $$
 ^^ that like that $$
-^^ that be  $$
+^^ that be xxx $$
 ^^ that be go there $$
 ^^ the field go there $$
 ^^ that go there $$
 ^^ I not make a field $$
-^^   I want make a car bridge $$
+^^ I making I want make a car bridge $$
 ^^ want make a car bridge $$
 ^^ I make a car bridge $$
 ^^ I want make a car bridge $$
@@ -1516,6 +1549,7 @@
 ^^ nothing $$
 ^^ no $$
 ^^ there $$
-^^  my car $$
+^^ xxx $$
+^^ xxx my car $$
 ^^ who be in my car $$
-^^  quick $$
+^^ quick quick $$

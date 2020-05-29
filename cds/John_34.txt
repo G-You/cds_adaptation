@@ -15,6 +15,7 @@
 ^^ a starfish $$
 ^^ mhm $$
 ^^ crab $$
+^^ a $$
 ^^ look $$
 ^^ it be blue $$
 ^^ what be that $$
@@ -48,7 +49,7 @@
 ^^ oh that be where it be $$
 ^^ do you know where the tyre be $$
 ^^ oh they be in the car be they $$
-^^ oh   the headlight fall out a long time ago $$
+^^ oh the light the headlight fall out a long time ago $$
 ^^ I do not know where it be $$
 ^^ no $$
 ^^ do not know $$
@@ -75,6 +76,7 @@
 ^^ you reckon $$
 ^^ okay $$
 ^^ do you finish building your bridge $$
+^^ a $$
 ^^ you have cheese this morning $$
 ^^ what else do you have John for your breakfast $$
 ^^ yes $$
@@ -103,6 +105,7 @@
 ^^ oh I see $$
 ^^ who be travel on the bus $$
 ^^ who be travel on the bus $$
+^^ a $$
 ^^ anybody else $$
 ^^ be there any baby on the bus $$
 ^^ what be they do $$
@@ -172,7 +175,7 @@
 ^^ lady in the door $$
 ^^ oh yes $$
 ^^ peep out the window $$
-^^   there be two $$
+^^ aren't there there be two $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ smoke come out the chimney do not it $$
@@ -262,7 +265,9 @@
 ^^ then you have get three window $$
 ^^ this be the maiden $$
 ^^ this be the man $$
+^^ xxx $$
 ^^ where be you go on your journey John $$
+^^ www $$
 ^^ yeah $$
 ^^ moo $$
 ^^ I move the book $$
@@ -308,6 +313,7 @@
 ^^ will you like to see some photograph $$
 ^^ whoops $$
 ^^ oh $$
+^^ www $$
 ^^ John $$
 ^^ you come here $$
 ^^ can you shut the door for us $$
@@ -357,6 +363,7 @@
 ^^ do you want me to show you John $$
 ^^ if you want me to show you bring it over then $$
 ^^ oh yeah $$
+^^ a $$
 ^^ I think so yes $$
 ^^ happy song $$
 ^^ oh yes $$
@@ -365,6 +372,7 @@
 ^^ maybe $$
 ^^ try it $$
 ^^ yeah $$
+^^ a $$
 ^^ it be a very big car $$
 ^^ mhm $$
 ^^ make a_lot_of noise do not they car $$
@@ -379,7 +387,7 @@
 ^^ oh $$
 ^^ it be a bit like a candle yeah $$
 ^^ be there some more egg John in there $$
-^^ can you  fill the carton with egg $$
+^^ can you fill fill the carton with egg $$
 ^^ do not know $$
 ^^ where have you go $$
 ^^ oh $$
@@ -451,6 +459,7 @@
 ^^ oh right $$
 ^^ anything else $$
 ^^ you will or the monkey will $$
+^^ xxx $$
 ^^ do you want plum $$
 ^^ perhaps we will make some later $$
 ^^ mhm $$
@@ -477,10 +486,12 @@
 ^^ could it be a aga $$
 ^^ oh $$
 ^^ green egg and ham $$
+^^ xxx $$
 ^^ I do not like them Sam I be $$
 ^^ yes $$
 ^^ well I be not surprise $$
 ^^ John $$
+^^ www $$
 ^^ John $$
 ^^ John $$
 ^^ can you just stay here for a couple of moment $$
@@ -492,6 +503,7 @@
 ^^ oh yes $$
 ^^ how do you do that $$
 ^^ on there $$
+^^ a $$
 ^^ do it need a kiss $$
 ^^ shall we put Rosie in this chair John or the car seat $$
 ^^ car seat $$
@@ -507,6 +519,7 @@
 ^^ what be inside $$
 ^^ let us have a look then $$
 ^^ can you get it out $$
+^^ www $$
 ^^ let us have a look then $$
 ^^ let us look $$
 ^^ the yellow one or the green one $$
@@ -534,6 +547,7 @@
 ^^ can you pass them to me $$
 ^^ he be carry a baby $$
 ^^ it be a stork $$
+^^ www $$
 ^^ a baby in the cloth $$
 ^^ do it look like Rosie in there $$
 ^^ little blob $$
@@ -555,10 +569,12 @@
 ^^ no $$
 ^^ look at this one as_well $$
 ^^ okay $$
+^^ www $$
 ^^ yes $$
 ^^ that be a sheep $$
 ^^ it be the only thing you have get to play with $$
 ^^ it be sad be not it $$
+^^ www $$
 ^^ yes she have have not she $$
 ^^ yeah $$
 ^^ yeah $$
@@ -585,6 +601,7 @@
 ^^ be you go to color in the other part of the roof as_well $$
 ^^ very good $$
 ^^ a bit at the front $$
+^^ xxx $$
 ^^ great $$
 ^^ you have finish $$
 ^^ that be a very good lorry $$
@@ -617,11 +634,13 @@
 ^^ and what do you do with the case yesterday $$
 ^^ throw it out the bath window $$
 ^^ it land in the garden $$
+^^ www $$
 ^^ yeah $$
 ^^ well luck I genmod get the lens in have not I $$
 ^^ it be just the case $$
 ^^ oh dear $$
 ^^ poor baby $$
+^^ www $$
 ^^ hm $$
 ^^ tire $$
 ^^ what time do you get up this morning $$
@@ -704,6 +723,7 @@
 ^^ green $$
 ^^ what color be it $$
 ^^ well one of them be $$
+^^ a $$
 ^^ what a glorious mess $$
 ^^ yeah $$
 ^^ that one as_well $$
@@ -732,7 +752,7 @@
 ^^ that one duff $$
 ^^ this one be slight good $$
 ^^ no $$
-^^   it be not for wax crayon John $$
+^^ it doesn't it be not for wax crayon John $$
 ^^ it be just for pencil crayon $$
 ^^ look $$
 ^^ put that on your pocket for the ice man $$
@@ -743,7 +763,7 @@
 ^^ well it still do not real fit $$
 ^^ it do not quite reach down to the sharpen $$
 ^^ if you turn it round you can see the sharpen look $$
-^^ and you see   the crayon be nowhere near it $$
+^^ and you see the pencil the crayon be nowhere near it $$
 ^^ okay $$
 ^^ just sharpen the pencil shall we $$
 ^^ can you do it with the pot underneath so the bit of rubbish come off $$
@@ -785,7 +805,7 @@
 ^^ I wonder if this paper show through John $$
 ^^ we can draw one of these picture $$
 ^^ look $$
-^^ this be almost like   the magic paper that we have John $$
+^^ this be almost like the greaseproof the magic paper that we have John $$
 ^^ let us find a picture $$
 ^^ do you want to draw a sheep or do you want to draw a squirrel with a house $$
 ^^ yes $$
@@ -818,6 +838,7 @@
 ^^ his foot be get lose in the carpet $$
 ^^ very very long grass $$
 ^^ yes $$
+^^ a $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ his head appear down the pot $$
@@ -838,7 +859,7 @@
 ^^ it be a dress $$
 ^^ this one a dress too $$
 ^^ yeah $$
-^^ what  $$
+^^ what xxx $$
 ^^ what $$
 ^^ shirt $$
 ^^ it be your music group this afternoon John $$
@@ -870,8 +891,10 @@
 ^^ well there be green thing if you want it $$
 ^^ pardon $$
 ^^ doll do not have willie $$
+^^ www $$
 ^^ be they in a space $$
 ^^ mhm $$
+^^ www $$
 ^^ very good $$
 ^^ he be a very pink pig that one $$
 ^^ that be a more realistic color $$
@@ -907,6 +930,7 @@
 ^^ John $$
 ^^ can you come and find the green Duplo thing $$
 ^^ oh dear $$
+^^ www $$
 ^^ John $$
 ^^ shall we make a zoo this week $$
 ^^ shall we make a farm then $$
@@ -916,6 +940,7 @@
 ^^ come on then $$
 ^^ yes $$
 ^^ wow $$
+^^ xxx $$
 ^^ John $$
 ^^ come on $$
 ^^ be you go to go and build this castle $$
@@ -935,6 +960,7 @@
 ^^ I can not do that $$
 ^^ John $$
 ^^ can you reach the calculator from where you be there $$
+^^ www $$
 ^^ I hope there be lots_of run around in your music class $$
 ^^ take the box away $$
 ^^ well if you help me pack it up then it will be ready for Anna to take away later $$
@@ -948,7 +974,7 @@
 ^^ John $$
 ^^ John $$
 ^^ can you listen to me a minute $$
-^^  how old will you be on your birth $$
+^^ what how old will you be on your birth $$
 ^^ right $$
 ^^ and what will you like for your birth $$
 ^^ what will you like to have $$
@@ -963,7 +989,7 @@
 ^^ you be a tumble tot $$
 ^^ you need to wear that all the time $$
 ^^ a safety helmet $$
-^^  no $$
+^^ no no $$
 ^^ leave the sticker on because this be Anna box $$
 ^^ you can destroy your own thing $$
 ^^ not other person $$
@@ -1007,6 +1033,7 @@
 ^^ or put it in the basket and then put it in the bag $$
 ^^ yes $$
 ^^ you can play with that $$
+^^ a $$
 ^^ John $$
 ^^ be care $$
 ^^ John $$
@@ -1028,7 +1055,7 @@
 ^^ John $$
 ^^ be you be a pickle $$
 ^^ come and be a pickle over here $$
-^^  pack away instead $$
+^^ xxx pack away instead $$
 ^^ John $$
 ^^ the lady at the music class she might ask what song you genmod like to sing $$
 ^^ John $$
@@ -1049,10 +1076,11 @@
 ^^ off $$
 ^^ pick you up like a kitten $$
 ^^ come on $$
-^^    off $$
+^^ off off off off $$
 ^^ John $$
 ^^ come on $$
 ^^ can you come away $$
+^^ www $$
 ^^ come on $$
 ^^ come away from the record $$
 ^^ now be you go to help me pack away $$
@@ -1060,18 +1088,19 @@
 ^^ John $$
 ^^ come on $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
+^^ www $$
 ^^ do you hear that John $$
 ^^ Anna be only come for two more session so let us make the most of it shall we $$
 ^^ do not be so naughty otherwise she will always remember you as a naughty person $$
 ^^ John_Hollins $$
 ^^ be you out_of temper this morning $$
 ^^ come on then $$
-^^ can you put all these thing    into the bag $$
+^^ can you put all these thing into the box into the bag $$
 ^^ come on $$
 ^^ with any luck it be go to finish in a moment $$
 ^^ oh there be your Angel_May book $$
 ^^ do you want to read that $$
-^^ you be a  $$
+^^ you be a xxx $$
 ^^ how about if you sit in the car seat and I will strap you in $$
 ^^ no $$
 ^^ you need a straight jacket $$
@@ -1092,7 +1121,7 @@
 ^^ or there be Joe_Crow $$
 ^^ Daddy have not be to Joe_Crow yet $$
 ^^ I can see you John $$
-^^  this jump be a bit long be not it $$
+^^ this this jump be a bit long be not it $$
 ^^ shall we turn the sleeve up a bit $$
 ^^ no $$
 ^^ yes $$
@@ -1105,8 +1134,10 @@
 ^^ that be enough $$
 ^^ John $$
 ^^ will you stop it $$
+^^ www $$
 ^^ the forest might be a bit wet today John you know $$
 ^^ okay yes $$
+^^ www $$
 ^^ where else be there that we can go indoors $$
 ^^ we will soon be able to go swim with Rosie you know $$
 ^^ yeah $$
@@ -1121,6 +1152,7 @@
 ^^ be this still a grass $$
 ^^ John $$
 ^^ be this a grass still $$
+^^ www $$
 ^^ oh that look interesting John $$
 ^^ what be it $$
 ^^ John $$
@@ -1150,6 +1182,7 @@
 ^^ his foot be get lose in the carpet $$
 ^^ very very long grass $$
 ^^ yes $$
+^^ a $$
 ^^ mhm $$
 ^^ yeah $$
 ^^ his head appear down the pot $$
@@ -1170,7 +1203,7 @@
 ^^ it be a dress $$
 ^^ this one a dress too $$
 ^^ yeah $$
-^^ what  $$
+^^ what xxx $$
 ^^ what $$
 ^^ shirt $$
 ^^ it be your music group this afternoon John $$
@@ -1202,8 +1235,10 @@
 ^^ well there be green thing if you want it $$
 ^^ pardon $$
 ^^ doll do not have willie $$
+^^ www $$
 ^^ be they in a space $$
 ^^ mhm $$
+^^ www $$
 ^^ very good $$
 ^^ he be a very pink pig that one $$
 ^^ that be a more realistic color $$
@@ -1239,6 +1274,7 @@
 ^^ John $$
 ^^ can you come and find the green Duplo thing $$
 ^^ oh dear $$
+^^ www $$
 ^^ John $$
 ^^ shall we make a zoo this week $$
 ^^ shall we make a farm then $$
@@ -1248,6 +1284,7 @@
 ^^ come on then $$
 ^^ yes $$
 ^^ wow $$
+^^ xxx $$
 ^^ John $$
 ^^ come on $$
 ^^ be you go to go and build this castle $$
@@ -1267,6 +1304,7 @@
 ^^ I can not do that $$
 ^^ John $$
 ^^ can you reach the calculator from where you be there $$
+^^ www $$
 ^^ I hope there be lots_of run around in your music class $$
 ^^ take the box away $$
 ^^ well if you help me pack it up then it will be ready for Anna to take away later $$
@@ -1280,7 +1318,7 @@
 ^^ John $$
 ^^ John $$
 ^^ can you listen to me a minute $$
-^^  how old will you be on your birth $$
+^^ what how old will you be on your birth $$
 ^^ right $$
 ^^ and what will you like for your birth $$
 ^^ what will you like to have $$
@@ -1295,7 +1333,7 @@
 ^^ you be a tumble tot $$
 ^^ you need to wear that all the time $$
 ^^ a safety helmet $$
-^^  no $$
+^^ no no $$
 ^^ leave the sticker on because this be Anna box $$
 ^^ you can destroy your own thing $$
 ^^ not other person $$
@@ -1339,6 +1377,7 @@
 ^^ or put it in the basket and then put it in the bag $$
 ^^ yes $$
 ^^ you can play with that $$
+^^ a $$
 ^^ John $$
 ^^ be care $$
 ^^ John $$
@@ -1360,7 +1399,7 @@
 ^^ John $$
 ^^ be you be a pickle $$
 ^^ come and be a pickle over here $$
-^^  pack away instead $$
+^^ xxx pack away instead $$
 ^^ John $$
 ^^ the lady at the music class she might ask what song you genmod like to sing $$
 ^^ John $$
@@ -1381,10 +1420,11 @@
 ^^ off $$
 ^^ pick you up like a kitten $$
 ^^ come on $$
-^^    off $$
+^^ off off off off $$
 ^^ John $$
 ^^ come on $$
 ^^ can you come away $$
+^^ www $$
 ^^ come on $$
 ^^ come away from the record $$
 ^^ now be you go to help me pack away $$
@@ -1392,18 +1432,19 @@
 ^^ John $$
 ^^ come on $$
 ^^ will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not will not $$
+^^ www $$
 ^^ do you hear that John $$
 ^^ Anna be only come for two more session so let us make the most of it shall we $$
 ^^ do not be so naughty otherwise she will always remember you as a naughty person $$
 ^^ John_Hollins $$
 ^^ be you out_of temper this morning $$
 ^^ come on then $$
-^^ can you put all these thing    into the bag $$
+^^ can you put all these thing into the box into the bag $$
 ^^ come on $$
 ^^ with any luck it be go to finish in a moment $$
 ^^ oh there be your Angel_May book $$
 ^^ do you want to read that $$
-^^ you be a  $$
+^^ you be a xxx $$
 ^^ how about if you sit in the car seat and I will strap you in $$
 ^^ no $$
 ^^ you need a straight jacket $$
@@ -1424,7 +1465,7 @@
 ^^ or there be Joe_Crow $$
 ^^ Daddy have not be to Joe_Crow yet $$
 ^^ I can see you John $$
-^^  this jump be a bit long be not it $$
+^^ this this jump be a bit long be not it $$
 ^^ shall we turn the sleeve up a bit $$
 ^^ no $$
 ^^ yes $$
@@ -1437,8 +1478,10 @@
 ^^ that be enough $$
 ^^ John $$
 ^^ will you stop it $$
+^^ www $$
 ^^ the forest might be a bit wet today John you know $$
 ^^ okay yes $$
+^^ www $$
 ^^ where else be there that we can go indoors $$
 ^^ we will soon be able to go swim with Rosie you know $$
 ^^ yeah $$
@@ -1453,6 +1496,7 @@
 ^^ be this still a grass $$
 ^^ John $$
 ^^ be this a grass still $$
+^^ www $$
 ^^ oh that look interesting John $$
 ^^ what be it $$
 ^^ John $$

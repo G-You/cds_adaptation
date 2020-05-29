@@ -21,6 +21,7 @@
 ^^ huh $$
 ^^ yeah $$
 ^^ mhm $$
+^^ a $$
 ^^ huh $$
 ^^ yeah $$
 ^^ stick $$
@@ -37,6 +38,7 @@
 ^^ nana $$
 ^^ and me in there $$
 ^^ yeah $$
+^^ xxx $$
 ^^ huh $$
 ^^ yeah $$
 ^^ cheese $$
@@ -48,6 +50,7 @@
 ^^ bead $$
 ^^ on there $$
 ^^ yeah $$
+^^ a $$
 ^^ huh $$
 ^^ me $$
 ^^ huh $$
@@ -56,12 +59,14 @@
 ^^ Mama $$
 ^^ oh $$
 ^^ yeah $$
+^^ xxx $$
 ^^ oh $$
 ^^ pull $$
 ^^ huh $$
 ^^ there $$
 ^^ huh $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ yeah $$
 ^^ no $$
@@ -75,22 +80,23 @@
 ^^ mhm $$
 ^^ yeah $$
 ^^ mhm $$
-^^  dee there $$
+^^ um dee there $$
 ^^ dee on there please $$
 ^^ dee $$
 ^^ dee $$
 ^^ I go $$
 ^^ dee please $$
-^^  please $$
+^^ xxx please $$
+^^ xxx $$
 ^^ more dee $$
 ^^ dee $$
 ^^ me hot $$
 ^^ in there $$
 ^^ there $$
 ^^ on there Mama $$
-^^  key Mama $$
+^^ xxx key Mama $$
 ^^ some key $$
-^^  some key $$
+^^ xxx some key $$
 ^^ no $$
 ^^ oh $$
 ^^ oh $$
@@ -99,15 +105,17 @@
 ^^ huh $$
 ^^ I go $$
 ^^ mhm $$
+^^ a $$
 ^^ mhm $$
 ^^ no $$
 ^^ no $$
 ^^ no Mama $$
 ^^ no $$
-^^  no $$
+^^ no no $$
 ^^ pea $$
 ^^ pea $$
 ^^ in there $$
+^^ xxx $$
 ^^ huh $$
 ^^ no $$
 ^^ no $$
@@ -115,9 +123,10 @@
 ^^ oh $$
 ^^ no $$
 ^^ huh $$
-^^  tea $$
+^^ a tea $$
 ^^ nana $$
 ^^ nana $$
+^^ xxx $$
 ^^ no $$
 ^^ there $$
 ^^ huh $$
@@ -125,6 +134,7 @@
 ^^ mhm $$
 ^^ nice $$
 ^^ I on there $$
+^^ xxx $$
 ^^ no naughty $$
 ^^ mhm $$
 ^^ Dada $$
@@ -135,7 +145,7 @@
 ^^ Mama $$
 ^^ mhm $$
 ^^ and Mama $$
-^^  sleep $$
+^^ xxx sleep $$
 ^^ yeah $$
 ^^ on there $$
 ^^ huh $$
@@ -144,6 +154,7 @@
 ^^ mhm $$
 ^^ oh no $$
 ^^ oh that $$
+^^ xxx $$
 ^^ more baba $$
 ^^ oh no $$
 ^^ no $$
@@ -152,20 +163,23 @@
 ^^ more baba $$
 ^^ there $$
 ^^ no $$
-^^  juice $$
+^^ xxx $$
+^^ xxx juice $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ more baba $$
 ^^ oh $$
 ^^ there $$
 ^^ there baba $$
 ^^ oh nice $$
+^^ xxx $$
 ^^ no $$
 ^^ nice $$
 ^^ eye baba $$
 ^^ baba eye $$
 ^^ baba $$
-^^  there $$
+^^ xxx there $$
 ^^ baba $$
 ^^ huh $$
 ^^ yeah $$
@@ -194,6 +208,7 @@
 ^^ there $$
 ^^ huh $$
 ^^ daydo $$
+^^ xxx $$
 ^^ mhm $$
 ^^ car $$
 ^^ on there $$
@@ -210,6 +225,7 @@
 ^^ ow $$
 ^^ off $$
 ^^ ow $$
+^^ a $$
 ^^ on there $$
 ^^ Mama $$
 ^^ no on there $$
@@ -227,22 +243,26 @@
 ^^ mhm $$
 ^^ on there $$
 ^^ oh $$
+^^ a $$
 ^^ oooo $$
 ^^ on there $$
 ^^ no $$
+^^ xxx $$
 ^^ and me $$
 ^^ no on there $$
+^^ xxx $$
 ^^ yeah $$
 ^^ dee please $$
 ^^ there $$
 ^^ in there $$
 ^^ mhm $$
-^^  baba $$
-^^  dee $$
+^^ xxx $$
+^^ xxx baba $$
+^^ xxx dee $$
 ^^ dee $$
 ^^ no dee $$
 ^^ yeah $$
-^^  oh $$
+^^ oh oh $$
 ^^ and on there $$
 ^^ no on there $$
 ^^ no Mama $$
@@ -252,6 +272,8 @@
 ^^ huh $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
+^^ um xxx $$
 ^^ yeah $$
 ^^ Mama go $$
 ^^ Mama go $$
@@ -262,49 +284,68 @@
 ^^ I go $$
 ^^ huh $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ Mama $$
 ^^ me $$
 ^^ there $$
 ^^ huh $$
 ^^ more baba $$
+^^ xxx $$
+^^ xxx $$
 ^^ baba on there $$
 ^^ more baba on there $$
+^^ a $$
 ^^ Mama baba on there $$
+^^ xxx $$
 ^^ huh $$
 ^^ Mama go $$
 ^^ yeah $$
+^^ a $$
 ^^ huh $$
 ^^ Mama $$
 ^^ Mama $$
+^^ xxx $$
 ^^ no $$
 ^^ Anna tea $$
 ^^ oh $$
 ^^ Anna $$
 ^^ baba $$
 ^^ mhm $$
-^^  there $$
+^^ xxx there $$
 ^^ Mama $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ huh $$
 ^^ no $$
 ^^ huh $$
 ^^ no $$
+^^ a $$
+^^ a $$
+^^ xxx $$
+^^ a $$
 ^^ there $$
 ^^ there $$
 ^^ oh $$
 ^^ there $$
 ^^ there $$
 ^^ there $$
+^^ a $$
 ^^ baba $$
-^^  there $$
+^^ xxx there $$
+^^ a $$
 ^^ yeah $$
 ^^ please $$
+^^ eh $$
+^^ eh $$
 ^^ oh $$
 ^^ there $$
 ^^ baba $$
 ^^ there $$
 ^^ baba $$
 ^^ there $$
+^^ xxx $$
 ^^ oh $$
 ^^ huh $$
 ^^ on choo $$
@@ -381,6 +422,7 @@
 ^^ no $$
 ^^ on there $$
 ^^ huh $$
+^^ a $$
 ^^ huh $$
 ^^ yeah $$
 ^^ huh $$
@@ -390,6 +432,7 @@
 ^^ huh $$
 ^^ no $$
 ^^ mhm $$
+^^ a $$
 ^^ Mama $$
 ^^ more juice Mama $$
 ^^ mhm $$
@@ -419,6 +462,7 @@
 ^^ huh $$
 ^^ huh $$
 ^^ oh $$
+^^ a $$
 ^^ on there $$
 ^^ on there $$
 ^^ mhm $$
@@ -430,8 +474,9 @@
 ^^ on there $$
 ^^ mhm $$
 ^^ there $$
+^^ xxx $$
 ^^ on there $$
-^^  no please $$
+^^ um no please $$
 ^^ there $$
 ^^ there $$
 ^^ no $$
@@ -446,13 +491,14 @@
 ^^ mhm $$
 ^^ mhm $$
 ^^ oh $$
-^^  Mummy $$
+^^ xxx Mummy $$
 ^^ yeah $$
 ^^ huh $$
 ^^ huh $$
 ^^ huh $$
 ^^ yeah $$
 ^^ huh $$
+^^ a $$
 ^^ mhm $$
 ^^ oh $$
 ^^ more on there $$
@@ -462,10 +508,10 @@
 ^^ oh $$
 ^^ yeah $$
 ^^ there $$
-^^  there $$
+^^ um there $$
 ^^ oh $$
 ^^ there $$
-^^  pea $$
+^^ er pea $$
 ^^ me $$
 ^^ there me $$
 ^^ mhm $$
@@ -490,6 +536,8 @@
 ^^ there $$
 ^^ on there $$
 ^^ no $$
+^^ xxx $$
+^^ xxx $$
 ^^ me $$
 ^^ mhm $$
 ^^ mhm $$
@@ -521,8 +569,9 @@
 ^^ no $$
 ^^ on there $$
 ^^ there $$
-^^  there $$
+^^ xxx there $$
 ^^ mhm $$
+^^ xxx $$
 ^^ Mama $$
 ^^ Mama $$
 ^^ no there $$
@@ -533,7 +582,7 @@
 ^^ and me on there $$
 ^^ on there $$
 ^^ no $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ more Mama $$
 ^^ mhm $$
 ^^ choo $$
@@ -550,6 +599,7 @@
 ^^ Mama $$
 ^^ on there Anna $$
 ^^ Mama $$
+^^ xxx $$
 ^^ Anna $$
 ^^ no $$
 ^^ mhm $$
@@ -578,6 +628,7 @@
 ^^ mmmm $$
 ^^ mhm $$
 ^^ mieow $$
+^^ xxx $$
 ^^ more there $$
 ^^ mhm $$
 ^^ yeah $$
@@ -592,8 +643,10 @@
 ^^ huh $$
 ^^ Mama $$
 ^^ Mama Dada $$
+^^ xxx $$
 ^^ mhm $$
 ^^ oh no $$
+^^ xxx $$
 ^^ baba $$
 ^^ more baba $$
 ^^ oh $$
@@ -604,6 +657,7 @@
 ^^ baba sit down $$
 ^^ me sit down $$
 ^^ me fall $$
+^^ a $$
 ^^ Peter $$
 ^^ Peter $$
 ^^ and Anna $$
@@ -612,7 +666,7 @@
 ^^ Anna $$
 ^^ mhm $$
 ^^ Anna $$
-^^  Peter $$
+^^ xxx Peter $$
 ^^ Peter $$
 ^^ mhm $$
 ^^ mhm $$
@@ -627,6 +681,7 @@
 ^^ mhm $$
 ^^ Dada $$
 ^^ sit down Dada on there $$
+^^ xxx $$
 ^^ sit down Dada $$
 ^^ sit down Dada $$
 ^^ mhm $$
@@ -636,12 +691,14 @@
 ^^ Mama $$
 ^^ mhm $$
 ^^ no $$
+^^ xxx $$
 ^^ Dada $$
 ^^ no $$
 ^^ on there Dada $$
 ^^ me $$
 ^^ me $$
 ^^ sit down $$
+^^ xxx $$
 ^^ Dada $$
 ^^ Anna $$
 ^^ on there $$
@@ -650,9 +707,13 @@
 ^^ more Mama $$
 ^^ mhm there $$
 ^^ on there $$
+^^ xxx $$
 ^^ on there $$
 ^^ mhm $$
-^^ on there  $$
+^^ xxx $$
+^^ a $$
+^^ on there xxx $$
+^^ xxx $$
 ^^ huh $$
 ^^ more $$
 ^^ on there $$
@@ -666,16 +727,18 @@
 ^^ there $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ huh $$
 ^^ down there $$
 ^^ down there $$
 ^^ no down there $$
+^^ a $$
 ^^ more $$
 ^^ huh $$
 ^^ that $$
 ^^ that $$
 ^^ no on there $$
-^^  Mama $$
+^^ Mama Mama $$
 ^^ oh $$
 ^^ me oh $$
 ^^ huh $$
@@ -691,7 +754,7 @@
 ^^ no on there $$
 ^^ on there $$
 ^^ Mama off $$
-^^  there $$
+^^ xxx there $$
 ^^ yeah $$
 ^^ on there $$
 ^^ there $$
@@ -712,12 +775,14 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ there $$
-^^  there $$
+^^ xxx there $$
 ^^ there $$
 ^^ oh $$
 ^^ on there $$
 ^^ hiya $$
 ^^ hiya $$
+^^ xxx $$
+^^ a $$
 ^^ on there $$
 ^^ on there $$
 ^^ no $$
@@ -735,11 +800,12 @@
 ^^ huh $$
 ^^ baba $$
 ^^ oh $$
-^^   no $$
+^^ no no no $$
+^^ xxx $$
 ^^ no $$
 ^^ baba $$
 ^^ no $$
-^^  me $$
+^^ me me $$
 ^^ huh $$
 ^^ baba ughoh $$
 ^^ oh me ughoh $$
@@ -753,11 +819,12 @@
 ^^ no $$
 ^^ me sit down $$
 ^^ no poo $$
+^^ a $$
 ^^ oh $$
 ^^ baba $$
 ^^ sit down there $$
 ^^ Mama $$
-^^  baba $$
+^^ xxx baba $$
 ^^ oh on there $$
 ^^ me $$
 ^^ there $$
@@ -772,6 +839,7 @@
 ^^ oh on there $$
 ^^ yeah $$
 ^^ mhm $$
+^^ xxx $$
 ^^ mhm $$
 ^^ juice please $$
 ^^ mhm $$
@@ -786,9 +854,11 @@
 ^^ mhm $$
 ^^ oh $$
 ^^ no $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ yeah $$
+^^ xxx $$
 ^^ there $$
 ^^ Peter $$
 ^^ huh $$
@@ -811,12 +881,13 @@
 ^^ on there $$
 ^^ on there $$
 ^^ oh there $$
+^^ xxx $$
 ^^ in there $$
 ^^ more there $$
 ^^ in there $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ yeah $$
-^^ me  on there $$
+^^ me on on there $$
 ^^ no $$
 ^^ Dada $$
 ^^ mhm $$
@@ -824,6 +895,7 @@
 ^^ Mama $$
 ^^ baba on there $$
 ^^ fall down $$
+^^ xxx $$
 ^^ there $$
 ^^ huh $$
 ^^ no $$
@@ -832,6 +904,7 @@
 ^^ no $$
 ^^ on there $$
 ^^ Mama $$
+^^ xxx $$
 ^^ baba $$
 ^^ on there $$
 ^^ Mama $$
@@ -857,7 +930,9 @@
 ^^ Mama Dada $$
 ^^ baba $$
 ^^ huh $$
+^^ a $$
 ^^ there $$
+^^ xxx $$
 ^^ oh $$
 ^^ yeah $$
 ^^ fall $$
@@ -869,6 +944,7 @@
 ^^ sit down there $$
 ^^ sit down $$
 ^^ the Mama $$
+^^ a $$
 ^^ Mama $$
 ^^ in there $$
 ^^ Mama in there $$
@@ -877,8 +953,9 @@
 ^^ down Dada $$
 ^^ huh $$
 ^^ oh $$
-^^  baba $$
-^^  baba $$
+^^ xxx baba $$
+^^ a $$
+^^ a baba $$
 ^^ mhm $$
 ^^ oh $$
 ^^ huh $$
@@ -886,8 +963,8 @@
 ^^ no $$
 ^^ baba $$
 ^^ a Dada $$
-^^  Dada $$
-^^ baba  $$
+^^ xxx Dada $$
+^^ baba xxx $$
 ^^ baba booboo there $$
 ^^ Mama $$
 ^^ the Mama booboo $$
@@ -910,12 +987,12 @@
 ^^ on there $$
 ^^ there $$
 ^^ there $$
-^^  on there $$
-^^  on there $$
+^^ xxx on there $$
+^^ xxx on there $$
 ^^ huh $$
 ^^ Mama in there $$
 ^^ Mama there $$
-^^  me $$
+^^ me me $$
 ^^ there $$
 ^^ Mama there $$
 ^^ choochoo $$
@@ -928,6 +1005,7 @@
 ^^ on there $$
 ^^ on there $$
 ^^ no $$
+^^ xxx $$
 ^^ oh $$
 ^^ huh $$
 ^^ I fall $$
@@ -935,7 +1013,7 @@
 ^^ no $$
 ^^ Mama $$
 ^^ mhm $$
-^^  there $$
+^^ xxx there $$
 ^^ huh $$
 ^^ me $$
 ^^ me $$
@@ -958,7 +1036,7 @@
 ^^ baba on knee $$
 ^^ huh $$
 ^^ mhm $$
-^^  there $$
+^^ xxx there $$
 ^^ mhm $$
 ^^ huh $$
 ^^ Mama $$

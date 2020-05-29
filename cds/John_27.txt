@@ -170,6 +170,7 @@
 ^^ shall we make a house for them $$
 ^^ let us put these thing away then and we can $$
 ^^ a house out_of brick $$
+^^ www $$
 ^^ John $$
 ^^ can you get your red box out $$
 ^^ Aunty Liz give you this box do not she last week $$
@@ -213,7 +214,7 @@
 ^^ I think there might be another one somewhere $$
 ^^ two gate $$
 ^^ good $$
-^^ can you     put it on the house here $$
+^^ can you put it on the put it on the house here $$
 ^^ no $$
 ^^ you put it somewhere there $$
 ^^ where be the other one $$
@@ -226,7 +227,7 @@
 ^^ yeah we genmod good keep him separate from the camel have not we $$
 ^^ oh be this the penguin place $$
 ^^ okay $$
-^^ so the tiger   need a big place do not he $$
+^^ so the tiger needs a need a big place do not he $$
 ^^ shall we put him here $$
 ^^ yeah $$
 ^^ I do not think he will fit in there will he now $$
@@ -241,6 +242,7 @@
 ^^ be that big enough for the car John $$
 ^^ where be the zoo car $$
 ^^ where be that black and white car for the zoo $$
+^^ a $$
 ^^ be that big enough for the car to go on $$
 ^^ okay $$
 ^^ he will go in there instead with the penguin $$
@@ -255,7 +257,7 @@
 ^^ you be credible $$
 ^^ look at this teat $$
 ^^ stretch milk $$
-^^ how about if you want a drink   you have the one on the table  $$
+^^ how about if you want a drink you have you have the one on the table eh $$
 ^^ you can have the milk later $$
 ^^ go go go go go go go go go $$
 ^^ if that be for the tiger $$
@@ -295,7 +297,7 @@
 ^^ be you swim $$
 ^^ you can practice your swim $$
 ^^ show Anna how you can swim $$
-^^ we go swim  do not we on Sunday $$
+^^ we go swim mm do not we on Sunday $$
 ^^ and you swim with your arm $$
 ^^ how do you swim with your arm John $$
 ^^ can you show me $$
@@ -348,6 +350,7 @@
 ^^ thank_you $$
 ^^ that be come from there then $$
 ^^ what be it $$
+^^ mm $$
 ^^ yes $$
 ^^ that will be nice $$
 ^^ well put it on the box $$
@@ -401,6 +404,7 @@
 ^^ that be right $$
 ^^ no $$
 ^^ be gentle with this doll $$
+^^ xxx $$
 ^^ that could be a slide look $$
 ^^ it be a slide $$
 ^^ you could use the shop basket as a bed $$
@@ -612,7 +616,7 @@
 ^^ be I your blue box $$
 ^^ oh $$
 ^^ do you find some money to put in this John $$
-^^ do you find anything to put  in your black cup $$
+^^ do you find anything to put in in your black cup $$
 ^^ pardon $$
 ^^ I know you be look for money be not you $$
 ^^ you will not find much here $$
@@ -625,11 +629,13 @@
 ^^ I will go and get some paper $$
 ^^ no money in there at the moment be there $$
 ^^ well it used to be a corn box $$
+^^ xxx $$
 ^^ no leave that $$
 ^^ that be rubbish $$
 ^^ look $$
 ^^ can you see some letter on the box $$
 ^^ oh wait a minute $$
+^^ xxx $$
 ^^ come on John $$
 ^^ no no no $$
 ^^ no this be what we be go to make the money out_of in here $$
@@ -842,6 +848,7 @@
 ^^ be you go to put it back $$
 ^^ be you go to put it back in the box $$
 ^^ you look like a old man $$
+^^ www $$
 ^^ let me show you something $$
 ^^ let me show you something $$
 ^^ if you turn these upside down look $$
@@ -900,6 +907,7 @@
 ^^ let us have a look $$
 ^^ and your bottom tooth $$
 ^^ and her trouser $$
+^^ xxx $$
 ^^ you want that one on $$
 ^^ okay $$
 ^^ perhaps if we try and do it on the ground here $$
@@ -911,6 +919,7 @@
 ^^ well it might be a dolphin $$
 ^^ I think it be more likely to be a whale that one $$
 ^^ oh that be something new $$
+^^ www $$
 ^^ so it be $$
 ^^ yeah $$
 ^^ a black cow $$
@@ -939,7 +948,7 @@
 ^^ that be good $$
 ^^ what color be it $$
 ^^ that be right $$
-^^  very good $$
+^^ a very good $$
 ^^ well Granny will come on Monday $$
 ^^ a few more day $$
 ^^ oh this be a Granny yeah sorry $$
@@ -955,7 +964,7 @@
 ^^ mhm $$
 ^^ baby chick $$
 ^^ yeah $$
-^^ can you see   anything else that be new John $$
+^^ can you see any other anything else that be new John $$
 ^^ be there anything else $$
 ^^ this be call a bull $$
 ^^ a black bull $$
@@ -1019,6 +1028,7 @@
 ^^ whoops $$
 ^^ here we go $$
 ^^ oh the bull be beat the cow $$
+^^ xxx $$
 ^^ and they be off $$
 ^^ the bull be just in the lead $$
 ^^ the cow stop move altogether $$
@@ -1093,7 +1103,7 @@
 ^^ oh John $$
 ^^ you be get yourself into a pickle there $$
 ^^ pig $$
-^^  he be on the table $$
+^^ er he be on the table $$
 ^^ on your table $$
 ^^ oh just move you away from the music stand John $$
 ^^ just a little bit $$
@@ -1114,7 +1124,7 @@
 ^^ what do a cow say $$
 ^^ what do the cow say $$
 ^^ that be a pig noise John $$
-^^  what do the cow say $$
+^^ what what do the cow say $$
 ^^ that be right $$
 ^^ and what do the horse say $$
 ^^ yes $$
@@ -1136,7 +1146,7 @@
 ^^ oh that be nice $$
 ^^ you will see Bronwyn tomorrow $$
 ^^ mhm $$
-^^ that bull  he say moo like a cow $$
+^^ that bull er he say moo like a cow $$
 ^^ he talk rather like a cow $$
 ^^ yeah $$
 ^^ pardon $$
@@ -1291,12 +1301,12 @@
 ^^ mhm $$
 ^^ and next week story look be go to be about a $$
 ^^ dragon $$
-^^  yes it do look a bit like a crocodile $$
+^^ er yes it do look a bit like a crocodile $$
 ^^ it be call the happy dragon next week $$
 ^^ happy yeah $$
 ^^ you think your tiger happy $$
 ^^ happy $$
-^^ yes he do look like he be get a  happy face $$
+^^ yes he do look like he be get a happy happy face $$
 ^^ yeah $$
 ^^ grr $$
 ^^ no $$
@@ -1368,7 +1378,7 @@
 ^^ be these for me $$
 ^^ what be go on John $$
 ^^ well I do not think that be the idea but never mind $$
-^^ and what do you have to  say when they be the same $$
+^^ and what do you have to say say when they be the same $$
 ^^ John $$
 ^^ they be the same $$
 ^^ what do we say $$
@@ -1385,7 +1395,7 @@
 ^^ take a little while do not it $$
 ^^ to get used to this $$
 ^^ mhm $$
-^^  you have two snail now $$
+^^ a you have two snail now $$
 ^^ what do you say $$
 ^^ when they be the same you say $$
 ^^ snap $$
@@ -1464,6 +1474,7 @@
 ^^ Mummy be teach on the Sunday $$
 ^^ we will go next week $$
 ^^ that be your new shoe box $$
+^^ mm $$
 ^^ what be we eat today $$
 ^^ what be you eat today John $$
 ^^ you be eat crab $$
@@ -1490,6 +1501,7 @@
 ^^ oh $$
 ^^ see you later $$
 ^^ see you later $$
+^^ www $$
 ^^ John $$
 ^^ come and feed the penguin with me please $$
 ^^ no $$
@@ -1503,6 +1515,7 @@
 ^^ be there anything else in your box that I can not see $$
 ^^ that you know about $$
 ^^ what else be in this box $$
+^^ mm $$
 ^^ what be this on the side of your box $$
 ^^ what be this $$
 ^^ shoe $$
@@ -1633,7 +1646,7 @@
 ^^ can you see $$
 ^^ it be fun John $$
 ^^ fun $$
-^^ yes I think  $$
+^^ yes I think xxx $$
 ^^ that be right $$
 ^^ no $$
 ^^ I can see the cow now John $$
@@ -1727,12 +1740,12 @@
 ^^ you get it off $$
 ^^ a very good tower $$
 ^^ do you want to put it on here so you can build it high $$
-^^ want to put it on  the base $$
+^^ want to put it on the the base $$
 ^^ could Mummy help $$
 ^^ maybe I will help a bit $$
 ^^ it be a table $$
 ^^ be you go to help make the tower $$
-^^  you be eat the table $$
+^^ a you be eat the table $$
 ^^ good $$
 ^^ what be you eat John $$
 ^^ oh $$

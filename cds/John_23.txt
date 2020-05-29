@@ -17,6 +17,7 @@
 ^^ be it Daddy $$
 ^^ it be mean to be Humpty_Dumpty $$
 ^^ okay $$
+^^ www $$
 ^^ no $$
 ^^ you know what you want do not you $$
 ^^ oh thank_you $$
@@ -29,6 +30,7 @@
 ^^ have you see the spider $$
 ^^ thank_you $$
 ^^ another spider $$
+^^ um $$
 ^^ do you want some eye $$
 ^^ yeah $$
 ^^ oh be it rain $$
@@ -59,7 +61,7 @@
 ^^ mhm $$
 ^^ white $$
 ^^ green $$
-^^ what shall we  draw $$
+^^ what shall we do draw $$
 ^^ shall we draw a tree $$
 ^^ okay $$
 ^^ you draw a star then $$
@@ -78,6 +80,7 @@
 ^^ John $$
 ^^ shall we do the star song $$
 ^^ John $$
+^^ www $$
 ^^ shall we sing the star song $$
 ^^ I be not very good at drawing horse John $$
 ^^ well let us pretend this be a horse $$
@@ -136,11 +139,12 @@
 ^^ all do $$
 ^^ do you want to wipe it off $$
 ^^ thank_you $$
+^^ www $$
 ^^ Mummy starfish $$
 ^^ right $$
 ^^ you want Mummy to draw another one $$
-^^   up $$
-^^   up $$
+^^ up up up $$
+^^ up up up $$
 ^^ the sun and starfish $$
 ^^ okay well let us draw a starfish first $$
 ^^ do you know what the difference between a star and a starfish be John $$
@@ -268,12 +272,12 @@
 ^^ do you remember $$
 ^^ when we listen to the story $$
 ^^ it be not about the starfish $$
-^^ it be about a  special man be not it $$
+^^ it be about a special special man be not it $$
 ^^ make of snow $$
 ^^ what be his name $$
-^^    what be the man name $$
+^^ what was the what be the man name $$
 ^^ there he be $$
-^^ you have to draw a  for him $$
+^^ you have to draw a xxx for him $$
 ^^ it be a snow be not it $$
 ^^ he have a stick for a arm $$
 ^^ that be it $$
@@ -282,7 +286,7 @@
 ^^ it be a snow $$
 ^^ mhm $$
 ^^ John $$
-^^    no $$
+^^ no no no no $$
 ^^ it be not very strong $$
 ^^ come on $$
 ^^ John $$
@@ -365,13 +369,13 @@
 ^^ be you be a pickle $$
 ^^ why be you do that $$
 ^^ you fun old thing $$
-^^  John no $$
+^^ a John no $$
 ^^ come on $$
 ^^ we have have so many thing post in this fire $$
 ^^ no that be enough $$
 ^^ you will have no chalk leave $$
 ^^ you have get rid of all your scissors have not you $$
-^^ all your  $$
+^^ all your xxx $$
 ^^ they have all_gone in the fire $$
 ^^ okay $$
 ^^ time to put the chalk away then $$
@@ -518,6 +522,7 @@
 ^^ be you look for that one $$
 ^^ very good $$
 ^^ mhm $$
+^^ www $$
 ^^ oh poor doll $$
 ^^ she be $$
 ^^ oh gentle John $$
@@ -537,7 +542,7 @@
 ^^ ride the tiger $$
 ^^ no no $$
 ^^ gentle $$
-^^    no hit $$
+^^ no no no no hit $$
 ^^ look his head move $$
 ^^ it be a tiger $$
 ^^ tiger $$
@@ -549,7 +554,9 @@
 ^^ sock $$
 ^^ two sock $$
 ^^ oh what be you do $$
+^^ www $$
 ^^ oh good $$
+^^ www $$
 ^^ you like it in small place do not you $$
 ^^ oh it be a boat be it $$
 ^^ well not that big $$
@@ -640,10 +647,12 @@
 ^^ can you put the giraffe on the car $$
 ^^ that be it $$
 ^^ giraffe on the car $$
+^^ www $$
 ^^ what be you up to now $$
 ^^ be you finish your breakfast $$
 ^^ all right $$
 ^^ very good $$
+^^ www $$
 ^^ no Mummy can not go in this boat $$
 ^^ I go in most thing do not I $$
 ^^ but my bottom be too big for that $$
@@ -676,7 +685,8 @@
 ^^ oh $$
 ^^ that prove me wrong $$
 ^^ yeah $$
-^^ it just fit on the end  like that $$
+^^ it just fit on the end like like that $$
+^^ www $$
 ^^ oh John $$
 ^^ it do fit after all $$
 ^^ mhm $$
@@ -726,6 +736,7 @@
 ^^ love $$
 ^^ I think you need a bath $$
 ^^ not the doll $$
+^^ www $$
 ^^ be that nice porridge $$
 ^^ John $$
 ^^ there be a bag here for you $$

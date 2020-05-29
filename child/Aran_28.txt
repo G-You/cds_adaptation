@@ -1,7 +1,7 @@
 ^^ this do $$
 ^^ this get a spanner $$
 ^^ there a spanner $$
-^^  what does this do $$
+^^ what what does this do $$
 ^^ this tighten that up $$
 ^^ that spanner $$
 ^^ yeah $$
@@ -51,13 +51,14 @@
 ^^ a table $$
 ^^ that be my table $$
 ^^ I get round me $$
+^^ xxx $$
 ^^ this be through there $$
 ^^ it be through there $$
 ^^ through there $$
 ^^ my drill through there $$
 ^^ I lose it $$
 ^^ yeah $$
-^^ it be  in there $$
+^^ it be in in there $$
 ^^ it be a $$
 ^^ it a pen $$
 ^^ a spoon $$
@@ -69,36 +70,40 @@
 ^^ it a fork $$
 ^^ I get this bit $$
 ^^ yeah $$
+^^ xxx $$
 ^^ I get it $$
 ^^ it too big $$
 ^^ it be big $$
 ^^ yeah $$
 ^^ it be big $$
 ^^ it be dust that $$
-^^ it be dust  $$
+^^ it be dust xxx $$
 ^^ where be the car $$
 ^^ the tractor on it $$
 ^^ the tractor come on $$
 ^^ the tractor come on $$
 ^^ here $$
-^^   I put $$
+^^ I put I put $$
 ^^ yeah $$
 ^^ the bus not on there $$
 ^^ bus not in there $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ I smash it $$
-^^     I have get a train $$
+^^ I have got a I have get a train $$
 ^^ I have get a train $$
-^^  I have get a train $$
+^^ I I have get a train $$
 ^^ yeah $$
 ^^ that $$
 ^^ yeah $$
 ^^ that $$
+^^ xxx $$
 ^^ it a train track $$
 ^^ yeah $$
 ^^ that bit $$
-^^  there be a lady $$
-^^   on the bus $$
+^^ there's there be a lady $$
+^^ on the on the bus $$
 ^^ a train $$
 ^^ on the train $$
 ^^ holiday $$
@@ -137,12 +142,13 @@
 ^^ it need stop $$
 ^^ it need stop $$
 ^^ yeah $$
-^^ I  $$
+^^ I xxx $$
 ^^ it need stop $$
 ^^ I press it $$
 ^^ it off $$
 ^^ no $$
-^^  I go $$
+^^ I I go $$
+^^ xxx $$
 ^^ press it off $$
 ^^ lady $$
 ^^ yeah $$
@@ -154,8 +160,9 @@
 ^^ a Thomas_Tank_Engine $$
 ^^ that $$
 ^^ want that $$
+^^ xxx $$
 ^^ yeah $$
-^^  that man go there $$
+^^ that that man go there $$
 ^^ yeah $$
 ^^ that man $$
 ^^ yeah $$
@@ -169,11 +176,11 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ go get bus home $$
-^^    that lady want get on the bus $$
+^^ I want get that lady want get on the bus $$
 ^^ pick her up $$
 ^^ pick up $$
 ^^ I get off train $$
-^^  with Sarah_Lastname $$
+^^ with with Sarah_Lastname $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ they stand up $$
@@ -181,6 +188,8 @@
 ^^ yeah $$
 ^^ I go dive $$
 ^^ yeah $$
+^^ xxx $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ it want stay in house $$
@@ -188,14 +197,15 @@
 ^^ no $$
 ^^ yeah $$
 ^^ he a naughty boy $$
-^^ it  that $$
+^^ it xxx that $$
 ^^ I get off $$
 ^^ I get that off $$
 ^^ it on the train $$
 ^^ yeah $$
-^^ I get  $$
+^^ I get xxx $$
 ^^ yeah $$
 ^^ go fall over $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ there our Christmas tree there $$
@@ -209,7 +219,7 @@
 ^^ he at the farm $$
 ^^ it be get $$
 ^^ he move the snow $$
-^^   I have be on my sled $$
+^^ I got I have be on my sled $$
 ^^ I want play motor $$
 ^^ with Annie $$
 ^^ play with Annie $$
@@ -224,8 +234,9 @@
 ^^ the blue one $$
 ^^ yeah $$
 ^^ I want put these up $$
-^^   I get a  $$
+^^ I got I get a xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ Annie $$
 ^^ the ramp in there $$
@@ -245,7 +256,7 @@
 ^^ let Fozzie_Bear do that $$
 ^^ yeah $$
 ^^ yeah $$
-^^    I have get flat tyre $$
+^^ I have got I have get flat tyre $$
 ^^ I get $$
 ^^ no $$
 ^^ no $$
@@ -282,20 +293,21 @@
 ^^ birth $$
 ^^ birth $$
 ^^ they nana $$
-^^  car be get nana $$
+^^ got car be get nana $$
 ^^ car get nana $$
 ^^ car get nana $$
 ^^ what be that $$
 ^^ I can not eat those $$
 ^^ I buy some Mummy $$
 ^^ that $$
-^^   I buy some that $$
+^^ I bought I buy some that $$
 ^^ off the tree $$
 ^^ oh yeah $$
 ^^ no $$
-^^  where be the top $$
+^^ where where be the top $$
 ^^ that $$
 ^^ I put away there $$
+^^ xxx $$
 ^^ dog eat that $$
 ^^ I put away $$
 ^^ we get cat out it $$
@@ -303,21 +315,21 @@
 ^^ I take the lid off $$
 ^^ yeah $$
 ^^ the farm $$
-^^ it be  $$
-^^ it be  $$
+^^ it be xxx $$
+^^ it be xxx $$
 ^^ I drop everything on the floor $$
 ^^ I can eat that $$
 ^^ I can eat it $$
 ^^ cake $$
 ^^ what those $$
-^^   what does he eat $$
+^^ what what what does he eat $$
 ^^ what this $$
 ^^ what be that $$
 ^^ what be that $$
 ^^ I buy that $$
 ^^ yeah $$
 ^^ no bring that hammer $$
-^^  it be at home $$
+^^ it's it be at home $$
 ^^ it be that $$
 ^^ that too big on my hand $$
 ^^ that be on me $$
@@ -326,9 +338,9 @@
 ^^ it go there $$
 ^^ not go there $$
 ^^ it go that way $$
-^^  where the green one $$
-^^   where other one $$
-^^   I want put it on $$
+^^ where where the green one $$
+^^ where where where other one $$
+^^ I want I want put it on $$
 ^^ I want put that on $$
 ^^ no $$
 ^^ what does that eat $$
@@ -338,7 +350,7 @@
 ^^ that move $$
 ^^ yeah $$
 ^^ yeah $$
-^^ I  $$
+^^ I xxx $$
 ^^ yeah $$
 ^^ it be go $$
 ^^ it be go $$
@@ -361,14 +373,14 @@
 ^^ go eat doll up $$
 ^^ go eat doll up $$
 ^^ he eat doll up $$
-^^ it  go be cross $$
+^^ it go go be cross $$
 ^^ shark $$
 ^^ please throw it away $$
 ^^ that Pingu $$
 ^^ where Pingu $$
 ^^ doll $$
-^^  that eat doll $$
-^^  where doll go $$
+^^ that that eat doll $$
+^^ where where doll go $$
 ^^ doll go $$
 ^^ eat the doll up again $$
 ^^ eat doll up $$
@@ -391,14 +403,16 @@
 ^^ please kiss it good for me $$
 ^^ where be that shark go $$
 ^^ yeah $$
+^^ xxx $$
 ^^ this $$
 ^^ again $$
 ^^ yeah $$
-^^ like  $$
+^^ like xxx $$
 ^^ yeah $$
 ^^ please get me out please $$
 ^^ what be that $$
-^^ do it on  $$
+^^ xxx $$
+^^ do it on xxx $$
 ^^ I take all these away $$
 ^^ I go put outside $$
 ^^ oh yeah yeah $$
@@ -431,12 +445,13 @@
 ^^ I put $$
 ^^ I want I put the roof on $$
 ^^ no $$
-^^   I go out now $$
+^^ I go I go out now $$
 ^^ no $$
 ^^ no $$
 ^^ my hut always fall down $$
 ^^ please put my hut up again please $$
 ^^ yeah $$
+^^ xxx $$
 ^^ it fall bit $$
 ^^ fall to bit $$
 ^^ please put it up again please $$
@@ -447,11 +462,11 @@
 ^^ yeah $$
 ^^ do not eat me $$
 ^^ it be my hut $$
-^^ I  $$
-^^ I  $$
-^^ I  $$
-^^   I go sleep $$
-^^  here $$
+^^ I xxx $$
+^^ I xxx $$
+^^ I xxx $$
+^^ I I I go sleep $$
+^^ xxx here $$
 ^^ yeah $$
 ^^ din $$
 ^^ I put those $$
@@ -459,7 +474,7 @@
 ^^ yeah $$
 ^^ Gumdrop $$
 ^^ run $$
-^^  the hut up $$
+^^ xxx the hut up $$
 ^^ just eat my hut up $$
 ^^ yeah $$
 ^^ all fall down $$
@@ -494,9 +509,9 @@
 ^^ I want talk Dan_dog $$
 ^^ I want talk Dan_dog $$
 ^^ I $$
-^^    I want play Dan_dog $$
+^^ I I want I want play Dan_dog $$
 ^^ I want Dan_dog Mummy $$
-^^   I want Dan_dog Mummy $$
+^^ I want I want Dan_dog Mummy $$
 ^^ that $$
 ^^ I have get Dan_dog $$
 ^^ Dan_dog dead $$

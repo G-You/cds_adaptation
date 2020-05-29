@@ -9,7 +9,7 @@
 ^^ yeah $$
 ^^ yes he do $$
 ^^ no $$
-^^     because you do not let him $$
+^^ because you didn't make because you do not let him $$
 ^^ no $$
 ^^ be snore $$
 ^^ yeah $$
@@ -19,32 +19,35 @@
 ^^ yeah $$
 ^^ and now it be your turn $$
 ^^ you can go for that $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ it go on that $$
 ^^ it $$
 ^^ there $$
-^^      it lay a egg on there $$
+^^ it layed an egg on it lay a egg on there $$
 ^^ yeah $$
-^^ I go to get  out $$
+^^ I go to get xxx out $$
 ^^ there $$
 ^^ to wash Terence $$
 ^^ he be go $$
 ^^ yes he do $$
+^^ xxx $$
 ^^ yes $$
 ^^ why $$
 ^^ how $$
 ^^ no $$
 ^^ Anna $$
-^^  that duck lay that egg on Terence $$
+^^ Terence that duck lay that egg on Terence $$
 ^^ and he be $$
 ^^ yeah $$
 ^^ yeah $$
-^^   a bit have $$
+^^ a bit a bit have $$
 ^^ yeah $$
 ^^ but that bit do not $$
 ^^ yeah $$
 ^^ of course $$
+^^ xxx $$
 ^^ I have get my spanner $$
 ^^ let us turn this over $$
 ^^ he go to drive there $$
@@ -55,8 +58,9 @@
 ^^ yeah $$
 ^^ he not diesel $$
 ^^ no $$
+^^ xxx $$
 ^^ this be the sort of petrol he ask $$
-^^       this be the petrol he ask $$
+^^ this is sort of this is this be the petrol he ask $$
 ^^ yes $$
 ^^ yeah $$
 ^^ gallon $$
@@ -67,7 +71,7 @@
 ^^ go through $$
 ^^ why $$
 ^^ no $$
-^^ there be    a bit of egg on his nose $$
+^^ there be a bit of a bit of egg on his nose $$
 ^^ no $$
 ^^ wash off $$
 ^^ yeah $$
@@ -78,7 +82,7 @@
 ^^ the man can not reach it $$
 ^^ what $$
 ^^ yeah $$
-^^ I go  $$
+^^ I go xxx $$
 ^^ huh $$
 ^^ I be get my car out $$
 ^^ this car $$
@@ -90,7 +94,7 @@
 ^^ that be Ben car $$
 ^^ yeah $$
 ^^ it be go into there $$
-^^ into  $$
+^^ into xxx $$
 ^^ into car $$
 ^^ I do not know where it be $$
 ^^ I do not know where it can be $$
@@ -102,8 +106,8 @@
 ^^ he be go $$
 ^^ he be go down $$
 ^^ it go down there $$
-^^ it go on the  $$
-^^  this be Donald $$
+^^ it go on the xxx $$
+^^ this this be Donald $$
 ^^ Old_Macdonald this be $$
 ^^ yeah $$
 ^^ orange juice $$
@@ -113,7 +117,7 @@
 ^^ that car $$
 ^^ no $$
 ^^ they have not $$
-^^ not the  one $$
+^^ not the xxx one $$
 ^^ that one $$
 ^^ they have steal that one $$
 ^^ I do not know $$
@@ -131,6 +135,7 @@
 ^^ mhm $$
 ^^ it be my turn to have the Volkswagen $$
 ^^ yeah $$
+^^ xxx $$
 ^^ when he be in it he do not let me come in it $$
 ^^ when I use it he can not $$
 ^^ my hand be not dirt $$
@@ -140,7 +145,7 @@
 ^^ yeah $$
 ^^ one be a tailor $$
 ^^ a tailor $$
-^^ and   and one be a man $$
+^^ and one was and one be a man $$
 ^^ no $$
 ^^ some bad do not do it $$
 ^^ no $$
@@ -149,14 +154,14 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ green $$
-^^  Robbie $$
+^^ um Robbie $$
 ^^ Robbie tell $$
 ^^ yes $$
 ^^ yes $$
 ^^ yeah $$
-^^  in the ditch $$
+^^ um in the ditch $$
 ^^ look for his friend Pingu $$
-^^  no $$
+^^ um no $$
 ^^ it be near a farm $$
 ^^ yeah $$
 ^^ my farm $$
@@ -169,6 +174,7 @@
 ^^ they over there $$
 ^^ I get them $$
 ^^ come on $$
+^^ xxx $$
 ^^ I be get those three $$
 ^^ no $$
 ^^ they have not $$
@@ -178,12 +184,12 @@
 ^^ here they be $$
 ^^ yeah $$
 ^^ yeah $$
-^^  there $$
+^^ xxx there $$
 ^^ all that work be make me tire $$
 ^^ mhm $$
 ^^ that be Gumdrop $$
 ^^ yeah $$
-^^  chip $$
+^^ er chip $$
 ^^ yeah $$
 ^^ yes $$
 ^^ oh yes they do $$
@@ -191,7 +197,7 @@
 ^^ he be get bean in him $$
 ^^ I can have Gumdrop $$
 ^^ he be go to Morrison because he be get some doughnut to deliver $$
-^^  apple $$
+^^ um apple $$
 ^^ oh no we have not $$
 ^^ oh no $$
 ^^ and where can $$
@@ -202,8 +208,10 @@
 ^^ what ramp do you mean $$
 ^^ which ramp $$
 ^^ why do you mean that ramp $$
-^^ I get my  $$
+^^ I get my xxx $$
+^^ xxx $$
 ^^ yeah $$
+^^ xxx $$
 ^^ hammer $$
 ^^ and drill and hammer $$
 ^^ and pliers $$
@@ -220,6 +228,7 @@
 ^^ other one have go off $$
 ^^ I be good at use tool $$
 ^^ yeah of course $$
+^^ xxx $$
 ^^ which one $$
 ^^ and I screw it $$
 ^^ I think I am go to drill it $$
@@ -229,7 +238,7 @@
 ^^ so it do not come off $$
 ^^ yeah $$
 ^^ who $$
-^^   you can be P_C_Selby $$
+^^ I can't you can be P_C_Selby $$
 ^^ yeah $$
 ^^ here you be $$
 ^^ yeah $$
@@ -246,19 +255,20 @@
 ^^ where be the key $$
 ^^ you look for them $$
 ^^ oh yes $$
-^^   I need the key to lock the hand $$
+^^ I need I need the key to lock the hand $$
 ^^ you set the shop up $$
 ^^ yeah $$
 ^^ I will shoot your egg again $$
 ^^ shoot your egg again $$
 ^^ I will get my gun $$
 ^^ where be my gun $$
-^^ shoot  your $$
+^^ shoot your your $$
 ^^ and you have to drop them $$
 ^^ I shoot all your egg $$
 ^^ shoot all the egg down $$
 ^^ oh no $$
-^^ I get   get your $$
+^^ xxx $$
+^^ I get your egg get your $$
 ^^ why $$
 ^^ I mean those three egg $$
 ^^ those four egg $$
@@ -269,7 +279,7 @@
 ^^ where be the other one $$
 ^^ there it be $$
 ^^ there it be $$
-^^    where have the others go $$
+^^ where the other where have the others go $$
 ^^ yeah $$
 ^^ and can you put the top on them $$
 ^^ can you $$
@@ -284,6 +294,7 @@
 ^^ bite the dust $$
 ^^ you can be the doctor $$
 ^^ yeah $$
+^^ a $$
 ^^ what $$
 ^^ no it have not $$
 ^^ yeah $$
@@ -308,7 +319,7 @@
 ^^ yes $$
 ^^ that do not work $$
 ^^ no $$
-^^ I    want to make a house for Pingu $$
+^^ I wanna make er want to make a house for Pingu $$
 ^^ yes $$
 ^^ you help me $$
 ^^ one there $$
@@ -317,6 +328,7 @@
 ^^ I want the door $$
 ^^ he live in this door $$
 ^^ and he open the door $$
+^^ xxx $$
 ^^ he make it go away $$
 ^^ yeah $$
 ^^ will not will not will not will not will not will not will not will not $$
@@ -325,15 +337,16 @@
 ^^ do I take it out $$
 ^^ I do $$
 ^^ yeah $$
-^^  I do not know $$
+^^ um I do not know $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ can I put a man on here $$
-^^   can you move your hand will you $$
+^^ will you can you move your hand will you $$
 ^^ please will you please move this hand now $$
 ^^ which bit $$
-^^ shall we put  the barrier to $$
+^^ xxx $$
+^^ shall we put these the barrier to $$
 ^^ yeah and his friend $$
 ^^ Pinga $$
 ^^ this be Pinga $$
@@ -367,14 +380,15 @@
 ^^ a bridge on it $$
 ^^ a bridge on it $$
 ^^ a bridge on it $$
-^^ I  a bridge on $$
+^^ I xxx a bridge on $$
+^^ xxx $$
 ^^ yeah $$
 ^^ you like it $$
 ^^ it be a very fun igloo $$
 ^^ yeah $$
 ^^ yes it be $$
-^^  there $$
-^^ and he be have  his friend Dobbin in $$
+^^ er there $$
+^^ and he be have his his friend Dobbin in $$
 ^^ yes $$
 ^^ yeah $$
 ^^ grass $$
@@ -385,13 +399,14 @@
 ^^ yeah $$
 ^^ his friend cow $$
 ^^ Lynn $$
-^^  hay $$
+^^ um hay $$
 ^^ he like fish $$
 ^^ yeah $$
-^^  I  $$
+^^ I I xxx $$
 ^^ take her knickers off $$
 ^^ I am go to give her a bath in your shop bag $$
 ^^ yeah $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -408,6 +423,7 @@
 ^^ no $$
 ^^ somebody eat it $$
 ^^ oh no $$
+^^ xxx $$
 ^^ Aran be come $$
 ^^ Aran be come $$
 ^^ I be go to get my own ice $$
@@ -447,7 +463,7 @@
 ^^ thanks $$
 ^^ you take her away $$
 ^^ I be $$
-^^   you  some ice $$
+^^ you have you xxx some ice $$
 ^^ I be in the ball pool $$
 ^^ I be in the ball pool $$
 ^^ I can not come out $$
@@ -457,7 +473,7 @@
 ^^ yes $$
 ^^ I can not get to you $$
 ^^ I be not in the mood $$
-^^    I have be go in too many pool today $$
+^^ I have been I have be go in too many pool today $$
 ^^ no $$
 ^^ no $$
 ^^ drop me in the river $$
@@ -466,7 +482,7 @@
 ^^ in $$
 ^^ in the pond $$
 ^^ ow $$
-^^      I want you to $$
+^^ I want you to drop I want you to $$
 ^^ I want to play it now $$
 ^^ you can be Bella $$
 ^^ Bella hold your egg $$
@@ -476,7 +492,7 @@
 ^^ I go play with my gun now $$
 ^^ bang $$
 ^^ you have $$
-^^   they have to go all the floor $$
+^^ they have they have to go all the floor $$
 ^^ that be what happen $$
 ^^ yeah $$
 ^^ do not drop in the dust $$
@@ -530,6 +546,7 @@
 ^^ drop in the dust $$
 ^^ yeah $$
 ^^ that dust $$
+^^ xxx $$
 ^^ oh no it $$
 ^^ I snatch it off it $$
 ^^ that $$
@@ -543,12 +560,12 @@
 ^^ yes please $$
 ^^ you pick your egg up $$
 ^^ yeah $$
-^^ what  $$
+^^ what xxx $$
 ^^ you can be Bella $$
 ^^ crash into the bank $$
 ^^ yeah $$
 ^^ Anna $$
-^^   I can do that $$
+^^ I can I can do that $$
 ^^ I am hop on one leg $$
 ^^ yeah $$
 ^^ I be $$
@@ -556,7 +573,7 @@
 ^^ I am hop on one leg $$
 ^^ hello Granny_Dryden $$
 ^^ I am wear these shorts $$
-^^  I am fly $$
+^^ um I am fly $$
 ^^ fly across ceiling $$
 ^^ I think this one empty $$
 ^^ you hold it $$
@@ -568,7 +585,7 @@
 ^^ hello Ted $$
 ^^ see Granny_Dryden can not reach her ceiling $$
 ^^ no $$
-^^  Granny_Dryden can not reach her ceiling $$
+^^ er Granny_Dryden can not reach her ceiling $$
 ^^ I think the tin be empty $$
 ^^ yeah $$
 ^^ no $$
@@ -586,7 +603,7 @@
 ^^ no $$
 ^^ they do not $$
 ^^ brumm $$
-^^  hello Ted $$
+^^ hello hello Ted $$
 ^^ hello Ted $$
 ^^ of course I be not $$
 ^^ the one I do the garden in sometimes $$
@@ -614,7 +631,7 @@
 ^^ all right $$
 ^^ brumm $$
 ^^ hello Alf_Thompson $$
-^^  some sheet $$
+^^ um some sheet $$
 ^^ here you be $$
 ^^ they be not shorts $$
 ^^ trouser $$
@@ -622,7 +639,9 @@
 ^^ I be go to help her with the ceiling $$
 ^^ no $$
 ^^ be this the barn $$
+^^ a $$
 ^^ I climb this one $$
+^^ a $$
 ^^ I bang on the head $$
 ^^ brumm $$
 ^^ hello Sarah $$
@@ -632,11 +651,12 @@
 ^^ hello Miss_Hubboard $$
 ^^ of course $$
 ^^ yes I do $$
-^^  they be very dirt $$
+^^ er they be very dirt $$
 ^^ I put dirt on them $$
 ^^ brumm $$
 ^^ brumm $$
-^^  take off his truck $$
+^^ xxx $$
+^^ xxx take off his truck $$
 ^^ hello Missis_Goggins $$
 ^^ of course I be not $$
 ^^ be there $$
@@ -647,14 +667,14 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ his pliers $$
-^^   be there any $$
+^^ is there be there any $$
 ^^ be there any post for Alf_Thompson $$
 ^^ yeah $$
 ^^ here you be $$
-^^    be there any post  for Alf_Thompson $$
+^^ are there any be there any post for for Alf_Thompson $$
 ^^ here you be $$
 ^^ I have not $$
-^^  can I ask your wife something Alf_Thompson $$
+^^ um can I ask your wife something Alf_Thompson $$
 ^^ here you be Dorothy $$
 ^^ these be the egg for your wife $$
 ^^ what $$
@@ -666,7 +686,7 @@
 ^^ here be some other letter $$
 ^^ hello Missis_Goggins $$
 ^^ be there any more post now $$
-^^  Granny_Dryden $$
+^^ er Granny_Dryden $$
 ^^ brumm $$
 ^^ hello Granny_Dryden $$
 ^^ I have get some post for you $$
@@ -675,11 +695,12 @@
 ^^ I will get him $$
 ^^ you look after all that $$
 ^^ all right $$
+^^ xxx $$
 ^^ oh yes please $$
-^^ I be go to make  some  $$
+^^ I be go to make some some xxx $$
 ^^ the green one $$
-^^ I  $$
-^^  pour $$
+^^ I xxx $$
+^^ pour pour $$
 ^^ some sugar in $$
 ^^ it be too late $$
 ^^ I be a silly man $$
@@ -691,7 +712,7 @@
 ^^ why do you drop them $$
 ^^ drink it out the sugar basin $$
 ^^ yeah $$
-^^  granny $$
+^^ er granny $$
 ^^ I be go to see Ted_Glen $$
 ^^ have my letter $$
 ^^ Peter_Fog $$
@@ -704,7 +725,7 @@
 ^^ it be not $$
 ^^ it be still bed $$
 ^^ yeah $$
-^^     I be go to have tea for my breakfast $$
+^^ I'm going to have I be go to have tea for my breakfast $$
 ^^ go go go go go go $$
 ^^ go go go go go go go go go $$
 ^^ man man man man man $$
@@ -723,17 +744,17 @@
 ^^ hello Miss_Hubboard $$
 ^^ here you be $$
 ^^ here you be $$
-^^ they be the one   for Ted_Glen $$
-^^    I have get one for Ted_Glen $$
+^^ they be the one for Ted for Ted_Glen $$
+^^ I have got I have get one for Ted_Glen $$
 ^^ I have get one for Granny_Dryden $$
 ^^ yeah $$
 ^^ I find those one $$
 ^^ yeah $$
 ^^ be there any more letter $$
-^^    why be there diversion $$
+^^ why are there why be there diversion $$
 ^^ I take the $$
 ^^ go $$
-^^     I take that to Ted_Glen $$
+^^ I take that to I take that to Ted_Glen $$
 ^^ they will get back $$
 ^^ the fire will pass ladder to them $$
 ^^ yeah $$
@@ -741,10 +762,10 @@
 ^^ Ted $$
 ^^ Ted $$
 ^^ yeah $$
-^^  can you find it for me $$
+^^ um can you find it for me $$
 ^^ yeah $$
 ^^ yeah I do $$
-^^  this  $$
+^^ this this xxx $$
 ^^ the fire $$
 ^^ the bridge be break $$
 ^^ yes I do $$
@@ -781,15 +802,15 @@
 ^^ Granny_Dryden $$
 ^^ let us play with them again $$
 ^^ to the crocodile $$
-^^  Postman_Pat $$
+^^ xxx Postman_Pat $$
 ^^ I want to play at Postman_Pat $$
-^^  adventure with the crocodile $$
+^^ um adventure with the crocodile $$
 ^^ yeah $$
 ^^ hello Missis_Goggins $$
 ^^ you have get something in your eye $$
 ^^ yeah $$
 ^^ yeah $$
-^^  something dirt $$
+^^ um something dirt $$
 ^^ something dirt $$
 ^^ I get it out $$
 ^^ I be good at get thing out_of your hair $$
@@ -801,17 +822,18 @@
 ^^ why $$
 ^^ me $$
 ^^ can we play at Master_Tubby $$
-^^    you put it the wrong way $$
+^^ you put it you put it the wrong way $$
 ^^ will not will not will not will not will not will not will not $$
+^^ xxx $$
 ^^ he do that $$
 ^^ I have him a moment ago $$
 ^^ I put him in the bath $$
 ^^ I put him in the bath $$
-^^ he  $$
+^^ he xxx $$
 ^^ there $$
 ^^ you can not see him $$
 ^^ he can not see you $$
-^^ because I put  the thing on him $$
+^^ because I put that the thing on him $$
 ^^ and it hurt him $$
 ^^ and it be the soap that hurt him $$
 ^^ I am put the soap on him $$
@@ -819,7 +841,7 @@
 ^^ yes it be $$
 ^^ yeah $$
 ^^ I have not finish wash him $$
-^^       I be try to get the plug hole out $$
+^^ I'm trying to get the plug I be try to get the plug hole out $$
 ^^ because it be break $$
 ^^ no $$
 ^^ I be still wash him $$
@@ -829,7 +851,7 @@
 ^^ he say his shoe hurt $$
 ^^ hello $$
 ^^ hello hello hello hello hello $$
-^^  Master_Tubby shoe hurt $$
+^^ um Master_Tubby shoe hurt $$
 ^^ you get the measure thing out $$
 ^^ I know $$
 ^^ oh yeah $$
@@ -852,7 +874,7 @@
 ^^ yeah $$
 ^^ just there $$
 ^^ there $$
-^^   that one $$
+^^ that that that one $$
 ^^ yeah $$
 ^^ no $$
 ^^ you put it in that wrong one $$
@@ -871,7 +893,7 @@
 ^^ put a roof on $$
 ^^ when $$
 ^^ those be the step up to the barn $$
-^^  up the step $$
+^^ um up the step $$
 ^^ my Daddy tell me to do it $$
 ^^ no $$
 ^^ no $$
@@ -886,8 +908,9 @@
 ^^ this be $$
 ^^ yeah $$
 ^^ it do $$
-^^ when the  $$
+^^ when the xxx $$
 ^^ what a mess $$
+^^ xxx $$
 ^^ yeah $$
 ^^ to the harbor $$
 ^^ yeah $$
@@ -896,15 +919,17 @@
 ^^ yeah $$
 ^^ now I be make a garage so the truck do not get him $$
 ^^ uhoh $$
-^^   it be Drybone train $$
+^^ it's Drybone's it be Drybone train $$
 ^^ it be a engine shed $$
 ^^ he be go in it $$
 ^^ if we put one to stop bad come $$
+^^ xxx $$
 ^^ yeah $$
 ^^ steal it $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ no $$
+^^ xxx $$
 ^^ now put this in there $$
 ^^ so they close it $$
 ^^ it be very old now $$
@@ -914,7 +939,7 @@
 ^^ you $$
 ^^ belong to you a very long time $$
 ^^ yeah $$
-^^  when you be little girl $$
+^^ um when you be little girl $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ it be yours $$
@@ -928,7 +953,8 @@
 ^^ we make the back safe $$
 ^^ yeah $$
 ^^ so nobody can steal $$
-^^ say  $$
+^^ xxx $$
+^^ say xxx $$
 ^^ they get into $$
 ^^ get into $$
 ^^ get into $$
@@ -942,7 +968,7 @@
 ^^ what will the engine man think $$
 ^^ you can be the engine man $$
 ^^ yeah $$
-^^  I be the guard $$
+^^ um I be the guard $$
 ^^ and it be get window $$
 ^^ yeah $$
 ^^ there $$
@@ -973,9 +999,10 @@
 ^^ it $$
 ^^ yeah $$
 ^^ which bit $$
-^^    think I put it $$
+^^ er I think think I put it $$
+^^ a $$
 ^^ yeah $$
-^^     I be go to be the rob $$
+^^ I'm going to be I be go to be the rob $$
 ^^ go go go go go go go go go go go go $$
 ^^ yeah $$
 ^^ no $$
@@ -994,20 +1021,20 @@
 ^^ yes $$
 ^^ yes $$
 ^^ I will take your drive out $$
-^^ and  get a good engine $$
+^^ and xxx get a good engine $$
 ^^ I think this have get a good engine $$
-^^ I think    it be get a bump on it just there Mister_driver $$
+^^ I think it's got a it be get a bump on it just there Mister_driver $$
 ^^ why do you put your drive in $$
 ^^ why $$
 ^^ you can not $$
-^^   I knock it down shall I $$
+^^ I don't I knock it down shall I $$
 ^^ look Mister_driverman $$
 ^^ pardon $$
 ^^ look Mister_driverman $$
 ^^ look Mister_driverman $$
 ^^ find the rob $$
 ^^ that be the rob over there $$
-^^   you look for the hand $$
+^^ you get you look for the hand $$
 ^^ to lock the rob up $$
 ^^ yeah $$
 ^^ when Anna come $$
@@ -1021,7 +1048,7 @@
 ^^ this be prison $$
 ^^ yeah $$
 ^^ I put a door there $$
-^^ I be get  $$
+^^ I be get xxx $$
 ^^ yeah $$
 ^^ until Mister_Plod can take you to prison $$
 ^^ yeah $$
@@ -1047,19 +1074,21 @@
 ^^ go and get Norman_Price Mummy $$
 ^^ yeah $$
 ^^ there $$
-^^         I just $$
+^^ I just I just I just I just I just $$
 ^^ I just do that $$
+^^ xxx $$
 ^^ I do it $$
 ^^ no $$
 ^^ I do not $$
 ^^ I just put them $$
 ^^ I just bang that hole $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ three hour $$
-^^ want a piece of wood  on my hand to make them big $$
+^^ want a piece of wood on on my hand to make them big $$
 ^^ them $$
 ^^ why $$
 ^^ I try not to $$
@@ -1078,6 +1107,7 @@
 ^^ yeah $$
 ^^ I do your horse shoe now $$
 ^^ I make some for that horse $$
+^^ xxx $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$

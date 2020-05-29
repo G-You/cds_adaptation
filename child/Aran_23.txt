@@ -18,6 +18,7 @@
 ^^ brick $$
 ^^ those brick $$
 ^^ brick $$
+^^ a $$
 ^^ brick $$
 ^^ I get $$
 ^^ get red $$
@@ -65,6 +66,7 @@
 ^^ oh $$
 ^^ Daddy $$
 ^^ oh $$
+^^ a $$
 ^^ bus $$
 ^^ bird $$
 ^^ bird $$
@@ -95,6 +97,7 @@
 ^^ grass $$
 ^^ grass $$
 ^^ sss $$
+^^ xxx $$
 ^^ sss $$
 ^^ green $$
 ^^ green $$
@@ -183,6 +186,7 @@
 ^^ bang bang $$
 ^^ oh bang $$
 ^^ tractor $$
+^^ um $$
 ^^ Daddy $$
 ^^ tractor Daddy $$
 ^^ bang bang $$
@@ -203,7 +207,7 @@
 ^^ there bang bang $$
 ^^ big bang bang $$
 ^^ there be bang bang $$
-^^  it train $$
+^^ it it train $$
 ^^ choo $$
 ^^ blue $$
 ^^ sand $$
@@ -211,6 +215,7 @@
 ^^ cry $$
 ^^ dodo $$
 ^^ drive $$
+^^ a $$
 ^^ eye $$
 ^^ nose $$
 ^^ lip $$
@@ -223,6 +228,7 @@
 ^^ wheel $$
 ^^ train $$
 ^^ Daddy $$
+^^ er $$
 ^^ cry $$
 ^^ drive $$
 ^^ drive $$
@@ -318,6 +324,7 @@
 ^^ man $$
 ^^ hair $$
 ^^ hair $$
+^^ a $$
 ^^ no $$
 ^^ want $$
 ^^ play $$
@@ -343,8 +350,10 @@
 ^^ Mum $$
 ^^ drink $$
 ^^ cup $$
+^^ a $$
 ^^ pie $$
 ^^ pie $$
+^^ a $$
 ^^ ice $$
 ^^ bite it $$
 ^^ I bite it $$
@@ -382,6 +391,7 @@
 ^^ floor $$
 ^^ there $$
 ^^ on there $$
+^^ a $$
 ^^ lady $$
 ^^ brush brush $$
 ^^ mine $$
@@ -426,6 +436,7 @@
 ^^ look $$
 ^^ look $$
 ^^ that $$
+^^ xxx $$
 ^^ there $$
 ^^ tractor $$
 ^^ tractor $$
@@ -485,3 +496,4 @@
 ^^ there $$
 ^^ money $$
 ^^ there $$
+^^ a $$

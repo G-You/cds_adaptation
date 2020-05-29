@@ -1,3 +1,4 @@
+^^ xxx $$
 ^^ duck $$
 ^^ duck $$
 ^^ on there $$
@@ -19,9 +20,10 @@
 ^^ story $$
 ^^ story $$
 ^^ story $$
+^^ xxx $$
 ^^ mhm $$
 ^^ huh $$
-^^  story $$
+^^ um story $$
 ^^ story $$
 ^^ mhm $$
 ^^ no $$
@@ -40,8 +42,8 @@
 ^^ no way $$
 ^^ no way no $$
 ^^ huh $$
-^^ me on  $$
-^^    me on me Eeyore $$
+^^ me on xxx $$
+^^ me on me me on me Eeyore $$
 ^^ milk $$
 ^^ Mama stick $$
 ^^ Mummy stick $$
@@ -61,7 +63,7 @@
 ^^ bean $$
 ^^ chip $$
 ^^ milk $$
-^^ milk  $$
+^^ milk xxx $$
 ^^ a boo $$
 ^^ no $$
 ^^ huh $$
@@ -93,6 +95,7 @@
 ^^ mhm $$
 ^^ Mama out $$
 ^^ Mama out $$
+^^ xxx $$
 ^^ out the door $$
 ^^ out the door $$
 ^^ out the door $$
@@ -110,7 +113,12 @@
 ^^ dock $$
 ^^ doctor $$
 ^^ doctor $$
+^^ xxx $$
+^^ xxx $$
 ^^ again $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Saturday afternoon $$
 ^^ there $$
 ^^ no $$
@@ -125,6 +133,7 @@
 ^^ shoe $$
 ^^ to do $$
 ^^ bread $$
+^^ xxx $$
 ^^ bed $$
 ^^ no $$
 ^^ no $$
@@ -136,6 +145,7 @@
 ^^ no $$
 ^^ there $$
 ^^ there $$
+^^ xxx $$
 ^^ there $$
 ^^ moon $$
 ^^ that $$
@@ -164,7 +174,7 @@
 ^^ black hen $$
 ^^ no $$
 ^^ mhm $$
-^^  Mama $$
+^^ xxx Mama $$
 ^^ Mama on there $$
 ^^ in there $$
 ^^ Mama in there $$
@@ -184,16 +194,19 @@
 ^^ six $$
 ^^ mick $$
 ^^ mhm $$
-^^ fish  $$
+^^ fish xxx $$
 ^^ four $$
 ^^ baba $$
 ^^ I Anna baba $$
 ^^ sheep $$
 ^^ home $$
+^^ xxx $$
 ^^ sheep $$
 ^^ wool $$
 ^^ in there $$
 ^^ there $$
+^^ xxx $$
+^^ xxx $$
 ^^ no $$
 ^^ story $$
 ^^ story $$
@@ -225,9 +238,9 @@
 ^^ want story $$
 ^^ story $$
 ^^ story $$
-^^  Mama story $$
+^^ Mama Mama story $$
 ^^ story $$
-^^ Mama  story $$
+^^ Mama xxx story $$
 ^^ story $$
 ^^ Mama story $$
 ^^ Mummy story $$
@@ -240,7 +253,7 @@
 ^^ huh $$
 ^^ no Mama $$
 ^^ no Mama $$
-^^ Mama  story $$
+^^ Mama xxx story $$
 ^^ mhm $$
 ^^ mhm $$
 ^^ mhm $$
@@ -274,6 +287,7 @@
 ^^ mhm $$
 ^^ no $$
 ^^ me $$
+^^ xxx $$
 ^^ here $$
 ^^ here $$
 ^^ here $$
@@ -303,13 +317,13 @@
 ^^ Mama beer $$
 ^^ Mama $$
 ^^ Mama away $$
-^^ and Dada  $$
+^^ and Dada xxx $$
 ^^ Dada beer $$
 ^^ wine $$
 ^^ Mama wine $$
 ^^ Dada beer $$
 ^^ there $$
-^^  juice $$
+^^ xxx juice $$
 ^^ me on nice $$
 ^^ me there $$
 ^^ huh $$
@@ -321,6 +335,8 @@
 ^^ Mama Anna $$
 ^^ baba $$
 ^^ there on there $$
+^^ xxx $$
+^^ xxx $$
 ^^ em $$
 ^^ em $$
 ^^ no $$
@@ -334,7 +350,7 @@
 ^^ mhm $$
 ^^ banana $$
 ^^ orange $$
-^^ on there  shop $$
+^^ on there xxx shop $$
 ^^ there $$
 ^^ on there $$
 ^^ Mama on there $$
@@ -349,9 +365,10 @@
 ^^ there $$
 ^^ where $$
 ^^ there $$
-^^  there $$
+^^ er there $$
 ^^ huh $$
 ^^ there $$
+^^ xxx $$
 ^^ here you be $$
 ^^ milk $$
 ^^ milk in there $$
@@ -371,8 +388,8 @@
 ^^ me Mama shop $$
 ^^ morning $$
 ^^ mhm $$
-^^  there $$
-^^  two please $$
+^^ er there $$
+^^ um two please $$
 ^^ tea in there $$
 ^^ in there $$
 ^^ me chicken in there $$
@@ -403,16 +420,18 @@
 ^^ Nina $$
 ^^ mhm $$
 ^^ two tea $$
+^^ xxx $$
 ^^ Mama $$
 ^^ two Mama Anna $$
 ^^ two here $$
 ^^ there $$
-^^ there  $$
+^^ there xxx $$
+^^ xxx $$
 ^^ juice Mama $$
 ^^ Dada tea $$
 ^^ mhm $$
 ^^ Mama tea $$
-^^  Mama $$
+^^ xxx Mama $$
 ^^ Mama on there $$
 ^^ mhm $$
 ^^ there please $$
@@ -430,7 +449,7 @@
 ^^ there $$
 ^^ oh no $$
 ^^ in there $$
-^^   there $$
+^^ there there there $$
 ^^ I want there $$
 ^^ mhm $$
 ^^ bake bean $$
@@ -443,13 +462,13 @@
 ^^ no $$
 ^^ oh no $$
 ^^ I want a ice please $$
-^^  please $$
+^^ xxx please $$
 ^^ byebye $$
 ^^ oh no $$
 ^^ huh $$
 ^^ in there $$
 ^^ mhm $$
-^^  go in there $$
+^^ xxx go in there $$
 ^^ tea in there $$
 ^^ mhm $$
 ^^ I want nice $$
@@ -465,7 +484,7 @@
 ^^ Mummy $$
 ^^ no $$
 ^^ no away $$
-^^  banana back $$
+^^ nana banana back $$
 ^^ banana $$
 ^^ pence pence pence pence $$
 ^^ banana $$
@@ -506,21 +525,22 @@
 ^^ mhm $$
 ^^ oh dear $$
 ^^ Mama $$
-^^ me  $$
+^^ me xxx $$
 ^^ Mama brick $$
 ^^ tower Mama $$
 ^^ I want my tower $$
 ^^ it sleep $$
-^^   Anna big baba in there $$
+^^ big baba Anna big baba in there $$
 ^^ mhm $$
-^^ me  $$
-^^ there baba  a sleep $$
+^^ me xxx $$
+^^ xxx $$
+^^ there baba xxx a sleep $$
 ^^ I want baba tire $$
 ^^ want sleep $$
 ^^ mhm $$
 ^^ baba tire sleep $$
-^^ baba  $$
-^^ baba  $$
+^^ baba xxx $$
+^^ baba xxx $$
 ^^ mhm $$
 ^^ want sleep $$
 ^^ mhm $$
@@ -547,7 +567,7 @@
 ^^ a white $$
 ^^ pig $$
 ^^ pig $$
-^^  Mama pig $$
+^^ Mama Mama pig $$
 ^^ Anna see in there $$
 ^^ Mama boo $$
 ^^ boo $$
@@ -589,10 +609,10 @@
 ^^ boy naughty $$
 ^^ boy in there $$
 ^^ boy away $$
-^^  boy bad boy Mama $$
+^^ boy boy bad boy Mama $$
 ^^ boy Mama $$
 ^^ mhm $$
-^^ black  boy Mama $$
+^^ black boy boy Mama $$
 ^^ mhm $$
 ^^ black boy Mama $$
 ^^ in there $$
@@ -626,21 +646,28 @@
 ^^ no $$
 ^^ nice baba $$
 ^^ Muffet $$
+^^ xxx $$
+^^ xxx $$
 ^^ one sit down $$
-^^  away $$
+^^ xxx $$
+^^ xxx away $$
 ^^ Jack $$
+^^ xxx $$
+^^ xxx $$
+^^ xxx $$
 ^^ Humpty_Dumpty $$
 ^^ sit wall $$
 ^^ fall $$
-^^  again $$
+^^ xxx $$
+^^ xxx again $$
 ^^ man $$
-^^  again $$
+^^ xxx again $$
 ^^ me two one story $$
 ^^ two story away $$
 ^^ one story back $$
 ^^ mhm $$
 ^^ mhm $$
-^^ one  four six there $$
+^^ one four four six there $$
 ^^ tickle Mama $$
 ^^ no $$
 ^^ oh dear $$
@@ -678,7 +705,7 @@
 ^^ Bobby_bear naughty $$
 ^^ mhm $$
 ^^ on there $$
-^^ bang  $$
+^^ bang xxx $$
 ^^ on there $$
 ^^ mhm $$
 ^^ stone $$
@@ -698,6 +725,7 @@
 ^^ Bobby_bear $$
 ^^ in there $$
 ^^ me $$
+^^ xxx $$
 ^^ get set $$
 ^^ go $$
 ^^ me run here $$
@@ -708,6 +736,7 @@
 ^^ me hold Bobby_bear $$
 ^^ go $$
 ^^ go $$
+^^ xxx $$
 ^^ Bobby_bear no run $$
 ^^ no $$
 ^^ me $$
@@ -732,7 +761,7 @@
 ^^ me want two away $$
 ^^ me run $$
 ^^ me baba $$
-^^ me  away $$
+^^ me xxx away $$
 ^^ Mama a b please $$
 ^^ set $$
 ^^ go $$
@@ -758,12 +787,13 @@
 ^^ Mama there Mama baba $$
 ^^ Mama there Mama baba $$
 ^^ Mama on there $$
-^^  Mama $$
+^^ Mama Mama $$
 ^^ me fall down $$
 ^^ mhm $$
 ^^ me wee too $$
 ^^ me baba $$
-^^ no  me baba $$
+^^ no me me baba $$
+^^ xxx $$
 ^^ me fall down $$
 ^^ mhm $$
 ^^ there $$
@@ -796,7 +826,7 @@
 ^^ there Mama chair $$
 ^^ Anna on there $$
 ^^ Anna on there $$
-^^  me sit down $$
+^^ sit me sit down $$
 ^^ me get baba towel $$
 ^^ baba towel $$
 ^^ me get baba towel $$
@@ -813,6 +843,7 @@
 ^^ me baba bear sit on knee $$
 ^^ no $$
 ^^ no $$
+^^ xxx $$
 ^^ me baba $$
 ^^ mhm $$
 ^^ no $$
@@ -824,6 +855,7 @@
 ^^ Bobby sit in there $$
 ^^ Bobby me on there me chair $$
 ^^ me $$
+^^ xxx $$
 ^^ Bobby sit down Bobby chair $$
 ^^ mhm $$
 ^^ there $$
@@ -880,9 +912,9 @@
 ^^ oh no $$
 ^^ no $$
 ^^ baba brick in there mhm $$
-^^  here you be one brick $$
+^^ um here you be one brick $$
 ^^ mhm $$
-^^  there brick sleep $$
+^^ um there brick sleep $$
 ^^ mhm $$
 ^^ there sleep no $$
 ^^ there sleep $$
@@ -914,8 +946,10 @@
 ^^ brick no $$
 ^^ on there me baba brick $$
 ^^ that $$
-^^ where  $$
-^^ my  mhm $$
+^^ xxx $$
+^^ where xxx $$
+^^ my xxx mhm $$
+^^ xxx $$
 ^^ man $$
 ^^ mhm $$
 ^^ in there $$
@@ -925,6 +959,7 @@
 ^^ oh more brick $$
 ^^ another big brick $$
 ^^ another baba brick hide $$
+^^ xxx $$
 ^^ oh no $$
 ^^ more brick $$
 ^^ oooo pinch me brick again $$
@@ -936,6 +971,7 @@
 ^^ get oooo $$
 ^^ get Anna oooo $$
 ^^ mhm $$
+^^ xxx $$
 ^^ no $$
 ^^ no $$
 ^^ huh $$
@@ -950,12 +986,12 @@
 ^^ there two brick Mama $$
 ^^ mhm $$
 ^^ huh $$
-^^  me $$
+^^ me me $$
 ^^ no $$
 ^^ brick fall down $$
 ^^ huh $$
 ^^ oh dear $$
-^^   like Mama snake $$
+^^ like Mama like Mama snake $$
 ^^ Mama snake $$
 ^^ Mama $$
 ^^ no $$
@@ -969,7 +1005,7 @@
 ^^ huh $$
 ^^ Mama tire $$
 ^^ Mama sleep me no $$
-^^  Mum $$
+^^ um Mum $$
 ^^ the Mama $$
 ^^ there $$
 ^^ baba $$
@@ -987,6 +1023,7 @@
 ^^ sleep Mummy $$
 ^^ mhm $$
 ^^ huh $$
+^^ xxx $$
 ^^ mhm $$
 ^^ huh $$
 ^^ mhm $$
@@ -995,6 +1032,7 @@
 ^^ baba sit down Mama knee $$
 ^^ baba sit down on knee $$
 ^^ mhm $$
+^^ xxx $$
 ^^ huh $$
 ^^ mhm $$
 ^^ mhm $$
@@ -1005,33 +1043,33 @@
 ^^ more fence $$
 ^^ mmmm there too $$
 ^^ there Mama $$
-^^  there $$
+^^ xxx there $$
 ^^ mhm $$
 ^^ oh there mmmm there too $$
 ^^ mhm $$
 ^^ there $$
 ^^ mhm $$
-^^  Mama $$
+^^ xxx Mama $$
 ^^ mhm $$
 ^^ baa in there $$
 ^^ cow $$
 ^^ deer $$
 ^^ oh dear $$
-^^ me in there  Mama $$
-^^ Mama there  $$
+^^ me in there xxx Mama $$
+^^ Mama there xxx $$
 ^^ a brick $$
 ^^ mhm $$
 ^^ mhm $$
 ^^ huh $$
 ^^ there sit down $$
-^^  there Mama sit down $$
+^^ Mama there Mama sit down $$
 ^^ there Mama cow $$
 ^^ there Dada cow $$
 ^^ there baba cow $$
 ^^ there $$
 ^^ there $$
 ^^ Mama horse sit down $$
-^^ there baba   $$
+^^ there baba mm mm $$
 ^^ mhm $$
 ^^ hen $$
 ^^ where baba $$
@@ -1070,11 +1108,11 @@
 ^^ huh $$
 ^^ mhm $$
 ^^ mhm $$
-^^  there $$
+^^ xxx there $$
 ^^ oh dear $$
 ^^ baba deer fall down $$
 ^^ there baa up $$
-^^  up $$
+^^ xxx up $$
 ^^ mmmm up $$
 ^^ fall down $$
 ^^ mhm $$
@@ -1082,7 +1120,7 @@
 ^^ no $$
 ^^ one chick $$
 ^^ Mummy $$
-^^  me there $$
+^^ me me there $$
 ^^ ughoh fall down $$
 ^^ mhm $$
 ^^ there $$
@@ -1090,7 +1128,7 @@
 ^^ baba $$
 ^^ where Bobby_bear $$
 ^^ Bobby_bear sit down me knee $$
-^^   Bobby Mama me  $$
+^^ Bobby mhm Bobby Mama me xxx $$
 ^^ there Dada hen $$
 ^^ there Mama hen $$
 ^^ mhm $$
@@ -1113,22 +1151,22 @@
 ^^ mhm $$
 ^^ Mama there me $$
 ^^ there hide $$
-^^  Mama on there $$
+^^ Mama Mama on there $$
 ^^ no $$
 ^^ Mama there me back $$
 ^^ Mama baba sleep $$
 ^^ Mama $$
 ^^ no $$
-^^  toy $$
+^^ xxx toy $$
 ^^ I play Anna tea $$
 ^^ in the box $$
 ^^ in there bag $$
-^^  in there $$
+^^ xxx in there $$
 ^^ no $$
 ^^ lie down sleep $$
 ^^ Mama me Anna go Mama $$
 ^^ huh $$
-^^  me baba brick back $$
+^^ me me baba brick back $$
 ^^ huh $$
 ^^ me $$
 ^^ in there $$
@@ -1151,15 +1189,15 @@
 ^^ mhm $$
 ^^ a fast car mhm $$
 ^^ mhm $$
-^^ Mama  $$
-^^ Mama  $$
+^^ Mama xxx $$
+^^ Mama xxx $$
 ^^ me doctor Mama $$
 ^^ oh no $$
 ^^ where me big towel baba $$
 ^^ towel me big $$
 ^^ huh $$
 ^^ mhm $$
-^^  me towel me Bobby_bear chair $$
+^^ me me towel me Bobby_bear chair $$
 ^^ me towel Bobby_bear chair $$
 ^^ Bobby towel sleep $$
 ^^ mhm $$

@@ -79,6 +79,7 @@
 ^^ all right $$
 ^^ no $$
 ^^ stick $$
+^^ xxx $$
 ^^ train $$
 ^^ train $$
 ^^ train $$
@@ -106,7 +107,7 @@
 ^^ oh dear stick $$
 ^^ oh train $$
 ^^ where be the train go $$
-^^ oh  the train $$
+^^ oh xxx the train $$
 ^^ yeah $$
 ^^ make noise $$
 ^^ make a noise $$
@@ -125,7 +126,7 @@
 ^^ that Daddy $$
 ^^ that Daddy Pingu $$
 ^^ that baby $$
-^^  that Pingu $$
+^^ that that Pingu $$
 ^^ that baby $$
 ^^ hi Daddy $$
 ^^ hi Daddy $$
@@ -144,6 +145,7 @@
 ^^ a man $$
 ^^ there man $$
 ^^ where toy $$
+^^ xxx $$
 ^^ man $$
 ^^ there man $$
 ^^ go on the train $$
@@ -170,7 +172,7 @@
 ^^ brumm $$
 ^^ oh dear stick $$
 ^^ yeah $$
-^^ oh  $$
+^^ oh xxx $$
 ^^ duck $$
 ^^ there duck $$
 ^^ croc $$
@@ -188,7 +190,7 @@
 ^^ no $$
 ^^ no $$
 ^^ a house $$
-^^  no $$
+^^ um no $$
 ^^ no $$
 ^^ that the door $$
 ^^ Mum $$
@@ -215,7 +217,7 @@
 ^^ this one $$
 ^^ yes $$
 ^^ what $$
-^^  the toy $$
+^^ xxx the toy $$
 ^^ oh dear car $$
 ^^ oh $$
 ^^ sit on chair $$
@@ -318,9 +320,11 @@
 ^^ I $$
 ^^ oh $$
 ^^ oh $$
+^^ xxx $$
 ^^ there Carl $$
 ^^ what in there $$
 ^^ mine $$
+^^ xxx $$
 ^^ there house $$
 ^^ what be in there $$
 ^^ open door $$
@@ -370,7 +374,7 @@
 ^^ oh neenaw $$
 ^^ oh dear man $$
 ^^ no $$
-^^ oh crash  $$
+^^ oh crash xxx $$
 ^^ there crash $$
 ^^ want my dodie $$
 ^^ dodie dodie $$
@@ -525,7 +529,7 @@
 ^^ Carl $$
 ^^ Mummy $$
 ^^ Mummy $$
-^^ it  $$
+^^ it xxx $$
 ^^ Mummy $$
 ^^ press $$
 ^^ press $$
@@ -600,6 +604,7 @@
 ^^ yes $$
 ^^ all right $$
 ^^ here car $$
+^^ xxx $$
 ^^ oh stick $$
 ^^ oh stick $$
 ^^ stick $$
@@ -616,7 +621,7 @@
 ^^ broke $$
 ^^ oh car $$
 ^^ there car $$
-^^ the car  in there $$
+^^ the car xxx in there $$
 ^^ where the car $$
 ^^ where the car $$
 ^^ no $$
@@ -628,14 +633,14 @@
 ^^ there car $$
 ^^ brumm $$
 ^^ no $$
-^^ where be  $$
+^^ where be xxx $$
 ^^ where Percy $$
 ^^ in Percy $$
 ^^ all right $$
 ^^ car $$
 ^^ Thomas $$
 ^^ peeppeep Thomas $$
-^^ there the  $$
+^^ there the xxx $$
 ^^ what be that $$
 ^^ there $$
 ^^ what be that $$
@@ -659,7 +664,7 @@
 ^^ yes $$
 ^^ Carl car $$
 ^^ there Percy train $$
-^^ peeppeep  train $$
+^^ peeppeep Th train $$
 ^^ no $$
 ^^ man $$
 ^^ oh dear car $$
@@ -695,7 +700,7 @@
 ^^ Gordon and Thomas $$
 ^^ oh there bridge $$
 ^^ oh there be Thomas $$
-^^  Thomas $$
+^^ Thom Thomas $$
 ^^ there be Clara $$
 ^^ look Mummy $$
 ^^ there drink $$
@@ -721,7 +726,7 @@
 ^^ what happen the juice $$
 ^^ dodie wet $$
 ^^ oh oh $$
-^^ it be a  $$
+^^ it be a xxx $$
 ^^ read Pat $$
 ^^ dodie $$
 ^^ that Jess $$
@@ -732,7 +737,7 @@
 ^^ that be the Pat $$
 ^^ that be Jess $$
 ^^ Pat $$
-^^ do  $$
+^^ do xxx $$
 ^^ Jess the cat $$
 ^^ it nice $$
 ^^ there be Pat hat $$
@@ -761,7 +766,7 @@
 ^^ Edward under bridge $$
 ^^ crash $$
 ^^ look sad $$
-^^  that Henry $$
+^^ that that Henry $$
 ^^ oh under bridge $$
 ^^ oh $$
 ^^ that be the Fat_Controller $$
@@ -776,12 +781,15 @@
 ^^ oh dear $$
 ^^ hat $$
 ^^ Gordon hat $$
+^^ mm $$
+^^ mm $$
 ^^ breakfast $$
 ^^ get Carl $$
 ^^ open the door $$
 ^^ want bread $$
+^^ xxx $$
 ^^ Mummy $$
-^^  want that $$
+^^ want want that $$
 ^^ Daddy $$
 ^^ that Daddy $$
 ^^ Daddy $$
@@ -818,7 +826,8 @@
 ^^ one $$
 ^^ Mummy $$
 ^^ look Mummy Daddy there $$
-^^   that  $$
+^^ that that that xxx $$
+^^ xxx $$
 ^^ one $$
 ^^ this one $$
 ^^ no paper $$
@@ -833,6 +842,7 @@
 ^^ cat face $$
 ^^ that a cat $$
 ^^ cat nose $$
+^^ um $$
 ^^ mieow $$
 ^^ mieow $$
 ^^ draw tractor $$
@@ -854,7 +864,7 @@
 ^^ woofwoof $$
 ^^ woofwoof $$
 ^^ Nana $$
-^^  draw Nana $$
+^^ draw draw Nana $$
 ^^ draw here $$
 ^^ Granddad $$
 ^^ oh dear $$
@@ -889,7 +899,7 @@
 ^^ there $$
 ^^ no $$
 ^^ Granddad $$
-^^ oh dear    Zita $$
+^^ oh dear Zita Zita Zita Zita $$
 ^^ draw cow $$
 ^^ picture $$
 ^^ picture $$
@@ -903,7 +913,7 @@
 ^^ this be cow $$
 ^^ drawing a cow $$
 ^^ yeah $$
-^^ this  $$
+^^ this xxx $$
 ^^ Mummy $$
 ^^ draw there $$
 ^^ paint $$
@@ -926,6 +936,7 @@
 ^^ what be that cow $$
 ^^ look Mummy $$
 ^^ look Mummy $$
+^^ xxx $$
 ^^ do paper $$
 ^^ there $$
 ^^ here be one $$
@@ -957,10 +968,12 @@
 ^^ what you do under there $$
 ^^ no $$
 ^^ over there $$
+^^ xxx $$
 ^^ one $$
 ^^ drop it $$
 ^^ yes $$
 ^^ there eye in there $$
+^^ xxx $$
 ^^ oh $$
 ^^ achoo $$
 ^^ achoo $$
@@ -968,14 +981,17 @@
 ^^ achoo $$
 ^^ no no draw paper $$
 ^^ no Pat $$
+^^ xxx $$
 ^^ there $$
 ^^ over there $$
 ^^ oh where paint $$
+^^ xxx $$
 ^^ paper here $$
 ^^ err $$
 ^^ draw $$
 ^^ table $$
 ^^ red $$
+^^ a $$
 ^^ no $$
 ^^ go outside $$
 ^^ crash $$
@@ -1001,11 +1017,11 @@
 ^^ that $$
 ^^ brumm $$
 ^^ that $$
-^^   chase $$
-^^  chase $$
-^^    chase $$
-^^   chase $$
-^^     chase $$
+^^ chase chase chase $$
+^^ chase chase $$
+^^ chase chase chase chase $$
+^^ chase chase chase $$
+^^ chase chase chase chase chase $$
 ^^ oh $$
 ^^ teddy $$
 ^^ look $$
@@ -1016,6 +1032,7 @@
 ^^ yeah $$
 ^^ teddy crash $$
 ^^ around $$
+^^ eh $$
 ^^ oh $$
 ^^ oh $$
 ^^ in the pram teddy $$
@@ -1025,15 +1042,15 @@
 ^^ ride $$
 ^^ good $$
 ^^ play chase $$
-^^   chase $$
-^^   chase $$
-^^    chase $$
-^^  chase $$
+^^ chase chase chase $$
+^^ chase chase chase $$
+^^ chase chase chase chase $$
+^^ chase chase $$
 ^^ chase $$
-^^  chase $$
-^^  chase $$
-^^  chase $$
-^^   chase $$
+^^ chase chase $$
+^^ chase chase $$
+^^ chase chase $$
+^^ chase chase chase $$
 ^^ chase $$
 ^^ chase Mum $$
 ^^ round $$
@@ -1055,6 +1072,7 @@
 ^^ oh $$
 ^^ brumbrum $$
 ^^ bang $$
+^^ a $$
 ^^ bye $$
 ^^ here dodie $$
 ^^ no my dodie $$
@@ -1127,6 +1145,7 @@
 ^^ oh $$
 ^^ what do the bike $$
 ^^ this Carl bike $$
+^^ xxx $$
 ^^ brumbrum $$
 ^^ brumbrum fast $$
 ^^ this $$
@@ -1145,6 +1164,7 @@
 ^^ what do the tractor $$
 ^^ a dig $$
 ^^ Mummy $$
+^^ xxx $$
 ^^ sweet $$
 ^^ there $$
 ^^ oh $$
@@ -1161,6 +1181,7 @@
 ^^ there $$
 ^^ where be it go $$
 ^^ table $$
+^^ xxx $$
 ^^ I get it $$
 ^^ oh get it $$
 ^^ get it neenaw $$
@@ -1183,17 +1204,20 @@
 ^^ what happen the car $$
 ^^ what happen this one car $$
 ^^ this one $$
+^^ a $$
 ^^ oh $$
 ^^ do $$
 ^^ no $$
 ^^ the hat Mummy $$
 ^^ oh dear $$
+^^ a $$
 ^^ oh dear $$
 ^^ you eat $$
 ^^ all right $$
 ^^ out $$
+^^ mm $$
 ^^ go $$
-^^  oh $$
+^^ a oh $$
 ^^ oh $$
 ^^ brumm $$
 ^^ there be one $$
@@ -1214,19 +1238,21 @@
 ^^ white car $$
 ^^ brumm $$
 ^^ where be the car $$
-^^   that be a one $$
-^^ where the  $$
+^^ that's a that be a one $$
+^^ where the xxx $$
+^^ xxx $$
 ^^ there $$
 ^^ there $$
 ^^ yes $$
 ^^ move this $$
 ^^ there $$
 ^^ good $$
-^^ car  car $$
+^^ car xxx car $$
 ^^ oh the car $$
 ^^ what happen $$
 ^^ here $$
 ^^ what be in here $$
+^^ xxx $$
 ^^ Carl $$
 ^^ Mummy Thomas $$
 ^^ there noise $$
@@ -1282,9 +1308,10 @@
 ^^ hi Daddy $$
 ^^ here brumbrum $$
 ^^ yeah $$
-^^ this be a  car $$
+^^ this be a c car $$
 ^^ this $$
 ^^ dog $$
+^^ xxx $$
 ^^ here dog $$
 ^^ here be a dog $$
 ^^ oh what be in there $$
@@ -1352,6 +1379,7 @@
 ^^ here wash $$
 ^^ there be Toby $$
 ^^ turn around $$
+^^ xxx $$
 ^^ there Thomas there $$
 ^^ choochoo $$
 ^^ wash $$
@@ -1397,13 +1425,13 @@
 ^^ the water $$
 ^^ where be the water drink $$
 ^^ where be the $$
-^^ where be the  $$
-^^ where be the  go $$
-^^ the  go $$
-^^ where be the  go $$
-^^ where the  go $$
-^^ where  go $$
-^^ where  go $$
+^^ where be the xxx $$
+^^ where be the xxx go $$
+^^ the xxx go $$
+^^ where be the xxx go $$
+^^ where the xxx go $$
+^^ where xxx go $$
+^^ where xxx go $$
 ^^ Carl $$
 ^^ yeah $$
 ^^ all right $$
@@ -1424,7 +1452,7 @@
 ^^ eat carrot up $$
 ^^ pig $$
 ^^ whee $$
-^^ duck in  $$
+^^ duck in xxx $$
 ^^ in the water $$
 ^^ no $$
 ^^ the cluck $$
@@ -1484,13 +1512,14 @@
 ^^ go $$
 ^^ sticky hand $$
 ^^ no $$
-^^    ah $$
+^^ ah ah ah ah $$
 ^^ more $$
 ^^ one $$
 ^^ carry $$
 ^^ carry $$
 ^^ yeah $$
 ^^ nice drink milk $$
+^^ um $$
 ^^ draw the paper $$
 ^^ this $$
 ^^ this one $$
@@ -1503,7 +1532,7 @@
 ^^ on there $$
 ^^ on there $$
 ^^ on there $$
-^^  Thomas $$
+^^ um Thomas $$
 ^^ Thomas $$
 ^^ that Carl $$
 ^^ my mouth $$
@@ -1548,13 +1577,13 @@
 ^^ what Carl do $$
 ^^ draw neenaw car $$
 ^^ more paper $$
-^^ oh   neenaw $$
-^^    neenaw $$
+^^ oh nee nee neenaw $$
+^^ nee nee nee neenaw $$
 ^^ this a man $$
 ^^ a man $$
 ^^ he drive the car $$
 ^^ hat on $$
-^^   neenaw $$
+^^ nee nee neenaw $$
 ^^ the back the man $$
 ^^ he wave car $$
 ^^ help $$
@@ -1565,6 +1594,7 @@
 ^^ this way $$
 ^^ this way the neenaw car $$
 ^^ Edward $$
+^^ um um $$
 ^^ what this $$
 ^^ what be this $$
 ^^ it be a bike $$
@@ -1626,6 +1656,7 @@
 ^^ a hat $$
 ^^ a two $$
 ^^ a two one $$
+^^ um um $$
 ^^ pig $$
 ^^ one $$
 ^^ draw $$
@@ -1679,7 +1710,7 @@
 ^^ eight $$
 ^^ where three $$
 ^^ now do three $$
-^^   now do three $$
+^^ now do now do three $$
 ^^ ten three $$
 ^^ that $$
 ^^ that $$
@@ -1713,6 +1744,7 @@
 ^^ the yellow one $$
 ^^ this one $$
 ^^ that one $$
+^^ um $$
 ^^ two $$
 ^^ brumbrum car $$
 ^^ crash $$
@@ -1731,10 +1763,10 @@
 ^^ egg $$
 ^^ baby egg $$
 ^^ egg for the baby $$
-^^  the egg $$
+^^ xxx the egg $$
 ^^ where go to $$
 ^^ there be a egg $$
-^^ there  $$
+^^ there xxx $$
 ^^ what be here $$
 ^^ car $$
 ^^ eat $$
@@ -1829,7 +1861,7 @@
 ^^ shoe on $$
 ^^ oh $$
 ^^ she cry $$
-^^ a  and a biscuit $$
+^^ a xxx and a biscuit $$
 ^^ Mummy $$
 ^^ thank_you Mummy $$
 ^^ it on $$
@@ -1844,18 +1876,21 @@
 ^^ egg for Carl $$
 ^^ egg for Carl $$
 ^^ this for Mummy lady $$
+^^ eh $$
 ^^ there two one two three four $$
+^^ mm $$
 ^^ where biscuit $$
 ^^ some grape $$
 ^^ Mummy you eat Mummy $$
 ^^ thank_you Mummy $$
+^^ mm $$
 ^^ oh $$
 ^^ catch it $$
 ^^ quick $$
 ^^ catch it $$
 ^^ oh $$
 ^^ oh $$
-^^  get away $$
+^^ a get away $$
 ^^ where be shoe go $$
 ^^ where be the shoe go $$
 ^^ in there $$
@@ -1866,21 +1901,24 @@
 ^^ catch $$
 ^^ catch $$
 ^^ and catch $$
-^^   and catch $$
+^^ and and and catch $$
 ^^ catch $$
 ^^ oh $$
 ^^ catch $$
+^^ a $$
 ^^ catch it $$
+^^ xxx $$
 ^^ Pingu $$
 ^^ Pingu $$
 ^^ there giraffe $$
 ^^ tiger $$
-^^  a horse $$
+^^ um a horse $$
 ^^ a fish $$
 ^^ whee $$
 ^^ this be a fish $$
 ^^ go whee $$
 ^^ fish $$
+^^ um $$
 ^^ a bridge $$
 ^^ yeah $$
 ^^ all right $$
@@ -1977,6 +2015,7 @@
 ^^ hippo $$
 ^^ what be in there $$
 ^^ what be in there $$
+^^ um $$
 ^^ a nana $$
 ^^ a nana $$
 ^^ eat nana Carl $$
@@ -1998,15 +2037,16 @@
 ^^ choo $$
 ^^ one choochoo $$
 ^^ choochoo $$
+^^ xxx $$
 ^^ yum yum $$
 ^^ a bridge for Thomas $$
 ^^ where be Thomas go $$
 ^^ oh $$
-^^  find Thomas $$
+^^ a find Thomas $$
 ^^ Thomas train $$
 ^^ what Thomas do $$
 ^^ Thomas do $$
-^^  do  $$
+^^ xxx do xxx $$
 ^^ brumm $$
 ^^ Thomas car $$
 ^^ there the peep the car $$
@@ -2078,7 +2118,7 @@
 ^^ oh play with car $$
 ^^ play with car $$
 ^^ whoops $$
-^^  Nana and Bert $$
+^^ xxx Nana and Bert $$
 ^^ this $$
 ^^ no noise $$
 ^^ it crash $$
@@ -2108,7 +2148,7 @@
 ^^ snake $$
 ^^ a naughty snake $$
 ^^ there tortoise $$
-^^ the tortoise   and a snake $$
+^^ the tortoise and and and a snake $$
 ^^ snake $$
 ^^ he naughty snake $$
 ^^ the tortoise $$
@@ -2116,6 +2156,7 @@
 ^^ brumm $$
 ^^ whoops $$
 ^^ that floor $$
+^^ um $$
 ^^ a car $$
 ^^ a big car $$
 ^^ a naughty $$
@@ -2192,6 +2233,7 @@
 ^^ choo Thomas $$
 ^^ there be a fly Mummy $$
 ^^ go $$
+^^ a $$
 ^^ the fly $$
 ^^ oh $$
 ^^ choochoo $$
@@ -2205,14 +2247,16 @@
 ^^ Clara $$
 ^^ there be peeppeep $$
 ^^ there Thom $$
-^^ Mummy  $$
+^^ Mummy xxx $$
 ^^ there Thomas $$
 ^^ Thomas_Tank $$
+^^ a $$
 ^^ Thomas_Tank $$
 ^^ find Thomas $$
 ^^ find $$
 ^^ find Thomas $$
 ^^ hello Thomas $$
+^^ xxx $$
 ^^ this teddy $$
 ^^ teddy $$
 ^^ happy man $$
@@ -2271,7 +2315,7 @@
 ^^ Daddy $$
 ^^ wake Mummy $$
 ^^ wake $$
-^^  wake $$
+^^ xxx wake $$
 ^^ Daddy $$
 ^^ oh no $$
 ^^ this all_gone $$
@@ -2315,6 +2359,7 @@
 ^^ yes $$
 ^^ there be Daddy egg $$
 ^^ there be Daddy egg $$
+^^ a $$
 ^^ where be it go $$
 ^^ where be it go $$
 ^^ oh catch $$
@@ -2326,7 +2371,7 @@
 ^^ egg sit $$
 ^^ another one $$
 ^^ yes $$
-^^  a one two $$
+^^ a a one two $$
 ^^ another one $$
 ^^ that be a one $$
 ^^ egg in door $$
@@ -2357,13 +2402,14 @@
 ^^ brumm $$
 ^^ the car $$
 ^^ yes $$
-^^  a car $$
+^^ um a car $$
 ^^ yeah $$
 ^^ brumm $$
 ^^ car $$
 ^^ yes please $$
 ^^ yes please $$
 ^^ yes please $$
+^^ um $$
 ^^ yes $$
 ^^ all right $$
 ^^ want a drink $$
@@ -2379,14 +2425,16 @@
 ^^ lion $$
 ^^ a lion $$
 ^^ a lion $$
+^^ xxx $$
 ^^ lion $$
 ^^ thanks $$
 ^^ thanks $$
 ^^ help $$
 ^^ the tail $$
 ^^ and $$
-^^  foot $$
+^^ um foot $$
 ^^ foot $$
+^^ um $$
 ^^ a bear $$
 ^^ a bear $$
 ^^ lion $$
@@ -2403,7 +2451,9 @@
 ^^ lion ear $$
 ^^ lion face $$
 ^^ lion face $$
+^^ um $$
 ^^ that $$
+^^ um $$
 ^^ there be $$
 ^^ there $$
 ^^ no $$
@@ -2447,7 +2497,7 @@
 ^^ shoe on $$
 ^^ doll shoe on $$
 ^^ here $$
-^^  one two $$
+^^ um one two $$
 ^^ the one two $$
 ^^ the one $$
 ^^ other shoe $$
@@ -2465,11 +2515,12 @@
 ^^ what be in there box $$
 ^^ box $$
 ^^ brumm $$
+^^ a $$
 ^^ pajamas on $$
 ^^ another one and two $$
 ^^ another one and two three $$
 ^^ one $$
-^^  that two Daddys $$
+^^ that that two Daddys $$
 ^^ a fish $$
 ^^ a fish $$
 ^^ there you be $$
@@ -2525,6 +2576,7 @@
 ^^ fish $$
 ^^ some fish $$
 ^^ on cat $$
+^^ xxx $$
 ^^ oh $$
 ^^ there my cat $$
 ^^ cat $$
@@ -2536,7 +2588,7 @@
 ^^ not big $$
 ^^ get the car $$
 ^^ the car $$
-^^  a car bridge $$
+^^ um a car bridge $$
 ^^ and a truck car $$
 ^^ under bridge $$
 ^^ the truck $$
@@ -2579,11 +2631,12 @@
 ^^ that be green $$
 ^^ and a blue one $$
 ^^ red one $$
+^^ um $$
 ^^ another there $$
 ^^ there $$
 ^^ on there $$
 ^^ no $$
-^^  no $$
+^^ um no $$
 ^^ no $$
 ^^ no $$
 ^^ no $$
@@ -2597,7 +2650,7 @@
 ^^ that way $$
 ^^ oh $$
 ^^ another man $$
-^^  teddy $$
+^^ um teddy $$
 ^^ where brumbrum car $$
 ^^ where brumbrum car $$
 ^^ what be in there brumbrum car $$
@@ -2620,7 +2673,7 @@
 ^^ and Carl Pingu $$
 ^^ Mummy kiss $$
 ^^ that the Daddy fish $$
-^^ and the Daddy be in the  $$
+^^ and the Daddy be in the xxx $$
 ^^ he crash $$
 ^^ car be come $$
 ^^ car be come $$
@@ -2668,6 +2721,7 @@
 ^^ oh $$
 ^^ Mummy $$
 ^^ do it $$
+^^ um $$
 ^^ find $$
 ^^ whoops $$
 ^^ put on and oh dear $$

@@ -43,6 +43,7 @@
 ^^ I read that story now $$
 ^^ Thomas_the_Tank $$
 ^^ come away $$
+^^ xxx $$
 ^^ yeah $$
 ^^ not $$
 ^^ not roll it $$
@@ -75,15 +76,16 @@
 ^^ make a cat $$
 ^^ make a cat $$
 ^^ make cat $$
-^^  make cat $$
+^^ making make cat $$
+^^ um $$
 ^^ build a house $$
 ^^ yeah $$
 ^^ this one $$
 ^^ no $$
 ^^ play them $$
 ^^ you build house $$
-^^   build house $$
-^^   I  like $$
+^^ build build build house $$
+^^ I like I like like $$
 ^^ I like red one $$
 ^^ yes $$
 ^^ we be make a house Anna $$
@@ -168,6 +170,7 @@
 ^^ Granddad chair $$
 ^^ at the door $$
 ^^ who be at the door $$
+^^ um $$
 ^^ Liz $$
 ^^ who be knock at the door $$
 ^^ Mummy $$
@@ -181,7 +184,7 @@
 ^^ shoo $$
 ^^ shoo $$
 ^^ and cook come down $$
-^^  and Granddad fall down $$
+^^ and and Granddad fall down $$
 ^^ uhoh $$
 ^^ uhoh $$
 ^^ what be happen $$
@@ -224,8 +227,8 @@
 ^^ I want go outside $$
 ^^ I want my card on $$
 ^^ yes $$
-^^  tower $$
-^^   brick go $$
+^^ um tower $$
+^^ um um brick go $$
 ^^ I make the brick go $$
 ^^ make brick go $$
 ^^ this brick go $$
@@ -247,7 +250,7 @@
 ^^ I do do it $$
 ^^ I do do it $$
 ^^ on there $$
-^^ put  this yellow $$
+^^ put these this yellow $$
 ^^ this there $$
 ^^ this there $$
 ^^ here $$
@@ -256,7 +259,7 @@
 ^^ yeah $$
 ^^ like this $$
 ^^ like this $$
-^^ oh  $$
+^^ oh a $$
 ^^ yes it be $$
 ^^ happy_birthday to you $$
 ^^ all fall down $$
@@ -267,9 +270,9 @@
 ^^ oh $$
 ^^ yeah $$
 ^^ chocolate one $$
-^^   I want a blue cake $$
+^^ I want I want a blue cake $$
 ^^ blue cake $$
-^^ it be  in there $$
+^^ it be in in there $$
 ^^ one two three $$
 ^^ yeah $$
 ^^ and we $$
@@ -325,21 +328,21 @@
 ^^ go out $$
 ^^ look $$
 ^^ egg come out $$
-^^ and  I go $$
+^^ and I I go $$
 ^^ mhm $$
 ^^ some nectarine $$
 ^^ and some nectarine $$
 ^^ I want a plum $$
 ^^ that might be plum $$
 ^^ I want a nectarine $$
-^^   I want $$
+^^ I want I want $$
 ^^ this nectarine $$
 ^^ in a bowl $$
 ^^ chicken $$
 ^^ I want this $$
-^^   I want a $$
+^^ I want I want a $$
 ^^ two orange $$
-^^ I throw  those $$
+^^ I throw this those $$
 ^^ throw those $$
 ^^ cake $$
 ^^ I go up $$
@@ -359,7 +362,7 @@
 ^^ what be this $$
 ^^ this be strawberry $$
 ^^ I eat my strawberry $$
-^^   where be   where be ice $$
+^^ where's the where be the where's where be ice $$
 ^^ here it be $$
 ^^ yeah $$
 ^^ I have little bit $$
@@ -382,7 +385,7 @@
 ^^ one two three $$
 ^^ throw $$
 ^^ throw $$
-^^   I want here lid $$
+^^ I want I want here lid $$
 ^^ there $$
 ^^ lid on there $$
 ^^ that way $$
@@ -399,7 +402,7 @@
 ^^ those chicken $$
 ^^ and those strawberry $$
 ^^ and those ice $$
-^^ and my  $$
+^^ and my xxx $$
 ^^ and ice $$
 ^^ no $$
 ^^ and there strawberry $$
@@ -479,7 +482,7 @@
 ^^ oh all up $$
 ^^ one $$
 ^^ I go sit on this chair $$
-^^    I jump up $$
+^^ I jump on I jump up $$
 ^^ one two three four five $$
 ^^ one two three $$
 ^^ one two three $$
@@ -490,7 +493,7 @@
 ^^ not on my head $$
 ^^ not on my head $$
 ^^ not on my head $$
-^^ I do not need on  my head $$
+^^ I do not need on my my head $$
 ^^ I do not need on my head $$
 ^^ Mummy $$
 ^^ Anna be come $$
@@ -500,6 +503,7 @@
 ^^ Anna $$
 ^^ there we be $$
 ^^ byebye $$
+^^ a $$
 ^^ water in there $$
 ^^ want get some water $$
 ^^ get some water $$
@@ -625,12 +629,12 @@
 ^^ other by train $$
 ^^ truck $$
 ^^ they be truck $$
-^^  they be red $$
+^^ they're they be red $$
 ^^ car there $$
 ^^ sand $$
 ^^ by post $$
 ^^ it be by post $$
-^^ it be  by post $$
+^^ it be by by post $$
 ^^ yeah $$
 ^^ it be the post $$
 ^^ I go do rolly $$
@@ -695,13 +699,14 @@
 ^^ yeah $$
 ^^ yeah $$
 ^^ I be go a ride $$
-^^  I be fly away $$
+^^ I'm I be fly away $$
 ^^ yeah $$
 ^^ I stop now $$
 ^^ seesaw $$
 ^^ oh where seesaw now $$
 ^^ where seesaw $$
 ^^ I be sit on it $$
+^^ a $$
 ^^ go stand up $$
 ^^ where the settee $$
 ^^ where be the settee $$
@@ -719,7 +724,7 @@
 ^^ there $$
 ^^ there glass $$
 ^^ yeah $$
-^^  glass of water $$
+^^ drink glass of water $$
 ^^ here you be $$
 ^^ here you be $$
 ^^ glass of water $$
@@ -728,7 +733,7 @@
 ^^ here $$
 ^^ I spill it any more $$
 ^^ yeah $$
-^^ you want  the drink $$
+^^ you want it the drink $$
 ^^ you want some more $$
 ^^ you thirst $$
 ^^ here you be $$
@@ -753,7 +758,7 @@
 ^^ drink for me $$
 ^^ not for you $$
 ^^ three $$
-^^   be it two $$
+^^ is it be it two $$
 ^^ be it three $$
 ^^ be it three $$
 ^^ be it four $$
@@ -789,6 +794,7 @@
 ^^ I put it up $$
 ^^ oh $$
 ^^ tidy Mummy $$
+^^ a $$
 ^^ be it stick $$
 ^^ on the blue one $$
 ^^ yeah $$
@@ -801,7 +807,7 @@
 ^^ it be get a yellow one $$
 ^^ this yellow one on blue one $$
 ^^ there be a yellow one on a red one $$
-^^ this yellow one to the  bottom $$
+^^ this yellow one to the bottom bottom $$
 ^^ there be a red one $$
 ^^ slide on the yellow one $$
 ^^ slide on the yellow $$
@@ -817,7 +823,7 @@
 ^^ I put it $$
 ^^ I just put my toy there $$
 ^^ put my toy there $$
-^^ want put my food   in the mat $$
+^^ want put my food in the in the mat $$
 ^^ I want put my food in my mat $$
 ^^ I put my food $$
 ^^ I put my food in there $$
@@ -837,7 +843,7 @@
 ^^ oh $$
 ^^ I be cook $$
 ^^ oh $$
-^^ all the food  in the cupboard $$
+^^ all the food in in the cupboard $$
 ^^ in the cupboard $$
 ^^ I tidy up $$
 ^^ yeah $$
@@ -845,7 +851,7 @@
 ^^ panda $$
 ^^ panda $$
 ^^ brumm $$
-^^  where be the panda $$
+^^ where's where be the panda $$
 ^^ move a bit panda $$
 ^^ move a bit panda $$
 ^^ move a bit panda $$
@@ -881,7 +887,7 @@
 ^^ move a bit $$
 ^^ put it up $$
 ^^ I want put this one $$
-^^ I want  this one $$
+^^ I want this this one $$
 ^^ this put this $$
 ^^ on my eye $$
 ^^ put look on your eye $$
@@ -911,7 +917,7 @@
 ^^ I comb it there $$
 ^^ I comb it there $$
 ^^ I want the tat out $$
-^^ this tat  $$
+^^ this tat xxx $$
 ^^ look tat $$
 ^^ what be this $$
 ^^ put on my hair $$
@@ -960,7 +966,7 @@
 ^^ sleep $$
 ^^ wake $$
 ^^ want a dress on $$
-^^ put  the dress on now $$
+^^ put the the dress on now $$
 ^^ yeah $$
 ^^ oh $$
 ^^ your do it $$
@@ -997,7 +1003,7 @@
 ^^ yeah $$
 ^^ you ride on the elephant $$
 ^^ get a tail $$
-^^ ride  on $$
+^^ ride on on $$
 ^^ seat $$
 ^^ seat $$
 ^^ I want to sit $$
@@ -1042,10 +1048,10 @@
 ^^ you fit in it $$
 ^^ think yes $$
 ^^ I sit $$
-^^   get me out $$
+^^ get me get me out $$
 ^^ yeah $$
 ^^ I get out $$
-^^  I be go turn round $$
+^^ I'm I be go turn round $$
 ^^ I be dizzy $$
 ^^ I be dizzy $$
 ^^ yeah $$
@@ -1055,7 +1061,7 @@
 ^^ go go go go go $$
 ^^ we in a train now $$
 ^^ yeah $$
-^^  the seaside $$
+^^ um the seaside $$
 ^^ yeah $$
 ^^ yeah $$
 ^^ yeah $$
@@ -1063,7 +1069,7 @@
 ^^ I be stand on my brick $$
 ^^ come $$
 ^^ on your shoulder $$
-^^  on there $$
+^^ on on there $$
 ^^ do it again now $$
 ^^ I do it again $$
 ^^ no on this shoulder $$
@@ -1086,7 +1092,8 @@
 ^^ yeah $$
 ^^ get those out $$
 ^^ oh $$
-^^ out  in there $$
+^^ out in in there $$
+^^ xxx $$
 ^^ and there be a ice $$
 ^^ I eat it $$
 ^^ it be a little one $$
@@ -1114,7 +1121,7 @@
 ^^ what be this $$
 ^^ there be strawberry $$
 ^^ where be orange $$
-^^   where be my orange $$
+^^ where's my where be my orange $$
 ^^ where be my orange $$
 ^^ it be under $$
 ^^ oh tomato $$
@@ -1125,15 +1132,15 @@
 ^^ I take the skin off there $$
 ^^ put them in there $$
 ^^ yeah $$
-^^   everything in my bag $$
+^^ um everything's everything in my bag $$
 ^^ everything in my bag $$
 ^^ everything in my bag $$
 ^^ strawberry in my bag $$
 ^^ in my $$
 ^^ what be those $$
-^^ where be my  lemon $$
+^^ where be my l lemon $$
 ^^ where be my pepper $$
-^^  there be my cake $$
+^^ where there be my cake $$
 ^^ sticky cake $$
 ^^ there be my cake $$
 ^^ cake $$
@@ -1154,7 +1161,7 @@
 ^^ and again $$
 ^^ and again $$
 ^^ no $$
-^^  white egg $$
+^^ I white egg $$
 ^^ what be this $$
 ^^ no it be not pear $$
 ^^ it be a bot $$
@@ -1261,6 +1268,7 @@
 ^^ I get some more $$
 ^^ I have some $$
 ^^ yeah $$
+^^ xxx $$
 ^^ on the couch $$
 ^^ no $$
 ^^ where be it go $$
@@ -1268,6 +1276,7 @@
 ^^ yeah $$
 ^^ oh dear $$
 ^^ mine $$
+^^ xxx $$
 ^^ baby be $$
 ^^ it be cry $$
 ^^ yeah $$
@@ -1297,6 +1306,7 @@
 ^^ look $$
 ^^ look $$
 ^^ duck $$
+^^ xxx $$
 ^^ on the table $$
 ^^ up $$
 ^^ up on the paper $$
@@ -1373,8 +1383,8 @@
 ^^ there be a biscuit $$
 ^^ there be a biscuit $$
 ^^ there be a biscuit $$
-^^ it be  $$
-^^   do it work $$
+^^ it be xxx $$
+^^ is it do it work $$
 ^^ I be fix it $$
 ^^ I want it in $$
 ^^ I do it $$
@@ -1402,6 +1412,7 @@
 ^^ get down $$
 ^^ get down $$
 ^^ I need my welly off $$
+^^ xxx $$
 ^^ do picture $$
 ^^ let do a picture $$
 ^^ come on $$
@@ -1451,6 +1462,7 @@
 ^^ you draw a teddy $$
 ^^ you draw it $$
 ^^ you draw a teddy there $$
+^^ xxx $$
 ^^ just there $$
 ^^ teddy there $$
 ^^ teddy there $$
@@ -1504,7 +1516,8 @@
 ^^ and this one $$
 ^^ this one $$
 ^^ this $$
-^^   teddy $$
+^^ xxx $$
+^^ um um teddy $$
 ^^ there be a teddy there $$
 ^^ there $$
 ^^ there $$
@@ -1536,7 +1549,7 @@
 ^^ where $$
 ^^ where $$
 ^^ where be it go $$
-^^   there be a butter $$
+^^ there's a there be a butter $$
 ^^ and a sea $$
 ^^ I want pot $$
 ^^ I do a wee $$
@@ -1546,7 +1559,7 @@
 ^^ ice $$
 ^^ where $$
 ^^ there $$
-^^  there be a bottle $$
+^^ there's there be a bottle $$
 ^^ oh $$
 ^^ that $$
 ^^ I need my milk that $$
@@ -1602,7 +1615,7 @@
 ^^ go shop get a nana $$
 ^^ I get nana for Mummy $$
 ^^ I get a nana $$
-^^ I get a  $$
+^^ I get a xxx $$
 ^^ yeah $$
 ^^ all my shop $$
 ^^ I get some brick my shop $$
@@ -1615,11 +1628,12 @@
 ^^ put them on there $$
 ^^ put them $$
 ^^ put them there $$
-^^ on the  $$
+^^ on the xxx $$
 ^^ this be a big one $$
 ^^ this be $$
 ^^ this be a little one $$
 ^^ and a big one $$
+^^ xxx $$
 ^^ I want my bib on $$
 ^^ I need my bib on $$
 ^^ yeah $$
@@ -1655,6 +1669,7 @@
 ^^ yeah $$
 ^^ do it go up $$
 ^^ the toy $$
+^^ xxx $$
 ^^ one to you be $$
 ^^ and one to you be $$
 ^^ one to you be $$
@@ -1663,7 +1678,7 @@
 ^^ and one to you be $$
 ^^ and one to me be $$
 ^^ put them away now $$
-^^   put them away $$
+^^ put them put them away $$
 ^^ where do the red one go $$
 ^^ red $$
 ^^ yeah $$
@@ -1686,6 +1701,8 @@
 ^^ it the yellow $$
 ^^ I get the blue one $$
 ^^ get the $$
+^^ xxx $$
+^^ xxx $$
 ^^ I get all of them now $$
 ^^ I get all them $$
 ^^ the brick $$
@@ -1768,6 +1785,7 @@
 ^^ seat $$
 ^^ seat $$
 ^^ go upstairs $$
+^^ xxx $$
 ^^ Mummy hair $$
 ^^ for my hair $$
 ^^ where be the pan go $$
@@ -1789,7 +1807,7 @@
 ^^ I get it $$
 ^^ where be the glass go $$
 ^^ where $$
-^^ I get a  $$
+^^ I get a xxx $$
 ^^ I bump my toe $$
 ^^ this one $$
 ^^ that $$
@@ -1826,6 +1844,7 @@
 ^^ where be me $$
 ^^ yeah $$
 ^^ where be me $$
+^^ xxx $$
 ^^ where be my thumb now $$
 ^^ where be my thumb $$
 ^^ where be my thumb now $$
