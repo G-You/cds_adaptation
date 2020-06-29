@@ -45,6 +45,12 @@ def get_degree(graph):
 	else:
 		return 0.0
 
+def get_largest_subgraph(graph):
+
+	Gcc = sorted(nx.connected_components(graph), key=len, reverse=True)
+	largest_G = graph.subgraph(Gcc[0])
+	return largest_G
+
 
 def get_filenames(out_root):
 	fileids = []
@@ -70,7 +76,10 @@ def get_measure(file_list):
 		G = form_graph(edges)
 		G = clean_nodes(G)
 
-		measures[filename] = get_degree(G)
+		largest_G = get_largest_subgraph(G)
+		measures[filename] = largest_G.number_of_nodes()
+
+		#measures[filename] = get_degree(largest_G)
 
 	return measures
 

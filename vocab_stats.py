@@ -9,7 +9,7 @@ def get_filenames(out_root):
 			fileids.append(os.path.join(root, filename))
 	return (sorted(fileids))
 
-def get_args()
+def get_args():
 	parser = argparse.ArgumentParser()
 	parser.add_argument("--reg", default="cds", type=str, help="speech register")
 	parser.add_argument("--merge_size", 
