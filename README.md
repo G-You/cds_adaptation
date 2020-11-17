@@ -278,10 +278,13 @@ Maxiamlly enriching the data for _Word2Vec_ while preserving enough data points 
 #### Further control for vocabulary
 A fixed ratio? It makes sense now since vocabulary is not always increasing, and the difference is lower, downplaying the role of difference in such an extreme manner makes sense now. TRADEOFF!
 
-## Merge sessions and measure vocabulary size
-<pre><code>python3 vocab_stats.py</code></pre>
 
-####Arguments
+## Merge sessions and measure vocabulary size
+<pre><code>rm merged-cds/*.txt
+rm merged-child/*.txt
+python3 vocab_stats.py</code></pre>
+
+Arguments\
 --reg
 --merge_size
 --min_count
@@ -289,12 +292,117 @@ A fixed ratio? It makes sense now since vocabulary is not always increasing, and
 ## Training
 <pre><code>PYTHONHASHSEED=1 python3 training.py</code></pre>
 
-####Argument
+Argument\
 --reg:	"child" or "cds"
 
 ## Measure
 <pre><code>python3 betweenness.py</code></pre>
 
-####Argument
+####Argument\
 --reg:	"child" or "cds"
 
+
+## Trials
+
+Merge_size = 3 and 5, not bad\
+
+Play around two parameters:\
+1. merge_size
+2. vocab ratio n (log2,e, linear, least cosine etc.)
+
+Consider following metrics:
+1. difference caus-random
+2. percentile caus to random
+3. ratio caus to random (not quite feasible)
+4. random baseline as a invariant standard across models?
+
+What to expect:
+1. caus>random in both genres (caus is heard and learned)
+2. some metric that measures the relation of caus to random and thus shows causative learning in both genres, ruling out the influence by vocabulary increase (this should in principle affect random baseline too, thus under control), potentially yielding the effects:
+	2.1		dynamics of such a metric in each genre
+			(maybe: how caus and random change in themselves?)
+	2.2		adaptation between genres (segmented regression, break points)
+
+Now that we have the baseline control, the vocab ratio control probably doesn't have to be too extreme, otherwise we alllow easy networking in small windows. Maybe we need ratio to baseline instead of difference?
+
+## Settings 02/06
+
+merge_size 3 (4 session merged per time)\
+measure: number of nodes in the largest connected graph, this is to keep cds above cs and not compromise the vocabulary development, not to give too much freedom to cs\
+n most similar words: vocab_size/100\
+
+**What do we check?**\
+metric: Above baseline difference of largest connected graph nodes, normalized by caus_counter (how many causatives are found in each causal network) \
+we examine: development of cds and cs separately, to see break point(s)\
+and the difference of this performance over time: is age a factor? break points?
+
+## UPDATE 04/06
+
+merge_size has to be 2 to make sure that we have enough points for later time-series analysis (regression)\
+
+the vocab ratio and metric do not change\
+**We also check**\
+break point analysis, BMA weighting as the criterion for best fit (with breaks)\
+two break points are assumed
+trying out a verb random baseline
+
+## UPDATE 15/06
+
+merge_size 2 is maybe uninformative: info is too much similar (two same sessions, one different)\
+merge_size 1 adopted now\
+Before removing "Ruth":\
+1. cds has two break points, 30 and 32, trend is not significant for age, but an interesting dip is shown between 30 and 32, near significant. CDS adapts?
+2. cs prefers a full model, no break point, trend near significant, upwards
+3. difference between cds and cs shows the same break points as cds, where it significantly decreases between 30 and 32, i.e. child is closer to cds during this period
+
+What can be concluded?\
+child speech increases, cds at some point starts to show reduced causative complexity.
+
+## Awesome update 17/06
+
+Settings:
+1. 1000 random samples, median taken (distribution is skewed)
+2. largest connected graph (most nodes), measure the number of edges, indicating the connectivity
+3. fixed vocab ratio down to 50, since too strict a ratio would obtain very limited graph complexity (more ratios can be tested). Especially, when this ratio is too high, cds performs even below child, which doesn't make sense. We allow space for larger vocabulary to reach a bit further for their similar terms.
+4. normalization by number of available caus still stands
+
+## UPDATE 18/06
+
+1000 or 5000 random samples - no difference\
+We need to model random!
+
+## Now the model selection issue 19/06
+
+1. Piironen et al. (2016) shows the issue of selection induced bias, which concerns cases with a large number of candidate models in model selection (simply put, it is an issue of increasing variance from the unbiased estimate of individual models in LOO-CV. Bayesian model averaging solution is given here, i.e. loo_compare might not be reliable)
+2. pseudobma+ in our study yields a much clearer result, but stacking is favored by Yao et al. (2018). But they also do not recommend using stacking as a selection utility, though the 0-weight models can be ignored. But Harrison et al. (2019) use it for model selection.
+3. Similarly, Höge et al. (2020) illustrate that only stacking serves for model combination. "The other approaches pursue the quest of finding a single best model as the ultimate goal, and use model averaging only as a preliminary stage to prevent rash model choice." We should be safe to go with BMA.
+
+In Harrison et al. (2019), the BMA mothed is seen as selecting "true" model from the candidate models, whereas stacking works in the M open setting. See their supplementary materials 1. 
+
+Piironen, J., Vehtari, A.: Comparison of Bayesian predictive methods for model selection. \
+Höge, M., Guthke, A., & Nowak, W. (2020). Bayesian Model Weighting: The Many Faces of Model Averaging. Water, 12(2), 309.\
+Harrison, J. U., Parton, R. M., Davis, I., & Baker, R. E. (2019). Testing models of mRNA localization reveals robustness regulated by reducing transport between cells. Biophysical Journal, 117(11), 2154-2165.\
+
+More on the question of model interpretation:\
+There is a package in R in favor of 89% interval (as first given in rethinking book), as well as the Support interval that shows how observed data supports the transformation from prior to posterior. Check this https://www.springer.com/journal/10670/aims-and-scope
+
+## 23/06
+The book "Statistical Intervals: A Guide for Practitioners and Researchers" by Meeker et al. mentions the one-sided bound interval (pp. 318,346). 
+
+
+## revised breakpoint function
+
+to ensure that knots connect all segments, breakpoint functions need no platforms and should instead be simply dummy variables with two stages for each. The interpretation is done by adding the slopes.
+
+## why not average edges
+
+this does not show how nodes are aggregated: if nodes scatter, but connected in small groups, it outperforms a graph that has a largely connected component, while some nodes are lonely nodes. The latter is prefered in our analysis, as more caus are bridged in a more representative cluster. (maybe more reasons; may run for clues)
+
+A note on fitted and predict in marginal effect:
+fitted: only one set of parameters, namely the estimates of each par
+predict: use pars in every simulation (say, normally 4000) to plot.
+
+
+## 28/09
+
+report the stacking (instead of BMA) in SM between THE model, non model, and full model (proven safe)

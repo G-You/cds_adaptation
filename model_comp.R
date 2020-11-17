@@ -198,6 +198,24 @@ model.cds.30.32 = brm( diff ~ b1(age, 30)+
                  seed = 1,
                  iter = 4000,
                  control = list(adapt_delta = 0.99999))
+
+# sensetivity on intercept prior
+
+model.cds.30.32.alpha = brm( diff ~ b1(age, 30)+
+                         b2(age, 30, 32) +
+                         b3(age, 32) +
+                         (1 + b1(age, 30) + b2(age, 30, 32)+
+                            b3(age, 32)| name),
+                       data = cds.results,
+                       prior = c(
+                         prior(student_t(5, 0, 3), class= b),
+                         prior(student_t(5, 0, 3), class= Intercept)),
+                       cores = 4,
+                       seed = 1,
+                       iter = 4000,
+                       control = list(adapt_delta = 0.99999))
+
+
 model.cds.29.32 = brm( diff ~ b1(age, 29)+
                          b2(age, 29, 32) +
                          b3(age, 32) +

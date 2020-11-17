@@ -1,0 +1,1 @@
+pdfcrop --margins "3 3 3 3" $1 "cropped"_$1
