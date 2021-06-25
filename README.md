@@ -10,4 +10,4 @@ Please see parse.sh for the commands that execute the scripts
 
 ## Statistical analysis
 
-The 
+Check out the script Bayesian.R
