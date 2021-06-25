@@ -1,5 +1,13 @@
 # Paper2: adaptation between child-directed and child speech
 
-## First note
-The CHILDES reader is revised for extracting the speech\
-Check the local code file. Revised part marked as "This is where I start to play"
+## Data
+
+Data are already prepared in sub-directories
+
+## Word2vec training and network building
+
+Please see parse.sh for the commands that execute the scripts
+
+## Statistical analysis
+
+The 
